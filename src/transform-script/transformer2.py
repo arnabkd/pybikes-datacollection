@@ -110,6 +110,9 @@ def sanitize_rack_capacities(src_dir, files_list, racks, invalid_racks):
   fo.write(json_content)
   fo.close()
 
+
+
+
 ##############################################################################################################
 ################## Transform script ##########################################################################
 ##############################################################################################################
@@ -127,20 +130,37 @@ if not os.path.exists(target_dir):
   os.mkdir(target_dir)
   print "Directory created successfully" if  os.path.exists(target_dir) else "Could not create directory"
 
+racks = {}
+processed_files = {}
 
-invalid_racks, racks = get_rack_data(src_dir + "racks.txt")
-if len(invalid_racks) > 0:
-  sanitize_rack_capacities(src_dir, files, racks, invalid_racks)
+#If there is no racks-dict.json file, create one from the racks.txt file, and sanitize all stations
+if not os.path.exists(src_dir+"racks_dict.json"):
+  print "There is no racks-dict.json file, create one from the racks.txt file, and sanitize all stations"
+  invalid_racks, racks = get_rack_data(src_dir + "racks.txt")
+  if len(invalid_racks) > 0:
+    sanitize_rack_capacities(src_dir, files, racks, invalid_racks)
+else:
+  print "Racks information file found"
+  content = get_file_content(src_dir + "racks_dict.json")
+  racks = json.loads(content)
+  
+processed_files_jsonfile = src_dir + "processed_files.json"
+if not os.path.exists(processed_files_jsonfile):
+  processed_files = {"done": []}
+else:
+  processed_files = json.loads(get_file_content(processed_files_jsonfile))
 
-for id in racks.keys():
-  print racks[id]
-
-"""
 i = 0
 for old_style_file in files:
-  old_content = get_file_lines(old_style_file)
-  transform(old_content, target_dir, racks)
-  i += 1
-  print "transformed %s files"%(i)
-  
-"""
+  if old_style_file not in processed_files['done']:
+    old_content = get_file_lines(old_style_file)
+    transform(old_content, target_dir, racks)
+    i += 1
+    print "Transformed file %s"%(old_style_file)
+    processed_files['done'].append(old_style_file)
+
+#Write the processed files list
+fo =  open(processed_files_jsonfile, "w")
+fo.write(json.dumps(processed_files, indent=4, sort_keys=True))
+fo.close()
+
