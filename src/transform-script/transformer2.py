@@ -82,7 +82,7 @@ def get_rack_data(rack_data_file):
     rack_dict = {}
     rack_dict ['id'] = rack.number
     rack_dict ['description'] = rack.description
-    rack_dict ['latitide'] = rack.latitude
+    rack_dict ['latitude'] = rack.latitude
     rack_dict ['longitude'] = rack.longitude
     rack_dict ['capacity'] = rack.bikes + rack.locks
     
