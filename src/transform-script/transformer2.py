@@ -127,7 +127,7 @@ def sanitize_rack_capacities(src_dir, files_list, racks, invalid_racks):
 ########################################################################
 
 #Scan for files in this directory
-src_dir = "../../2013-2014-Oslo/bikes3/"
+src_dir = "../../2013-2014-Oslo/bikes2/"
 files = glob.glob(src_dir + "20*")
 #print "%s files found in %s, that contain oslobysykkel data"%(len(files), src_dir)
 
