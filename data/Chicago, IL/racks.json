@@ -1,0 +1,2402 @@
+{
+    "0": {
+        "altitude": 179.7014770507812, 
+        "capacity": 19, 
+        "id": 0, 
+        "latitude": 41.8739580629, 
+        "location_key": "41.8739580629,-87.6277394859", 
+        "longitude": -87.6277394859
+    }, 
+    "1": {
+        "altitude": 182.3150024414062, 
+        "capacity": 17, 
+        "id": 1, 
+        "latitude": 41.93250008, 
+        "location_key": "41.93250008,-87.65268082", 
+        "longitude": -87.65268082
+    }, 
+    "2": {
+        "altitude": 182.1154937744141, 
+        "capacity": 15, 
+        "id": 2, 
+        "latitude": 41.858086, 
+        "location_key": "41.858086,-87.651073", 
+        "longitude": -87.651073
+    }, 
+    "3": {
+        "altitude": 182.6396942138672, 
+        "capacity": 15, 
+        "id": 3, 
+        "latitude": 41.8581806068, 
+        "location_key": "41.8581806068,-87.6564866473", 
+        "longitude": -87.6564866473
+    }, 
+    "4": {
+        "altitude": 181.8528137207031, 
+        "capacity": 8, 
+        "id": 4, 
+        "latitude": 41.910329, 
+        "location_key": "41.910329,-87.672516", 
+        "longitude": -87.672516
+    }, 
+    "5": {
+        "altitude": 181.3150024414062, 
+        "capacity": 14, 
+        "id": 5, 
+        "latitude": 41.90332, 
+        "location_key": "41.90332,-87.67273", 
+        "longitude": -87.67273
+    }, 
+    "6": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 6, 
+        "latitude": 41.869417, 
+        "location_key": "41.869417,-87.660996", 
+        "longitude": -87.660996
+    }, 
+    "7": {
+        "altitude": 178.6051940917969, 
+        "capacity": 15, 
+        "id": 7, 
+        "latitude": 41.90959193, 
+        "location_key": "41.90959193,-87.65349723", 
+        "longitude": -87.65349723
+    }, 
+    "8": {
+        "altitude": 180.2207641601562, 
+        "capacity": 14, 
+        "id": 8, 
+        "latitude": 41.87772613, 
+        "location_key": "41.87772613,-87.65478743", 
+        "longitude": -87.65478743
+    }, 
+    "9": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 9, 
+        "latitude": 41.8694821, 
+        "location_key": "41.8694821,-87.6554864", 
+        "longitude": -87.6554864
+    }, 
+    "10": {
+        "altitude": 179.611083984375, 
+        "capacity": 15, 
+        "id": 10, 
+        "latitude": 41.902924, 
+        "location_key": "41.902924,-87.637715", 
+        "longitude": -87.637715
+    }, 
+    "11": {
+        "altitude": 179.779296875, 
+        "capacity": 15, 
+        "id": 11, 
+        "latitude": 41.89186, 
+        "location_key": "41.89186,-87.62062", 
+        "longitude": -87.62062
+    }, 
+    "12": {
+        "altitude": 179.5054779052734, 
+        "capacity": 22, 
+        "id": 12, 
+        "latitude": 41.89766, 
+        "location_key": "41.89766,-87.62351", 
+        "longitude": -87.62351
+    }, 
+    "13": {
+        "altitude": 179.8843078613281, 
+        "capacity": 31, 
+        "id": 13, 
+        "latitude": 41.89102, 
+        "location_key": "41.89102,-87.6173", 
+        "longitude": -87.6173
+    }, 
+    "14": {
+        "altitude": 181.0287017822266, 
+        "capacity": 18, 
+        "id": 14, 
+        "latitude": 41.91021, 
+        "location_key": "41.91021,-87.6435", 
+        "longitude": -87.6435
+    }, 
+    "15": {
+        "altitude": 181.1870269775391, 
+        "capacity": 15, 
+        "id": 15, 
+        "latitude": 41.91468, 
+        "location_key": "41.91468,-87.64332", 
+        "longitude": -87.64332
+    }, 
+    "16": {
+        "altitude": 179.9818878173828, 
+        "capacity": 15, 
+        "id": 16, 
+        "latitude": 41.90068, 
+        "location_key": "41.90068,-87.6626", 
+        "longitude": -87.6626
+    }, 
+    "17": {
+        "altitude": 181.1538391113281, 
+        "capacity": 14, 
+        "id": 17, 
+        "latitude": 41.899643, 
+        "location_key": "41.899643,-87.6677", 
+        "longitude": -87.6677
+    }, 
+    "18": {
+        "altitude": 178.6017456054688, 
+        "capacity": 23, 
+        "id": 18, 
+        "latitude": 41.89680204, 
+        "location_key": "41.89680204,-87.63563839", 
+        "longitude": -87.63563839
+    }, 
+    "19": {
+        "altitude": 179.9828948974609, 
+        "capacity": 19, 
+        "id": 19, 
+        "latitude": 41.87464, 
+        "location_key": "41.87464,-87.65703", 
+        "longitude": -87.65703
+    }, 
+    "20": {
+        "altitude": 181.3647155761719, 
+        "capacity": 26, 
+        "id": 20, 
+        "latitude": 41.877181, 
+        "location_key": "41.877181,-87.627844", 
+        "longitude": -87.627844
+    }, 
+    "21": {
+        "altitude": 179.7646331787109, 
+        "capacity": 14, 
+        "id": 21, 
+        "latitude": 41.9267559875, 
+        "location_key": "41.9267559875,-87.6344287848", 
+        "longitude": -87.6344287848
+    }, 
+    "22": {
+        "altitude": 179.9610900878906, 
+        "capacity": 39, 
+        "id": 22, 
+        "latitude": 41.891071, 
+        "location_key": "41.891071,-87.6122", 
+        "longitude": -87.6122
+    }, 
+    "23": {
+        "altitude": 181.2931060791016, 
+        "capacity": 31, 
+        "id": 23, 
+        "latitude": 41.8777079559, 
+        "location_key": "41.8777079559,-87.6353211408", 
+        "longitude": -87.6353211408
+    }, 
+    "24": {
+        "altitude": 181.3854675292969, 
+        "capacity": 19, 
+        "id": 24, 
+        "latitude": 41.8793563587, 
+        "location_key": "41.8793563587,-87.6297910363", 
+        "longitude": -87.6297910363
+    }, 
+    "25": {
+        "altitude": 182.0391082763672, 
+        "capacity": 15, 
+        "id": 25, 
+        "latitude": 41.8532387578, 
+        "location_key": "41.8532387578,-87.6253370902", 
+        "longitude": -87.6253370902
+    }, 
+    "26": {
+        "altitude": 180.6194915771484, 
+        "capacity": 43, 
+        "id": 26, 
+        "latitude": 41.8838927658, 
+        "location_key": "41.8838927658,-87.6246491409", 
+        "longitude": -87.6246491409
+    }, 
+    "27": {
+        "altitude": 181.3464202880859, 
+        "capacity": 27, 
+        "id": 27, 
+        "latitude": 41.8847302006, 
+        "location_key": "41.8847302006,-87.6277335692", 
+        "longitude": -87.6277335692
+    }, 
+    "28": {
+        "altitude": 180.3687286376953, 
+        "capacity": 15, 
+        "id": 28, 
+        "latitude": 41.876065599, 
+        "location_key": "41.876065599,-87.6244333636", 
+        "longitude": -87.6244333636
+    }, 
+    "29": {
+        "altitude": 179.4380798339844, 
+        "capacity": 19, 
+        "id": 29, 
+        "latitude": 41.89993001, 
+        "location_key": "41.89993001,-87.63443007", 
+        "longitude": -87.63443007
+    }, 
+    "30": {
+        "altitude": 179.8805541992188, 
+        "capacity": 19, 
+        "id": 30, 
+        "latitude": 41.88918, 
+        "location_key": "41.88918,-87.6277", 
+        "longitude": -87.6277
+    }, 
+    "31": {
+        "altitude": 177.0154571533203, 
+        "capacity": 26, 
+        "id": 31, 
+        "latitude": 41.897764, 
+        "location_key": "41.897764,-87.642884", 
+        "longitude": -87.642884
+    }, 
+    "32": {
+        "altitude": 181.5261383056641, 
+        "capacity": 23, 
+        "id": 32, 
+        "latitude": 41.881319815, 
+        "location_key": "41.881319815,-87.6295209193", 
+        "longitude": -87.6295209193
+    }, 
+    "33": {
+        "altitude": 180.4208679199219, 
+        "capacity": 26, 
+        "id": 33, 
+        "latitude": 41.8759326655, 
+        "location_key": "41.8759326655,-87.6305845355", 
+        "longitude": -87.6305845355
+    }, 
+    "34": {
+        "altitude": 181.7185821533203, 
+        "capacity": 31, 
+        "id": 34, 
+        "latitude": 41.884576228, 
+        "location_key": "41.884576228,-87.63188991", 
+        "longitude": -87.63188991
+    }, 
+    "35": {
+        "altitude": 178.2758178710938, 
+        "capacity": 31, 
+        "id": 35, 
+        "latitude": 41.886024, 
+        "location_key": "41.886024,-87.624117", 
+        "longitude": -87.624117
+    }, 
+    "36": {
+        "altitude": 178.8162689208984, 
+        "capacity": 19, 
+        "id": 36, 
+        "latitude": 41.893832, 
+        "location_key": "41.893832,-87.634195", 
+        "longitude": -87.634195
+    }, 
+    "37": {
+        "altitude": 180.7787170410156, 
+        "capacity": 19, 
+        "id": 37, 
+        "latitude": 41.896362458, 
+        "location_key": "41.896362458,-87.6540612729", 
+        "longitude": -87.6540612729
+    }, 
+    "38": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 38, 
+        "latitude": 41.865861, 
+        "location_key": "41.865861,-87.646611", 
+        "longitude": -87.646611
+    }, 
+    "39": {
+        "altitude": 181.4246215820312, 
+        "capacity": 18, 
+        "id": 39, 
+        "latitude": 41.888716036, 
+        "location_key": "41.888716036,-87.6444478533", 
+        "longitude": -87.6444478533
+    }, 
+    "40": {
+        "altitude": 182.438720703125, 
+        "capacity": 15, 
+        "id": 40, 
+        "latitude": 41.8671177825, 
+        "location_key": "41.8671177825,-87.6410879593", 
+        "longitude": -87.6410879593
+    }, 
+    "41": {
+        "altitude": 181.3273010253906, 
+        "capacity": 16, 
+        "id": 41, 
+        "latitude": 41.916017, 
+        "location_key": "41.916017,-87.668879", 
+        "longitude": -87.668879
+    }, 
+    "42": {
+        "altitude": 180.1156311035156, 
+        "capacity": 19, 
+        "id": 42, 
+        "latitude": 41.8671729952, 
+        "location_key": "41.8671729952,-87.6259550069", 
+        "longitude": -87.6259550069
+    }, 
+    "43": {
+        "altitude": 180.1466522216797, 
+        "capacity": 18, 
+        "id": 43, 
+        "latitude": 41.9105780349, 
+        "location_key": "41.9105780349,-87.6494219288", 
+        "longitude": -87.6494219288
+    }, 
+    "44": {
+        "altitude": 181.501708984375, 
+        "capacity": 14, 
+        "id": 44, 
+        "latitude": 41.907655, 
+        "location_key": "41.907655,-87.672552", 
+        "longitude": -87.672552
+    }, 
+    "45": {
+        "altitude": 181.3030853271484, 
+        "capacity": 26, 
+        "id": 45, 
+        "latitude": 41.8513751729, 
+        "location_key": "41.8513751729,-87.6188346489", 
+        "longitude": -87.6188346489
+    }, 
+    "46": {
+        "altitude": 182.3099060058594, 
+        "capacity": 19, 
+        "id": 46, 
+        "latitude": 41.8858327415, 
+        "location_key": "41.8858327415,-87.6413823149", 
+        "longitude": -87.6413823149
+    }, 
+    "47": {
+        "altitude": 181.7180480957031, 
+        "capacity": 15, 
+        "id": 47, 
+        "latitude": 41.9256018819, 
+        "location_key": "41.9256018819,-87.6537080423", 
+        "longitude": -87.6537080423
+    }, 
+    "48": {
+        "altitude": 178.8717803955078, 
+        "capacity": 22, 
+        "id": 48, 
+        "latitude": 41.875885, 
+        "location_key": "41.875885,-87.640795", 
+        "longitude": -87.640795
+    }, 
+    "49": {
+        "altitude": 181.4149932861328, 
+        "capacity": 19, 
+        "id": 49, 
+        "latitude": 41.9093960065, 
+        "location_key": "41.9093960065,-87.6776919292", 
+        "longitude": -87.6776919292
+    }, 
+    "50": {
+        "altitude": 180.4044799804688, 
+        "capacity": 15, 
+        "id": 50, 
+        "latitude": 41.8854833079, 
+        "location_key": "41.8854833079,-87.6523048564", 
+        "longitude": -87.6523048564
+    }, 
+    "51": {
+        "altitude": 182.7138366699219, 
+        "capacity": 14, 
+        "id": 51, 
+        "latitude": 41.8601213774, 
+        "location_key": "41.8601213774,-87.6277291853", 
+        "longitude": -87.6277291853
+    }, 
+    "52": {
+        "altitude": 179.9284973144531, 
+        "capacity": 19, 
+        "id": 52, 
+        "latitude": 41.880422, 
+        "location_key": "41.880422,-87.642746", 
+        "longitude": -87.642746
+    }, 
+    "53": {
+        "altitude": 176.915771484375, 
+        "capacity": 23, 
+        "id": 53, 
+        "latitude": 41.89384315, 
+        "location_key": "41.89384315,-87.64185116", 
+        "longitude": -87.64185116
+    }, 
+    "54": {
+        "altitude": 181.2146148681641, 
+        "capacity": 22, 
+        "id": 54, 
+        "latitude": 41.877988, 
+        "location_key": "41.877988,-87.640769", 
+        "longitude": -87.640769
+    }, 
+    "55": {
+        "altitude": 176.8317108154297, 
+        "capacity": 35, 
+        "id": 55, 
+        "latitude": 41.880958, 
+        "location_key": "41.880958,-87.616743", 
+        "longitude": -87.616743
+    }, 
+    "56": {
+        "altitude": 181.0854034423828, 
+        "capacity": 23, 
+        "id": 56, 
+        "latitude": 41.8815824, 
+        "location_key": "41.8815824,-87.64127743", 
+        "longitude": -87.64127743
+    }, 
+    "57": {
+        "altitude": 180.6116790771484, 
+        "capacity": 17, 
+        "id": 57, 
+        "latitude": 41.881487, 
+        "location_key": "41.881487,-87.654752", 
+        "longitude": -87.654752
+    }, 
+    "58": {
+        "altitude": 181.2149963378906, 
+        "capacity": 39, 
+        "id": 58, 
+        "latitude": 41.884163, 
+        "location_key": "41.884163,-87.629635", 
+        "longitude": -87.629635
+    }, 
+    "59": {
+        "altitude": 178.5424346923828, 
+        "capacity": 19, 
+        "id": 59, 
+        "latitude": 41.891733, 
+        "location_key": "41.891733,-87.648727", 
+        "longitude": -87.648727
+    }, 
+    "60": {
+        "altitude": 179.5966644287109, 
+        "capacity": 23, 
+        "id": 60, 
+        "latitude": 41.90096039, 
+        "location_key": "41.90096039,-87.62377664", 
+        "longitude": -87.62377664
+    }, 
+    "61": {
+        "altitude": 180.0747375488281, 
+        "capacity": 15, 
+        "id": 61, 
+        "latitude": 41.89637337, 
+        "location_key": "41.89637337,-87.66098386", 
+        "longitude": -87.66098386
+    }, 
+    "62": {
+        "altitude": 181.4149932861328, 
+        "capacity": 18, 
+        "id": 62, 
+        "latitude": 41.92556258, 
+        "location_key": "41.92556258,-87.65840426", 
+        "longitude": -87.65840426
+    }, 
+    "63": {
+        "altitude": 181.2168273925781, 
+        "capacity": 15, 
+        "id": 63, 
+        "latitude": 41.88397, 
+        "location_key": "41.88397,-87.655688", 
+        "longitude": -87.655688
+    }, 
+    "64": {
+        "altitude": 184.1545867919922, 
+        "capacity": 35, 
+        "id": 64, 
+        "latitude": 41.8810317, 
+        "location_key": "41.8810317,-87.62408432", 
+        "longitude": -87.62408432
+    }, 
+    "65": {
+        "altitude": 182.7184448242188, 
+        "capacity": 30, 
+        "id": 65, 
+        "latitude": 41.88338, 
+        "location_key": "41.88338,-87.64117", 
+        "longitude": -87.64117
+    }, 
+    "66": {
+        "altitude": 178.7718048095703, 
+        "capacity": 19, 
+        "id": 66, 
+        "latitude": 41.894556, 
+        "location_key": "41.894556,-87.653449", 
+        "longitude": -87.653449
+    }, 
+    "67": {
+        "altitude": 180.0159759521484, 
+        "capacity": 15, 
+        "id": 67, 
+        "latitude": 41.913688, 
+        "location_key": "41.913688,-87.652855", 
+        "longitude": -87.652855
+    }, 
+    "68": {
+        "altitude": 182.6289978027344, 
+        "capacity": 18, 
+        "id": 68, 
+        "latitude": 41.918306, 
+        "location_key": "41.918306,-87.636282", 
+        "longitude": -87.636282
+    }, 
+    "69": {
+        "altitude": 184.7342071533203, 
+        "capacity": 31, 
+        "id": 69, 
+        "latitude": 41.865212, 
+        "location_key": "41.865212,-87.617759", 
+        "longitude": -87.617759
+    }, 
+    "70": {
+        "altitude": 181.5092620849609, 
+        "capacity": 15, 
+        "id": 70, 
+        "latitude": 41.882664, 
+        "location_key": "41.882664,-87.63253", 
+        "longitude": -87.63253
+    }, 
+    "71": {
+        "altitude": 181.2398834228516, 
+        "capacity": 19, 
+        "id": 71, 
+        "latitude": 41.89257, 
+        "location_key": "41.89257,-87.614492", 
+        "longitude": -87.614492
+    }, 
+    "72": {
+        "altitude": 177.5588836669922, 
+        "capacity": 23, 
+        "id": 72, 
+        "latitude": 41.888243, 
+        "location_key": "41.888243,-87.63639", 
+        "longitude": -87.63639
+    }, 
+    "73": {
+        "altitude": 179.5697784423828, 
+        "capacity": 27, 
+        "id": 73, 
+        "latitude": 41.897448, 
+        "location_key": "41.897448,-87.628722", 
+        "longitude": -87.628722
+    }, 
+    "74": {
+        "altitude": 180.614013671875, 
+        "capacity": 18, 
+        "id": 74, 
+        "latitude": 41.87184, 
+        "location_key": "41.87184,-87.64664", 
+        "longitude": -87.64664
+    }, 
+    "75": {
+        "altitude": 180.3591156005859, 
+        "capacity": 19, 
+        "id": 75, 
+        "latitude": 41.8745, 
+        "location_key": "41.8745,-87.6498", 
+        "longitude": -87.6498
+    }, 
+    "76": {
+        "altitude": 179.2345275878906, 
+        "capacity": 23, 
+        "id": 76, 
+        "latitude": 41.893975, 
+        "location_key": "41.893975,-87.628623", 
+        "longitude": -87.628623
+    }, 
+    "77": {
+        "altitude": 177.6285247802734, 
+        "capacity": 19, 
+        "id": 77, 
+        "latitude": 41.894666, 
+        "location_key": "41.894666,-87.638437", 
+        "longitude": -87.638437
+    }, 
+    "78": {
+        "altitude": 178.7767333984375, 
+        "capacity": 15, 
+        "id": 78, 
+        "latitude": 41.884078, 
+        "location_key": "41.884078,-87.648684", 
+        "longitude": -87.648684
+    }, 
+    "79": {
+        "altitude": 180.9819793701172, 
+        "capacity": 14, 
+        "id": 79, 
+        "latitude": 41.91844, 
+        "location_key": "41.91844,-87.65222", 
+        "longitude": -87.65222
+    }, 
+    "80": {
+        "altitude": 182.2514953613281, 
+        "capacity": 27, 
+        "id": 80, 
+        "latitude": 41.94688, 
+        "location_key": "41.94688,-87.65445", 
+        "longitude": -87.65445
+    }, 
+    "81": {
+        "altitude": 182.6148986816406, 
+        "capacity": 21, 
+        "id": 81, 
+        "latitude": 41.936253, 
+        "location_key": "41.936253,-87.653566", 
+        "longitude": -87.653566
+    }, 
+    "82": {
+        "altitude": 182.3987274169922, 
+        "capacity": 15, 
+        "id": 82, 
+        "latitude": 41.915533, 
+        "location_key": "41.915533,-87.687051", 
+        "longitude": -87.687051
+    }, 
+    "83": {
+        "altitude": 182.9212646484375, 
+        "capacity": 23, 
+        "id": 83, 
+        "latitude": 41.94018, 
+        "location_key": "41.94018,-87.65304", 
+        "longitude": -87.65304
+    }, 
+    "84": {
+        "altitude": 181.3150024414062, 
+        "capacity": 19, 
+        "id": 84, 
+        "latitude": 41.910579, 
+        "location_key": "41.910579,-87.638618", 
+        "longitude": -87.638618
+    }, 
+    "85": {
+        "altitude": 182.2579345703125, 
+        "capacity": 16, 
+        "id": 85, 
+        "latitude": 41.88541, 
+        "location_key": "41.88541,-87.66732", 
+        "longitude": -87.66732
+    }, 
+    "86": {
+        "altitude": 182.0706024169922, 
+        "capacity": 14, 
+        "id": 86, 
+        "latitude": 41.854564, 
+        "location_key": "41.854564,-87.631937", 
+        "longitude": -87.631937
+    }, 
+    "87": {
+        "altitude": 179.6029968261719, 
+        "capacity": 15, 
+        "id": 87, 
+        "latitude": 41.802562, 
+        "location_key": "41.802562,-87.590368", 
+        "longitude": -87.590368
+    }, 
+    "88": {
+        "altitude": 179.4910278320312, 
+        "capacity": 15, 
+        "id": 88, 
+        "latitude": 41.87501, 
+        "location_key": "41.87501,-87.67328", 
+        "longitude": -87.67328
+    }, 
+    "89": {
+        "altitude": 181.7149200439453, 
+        "capacity": 15, 
+        "id": 89, 
+        "latitude": 41.922695, 
+        "location_key": "41.922695,-87.697153", 
+        "longitude": -87.697153
+    }, 
+    "90": {
+        "altitude": 182.8767852783203, 
+        "capacity": 15, 
+        "id": 90, 
+        "latitude": 41.855048, 
+        "location_key": "41.855048,-87.675726", 
+        "longitude": -87.675726
+    }, 
+    "91": {
+        "altitude": 181.5233612060547, 
+        "capacity": 14, 
+        "id": 91, 
+        "latitude": 41.911791, 
+        "location_key": "41.911791,-87.631841", 
+        "longitude": -87.631841
+    }, 
+    "92": {
+        "altitude": 182.2149963378906, 
+        "capacity": 14, 
+        "id": 92, 
+        "latitude": 41.925905, 
+        "location_key": "41.925905,-87.64926", 
+        "longitude": -87.64926
+    }, 
+    "93": {
+        "altitude": 182.0314788818359, 
+        "capacity": 14, 
+        "id": 93, 
+        "latitude": 41.895769, 
+        "location_key": "41.895769,-87.67722", 
+        "longitude": -87.67722
+    }, 
+    "94": {
+        "altitude": 182.2647399902344, 
+        "capacity": 15, 
+        "id": 94, 
+        "latitude": 41.857556, 
+        "location_key": "41.857556,-87.661535", 
+        "longitude": -87.661535
+    }, 
+    "95": {
+        "altitude": 181.5149993896484, 
+        "capacity": 15, 
+        "id": 95, 
+        "latitude": 41.90331, 
+        "location_key": "41.90331,-87.67695", 
+        "longitude": -87.67695
+    }, 
+    "96": {
+        "altitude": 181.7151031494141, 
+        "capacity": 15, 
+        "id": 96, 
+        "latitude": 41.939365, 
+        "location_key": "41.939365,-87.668385", 
+        "longitude": -87.668385
+    }, 
+    "97": {
+        "altitude": 179.5160980224609, 
+        "capacity": 14, 
+        "id": 97, 
+        "latitude": 41.849237, 
+        "location_key": "41.849237,-87.631715", 
+        "longitude": -87.631715
+    }, 
+    "98": {
+        "altitude": 179.2049407958984, 
+        "capacity": 19, 
+        "id": 98, 
+        "latitude": 41.877749, 
+        "location_key": "41.877749,-87.649633", 
+        "longitude": -87.649633
+    }, 
+    "99": {
+        "altitude": 180.0547790527344, 
+        "capacity": 11, 
+        "id": 99, 
+        "latitude": 41.85378, 
+        "location_key": "41.85378,-87.64665", 
+        "longitude": -87.64665
+    }, 
+    "100": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 100, 
+        "latitude": 41.865054, 
+        "location_key": "41.865054,-87.656959", 
+        "longitude": -87.656959
+    }, 
+    "101": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 101, 
+        "latitude": 41.862378, 
+        "location_key": "41.862378,-87.651062", 
+        "longitude": -87.651062
+    }, 
+    "102": {
+        "altitude": 179.6234283447266, 
+        "capacity": 15, 
+        "id": 102, 
+        "latitude": 41.904509, 
+        "location_key": "41.904509,-87.6405", 
+        "longitude": -87.6405
+    }, 
+    "103": {
+        "altitude": 179.5150451660156, 
+        "capacity": 18, 
+        "id": 103, 
+        "latitude": 41.899007, 
+        "location_key": "41.899007,-87.629928", 
+        "longitude": -87.629928
+    }, 
+    "104": {
+        "altitude": 182.5650177001953, 
+        "capacity": 23, 
+        "id": 104, 
+        "latitude": 41.915689, 
+        "location_key": "41.915689,-87.6346", 
+        "longitude": -87.6346
+    }, 
+    "105": {
+        "altitude": 183.2150573730469, 
+        "capacity": 14, 
+        "id": 105, 
+        "latitude": 41.92197, 
+        "location_key": "41.92197,-87.63854", 
+        "longitude": -87.63854
+    }, 
+    "106": {
+        "altitude": 182.5263061523438, 
+        "capacity": 15, 
+        "id": 106, 
+        "latitude": 41.92175, 
+        "location_key": "41.92175,-87.64401", 
+        "longitude": -87.64401
+    }, 
+    "107": {
+        "altitude": 180.24609375, 
+        "capacity": 11, 
+        "id": 107, 
+        "latitude": 41.877945, 
+        "location_key": "41.877945,-87.662007", 
+        "longitude": -87.662007
+    }, 
+    "108": {
+        "altitude": 180.6029968261719, 
+        "capacity": 15, 
+        "id": 108, 
+        "latitude": 41.8457, 
+        "location_key": "41.8457,-87.62248", 
+        "longitude": -87.62248
+    }, 
+    "109": {
+        "altitude": 181.6829681396484, 
+        "capacity": 11, 
+        "id": 109, 
+        "latitude": 41.834734, 
+        "location_key": "41.834734,-87.625813", 
+        "longitude": -87.625813
+    }, 
+    "110": {
+        "altitude": 182.3678131103516, 
+        "capacity": 11, 
+        "id": 110, 
+        "latitude": 41.8349, 
+        "location_key": "41.8349,-87.61793", 
+        "longitude": -87.61793
+    }, 
+    "111": {
+        "altitude": 178.9873046875, 
+        "capacity": 11, 
+        "id": 111, 
+        "latitude": 41.838556, 
+        "location_key": "41.838556,-87.608218", 
+        "longitude": -87.608218
+    }, 
+    "112": {
+        "altitude": 181.9065551757812, 
+        "capacity": 15, 
+        "id": 112, 
+        "latitude": 41.932225, 
+        "location_key": "41.932225,-87.658617", 
+        "longitude": -87.658617
+    }, 
+    "113": {
+        "altitude": 181.7148284912109, 
+        "capacity": 19, 
+        "id": 113, 
+        "latitude": 41.93584, 
+        "location_key": "41.93584,-87.6637", 
+        "longitude": -87.6637
+    }, 
+    "114": {
+        "altitude": 182.3025054931641, 
+        "capacity": 15, 
+        "id": 114, 
+        "latitude": 41.93949, 
+        "location_key": "41.93949,-87.66378", 
+        "longitude": -87.66378
+    }, 
+    "115": {
+        "altitude": 182.8060760498047, 
+        "capacity": 15, 
+        "id": 115, 
+        "latitude": 41.9364968219, 
+        "location_key": "41.9364968219,-87.6475386582", 
+        "longitude": -87.6475386582
+    }, 
+    "116": {
+        "altitude": 179.0252380371094, 
+        "capacity": 15, 
+        "id": 116, 
+        "latitude": 41.936669, 
+        "location_key": "41.936669,-87.636794", 
+        "longitude": -87.636794
+    }, 
+    "117": {
+        "altitude": 181.9874725341797, 
+        "capacity": 15, 
+        "id": 117, 
+        "latitude": 41.912616, 
+        "location_key": "41.912616,-87.681391", 
+        "longitude": -87.681391
+    }, 
+    "118": {
+        "altitude": 181.8419494628906, 
+        "capacity": 11, 
+        "id": 118, 
+        "latitude": 41.907781, 
+        "location_key": "41.907781,-87.685854", 
+        "longitude": -87.685854
+    }, 
+    "119": {
+        "altitude": 182.2921447753906, 
+        "capacity": 15, 
+        "id": 119, 
+        "latitude": 41.910535, 
+        "location_key": "41.910535,-87.689556", 
+        "longitude": -87.689556
+    }, 
+    "120": {
+        "altitude": 180.2319030761719, 
+        "capacity": 15, 
+        "id": 120, 
+        "latitude": 41.93588, 
+        "location_key": "41.93588,-87.67842", 
+        "longitude": -87.67842
+    }, 
+    "121": {
+        "altitude": 182.2150115966797, 
+        "capacity": 15, 
+        "id": 121, 
+        "latitude": 41.93186, 
+        "location_key": "41.93186,-87.67079", 
+        "longitude": -87.67079
+    }, 
+    "122": {
+        "altitude": 181.7060699462891, 
+        "capacity": 23, 
+        "id": 122, 
+        "latitude": 41.885837, 
+        "location_key": "41.885837,-87.6355", 
+        "longitude": -87.6355
+    }, 
+    "123": {
+        "altitude": 183.2940979003906, 
+        "capacity": 19, 
+        "id": 123, 
+        "latitude": 41.94893, 
+        "location_key": "41.94893,-87.65775", 
+        "longitude": -87.65775
+    }, 
+    "124": {
+        "altitude": 181.4147033691406, 
+        "capacity": 15, 
+        "id": 124, 
+        "latitude": 41.92883, 
+        "location_key": "41.92883,-87.668507", 
+        "longitude": -87.668507
+    }, 
+    "125": {
+        "altitude": 180.3180541992188, 
+        "capacity": 10, 
+        "id": 125, 
+        "latitude": 41.8492, 
+        "location_key": "41.8492,-87.67564", 
+        "longitude": -87.67564
+    }, 
+    "126": {
+        "altitude": 181.2342987060547, 
+        "capacity": 18, 
+        "id": 126, 
+        "latitude": 41.864059, 
+        "location_key": "41.864059,-87.623727", 
+        "longitude": -87.623727
+    }, 
+    "127": {
+        "altitude": 179.5670166015625, 
+        "capacity": 15, 
+        "id": 127, 
+        "latitude": 41.874337, 
+        "location_key": "41.874337,-87.639566", 
+        "longitude": -87.639566
+    }, 
+    "128": {
+        "altitude": 180.6219177246094, 
+        "capacity": 15, 
+        "id": 128, 
+        "latitude": 41.85795, 
+        "location_key": "41.85795,-87.640826", 
+        "longitude": -87.640826
+    }, 
+    "129": {
+        "altitude": 180.8450469970703, 
+        "capacity": 11, 
+        "id": 129, 
+        "latitude": 41.855136, 
+        "location_key": "41.855136,-87.654127", 
+        "longitude": -87.654127
+    }, 
+    "130": {
+        "altitude": 179.5070495605469, 
+        "capacity": 15, 
+        "id": 130, 
+        "latitude": 41.89691, 
+        "location_key": "41.89691,-87.621743", 
+        "longitude": -87.621743
+    }, 
+    "131": {
+        "altitude": 182.5194549560547, 
+        "capacity": 23, 
+        "id": 131, 
+        "latitude": 41.882091, 
+        "location_key": "41.882091,-87.639833", 
+        "longitude": -87.639833
+    }, 
+    "132": {
+        "altitude": 179.2039642333984, 
+        "capacity": 18, 
+        "id": 132, 
+        "latitude": 41.872373, 
+        "location_key": "41.872373,-87.633523", 
+        "longitude": -87.633523
+    }, 
+    "133": {
+        "altitude": 180.8230590820312, 
+        "capacity": 17, 
+        "id": 133, 
+        "latitude": 41.903233, 
+        "location_key": "41.903233,-87.631253", 
+        "longitude": -87.631253
+    }, 
+    "134": {
+        "altitude": 179.4759826660156, 
+        "capacity": 13, 
+        "id": 134, 
+        "latitude": 41.926277, 
+        "location_key": "41.926277,-87.630834", 
+        "longitude": -87.630834
+    }, 
+    "135": {
+        "altitude": 182.8140869140625, 
+        "capacity": 15, 
+        "id": 135, 
+        "latitude": 41.856594, 
+        "location_key": "41.856594,-87.627542", 
+        "longitude": -87.627542
+    }, 
+    "136": {
+        "altitude": 183.4964752197266, 
+        "capacity": 15, 
+        "id": 136, 
+        "latitude": 41.82256, 
+        "location_key": "41.82256,-87.61615", 
+        "longitude": -87.61615
+    }, 
+    "137": {
+        "altitude": 179.6740875244141, 
+        "capacity": 22, 
+        "id": 137, 
+        "latitude": 41.890749, 
+        "location_key": "41.890749,-87.63206", 
+        "longitude": -87.63206
+    }, 
+    "138": {
+        "altitude": 181.8143310546875, 
+        "capacity": 14, 
+        "id": 138, 
+        "latitude": 41.899714, 
+        "location_key": "41.899714,-87.677234", 
+        "longitude": -87.677234
+    }, 
+    "139": {
+        "altitude": 181.2330932617188, 
+        "capacity": 19, 
+        "id": 139, 
+        "latitude": 41.83104, 
+        "location_key": "41.83104,-87.62688", 
+        "longitude": -87.62688
+    }, 
+    "140": {
+        "altitude": 182.1202697753906, 
+        "capacity": 11, 
+        "id": 140, 
+        "latitude": 41.917741, 
+        "location_key": "41.917741,-87.691392", 
+        "longitude": -87.691392
+    }, 
+    "141": {
+        "altitude": 181.4878234863281, 
+        "capacity": 15, 
+        "id": 141, 
+        "latitude": 41.891795, 
+        "location_key": "41.891795,-87.658751", 
+        "longitude": -87.658751
+    }, 
+    "142": {
+        "altitude": 180.6066131591797, 
+        "capacity": 14, 
+        "id": 142, 
+        "latitude": 41.92533, 
+        "location_key": "41.92533,-87.6658", 
+        "longitude": -87.6658
+    }, 
+    "143": {
+        "altitude": 181.3150024414062, 
+        "capacity": 15, 
+        "id": 143, 
+        "latitude": 41.92888, 
+        "location_key": "41.92888,-87.66317", 
+        "longitude": -87.66317
+    }, 
+    "144": {
+        "altitude": 178.3683471679688, 
+        "capacity": 23, 
+        "id": 144, 
+        "latitude": 41.8807, 
+        "location_key": "41.8807,-87.63947", 
+        "longitude": -87.63947
+    }, 
+    "145": {
+        "altitude": 179.3582458496094, 
+        "capacity": 39, 
+        "id": 145, 
+        "latitude": 41.878948, 
+        "location_key": "41.878948,-87.63975", 
+        "longitude": -87.63975
+    }, 
+    "146": {
+        "altitude": 182.3095550537109, 
+        "capacity": 15, 
+        "id": 146, 
+        "latitude": 41.841707, 
+        "location_key": "41.841707,-87.626938", 
+        "longitude": -87.626938
+    }, 
+    "147": {
+        "altitude": 176.5318756103516, 
+        "capacity": 11, 
+        "id": 147, 
+        "latitude": 41.887155, 
+        "location_key": "41.887155,-87.62775", 
+        "longitude": -87.62775
+    }, 
+    "148": {
+        "altitude": 178.0016479492188, 
+        "capacity": 31, 
+        "id": 148, 
+        "latitude": 41.884728, 
+        "location_key": "41.884728,-87.619521", 
+        "longitude": -87.619521
+    }, 
+    "149": {
+        "altitude": 179.7070617675781, 
+        "capacity": 19, 
+        "id": 149, 
+        "latitude": 41.889875, 
+        "location_key": "41.889875,-87.621994", 
+        "longitude": -87.621994
+    }, 
+    "150": {
+        "altitude": 182.5247650146484, 
+        "capacity": 19, 
+        "id": 150, 
+        "latitude": 41.882134, 
+        "location_key": "41.882134,-87.625125", 
+        "longitude": -87.625125
+    }, 
+    "151": {
+        "altitude": 178.2938690185547, 
+        "capacity": 19, 
+        "id": 151, 
+        "latitude": 41.88175, 
+        "location_key": "41.88175,-87.6478", 
+        "longitude": -87.6478
+    }, 
+    "152": {
+        "altitude": 178.8145904541016, 
+        "capacity": 15, 
+        "id": 152, 
+        "latitude": 41.891738, 
+        "location_key": "41.891738,-87.626937", 
+        "longitude": -87.626937
+    }, 
+    "153": {
+        "altitude": 182.8030090332031, 
+        "capacity": 11, 
+        "id": 153, 
+        "latitude": 41.809851, 
+        "location_key": "41.809851,-87.616279", 
+        "longitude": -87.616279
+    }, 
+    "154": {
+        "altitude": 182.8030853271484, 
+        "capacity": 15, 
+        "id": 154, 
+        "latitude": 41.82168, 
+        "location_key": "41.82168,-87.6216", 
+        "longitude": -87.6216
+    }, 
+    "155": {
+        "altitude": 181.4704437255859, 
+        "capacity": 15, 
+        "id": 155, 
+        "latitude": 41.857499, 
+        "location_key": "41.857499,-87.646277", 
+        "longitude": -87.646277
+    }, 
+    "156": {
+        "altitude": 182.8074798583984, 
+        "capacity": 15, 
+        "id": 156, 
+        "latitude": 41.85394, 
+        "location_key": "41.85394,-87.685243", 
+        "longitude": -87.685243
+    }, 
+    "157": {
+        "altitude": 182.8030090332031, 
+        "capacity": 15, 
+        "id": 157, 
+        "latitude": 41.7951, 
+        "location_key": "41.7951,-87.61936", 
+        "longitude": -87.61936
+    }, 
+    "158": {
+        "altitude": 182.1970672607422, 
+        "capacity": 15, 
+        "id": 158, 
+        "latitude": 41.857901, 
+        "location_key": "41.857901,-87.668745", 
+        "longitude": -87.668745
+    }, 
+    "159": {
+        "altitude": 182.5254364013672, 
+        "capacity": 15, 
+        "id": 159, 
+        "latitude": 41.847203, 
+        "location_key": "41.847203,-87.646795", 
+        "longitude": -87.646795
+    }, 
+    "160": {
+        "altitude": 181.3141326904297, 
+        "capacity": 15, 
+        "id": 160, 
+        "latitude": 41.84358, 
+        "location_key": "41.84358,-87.645368", 
+        "longitude": -87.645368
+    }, 
+    "161": {
+        "altitude": 180.46435546875, 
+        "capacity": 15, 
+        "id": 161, 
+        "latitude": 41.85381, 
+        "location_key": "41.85381,-87.665897", 
+        "longitude": -87.665897
+    }, 
+    "162": {
+        "altitude": 182.8170471191406, 
+        "capacity": 11, 
+        "id": 162, 
+        "latitude": 41.849527, 
+        "location_key": "41.849527,-87.640591", 
+        "longitude": -87.640591
+    }, 
+    "163": {
+        "altitude": 181.5643920898438, 
+        "capacity": 19, 
+        "id": 163, 
+        "latitude": 41.903456, 
+        "location_key": "41.903456,-87.66777", 
+        "longitude": -87.66777
+    }, 
+    "164": {
+        "altitude": 179.6190490722656, 
+        "capacity": 19, 
+        "id": 164, 
+        "latitude": 41.894448, 
+        "location_key": "41.894448,-87.622663", 
+        "longitude": -87.622663
+    }, 
+    "165": {
+        "altitude": 179.2137451171875, 
+        "capacity": 18, 
+        "id": 165, 
+        "latitude": 41.892238, 
+        "location_key": "41.892238,-87.633985", 
+        "longitude": -87.633985
+    }, 
+    "166": {
+        "altitude": 181.6258087158203, 
+        "capacity": 15, 
+        "id": 166, 
+        "latitude": 41.910153, 
+        "location_key": "41.910153,-87.68229", 
+        "longitude": -87.68229
+    }, 
+    "167": {
+        "altitude": 182.4264221191406, 
+        "capacity": 14, 
+        "id": 167, 
+        "latitude": 41.89122, 
+        "location_key": "41.89122,-87.67686", 
+        "longitude": -87.67686
+    }, 
+    "168": {
+        "altitude": 181.2149353027344, 
+        "capacity": 15, 
+        "id": 168, 
+        "latitude": 41.88137, 
+        "location_key": "41.88137,-87.67493", 
+        "longitude": -87.67493
+    }, 
+    "169": {
+        "altitude": 182.3160247802734, 
+        "capacity": 15, 
+        "id": 169, 
+        "latitude": 41.903029, 
+        "location_key": "41.903029,-87.697474", 
+        "longitude": -87.697474
+    }, 
+    "170": {
+        "altitude": 181.3655242919922, 
+        "capacity": 15, 
+        "id": 170, 
+        "latitude": 41.886773, 
+        "location_key": "41.886773,-87.656001", 
+        "longitude": -87.656001
+    }, 
+    "171": {
+        "altitude": 179.756591796875, 
+        "capacity": 11, 
+        "id": 171, 
+        "latitude": 41.856802, 
+        "location_key": "41.856802,-87.633879", 
+        "longitude": -87.633879
+    }, 
+    "172": {
+        "altitude": 182.6253509521484, 
+        "capacity": 11, 
+        "id": 172, 
+        "latitude": 41.916027, 
+        "location_key": "41.916027,-87.677411", 
+        "longitude": -87.677411
+    }, 
+    "173": {
+        "altitude": 181.0150604248047, 
+        "capacity": 19, 
+        "id": 173, 
+        "latitude": 41.93262, 
+        "location_key": "41.93262,-87.642385", 
+        "longitude": -87.642385
+    }, 
+    "174": {
+        "altitude": 181.8161926269531, 
+        "capacity": 19, 
+        "id": 174, 
+        "latitude": 41.920195, 
+        "location_key": "41.920195,-87.693033", 
+        "longitude": -87.693033
+    }, 
+    "175": {
+        "altitude": 180.3782653808594, 
+        "capacity": 15, 
+        "id": 175, 
+        "latitude": 41.918216, 
+        "location_key": "41.918216,-87.656936", 
+        "longitude": -87.656936
+    }, 
+    "176": {
+        "altitude": 180.5444183349609, 
+        "capacity": 19, 
+        "id": 176, 
+        "latitude": 41.913778, 
+        "location_key": "41.913778,-87.64884", 
+        "longitude": -87.64884
+    }, 
+    "177": {
+        "altitude": 181.5300445556641, 
+        "capacity": 13, 
+        "id": 177, 
+        "latitude": 41.919936, 
+        "location_key": "41.919936,-87.64883", 
+        "longitude": -87.64883
+    }, 
+    "178": {
+        "altitude": 182.5150146484375, 
+        "capacity": 15, 
+        "id": 178, 
+        "latitude": 41.939743, 
+        "location_key": "41.939743,-87.658865", 
+        "longitude": -87.658865
+    }, 
+    "179": {
+        "altitude": 183.2151336669922, 
+        "capacity": 15, 
+        "id": 179, 
+        "latitude": 41.94815, 
+        "location_key": "41.94815,-87.66394", 
+        "longitude": -87.66394
+    }, 
+    "180": {
+        "altitude": 181.3657073974609, 
+        "capacity": 11, 
+        "id": 180, 
+        "latitude": 41.9406, 
+        "location_key": "41.9406,-87.6785", 
+        "longitude": -87.6785
+    }, 
+    "181": {
+        "altitude": 182.5150146484375, 
+        "capacity": 19, 
+        "id": 181, 
+        "latitude": 41.943739, 
+        "location_key": "41.943739,-87.66402", 
+        "longitude": -87.66402
+    }, 
+    "182": {
+        "altitude": 182.2189483642578, 
+        "capacity": 18, 
+        "id": 182, 
+        "latitude": 41.94334, 
+        "location_key": "41.94334,-87.67097", 
+        "longitude": -87.67097
+    }, 
+    "183": {
+        "altitude": 180.3569641113281, 
+        "capacity": 15, 
+        "id": 183, 
+        "latitude": 41.96167, 
+        "location_key": "41.96167,-87.65464", 
+        "longitude": -87.65464
+    }, 
+    "184": {
+        "altitude": 180.0752410888672, 
+        "capacity": 15, 
+        "id": 184, 
+        "latitude": 41.947836, 
+        "location_key": "41.947836,-87.645416", 
+        "longitude": -87.645416
+    }, 
+    "185": {
+        "altitude": 179.586181640625, 
+        "capacity": 15, 
+        "id": 185, 
+        "latitude": 41.883004, 
+        "location_key": "41.883004,-87.651148", 
+        "longitude": -87.651148
+    }, 
+    "186": {
+        "altitude": 183.6374664306641, 
+        "capacity": 19, 
+        "id": 186, 
+        "latitude": 41.961588, 
+        "location_key": "41.961588,-87.666036", 
+        "longitude": -87.666036
+    }, 
+    "187": {
+        "altitude": 180.7923736572266, 
+        "capacity": 15, 
+        "id": 187, 
+        "latitude": 41.907576, 
+        "location_key": "41.907576,-87.638517", 
+        "longitude": -87.638517
+    }, 
+    "188": {
+        "altitude": 182.4314575195312, 
+        "capacity": 15, 
+        "id": 188, 
+        "latitude": 41.842052, 
+        "location_key": "41.842052,-87.617", 
+        "longitude": -87.617
+    }, 
+    "189": {
+        "altitude": 182.3150024414062, 
+        "capacity": 15, 
+        "id": 189, 
+        "latitude": 41.961626, 
+        "location_key": "41.961626,-87.674101", 
+        "longitude": -87.674101
+    }, 
+    "190": {
+        "altitude": 181.4129943847656, 
+        "capacity": 15, 
+        "id": 190, 
+        "latitude": 41.966555, 
+        "location_key": "41.966555,-87.688487", 
+        "longitude": -87.688487
+    }, 
+    "191": {
+        "altitude": 180.9150695800781, 
+        "capacity": 11, 
+        "id": 191, 
+        "latitude": 41.95434, 
+        "location_key": "41.95434,-87.654601", 
+        "longitude": -87.654601
+    }, 
+    "192": {
+        "altitude": 180.6139984130859, 
+        "capacity": 12, 
+        "id": 192, 
+        "latitude": 41.871737, 
+        "location_key": "41.871737,-87.65103", 
+        "longitude": -87.65103
+    }, 
+    "193": {
+        "altitude": 182.1969909667969, 
+        "capacity": 15, 
+        "id": 193, 
+        "latitude": 41.967094, 
+        "location_key": "41.967094,-87.679028", 
+        "longitude": -87.679028
+    }, 
+    "194": {
+        "altitude": 181.4071044921875, 
+        "capacity": 15, 
+        "id": 194, 
+        "latitude": 41.962391, 
+        "location_key": "41.962391,-87.684146", 
+        "longitude": -87.684146
+    }, 
+    "195": {
+        "altitude": 182.8150024414062, 
+        "capacity": 19, 
+        "id": 195, 
+        "latitude": 41.95469, 
+        "location_key": "41.95469,-87.67393", 
+        "longitude": -87.67393
+    }, 
+    "196": {
+        "altitude": 179.7150573730469, 
+        "capacity": 15, 
+        "id": 196, 
+        "latitude": 41.961004, 
+        "location_key": "41.961004,-87.649603", 
+        "longitude": -87.649603
+    }, 
+    "197": {
+        "altitude": 182.7425231933594, 
+        "capacity": 11, 
+        "id": 197, 
+        "latitude": 41.956061, 
+        "location_key": "41.956061,-87.668869", 
+        "longitude": -87.668869
+    }, 
+    "198": {
+        "altitude": 179.1937408447266, 
+        "capacity": 15, 
+        "id": 198, 
+        "latitude": 41.795212, 
+        "location_key": "41.795212,-87.580715", 
+        "longitude": -87.580715
+    }, 
+    "199": {
+        "altitude": 179.7030029296875, 
+        "capacity": 15, 
+        "id": 199, 
+        "latitude": 41.795264, 
+        "location_key": "41.795264,-87.596471", 
+        "longitude": -87.596471
+    }, 
+    "200": {
+        "altitude": 179.3751373291016, 
+        "capacity": 15, 
+        "id": 200, 
+        "latitude": 41.963982, 
+        "location_key": "41.963982,-87.638181", 
+        "longitude": -87.638181
+    }, 
+    "201": {
+        "altitude": 181.3150024414062, 
+        "capacity": 19, 
+        "id": 201, 
+        "latitude": 41.936083, 
+        "location_key": "41.936083,-87.669807", 
+        "longitude": -87.669807
+    }, 
+    "202": {
+        "altitude": 179.9547882080078, 
+        "capacity": 15, 
+        "id": 202, 
+        "latitude": 41.967968, 
+        "location_key": "41.967968,-87.650001", 
+        "longitude": -87.650001
+    }, 
+    "203": {
+        "altitude": 181.3030090332031, 
+        "capacity": 15, 
+        "id": 203, 
+        "latitude": 41.809835, 
+        "location_key": "41.809835,-87.599383", 
+        "longitude": -87.599383
+    }, 
+    "204": {
+        "altitude": 182.1096649169922, 
+        "capacity": 15, 
+        "id": 204, 
+        "latitude": 41.968873, 
+        "location_key": "41.968873,-87.658857", 
+        "longitude": -87.658857
+    }, 
+    "205": {
+        "altitude": 179.9720764160156, 
+        "capacity": 15, 
+        "id": 205, 
+        "latitude": 41.954383, 
+        "location_key": "41.954383,-87.648043", 
+        "longitude": -87.648043
+    }, 
+    "206": {
+        "altitude": 181.1577606201172, 
+        "capacity": 31, 
+        "id": 206, 
+        "latitude": 41.867888, 
+        "location_key": "41.867888,-87.623041", 
+        "longitude": -87.623041
+    }, 
+    "207": {
+        "altitude": 180.3163146972656, 
+        "capacity": 15, 
+        "id": 207, 
+        "latitude": 41.952833, 
+        "location_key": "41.952833,-87.649993", 
+        "longitude": -87.649993
+    }, 
+    "208": {
+        "altitude": 182.607177734375, 
+        "capacity": 15, 
+        "id": 208, 
+        "latitude": 41.94911, 
+        "location_key": "41.94911,-87.675112", 
+        "longitude": -87.675112
+    }, 
+    "209": {
+        "altitude": 181.0691070556641, 
+        "capacity": 19, 
+        "id": 209, 
+        "latitude": 41.930584, 
+        "location_key": "41.930584,-87.685126", 
+        "longitude": -87.685126
+    }, 
+    "210": {
+        "altitude": 182.1471252441406, 
+        "capacity": 15, 
+        "id": 210, 
+        "latitude": 41.91855, 
+        "location_key": "41.91855,-87.69723", 
+        "longitude": -87.69723
+    }, 
+    "211": {
+        "altitude": 182.05712890625, 
+        "capacity": 19, 
+        "id": 211, 
+        "latitude": 41.929567, 
+        "location_key": "41.929567,-87.707857", 
+        "longitude": -87.707857
+    }, 
+    "212": {
+        "altitude": 180.6139984130859, 
+        "capacity": 13, 
+        "id": 212, 
+        "latitude": 41.871514, 
+        "location_key": "41.871514,-87.669886", 
+        "longitude": -87.669886
+    }, 
+    "213": {
+        "altitude": 182.0415496826172, 
+        "capacity": 11, 
+        "id": 213, 
+        "latitude": 41.827071, 
+        "location_key": "41.827071,-87.645801", 
+        "longitude": -87.645801
+    }, 
+    "214": {
+        "altitude": 182.7310028076172, 
+        "capacity": 11, 
+        "id": 214, 
+        "latitude": 41.836208, 
+        "location_key": "41.836208,-87.613533", 
+        "longitude": -87.613533
+    }, 
+    "215": {
+        "altitude": 177.4639282226562, 
+        "capacity": 19, 
+        "id": 215, 
+        "latitude": 41.886835, 
+        "location_key": "41.886835,-87.62232", 
+        "longitude": -87.62232
+    }, 
+    "216": {
+        "altitude": 182.6992034912109, 
+        "capacity": 15, 
+        "id": 216, 
+        "latitude": 41.822985, 
+        "location_key": "41.822985,-87.6071", 
+        "longitude": -87.6071
+    }, 
+    "217": {
+        "altitude": 179.3734130859375, 
+        "capacity": 15, 
+        "id": 217, 
+        "latitude": 41.809443, 
+        "location_key": "41.809443,-87.591875", 
+        "longitude": -87.591875
+    }, 
+    "218": {
+        "altitude": 179.8450317382812, 
+        "capacity": 15, 
+        "id": 218, 
+        "latitude": 41.911722, 
+        "location_key": "41.911722,-87.626804", 
+        "longitude": -87.626804
+    }, 
+    "219": {
+        "altitude": 182.4595642089844, 
+        "capacity": 11, 
+        "id": 219, 
+        "latitude": 41.816499, 
+        "location_key": "41.816499,-87.606582", 
+        "longitude": -87.606582
+    }, 
+    "220": {
+        "altitude": 181.5460205078125, 
+        "capacity": 11, 
+        "id": 220, 
+        "latitude": 41.838842, 
+        "location_key": "41.838842,-87.621857", 
+        "longitude": -87.621857
+    }, 
+    "221": {
+        "altitude": 181.3694458007812, 
+        "capacity": 15, 
+        "id": 221, 
+        "latitude": 41.857937, 
+        "location_key": "41.857937,-87.623633", 
+        "longitude": -87.623633
+    }, 
+    "222": {
+        "altitude": 181.6887512207031, 
+        "capacity": 15, 
+        "id": 222, 
+        "latitude": 41.861267, 
+        "location_key": "41.861267,-87.656625", 
+        "longitude": -87.656625
+    }, 
+    "223": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 223, 
+        "latitude": 41.865234, 
+        "location_key": "41.865234,-87.666507", 
+        "longitude": -87.666507
+    }, 
+    "224": {
+        "altitude": 181.9800872802734, 
+        "capacity": 11, 
+        "id": 224, 
+        "latitude": 41.91044, 
+        "location_key": "41.91044,-87.6972", 
+        "longitude": -87.6972
+    }, 
+    "225": {
+        "altitude": 181.3150024414062, 
+        "capacity": 15, 
+        "id": 225, 
+        "latitude": 41.891072, 
+        "location_key": "41.891072,-87.666611", 
+        "longitude": -87.666611
+    }, 
+    "226": {
+        "altitude": 182.2453308105469, 
+        "capacity": 15, 
+        "id": 226, 
+        "latitude": 41.830629, 
+        "location_key": "41.830629,-87.64129", 
+        "longitude": -87.64129
+    }, 
+    "227": {
+        "altitude": 181.266845703125, 
+        "capacity": 15, 
+        "id": 227, 
+        "latitude": 41.830661, 
+        "location_key": "41.830661,-87.647172", 
+        "longitude": -87.647172
+    }, 
+    "228": {
+        "altitude": 180.7873840332031, 
+        "capacity": 11, 
+        "id": 228, 
+        "latitude": 41.8378, 
+        "location_key": "41.8378,-87.65114", 
+        "longitude": -87.65114
+    }, 
+    "229": {
+        "altitude": 182.5113983154297, 
+        "capacity": 15, 
+        "id": 229, 
+        "latitude": 41.84847, 
+        "location_key": "41.84847,-87.685109", 
+        "longitude": -87.685109
+    }, 
+    "230": {
+        "altitude": 180.6139984130859, 
+        "capacity": 14, 
+        "id": 230, 
+        "latitude": 41.86458, 
+        "location_key": "41.86458,-87.64693", 
+        "longitude": -87.64693
+    }, 
+    "231": {
+        "altitude": 180.2703857421875, 
+        "capacity": 23, 
+        "id": 231, 
+        "latitude": 41.87817, 
+        "location_key": "41.87817,-87.631985", 
+        "longitude": -87.631985
+    }, 
+    "232": {
+        "altitude": 182.3257446289062, 
+        "capacity": 23, 
+        "id": 232, 
+        "latitude": 41.87785, 
+        "location_key": "41.87785,-87.62408", 
+        "longitude": -87.62408
+    }, 
+    "233": {
+        "altitude": 182.5143432617188, 
+        "capacity": 15, 
+        "id": 233, 
+        "latitude": 41.89113, 
+        "location_key": "41.89113,-87.67203", 
+        "longitude": -87.67203
+    }, 
+    "234": {
+        "altitude": 181.2464904785156, 
+        "capacity": 22, 
+        "id": 234, 
+        "latitude": 41.878724, 
+        "location_key": "41.878724,-87.634793", 
+        "longitude": -87.634793
+    }, 
+    "235": {
+        "altitude": 181.6482543945312, 
+        "capacity": 27, 
+        "id": 235, 
+        "latitude": 41.881469, 
+        "location_key": "41.881469,-87.635177", 
+        "longitude": -87.635177
+    }, 
+    "236": {
+        "altitude": 182.0763549804688, 
+        "capacity": 11, 
+        "id": 236, 
+        "latitude": 41.91797, 
+        "location_key": "41.91797,-87.64368", 
+        "longitude": -87.64368
+    }, 
+    "237": {
+        "altitude": 181.9174194335938, 
+        "capacity": 19, 
+        "id": 237, 
+        "latitude": 41.912202, 
+        "location_key": "41.912202,-87.634664", 
+        "longitude": -87.634664
+    }, 
+    "238": {
+        "altitude": 182.4149932861328, 
+        "capacity": 15, 
+        "id": 238, 
+        "latitude": 41.921525, 
+        "location_key": "41.921525,-87.707322", 
+        "longitude": -87.707322
+    }, 
+    "239": {
+        "altitude": 181.0800628662109, 
+        "capacity": 19, 
+        "id": 239, 
+        "latitude": 41.906724, 
+        "location_key": "41.906724,-87.63483", 
+        "longitude": -87.63483
+    }, 
+    "240": {
+        "altitude": 184.0128631591797, 
+        "capacity": 11, 
+        "id": 240, 
+        "latitude": 41.957081, 
+        "location_key": "41.957081,-87.664199", 
+        "longitude": -87.664199
+    }, 
+    "241": {
+        "altitude": 181.5722351074219, 
+        "capacity": 19, 
+        "id": 241, 
+        "latitude": 41.965287, 
+        "location_key": "41.965287,-87.658774", 
+        "longitude": -87.658774
+    }, 
+    "242": {
+        "altitude": 182.4161987304688, 
+        "capacity": 15, 
+        "id": 242, 
+        "latitude": 41.978353, 
+        "location_key": "41.978353,-87.659753", 
+        "longitude": -87.659753
+    }, 
+    "243": {
+        "altitude": 182.1177825927734, 
+        "capacity": 15, 
+        "id": 243, 
+        "latitude": 41.972972, 
+        "location_key": "41.972972,-87.659637", 
+        "longitude": -87.659637
+    }, 
+    "244": {
+        "altitude": 180.7060699462891, 
+        "capacity": 15, 
+        "id": 244, 
+        "latitude": 41.940106, 
+        "location_key": "41.940106,-87.645451", 
+        "longitude": -87.645451
+    }, 
+    "245": {
+        "altitude": 182.3158569335938, 
+        "capacity": 15, 
+        "id": 245, 
+        "latitude": 41.961507, 
+        "location_key": "41.961507,-87.671387", 
+        "longitude": -87.671387
+    }, 
+    "246": {
+        "altitude": 182.0745544433594, 
+        "capacity": 15, 
+        "id": 246, 
+        "latitude": 41.955927, 
+        "location_key": "41.955927,-87.679259", 
+        "longitude": -87.679259
+    }, 
+    "247": {
+        "altitude": 181.0120239257812, 
+        "capacity": 15, 
+        "id": 247, 
+        "latitude": 41.943662, 
+        "location_key": "41.943662,-87.648917", 
+        "longitude": -87.648917
+    }, 
+    "248": {
+        "altitude": 180.723388671875, 
+        "capacity": 15, 
+        "id": 248, 
+        "latitude": 41.937739, 
+        "location_key": "41.937739,-87.644094", 
+        "longitude": -87.644094
+    }, 
+    "249": {
+        "altitude": 181.5247497558594, 
+        "capacity": 19, 
+        "id": 249, 
+        "latitude": 41.907993, 
+        "location_key": "41.907993,-87.631501", 
+        "longitude": -87.631501
+    }, 
+    "250": {
+        "altitude": 182.0134735107422, 
+        "capacity": 19, 
+        "id": 250, 
+        "latitude": 41.928712, 
+        "location_key": "41.928712,-87.653833", 
+        "longitude": -87.653833
+    }, 
+    "251": {
+        "altitude": 180.5443878173828, 
+        "capacity": 15, 
+        "id": 251, 
+        "latitude": 41.945512, 
+        "location_key": "41.945512,-87.64598", 
+        "longitude": -87.64598
+    }, 
+    "252": {
+        "altitude": 180.5156097412109, 
+        "capacity": 15, 
+        "id": 252, 
+        "latitude": 41.949333, 
+        "location_key": "41.949333,-87.649634", 
+        "longitude": -87.649634
+    }, 
+    "253": {
+        "altitude": 182.1148071289062, 
+        "capacity": 15, 
+        "id": 253, 
+        "latitude": 41.902893, 
+        "location_key": "41.902893,-87.687275", 
+        "longitude": -87.687275
+    }, 
+    "254": {
+        "altitude": 180.7017059326172, 
+        "capacity": 15, 
+        "id": 254, 
+        "latitude": 41.9584, 
+        "location_key": "41.9584,-87.65423", 
+        "longitude": -87.65423
+    }, 
+    "255": {
+        "altitude": 179.9234008789062, 
+        "capacity": 14, 
+        "id": 255, 
+        "latitude": 41.921004, 
+        "location_key": "41.921004,-87.663257", 
+        "longitude": -87.663257
+    }, 
+    "256": {
+        "altitude": 181.2425689697266, 
+        "capacity": 11, 
+        "id": 256, 
+        "latitude": 41.943403, 
+        "location_key": "41.943403,-87.679618", 
+        "longitude": -87.679618
+    }, 
+    "257": {
+        "altitude": 181.4162292480469, 
+        "capacity": 11, 
+        "id": 257, 
+        "latitude": 41.917805, 
+        "location_key": "41.917805,-87.682437", 
+        "longitude": -87.682437
+    }, 
+    "258": {
+        "altitude": 182.4070281982422, 
+        "capacity": 11, 
+        "id": 258, 
+        "latitude": 41.920082, 
+        "location_key": "41.920082,-87.677855", 
+        "longitude": -87.677855
+    }, 
+    "259": {
+        "altitude": 181.614990234375, 
+        "capacity": 15, 
+        "id": 259, 
+        "latitude": 41.96583, 
+        "location_key": "41.96583,-87.68651", 
+        "longitude": -87.68651
+    }, 
+    "260": {
+        "altitude": 180.0151519775391, 
+        "capacity": 15, 
+        "id": 260, 
+        "latitude": 41.957879, 
+        "location_key": "41.957879,-87.649519", 
+        "longitude": -87.649519
+    }, 
+    "261": {
+        "altitude": 181.3889465332031, 
+        "capacity": 19, 
+        "id": 261, 
+        "latitude": 41.925858, 
+        "location_key": "41.925858,-87.638973", 
+        "longitude": -87.638973
+    }, 
+    "262": {
+        "altitude": 182.7324676513672, 
+        "capacity": 15, 
+        "id": 262, 
+        "latitude": 41.957921, 
+        "location_key": "41.957921,-87.673567", 
+        "longitude": -87.673567
+    }, 
+    "263": {
+        "altitude": 181.7964019775391, 
+        "capacity": 10, 
+        "id": 263, 
+        "latitude": 41.906717, 
+        "location_key": "41.906717,-87.682779", 
+        "longitude": -87.682779
+    }, 
+    "264": {
+        "altitude": 182.1446533203125, 
+        "capacity": 19, 
+        "id": 264, 
+        "latitude": 41.96325, 
+        "location_key": "41.96325,-87.679258", 
+        "longitude": -87.679258
+    }, 
+    "265": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 265, 
+        "latitude": 41.869154, 
+        "location_key": "41.869154,-87.671045", 
+        "longitude": -87.671045
+    }, 
+    "266": {
+        "altitude": 182.6475219726562, 
+        "capacity": 15, 
+        "id": 266, 
+        "latitude": 41.954177, 
+        "location_key": "41.954177,-87.664358", 
+        "longitude": -87.664358
+    }, 
+    "267": {
+        "altitude": 181.3150024414062, 
+        "capacity": 15, 
+        "id": 267, 
+        "latitude": 41.932595, 
+        "location_key": "41.932595,-87.665939", 
+        "longitude": -87.665939
+    }, 
+    "268": {
+        "altitude": 180.6139984130859, 
+        "capacity": 14, 
+        "id": 268, 
+        "latitude": 41.872187, 
+        "location_key": "41.872187,-87.661501", 
+        "longitude": -87.661501
+    }, 
+    "269": {
+        "altitude": 179.7801818847656, 
+        "capacity": 19, 
+        "id": 269, 
+        "latitude": 41.871962, 
+        "location_key": "41.871962,-87.626106", 
+        "longitude": -87.626106
+    }, 
+    "270": {
+        "altitude": 179.6029968261719, 
+        "capacity": 15, 
+        "id": 270, 
+        "latitude": 41.799568, 
+        "location_key": "41.799568,-87.594747", 
+        "longitude": -87.594747
+    }, 
+    "271": {
+        "altitude": 181.3094024658203, 
+        "capacity": 15, 
+        "id": 271, 
+        "latitude": 41.969517, 
+        "location_key": "41.969517,-87.654691", 
+        "longitude": -87.654691
+    }, 
+    "272": {
+        "altitude": 181.3150787353516, 
+        "capacity": 13, 
+        "id": 272, 
+        "latitude": 41.93132, 
+        "location_key": "41.93132,-87.638742", 
+        "longitude": -87.638742
+    }, 
+    "273": {
+        "altitude": 183.1574249267578, 
+        "capacity": 15, 
+        "id": 273, 
+        "latitude": 41.973385, 
+        "location_key": "41.973385,-87.668365", 
+        "longitude": -87.668365
+    }, 
+    "274": {
+        "altitude": 184.0322723388672, 
+        "capacity": 11, 
+        "id": 274, 
+        "latitude": 41.967096, 
+        "location_key": "41.967096,-87.667429", 
+        "longitude": -87.667429
+    }, 
+    "275": {
+        "altitude": 181.4149932861328, 
+        "capacity": 19, 
+        "id": 275, 
+        "latitude": 41.921687, 
+        "location_key": "41.921687,-87.653714", 
+        "longitude": -87.653714
+    }, 
+    "276": {
+        "altitude": 180.0960083007812, 
+        "capacity": 15, 
+        "id": 276, 
+        "latitude": 41.788746, 
+        "location_key": "41.788746,-87.601334", 
+        "longitude": -87.601334
+    }, 
+    "277": {
+        "altitude": 178.3596038818359, 
+        "capacity": 14, 
+        "id": 277, 
+        "latitude": 41.932684, 
+        "location_key": "41.932684,-87.63625", 
+        "longitude": -87.63625
+    }, 
+    "278": {
+        "altitude": 182.8150024414062, 
+        "capacity": 19, 
+        "id": 278, 
+        "latitude": 41.946176, 
+        "location_key": "41.946176,-87.673308", 
+        "longitude": -87.673308
+    }, 
+    "279": {
+        "altitude": 180.1955718994141, 
+        "capacity": 18, 
+        "id": 279, 
+        "latitude": 41.90854, 
+        "location_key": "41.90854,-87.648568", 
+        "longitude": -87.648568
+    }, 
+    "280": {
+        "altitude": 182.614990234375, 
+        "capacity": 15, 
+        "id": 280, 
+        "latitude": 41.933341, 
+        "location_key": "41.933341,-87.648747", 
+        "longitude": -87.648747
+    }, 
+    "281": {
+        "altitude": 182.1109619140625, 
+        "capacity": 15, 
+        "id": 281, 
+        "latitude": 41.907066, 
+        "location_key": "41.907066,-87.667252", 
+        "longitude": -87.667252
+    }, 
+    "282": {
+        "altitude": 180.9032440185547, 
+        "capacity": 19, 
+        "id": 282, 
+        "latitude": 41.940775, 
+        "location_key": "41.940775,-87.639192", 
+        "longitude": -87.639192
+    }, 
+    "283": {
+        "altitude": 182.1965179443359, 
+        "capacity": 15, 
+        "id": 283, 
+        "latitude": 41.831379, 
+        "location_key": "41.831379,-87.618034", 
+        "longitude": -87.618034
+    }, 
+    "284": {
+        "altitude": 181.5058288574219, 
+        "capacity": 15, 
+        "id": 284, 
+        "latitude": 41.809855, 
+        "location_key": "41.809855,-87.606755", 
+        "longitude": -87.606755
+    }, 
+    "285": {
+        "altitude": 179.2490539550781, 
+        "capacity": 19, 
+        "id": 285, 
+        "latitude": 41.896544, 
+        "location_key": "41.896544,-87.630931", 
+        "longitude": -87.630931
+    }, 
+    "286": {
+        "altitude": 181.8065032958984, 
+        "capacity": 15, 
+        "id": 286, 
+        "latitude": 41.857611, 
+        "location_key": "41.857611,-87.619407", 
+        "longitude": -87.619407
+    }, 
+    "287": {
+        "altitude": 181.7678375244141, 
+        "capacity": 11, 
+        "id": 287, 
+        "latitude": 41.838198, 
+        "location_key": "41.838198,-87.645143", 
+        "longitude": -87.645143
+    }, 
+    "288": {
+        "altitude": 182.9150543212891, 
+        "capacity": 14, 
+        "id": 288, 
+        "latitude": 41.929546, 
+        "location_key": "41.929546,-87.643118", 
+        "longitude": -87.643118
+    }, 
+    "289": {
+        "altitude": 183.3825225830078, 
+        "capacity": 19, 
+        "id": 289, 
+        "latitude": 41.866095, 
+        "location_key": "41.866095,-87.607267", 
+        "longitude": -87.607267
+    }, 
+    "290": {
+        "altitude": 180.6139984130859, 
+        "capacity": 15, 
+        "id": 290, 
+        "latitude": 41.871262, 
+        "location_key": "41.871262,-87.673688", 
+        "longitude": -87.673688
+    }, 
+    "291": {
+        "altitude": 181.614990234375, 
+        "capacity": 15, 
+        "id": 291, 
+        "latitude": 41.928887, 
+        "location_key": "41.928887,-87.658971", 
+        "longitude": -87.658971
+    }, 
+    "292": {
+        "altitude": 182.5998077392578, 
+        "capacity": 15, 
+        "id": 292, 
+        "latitude": 41.968641, 
+        "location_key": "41.968641,-87.676335", 
+        "longitude": -87.676335
+    }, 
+    "293": {
+        "altitude": 180.1228179931641, 
+        "capacity": 15, 
+        "id": 293, 
+        "latitude": 41.793242, 
+        "location_key": "41.793242,-87.587782", 
+        "longitude": -87.587782
+    }, 
+    "294": {
+        "altitude": 181.4149475097656, 
+        "capacity": 15, 
+        "id": 294, 
+        "latitude": 41.88283, 
+        "location_key": "41.88283,-87.661206", 
+        "longitude": -87.661206
+    }, 
+    "295": {
+        "altitude": 182.4773559570312, 
+        "capacity": 15, 
+        "id": 295, 
+        "latitude": 41.950687, 
+        "location_key": "41.950687,-87.6687", 
+        "longitude": -87.6687
+    }, 
+    "296": {
+        "altitude": 183.3138885498047, 
+        "capacity": 15, 
+        "id": 296, 
+        "latitude": 41.854016, 
+        "location_key": "41.854016,-87.695445", 
+        "longitude": -87.695445
+    }, 
+    "297": {
+        "altitude": 182.3464202880859, 
+        "capacity": 15, 
+        "id": 297, 
+        "latitude": 41.929143, 
+        "location_key": "41.929143,-87.649077", 
+        "longitude": -87.649077
+    }, 
+    "298": {
+        "altitude": 181.3334808349609, 
+        "capacity": 15, 
+        "id": 298, 
+        "latitude": 41.895966, 
+        "location_key": "41.895966,-87.667747", 
+        "longitude": -87.667747
+    }, 
+    "299": {
+        "altitude": 181.3030090332031, 
+        "capacity": 15, 
+        "id": 299, 
+        "latitude": 41.803038, 
+        "location_key": "41.803038,-87.606615", 
+        "longitude": -87.606615
+    }
+}
