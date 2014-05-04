@@ -1,7 +1,8 @@
 {
     "0": {
         "altitude": 15.5606689453125, 
-        "capacity": 11, 
+        "capacity": 10, 
+        "description": "31000 - 20th & Bell St", 
         "id": 0, 
         "latitude": 38.8561, 
         "location_key": "38.8561,-77.0512", 
@@ -10,6 +11,7 @@
     "1": {
         "altitude": 13.72857666015625, 
         "capacity": 11, 
+        "description": "31001 - 18th & Eads St.", 
         "id": 1, 
         "latitude": 38.85725, 
         "location_key": "38.85725,-77.05332", 
@@ -18,6 +20,7 @@
     "2": {
         "altitude": 11.36679077148438, 
         "capacity": 15, 
+        "description": "31002 - 20th & Crystal Dr", 
         "id": 2, 
         "latitude": 38.8564, 
         "location_key": "38.8564,-77.0492", 
@@ -26,6 +29,7 @@
     "3": {
         "altitude": 11.64972972869873, 
         "capacity": 11, 
+        "description": "31003 - 15th & Crystal Dr", 
         "id": 3, 
         "latitude": 38.86017, 
         "location_key": "38.86017,-77.049593", 
@@ -34,6 +38,7 @@
     "4": {
         "altitude": 16.15703201293945, 
         "capacity": 11, 
+        "description": "31004 - Aurora Hills Community Ctr/18th & Hayes St", 
         "id": 4, 
         "latitude": 38.857866, 
         "location_key": "38.857866,-77.05949", 
@@ -42,6 +47,7 @@
     "5": {
         "altitude": 13.52500343322754, 
         "capacity": 19, 
+        "description": "31005 - 12th & Hayes St /  Pentagon City Metro", 
         "id": 5, 
         "latitude": 38.862303, 
         "location_key": "38.862303,-77.059936", 
@@ -50,6 +56,7 @@
     "6": {
         "altitude": 16.03122711181641, 
         "capacity": 11, 
+        "description": "31006 - S Joyce & Army Navy Dr", 
         "id": 6, 
         "latitude": 38.8637, 
         "location_key": "38.8637,-77.0633", 
@@ -58,6 +65,7 @@
     "7": {
         "altitude": 16.15227890014648, 
         "capacity": 19, 
+        "description": "31007 - Crystal City Metro / 18th & Bell St", 
         "id": 7, 
         "latitude": 38.8573, 
         "location_key": "38.8573,-77.0511", 
@@ -66,6 +74,7 @@
     "8": {
         "altitude": 9.734509468078613, 
         "capacity": 11, 
+        "description": "31008 - 12th & Army Navy Dr", 
         "id": 8, 
         "latitude": 38.8629, 
         "location_key": "38.8629,-77.0528", 
@@ -73,7 +82,8 @@
     }, 
     "9": {
         "altitude": 8.349311828613281, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31009 - 27th & Crystal Dr", 
         "id": 9, 
         "latitude": 38.848441, 
         "location_key": "38.848441,-77.051516", 
@@ -82,6 +92,7 @@
     "10": {
         "altitude": 7.157357215881348, 
         "capacity": 11, 
+        "description": "31010 - S Glebe & Potomac Ave", 
         "id": 10, 
         "latitude": 38.8426, 
         "location_key": "38.8426,-77.0502", 
@@ -89,7 +100,8 @@
     }, 
     "11": {
         "altitude": 10.73699188232422, 
-        "capacity": 17, 
+        "capacity": 16, 
+        "description": "31011 - 23rd & Crystal Dr", 
         "id": 11, 
         "latitude": 38.8533, 
         "location_key": "38.8533,-77.0498", 
@@ -98,6 +110,7 @@
     "12": {
         "altitude": 10.56477355957031, 
         "capacity": 11, 
+        "description": "31012 - 26th & S Clark St", 
         "id": 12, 
         "latitude": 38.850688, 
         "location_key": "38.850688,-77.05152", 
@@ -106,6 +119,7 @@
     "13": {
         "altitude": 19.64131927490234, 
         "capacity": 15, 
+        "description": "31100 - 19th St & Pennsylvania Ave NW", 
         "id": 13, 
         "latitude": 38.9003, 
         "location_key": "38.9003,-77.0429", 
@@ -113,7 +127,8 @@
     }, 
     "14": {
         "altitude": 31.8912296295166, 
-        "capacity": 26, 
+        "capacity": 24, 
+        "description": "31101 - 14th & V St NW", 
         "id": 14, 
         "latitude": 38.9176, 
         "location_key": "38.9176,-77.0321", 
@@ -121,7 +136,8 @@
     }, 
     "15": {
         "altitude": 54.09494018554688, 
-        "capacity": 27, 
+        "capacity": 26, 
+        "description": "31102 - 11th & Kenyon St NW", 
         "id": 15, 
         "latitude": 38.929464, 
         "location_key": "38.929464,-77.027822", 
@@ -130,6 +146,7 @@
     "16": {
         "altitude": 58.61910247802734, 
         "capacity": 33, 
+        "description": "31103 - 16th & Harvard St NW", 
         "id": 16, 
         "latitude": 38.926088, 
         "location_key": "38.926088,-77.036536", 
@@ -138,6 +155,7 @@
     "17": {
         "altitude": 52.27529144287109, 
         "capacity": 14, 
+        "description": "31104 - Adams Mill & Columbia Rd NW", 
         "id": 17, 
         "latitude": 38.922925, 
         "location_key": "38.922925,-77.042581", 
@@ -145,7 +163,8 @@
     }, 
     "18": {
         "altitude": 59.0195198059082, 
-        "capacity": 18, 
+        "capacity": 17, 
+        "description": "31105 - 14th & Harvard St NW", 
         "id": 18, 
         "latitude": 38.9268, 
         "location_key": "38.9268,-77.0322", 
@@ -154,6 +173,7 @@
     "19": {
         "altitude": 42.65499114990234, 
         "capacity": 23, 
+        "description": "31106 - Calvert & Biltmore St NW", 
         "id": 19, 
         "latitude": 38.923203, 
         "location_key": "38.923203,-77.047637", 
@@ -161,7 +181,8 @@
     }, 
     "20": {
         "altitude": 61.76259231567383, 
-        "capacity": 16, 
+        "capacity": 17, 
+        "description": "31107 - Lamont & Mt Pleasant NW", 
         "id": 20, 
         "latitude": 38.9319, 
         "location_key": "38.9319,-77.0388", 
@@ -169,7 +190,8 @@
     }, 
     "21": {
         "altitude": 2.656832218170166, 
-        "capacity": 22, 
+        "capacity": 23, 
+        "description": "31108 - 4th & M St SW", 
         "id": 21, 
         "latitude": 38.8767, 
         "location_key": "38.8767,-77.0178", 
@@ -177,7 +199,8 @@
     }, 
     "22": {
         "altitude": 25.79398155212402, 
-        "capacity": 17, 
+        "capacity": 18, 
+        "description": "31201 - 15th & P St NW", 
         "id": 22, 
         "latitude": 38.90985, 
         "location_key": "38.90985,-77.034438", 
@@ -185,7 +208,8 @@
     }, 
     "23": {
         "altitude": 30.89404106140137, 
-        "capacity": 15, 
+        "capacity": 13, 
+        "description": "31202 - 14th & R St NW", 
         "id": 23, 
         "latitude": 38.912682, 
         "location_key": "38.912682,-77.031681", 
@@ -193,7 +217,8 @@
     }, 
     "24": {
         "altitude": 26.31488227844238, 
-        "capacity": 23, 
+        "capacity": 21, 
+        "description": "31203 - 14th & Rhode Island Ave NW", 
         "id": 24, 
         "latitude": 38.9086, 
         "location_key": "38.9086,-77.0323", 
@@ -202,6 +227,7 @@
     "25": {
         "altitude": 15.93471908569336, 
         "capacity": 15, 
+        "description": "31204 - 20th & E St NW", 
         "id": 25, 
         "latitude": 38.8963, 
         "location_key": "38.8963,-77.045", 
@@ -210,6 +236,7 @@
     "26": {
         "altitude": 20.41470527648926, 
         "capacity": 35, 
+        "description": "31205 - 21st & I St NW", 
         "id": 26, 
         "latitude": 38.9008, 
         "location_key": "38.9008,-77.047", 
@@ -218,6 +245,7 @@
     "27": {
         "altitude": 57.52791976928711, 
         "capacity": 15, 
+        "description": "31400 - Georgia & New Hampshire Ave NW", 
         "id": 27, 
         "latitude": 38.936043, 
         "location_key": "38.936043,-77.024649", 
@@ -225,7 +253,8 @@
     }, 
     "28": {
         "altitude": 50.76700210571289, 
-        "capacity": 10, 
+        "capacity": 9, 
+        "description": "31401 - 14th St & Spring Rd NW", 
         "id": 28, 
         "latitude": 38.9375, 
         "location_key": "38.9375,-77.0328", 
@@ -234,6 +263,7 @@
     "29": {
         "altitude": 47.53182601928711, 
         "capacity": 11, 
+        "description": "31502 - John McCormack Dr & Michigan Ave NE", 
         "id": 29, 
         "latitude": 38.9346, 
         "location_key": "38.9346,-76.9955", 
@@ -241,7 +271,8 @@
     }, 
     "30": {
         "altitude": 16.50502395629883, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31600 - 5th & K St NW", 
         "id": 30, 
         "latitude": 38.90304, 
         "location_key": "38.90304,-77.019027", 
@@ -250,6 +281,7 @@
     "31": {
         "altitude": 16.88389587402344, 
         "capacity": 15, 
+        "description": "31601 - 19th & East Capitol St SE", 
         "id": 31, 
         "latitude": 38.8896, 
         "location_key": "38.8896,-76.9769", 
@@ -258,6 +290,7 @@
     "32": {
         "altitude": 57.51819229125977, 
         "capacity": 19, 
+        "description": "31602 - Park Rd & Holmead Pl NW", 
         "id": 32, 
         "latitude": 38.9308, 
         "location_key": "38.9308,-77.0315", 
@@ -266,6 +299,7 @@
     "33": {
         "altitude": 85.0740966796875, 
         "capacity": 11, 
+        "description": "31700 - Good Hope & Naylor Rd SE", 
         "id": 33, 
         "latitude": 38.8601, 
         "location_key": "38.8601,-76.9672", 
@@ -274,6 +308,7 @@
     "34": {
         "altitude": 65.86598205566406, 
         "capacity": 10, 
+        "description": "31305 - Connecticut Ave & Newark St NW / Cleveland Park", 
         "id": 34, 
         "latitude": 38.934267, 
         "location_key": "38.934267,-77.057979", 
@@ -282,6 +317,7 @@
     "35": {
         "altitude": 22.77188491821289, 
         "capacity": 11, 
+        "description": "31702 - Randle Circle & Minnesota Ave SE", 
         "id": 35, 
         "latitude": 38.878, 
         "location_key": "38.878,-76.9607", 
@@ -290,6 +326,7 @@
     "36": {
         "altitude": 14.95440578460693, 
         "capacity": 11, 
+        "description": "31703 - Minnesota Ave Metro/DOES", 
         "id": 36, 
         "latitude": 38.897063, 
         "location_key": "38.897063,-76.947446", 
@@ -298,6 +335,7 @@
     "37": {
         "altitude": 6.699140548706055, 
         "capacity": 11, 
+        "description": "31704 - Nannie Helen Burroughs & Minnesota Ave NE", 
         "id": 37, 
         "latitude": 38.901385, 
         "location_key": "38.901385,-76.941877", 
@@ -306,6 +344,7 @@
     "38": {
         "altitude": 10.13159561157227, 
         "capacity": 11, 
+        "description": "31801 - Anacostia Metro", 
         "id": 38, 
         "latitude": 38.862669, 
         "location_key": "38.862669,-76.994637", 
@@ -314,6 +353,7 @@
     "39": {
         "altitude": 5.342222690582275, 
         "capacity": 11, 
+        "description": "31802 - Good Hope Rd & MLK Ave SE", 
         "id": 39, 
         "latitude": 38.867373, 
         "location_key": "38.867373,-76.988039", 
@@ -321,7 +361,8 @@
     }, 
     "40": {
         "altitude": 10.7255392074585, 
-        "capacity": 10, 
+        "capacity": 11, 
+        "description": "31206 - 19th & E Street NW", 
         "id": 40, 
         "latitude": 38.8952, 
         "location_key": "38.8952,-77.0436", 
@@ -330,6 +371,7 @@
     "41": {
         "altitude": 30.1632080078125, 
         "capacity": 11, 
+        "description": "31500 - 4th St & Rhode Island Ave NE", 
         "id": 41, 
         "latitude": 38.919488, 
         "location_key": "38.919488,-77.000624", 
@@ -338,6 +380,7 @@
     "42": {
         "altitude": 28.03221130371094, 
         "capacity": 15, 
+        "description": "31111 - 10th & U St NW", 
         "id": 42, 
         "latitude": 38.9172, 
         "location_key": "38.9172,-77.0259", 
@@ -346,6 +389,7 @@
     "43": {
         "altitude": 54.38590621948242, 
         "capacity": 11, 
+        "description": "31207 - Georgia Ave and Fairmont St NW", 
         "id": 43, 
         "latitude": 38.9249, 
         "location_key": "38.9249,-77.0222", 
@@ -353,7 +397,8 @@
     }, 
     "44": {
         "altitude": 5.027890682220459, 
-        "capacity": 39, 
+        "capacity": 38, 
+        "description": "31209 - 1st & N St  SE", 
         "id": 44, 
         "latitude": 38.8743, 
         "location_key": "38.8743,-77.0057", 
@@ -361,7 +406,8 @@
     }, 
     "45": {
         "altitude": 33.83745956420898, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31110 - 20th St & Florida Ave NW", 
         "id": 45, 
         "latitude": 38.9154, 
         "location_key": "38.9154,-77.0446", 
@@ -369,7 +415,8 @@
     }, 
     "46": {
         "altitude": 26.33180236816406, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31109 - 7th & T St NW", 
         "id": 46, 
         "latitude": 38.9155, 
         "location_key": "38.9155,-77.0222", 
@@ -378,6 +425,7 @@
     "47": {
         "altitude": 12.72733497619629, 
         "capacity": 11, 
+        "description": "31013 - 23rd & Eads St", 
         "id": 47, 
         "latitude": 38.853613, 
         "location_key": "38.853613,-77.053535", 
@@ -386,6 +434,7 @@
     "48": {
         "altitude": 4.921926021575928, 
         "capacity": 17, 
+        "description": "31208 - M St & New Jersey Ave SE", 
         "id": 48, 
         "latitude": 38.8763, 
         "location_key": "38.8763,-77.0037", 
@@ -393,7 +442,8 @@
     }, 
     "49": {
         "altitude": 27.20168685913086, 
-        "capacity": 45, 
+        "capacity": 40, 
+        "description": "31200 - Massachusetts Ave & Dupont Circle NW", 
         "id": 49, 
         "latitude": 38.9101, 
         "location_key": "38.9101,-77.0444", 
@@ -401,7 +451,8 @@
     }, 
     "50": {
         "altitude": 12.68965911865234, 
-        "capacity": 14, 
+        "capacity": 15, 
+        "description": "31603 - 1st & M St NE", 
         "id": 50, 
         "latitude": 38.9057, 
         "location_key": "38.9057,-77.0056", 
@@ -409,7 +460,8 @@
     }, 
     "51": {
         "altitude": 17.70684242248535, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31212 - 21st & M St NW", 
         "id": 51, 
         "latitude": 38.90534, 
         "location_key": "38.90534,-77.046774", 
@@ -418,6 +470,7 @@
     "52": {
         "altitude": 16.41169548034668, 
         "capacity": 18, 
+        "description": "31213 - 17th & K St NW", 
         "id": 52, 
         "latitude": 38.90276, 
         "location_key": "38.90276,-77.03863", 
@@ -426,6 +479,7 @@
     "53": {
         "altitude": 13.30525016784668, 
         "capacity": 15, 
+        "description": "31604 - 3rd & H St NW", 
         "id": 53, 
         "latitude": 38.899408, 
         "location_key": "38.899408,-77.015289", 
@@ -433,7 +487,8 @@
     }, 
     "54": {
         "altitude": 21.26190948486328, 
-        "capacity": 11, 
+        "capacity": 10, 
+        "description": "31605 - 3rd & D St SE", 
         "id": 54, 
         "latitude": 38.8851, 
         "location_key": "38.8851,-77.0023", 
@@ -442,6 +497,7 @@
     "55": {
         "altitude": 19.97657775878906, 
         "capacity": 15, 
+        "description": "31606 - Potomac & Pennsylvania Ave SE", 
         "id": 55, 
         "latitude": 38.8803, 
         "location_key": "38.8803,-76.9862", 
@@ -450,6 +506,7 @@
     "56": {
         "altitude": 23.6373291015625, 
         "capacity": 15, 
+        "description": "31607 - 14th & D St SE", 
         "id": 56, 
         "latitude": 38.884, 
         "location_key": "38.884,-76.9861", 
@@ -457,7 +514,8 @@
     }, 
     "57": {
         "altitude": 24.61739921569824, 
-        "capacity": 19, 
+        "capacity": 17, 
+        "description": "31214 - 17th & Corcoran St NW", 
         "id": 57, 
         "latitude": 38.9121, 
         "location_key": "38.9121,-77.0387", 
@@ -465,7 +523,8 @@
     }, 
     "58": {
         "altitude": 75.93164825439453, 
-        "capacity": 14, 
+        "capacity": 15, 
+        "description": "31300 - Van Ness Metro / UDC", 
         "id": 58, 
         "latitude": 38.944551, 
         "location_key": "38.944551,-77.063896", 
@@ -474,6 +533,7 @@
     "59": {
         "altitude": 22.73978233337402, 
         "capacity": 15, 
+        "description": "31503 - Florida Ave & R St NW", 
         "id": 59, 
         "latitude": 38.9126, 
         "location_key": "38.9126,-77.0135", 
@@ -482,6 +542,7 @@
     "60": {
         "altitude": 18.4916820526123, 
         "capacity": 10, 
+        "description": "31608 - 8th & Eye St SE / Barracks Row", 
         "id": 60, 
         "latitude": 38.8792, 
         "location_key": "38.8792,-76.9953", 
@@ -490,6 +551,7 @@
     "61": {
         "altitude": 115.2965240478516, 
         "capacity": 15, 
+        "description": "31301 - Ward Circle / American University", 
         "id": 61, 
         "latitude": 38.938736, 
         "location_key": "38.938736,-77.087171", 
@@ -498,6 +560,7 @@
     "62": {
         "altitude": 108.8126220703125, 
         "capacity": 15, 
+        "description": "31302 - Idaho Ave & Newark St NW [on 2nd District patio]", 
         "id": 62, 
         "latitude": 38.934751, 
         "location_key": "38.934751,-77.074647", 
@@ -506,6 +569,7 @@
     "63": {
         "altitude": 60.02486801147461, 
         "capacity": 10, 
+        "description": "31402 - 14th St Heights / 14th & Crittenden St NW", 
         "id": 63, 
         "latitude": 38.947774, 
         "location_key": "38.947774,-77.032818", 
@@ -514,6 +578,7 @@
     "64": {
         "altitude": 25.12535285949707, 
         "capacity": 11, 
+        "description": "31804 - Anacostia Library", 
         "id": 64, 
         "latitude": 38.865784, 
         "location_key": "38.865784,-76.9784", 
@@ -522,6 +587,7 @@
     "65": {
         "altitude": 12.87369632720947, 
         "capacity": 11, 
+        "description": "31805 - Pennsylvania & Minnesota Ave SE", 
         "id": 65, 
         "latitude": 38.873057, 
         "location_key": "38.873057,-76.971015", 
@@ -530,6 +596,7 @@
     "66": {
         "altitude": 26.25045776367188, 
         "capacity": 15, 
+        "description": "31610 - Eastern Market / 7th & North Carolina Ave SE", 
         "id": 66, 
         "latitude": 38.886952, 
         "location_key": "38.886952,-76.996806", 
@@ -538,6 +605,7 @@
     "67": {
         "altitude": 15.45559120178223, 
         "capacity": 18, 
+        "description": "31216 - McPherson Square / 14th & H St NW", 
         "id": 67, 
         "latitude": 38.899641, 
         "location_key": "38.899641,-77.032005", 
@@ -546,6 +614,7 @@
     "68": {
         "altitude": 16.4392204284668, 
         "capacity": 11, 
+        "description": "31705 - Benning Branch Library", 
         "id": 68, 
         "latitude": 38.894, 
         "location_key": "38.894,-76.947974", 
@@ -553,7 +622,8 @@
     }, 
     "69": {
         "altitude": 10.27722263336182, 
-        "capacity": 39, 
+        "capacity": 37, 
+        "description": "31217 - USDA / 12th & Independence Ave SW", 
         "id": 69, 
         "latitude": 38.887237, 
         "location_key": "38.887237,-77.028226", 
@@ -561,7 +631,8 @@
     }, 
     "70": {
         "altitude": 3.503065824508667, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31215 - Georgetown Harbor / 30th St NW", 
         "id": 70, 
         "latitude": 38.9022212, 
         "location_key": "38.9022212,-77.059219", 
@@ -570,6 +641,7 @@
     "71": {
         "altitude": 52.78751373291016, 
         "capacity": 10, 
+        "description": "31501 - 12th & Newton St NE", 
         "id": 71, 
         "latitude": 38.933668, 
         "location_key": "38.933668,-76.991016", 
@@ -577,7 +649,8 @@
     }, 
     "72": {
         "altitude": 12.42734432220459, 
-        "capacity": 14, 
+        "capacity": 15, 
+        "description": "31220 - US Dept of State / Virginia Ave & 21st St NW", 
         "id": 72, 
         "latitude": 38.894919, 
         "location_key": "38.894919,-77.046587", 
@@ -586,6 +659,7 @@
     "73": {
         "altitude": 7.414936065673828, 
         "capacity": 15, 
+        "description": "31218 - L'Enfant Plaza / 7th & C St SW", 
         "id": 73, 
         "latitude": 38.886266, 
         "location_key": "38.886266,-77.022241", 
@@ -594,6 +668,7 @@
     "74": {
         "altitude": 2.084423780441284, 
         "capacity": 31, 
+        "description": "31219 - 10th St & Constitution Ave NW", 
         "id": 74, 
         "latitude": 38.893028, 
         "location_key": "38.893028,-77.026013", 
@@ -602,6 +677,7 @@
     "75": {
         "altitude": 9.166781425476074, 
         "capacity": 11, 
+        "description": "31211 - Kennedy Center", 
         "id": 75, 
         "latitude": 38.895184, 
         "location_key": "38.895184,-77.054845", 
@@ -609,7 +685,8 @@
     }, 
     "76": {
         "altitude": 22.88941192626953, 
-        "capacity": 18, 
+        "capacity": 17, 
+        "description": "31613 - Eastern Market Metro / Pennsylvania Ave & 7th St SE", 
         "id": 76, 
         "latitude": 38.884, 
         "location_key": "38.884,-76.995397", 
@@ -618,6 +695,7 @@
     "77": {
         "altitude": 17.22336578369141, 
         "capacity": 19, 
+        "description": "31221 - 18th & M St NW", 
         "id": 77, 
         "latitude": 38.904742, 
         "location_key": "38.904742,-77.041606", 
@@ -626,6 +704,7 @@
     "78": {
         "altitude": 118.5104217529297, 
         "capacity": 15, 
+        "description": "31303 - Tenleytown / Wisconsin Ave & Albemarle St NW", 
         "id": 78, 
         "latitude": 38.947607, 
         "location_key": "38.947607,-77.079382", 
@@ -634,6 +713,7 @@
     "79": {
         "altitude": 12.62880516052246, 
         "capacity": 27, 
+        "description": "31611 - 13th & H St NE", 
         "id": 79, 
         "latitude": 38.9003, 
         "location_key": "38.9003,-76.9882", 
@@ -642,6 +722,7 @@
     "80": {
         "altitude": 13.64121532440186, 
         "capacity": 31, 
+        "description": "31620 - 5th & F St NW", 
         "id": 80, 
         "latitude": 38.897222, 
         "location_key": "38.897222,-77.019347", 
@@ -650,6 +731,7 @@
     "81": {
         "altitude": 15.54187870025635, 
         "capacity": 15, 
+        "description": "31222 - New York Ave & 15th St NW", 
         "id": 81, 
         "latitude": 38.8991, 
         "location_key": "38.8991,-77.0337", 
@@ -657,7 +739,8 @@
     }, 
     "82": {
         "altitude": 26.48209571838379, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31223 - Convention Center / 7th & M St NW", 
         "id": 82, 
         "latitude": 38.90572, 
         "location_key": "38.90572,-77.022264", 
@@ -665,7 +748,8 @@
     }, 
     "83": {
         "altitude": 20.76680183410645, 
-        "capacity": 15, 
+        "capacity": 13, 
+        "description": "31112 - Harvard St & Adams Mill Rd NW", 
         "id": 83, 
         "latitude": 38.927872, 
         "location_key": "38.927872,-77.043358", 
@@ -674,6 +758,7 @@
     "84": {
         "altitude": 16.89848899841309, 
         "capacity": 15, 
+        "description": "31224 - 19th & L St NW", 
         "id": 84, 
         "latitude": 38.903407, 
         "location_key": "38.903407,-77.043648", 
@@ -682,6 +767,7 @@
     "85": {
         "altitude": 14.74900436401367, 
         "capacity": 23, 
+        "description": "31225 - C & O Canal & Wisconsin Ave NW", 
         "id": 85, 
         "latitude": 38.90375, 
         "location_key": "38.90375,-77.06269", 
@@ -690,6 +776,7 @@
     "86": {
         "altitude": 3.498183250427246, 
         "capacity": 19, 
+        "description": "31609 - 6th & Water St SW / SW Waterfront", 
         "id": 86, 
         "latitude": 38.87675, 
         "location_key": "38.87675,-77.02127", 
@@ -698,6 +785,7 @@
     "87": {
         "altitude": 23.27524185180664, 
         "capacity": 21, 
+        "description": "31612 - D St & Maryland Ave NE", 
         "id": 87, 
         "latitude": 38.894758, 
         "location_key": "38.894758,-76.997114", 
@@ -706,6 +794,7 @@
     "88": {
         "altitude": 59.7326774597168, 
         "capacity": 11, 
+        "description": "31226 - 34th St & Wisconsin Ave NW", 
         "id": 88, 
         "latitude": 38.916442, 
         "location_key": "38.916442,-77.0682", 
@@ -714,6 +803,7 @@
     "89": {
         "altitude": 15.24978637695312, 
         "capacity": 22, 
+        "description": "31227 - 13th St & New York Ave NW", 
         "id": 89, 
         "latitude": 38.900283, 
         "location_key": "38.900283,-77.029822", 
@@ -722,6 +812,7 @@
     "90": {
         "altitude": 13.74985408782959, 
         "capacity": 33, 
+        "description": "31228 - 8th & H St NW", 
         "id": 90, 
         "latitude": 38.8997, 
         "location_key": "38.8997,-77.023086", 
@@ -730,6 +821,7 @@
     "91": {
         "altitude": 50.48819351196289, 
         "capacity": 11, 
+        "description": "31504 - 10th & Monroe St NE", 
         "id": 91, 
         "latitude": 38.932514, 
         "location_key": "38.932514,-76.992889", 
@@ -737,7 +829,8 @@
     }, 
     "92": {
         "altitude": 23.54323768615723, 
-        "capacity": 11, 
+        "capacity": 9, 
+        "description": "31505 - Eckington Pl & Q St NE", 
         "id": 92, 
         "latitude": 38.910972, 
         "location_key": "38.910972,-77.00495", 
@@ -746,6 +839,7 @@
     "93": {
         "altitude": 10.59722423553467, 
         "capacity": 23, 
+        "description": "31615 - 6th & H St NE", 
         "id": 93, 
         "latitude": 38.900384, 
         "location_key": "38.900384,-76.99831", 
@@ -754,6 +848,7 @@
     "94": {
         "altitude": 13.46404838562012, 
         "capacity": 19, 
+        "description": "31616 - 3rd & H St NE", 
         "id": 94, 
         "latitude": 38.900412, 
         "location_key": "38.900412,-77.001949", 
@@ -761,7 +856,8 @@
     }, 
     "95": {
         "altitude": 14.46965503692627, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31617 - Bladensburg Rd & Benning Rd NE", 
         "id": 95, 
         "latitude": 38.900413, 
         "location_key": "38.900413,-76.982872", 
@@ -770,6 +866,7 @@
     "96": {
         "altitude": 27.44129180908203, 
         "capacity": 11, 
+        "description": "31618 - 4th & East Capitol St NE", 
         "id": 96, 
         "latitude": 38.889955, 
         "location_key": "38.889955,-77.000349", 
@@ -778,6 +875,7 @@
     "97": {
         "altitude": 27.06689262390137, 
         "capacity": 25, 
+        "description": "31619 - Lincoln Park / 13th & East Capitol St NE", 
         "id": 97, 
         "latitude": 38.890461, 
         "location_key": "38.890461,-76.988355", 
@@ -786,6 +884,7 @@
     "98": {
         "altitude": 48.81552886962891, 
         "capacity": 11, 
+        "description": "31701 - Branch & Pennsylvania Ave SE", 
         "id": 98, 
         "latitude": 38.8692, 
         "location_key": "38.8692,-76.9599", 
@@ -794,6 +893,7 @@
     "99": {
         "altitude": 23.48282241821289, 
         "capacity": 30, 
+        "description": "31622 - 13th & D St NE", 
         "id": 99, 
         "latitude": 38.894832, 
         "location_key": "38.894832,-76.987633", 
@@ -802,6 +902,7 @@
     "100": {
         "altitude": 27.61468124389648, 
         "capacity": 23, 
+        "description": "31229 - New Hampshire Ave & T St NW", 
         "id": 100, 
         "latitude": 38.91554, 
         "location_key": "38.91554,-77.03818", 
@@ -809,7 +910,8 @@
     }, 
     "101": {
         "altitude": 11.10407638549805, 
-        "capacity": 31, 
+        "capacity": 29, 
+        "description": "31230 - Metro Center / 12th & G St NW", 
         "id": 101, 
         "latitude": 38.898364, 
         "location_key": "38.898364,-77.027869", 
@@ -818,6 +920,7 @@
     "102": {
         "altitude": 3.207460641860962, 
         "capacity": 25, 
+        "description": "31231 - 14th & D St NW / Ronald Reagan Building", 
         "id": 102, 
         "latitude": 38.894514, 
         "location_key": "38.894514,-77.031617", 
@@ -825,7 +928,8 @@
     }, 
     "103": {
         "altitude": 12.75894641876221, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31232 - 7th & F St NW / National Portrait Gallery", 
         "id": 103, 
         "latitude": 38.897324, 
         "location_key": "38.897324,-77.022322", 
@@ -834,6 +938,7 @@
     "104": {
         "altitude": 17.51367378234863, 
         "capacity": 27, 
+        "description": "31233 - 17th & K St NW / Farragut Square", 
         "id": 104, 
         "latitude": 38.902061, 
         "location_key": "38.902061,-77.038322", 
@@ -841,7 +946,8 @@
     }, 
     "105": {
         "altitude": 25.56000900268555, 
-        "capacity": 18, 
+        "capacity": 17, 
+        "description": "31234 - 20th & O St NW / Dupont South", 
         "id": 105, 
         "latitude": 38.908905, 
         "location_key": "38.908905,-77.04478", 
@@ -850,6 +956,7 @@
     "106": {
         "altitude": 10.76544570922852, 
         "capacity": 15, 
+        "description": "31621 - 4th & D St NW / Judiciary Square", 
         "id": 106, 
         "latitude": 38.895344, 
         "location_key": "38.895344,-77.016106", 
@@ -858,6 +965,7 @@
     "107": {
         "altitude": 5.239851474761963, 
         "capacity": 33, 
+        "description": "31235 - 19th St & Constitution Ave NW", 
         "id": 107, 
         "latitude": 38.8923, 
         "location_key": "38.8923,-77.0436", 
@@ -865,7 +973,8 @@
     }, 
     "108": {
         "altitude": 41.89768981933594, 
-        "capacity": 22, 
+        "capacity": 23, 
+        "description": "31236 - 37th & O St NW / Georgetown University", 
         "id": 108, 
         "latitude": 38.90774, 
         "location_key": "38.90774,-77.071652", 
@@ -874,6 +983,7 @@
     "109": {
         "altitude": 12.89596557617188, 
         "capacity": 19, 
+        "description": "31614 - 11th & H St NE", 
         "id": 109, 
         "latitude": 38.899983, 
         "location_key": "38.899983,-76.991383", 
@@ -881,7 +991,8 @@
     }, 
     "110": {
         "altitude": 18.08762168884277, 
-        "capacity": 15, 
+        "capacity": 12, 
+        "description": "31237 - 25th St & Pennsylvania Ave NW", 
         "id": 110, 
         "latitude": 38.903827, 
         "location_key": "38.903827,-77.053485", 
@@ -889,7 +1000,8 @@
     }, 
     "111": {
         "altitude": 16.39504814147949, 
-        "capacity": 31, 
+        "capacity": 30, 
+        "description": "31623 - Columbus Circle / Union Station", 
         "id": 111, 
         "latitude": 38.89696, 
         "location_key": "38.89696,-77.00493", 
@@ -897,7 +1009,8 @@
     }, 
     "112": {
         "altitude": 11.06613159179688, 
-        "capacity": 23, 
+        "capacity": 21, 
+        "description": "31624 - North Capitol St & F St NW", 
         "id": 112, 
         "latitude": 38.897446, 
         "location_key": "38.897446,-77.009888", 
@@ -906,6 +1019,7 @@
     "113": {
         "altitude": 27.64831161499023, 
         "capacity": 18, 
+        "description": "31266 - 11th & M St NW", 
         "id": 113, 
         "latitude": 38.905607, 
         "location_key": "38.905607,-77.027137", 
@@ -914,6 +1028,7 @@
     "114": {
         "altitude": 79.38992309570312, 
         "capacity": 15, 
+        "description": "31304 - 36th & Calvert St NW / Glover Park", 
         "id": 114, 
         "latitude": 38.922581, 
         "location_key": "38.922581,-77.070334", 
@@ -922,6 +1037,7 @@
     "115": {
         "altitude": 12.63972282409668, 
         "capacity": 23, 
+        "description": "31238 - 14th & G St NW", 
         "id": 115, 
         "latitude": 38.898069, 
         "location_key": "38.898069,-77.031823", 
@@ -930,6 +1046,7 @@
     "116": {
         "altitude": 8.002313613891602, 
         "capacity": 23, 
+        "description": "31052 - Potomac Ave & 35th St S", 
         "id": 116, 
         "latitude": 38.844015, 
         "location_key": "38.844015,-77.050537", 
@@ -938,6 +1055,7 @@
     "117": {
         "altitude": 2.944390296936035, 
         "capacity": 22, 
+        "description": "31240 - Ohio Dr & West Basin Dr SW / MLK & FDR Memorials", 
         "id": 117, 
         "latitude": 38.88412, 
         "location_key": "38.88412,-77.04657", 
@@ -946,6 +1064,7 @@
     "118": {
         "altitude": 10.7493782043457, 
         "capacity": 15, 
+        "description": "31262 - 11th & F St NW", 
         "id": 118, 
         "latitude": 38.897857, 
         "location_key": "38.897857,-77.026975", 
@@ -953,7 +1072,8 @@
     }, 
     "119": {
         "altitude": 19.13022994995117, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "31260 - 23rd & E St NW", 
         "id": 119, 
         "latitude": 38.896104, 
         "location_key": "38.896104,-77.049882", 
@@ -962,6 +1082,7 @@
     "120": {
         "altitude": 20.75925445556641, 
         "capacity": 19, 
+        "description": "31014 - Lynn & 19th St North", 
         "id": 120, 
         "latitude": 38.897315, 
         "location_key": "38.897315,-77.070993", 
@@ -970,6 +1091,7 @@
     "121": {
         "altitude": 32.61693572998047, 
         "capacity": 15, 
+        "description": "31015 - Rosslyn Metro / Wilson Blvd & Ft Myer Dr", 
         "id": 121, 
         "latitude": 38.8946, 
         "location_key": "38.8946,-77.072305", 
@@ -978,6 +1100,7 @@
     "122": {
         "altitude": 53.83677673339844, 
         "capacity": 11, 
+        "description": "31016 - Clarendon Blvd & Pierce St", 
         "id": 122, 
         "latitude": 38.893648, 
         "location_key": "38.893648,-77.076701", 
@@ -985,7 +1108,8 @@
     }, 
     "123": {
         "altitude": 70.18948364257812, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31017 - Court House Metro / Wilson Blvd & N Uhle St", 
         "id": 123, 
         "latitude": 38.891696, 
         "location_key": "38.891696,-77.0846", 
@@ -994,6 +1118,7 @@
     "124": {
         "altitude": 50.95602416992188, 
         "capacity": 11, 
+        "description": "31018 - N Rhodes & 16th St N", 
         "id": 124, 
         "latitude": 38.892164, 
         "location_key": "38.892164,-77.079375", 
@@ -1002,6 +1127,7 @@
     "125": {
         "altitude": 81.5824203491211, 
         "capacity": 15, 
+        "description": "31706 - Fairfax Village", 
         "id": 125, 
         "latitude": 38.86559, 
         "location_key": "38.86559,-76.952103", 
@@ -1009,7 +1135,8 @@
     }, 
     "126": {
         "altitude": 6.634644508361816, 
-        "capacity": 14, 
+        "capacity": 15, 
+        "description": "31261 - 21st St & Constitution Ave NW", 
         "id": 126, 
         "latitude": 38.892459, 
         "location_key": "38.892459,-77.046567", 
@@ -1018,6 +1145,7 @@
     "127": {
         "altitude": 75.45771789550781, 
         "capacity": 15, 
+        "description": "31019 - Wilson Blvd & N Edgewood St", 
         "id": 127, 
         "latitude": 38.889, 
         "location_key": "38.889,-77.0925", 
@@ -1026,6 +1154,7 @@
     "128": {
         "altitude": 55.00704193115234, 
         "capacity": 19, 
+        "description": "31113 - Columbia Rd & Belmont St NW", 
         "id": 128, 
         "latitude": 38.920669, 
         "location_key": "38.920669,-77.04368", 
@@ -1033,7 +1162,8 @@
     }, 
     "129": {
         "altitude": 20.53004264831543, 
-        "capacity": 23, 
+        "capacity": 22, 
+        "description": "31239 - 17th & Rhode Island Ave NW", 
         "id": 129, 
         "latitude": 38.906602, 
         "location_key": "38.906602,-77.038785", 
@@ -1041,7 +1171,8 @@
     }, 
     "130": {
         "altitude": 25.43820571899414, 
-        "capacity": 32, 
+        "capacity": 30, 
+        "description": "31241 - Thomas Circle", 
         "id": 130, 
         "latitude": 38.9059, 
         "location_key": "38.9059,-77.0325", 
@@ -1049,7 +1180,8 @@
     }, 
     "131": {
         "altitude": 71.20250701904297, 
-        "capacity": 9, 
+        "capacity": 11, 
+        "description": "31020 - Wilson Blvd & Franklin Rd", 
         "id": 131, 
         "latitude": 38.8904, 
         "location_key": "38.8904,-77.0889", 
@@ -1057,7 +1189,8 @@
     }, 
     "132": {
         "altitude": 77.9881591796875, 
-        "capacity": 14, 
+        "capacity": 13, 
+        "description": "31021 - Clarendon Blvd & N Fillmore St", 
         "id": 132, 
         "latitude": 38.8881, 
         "location_key": "38.8881,-77.09308", 
@@ -1066,6 +1199,7 @@
     "133": {
         "altitude": 80.32975006103516, 
         "capacity": 17, 
+        "description": "31022 - Clarendon Metro / Wilson Blvd & N Highland St", 
         "id": 133, 
         "latitude": 38.88786, 
         "location_key": "38.88786,-77.094875", 
@@ -1074,6 +1208,7 @@
     "134": {
         "altitude": 18.27716636657715, 
         "capacity": 15, 
+        "description": "31242 - 18th St & Pennsylvania Ave NW", 
         "id": 134, 
         "latitude": 38.89968, 
         "location_key": "38.89968,-77.041539", 
@@ -1082,6 +1217,7 @@
     "135": {
         "altitude": 4.429186820983887, 
         "capacity": 37, 
+        "description": "31243 - Maryland & Independence Ave SW", 
         "id": 135, 
         "latitude": 38.887299, 
         "location_key": "38.887299,-77.018939", 
@@ -1089,7 +1225,8 @@
     }, 
     "136": {
         "altitude": 5.178215026855469, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31244 - 4th & E St SW", 
         "id": 136, 
         "latitude": 38.88412, 
         "location_key": "38.88412,-77.017445", 
@@ -1098,6 +1235,7 @@
     "137": {
         "altitude": 15.65105152130127, 
         "capacity": 19, 
+        "description": "31625 - 3rd & G St SE", 
         "id": 137, 
         "latitude": 38.881185, 
         "location_key": "38.881185,-77.001828", 
@@ -1105,7 +1243,8 @@
     }, 
     "138": {
         "altitude": 23.87114524841309, 
-        "capacity": 14, 
+        "capacity": 15, 
+        "description": "31245 - 7th & R St NW / Shaw Library", 
         "id": 138, 
         "latitude": 38.912719, 
         "location_key": "38.912719,-77.022155", 
@@ -1114,6 +1253,7 @@
     "139": {
         "altitude": 57.59575271606445, 
         "capacity": 15, 
+        "description": "31404 - 9th & Upshur St NW", 
         "id": 139, 
         "latitude": 38.9418, 
         "location_key": "38.9418,-77.0251", 
@@ -1122,6 +1262,7 @@
     "140": {
         "altitude": 24.99739265441895, 
         "capacity": 15, 
+        "description": "31506 - 1st & Rhode Island Ave NW", 
         "id": 140, 
         "latitude": 38.915417, 
         "location_key": "38.915417,-77.012289", 
@@ -1130,6 +1271,7 @@
     "141": {
         "altitude": 58.36620712280273, 
         "capacity": 19, 
+        "description": "31115 - Columbia Rd & Georgia Ave NW", 
         "id": 141, 
         "latitude": 38.928156, 
         "location_key": "38.928156,-77.02344", 
@@ -1138,6 +1280,7 @@
     "142": {
         "altitude": 33.92440032958984, 
         "capacity": 19, 
+        "description": "31116 - California St & Florida Ave NW", 
         "id": 142, 
         "latitude": 38.917761, 
         "location_key": "38.917761,-77.04062", 
@@ -1146,6 +1289,7 @@
     "143": {
         "altitude": 23.50996017456055, 
         "capacity": 19, 
+        "description": "31707 - Benning Rd & East Capitol St NE / Benning Rd Metro", 
         "id": 143, 
         "latitude": 38.889935, 
         "location_key": "38.889935,-76.93723", 
@@ -1154,6 +1298,7 @@
     "144": {
         "altitude": 67.4982681274414, 
         "capacity": 15, 
+        "description": "31307 - 3000 Connecticut Ave NW / National Zoo", 
         "id": 144, 
         "latitude": 38.930282, 
         "location_key": "38.930282,-77.055599", 
@@ -1162,6 +1307,7 @@
     "145": {
         "altitude": 4.922235012054443, 
         "capacity": 15, 
+        "description": "31708 - Anacostia Ave & Benning Rd NE / River Terrace", 
         "id": 145, 
         "latitude": 38.896544, 
         "location_key": "38.896544,-76.96012", 
@@ -1170,6 +1316,7 @@
     "146": {
         "altitude": 13.02076625823975, 
         "capacity": 18, 
+        "description": "31246 - M St & Pennsylvania Ave NW", 
         "id": 146, 
         "latitude": 38.905126, 
         "location_key": "38.905126,-77.056887", 
@@ -1178,6 +1325,7 @@
     "147": {
         "altitude": 23.85983657836914, 
         "capacity": 15, 
+        "description": "31626 - 15th St & Massachusetts Ave SE", 
         "id": 147, 
         "latitude": 38.88732, 
         "location_key": "38.88732,-76.983569", 
@@ -1186,6 +1334,7 @@
     "148": {
         "altitude": 55.47500610351562, 
         "capacity": 15, 
+        "description": "31806 - Congress Heights Metro", 
         "id": 148, 
         "latitude": 38.844711, 
         "location_key": "38.844711,-76.987823", 
@@ -1194,6 +1343,7 @@
     "149": {
         "altitude": 82.53297424316406, 
         "capacity": 11, 
+        "description": "31035 - N Quincy St & Glebe Rd", 
         "id": 149, 
         "latitude": 38.876393, 
         "location_key": "38.876393,-77.107735", 
@@ -1202,6 +1352,7 @@
     "150": {
         "altitude": 80.50721740722656, 
         "capacity": 11, 
+        "description": "31033 - Wilson Blvd & N Oakland St", 
         "id": 150, 
         "latitude": 38.8815, 
         "location_key": "38.8815,-77.10396", 
@@ -1210,6 +1361,7 @@
     "151": {
         "altitude": 62.88417434692383, 
         "capacity": 15, 
+        "description": "31029 - N Veitch  & 20th St N", 
         "id": 151, 
         "latitude": 38.896923, 
         "location_key": "38.896923,-77.086502", 
@@ -1217,7 +1369,8 @@
     }, 
     "152": {
         "altitude": 20.54824256896973, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31263 - 11th & K St NW", 
         "id": 152, 
         "latitude": 38.90268, 
         "location_key": "38.90268,-77.02674", 
@@ -1226,6 +1379,7 @@
     "153": {
         "altitude": 80.12118530273438, 
         "capacity": 11, 
+        "description": "31023 - Fairfax Dr & Wilson Blvd", 
         "id": 153, 
         "latitude": 38.885801, 
         "location_key": "38.885801,-77.097745", 
@@ -1234,6 +1388,7 @@
     "154": {
         "altitude": 47.27431106567383, 
         "capacity": 11, 
+        "description": "31027 - Key Blvd & N Quinn St", 
         "id": 154, 
         "latitude": 38.896015, 
         "location_key": "38.896015,-77.078107", 
@@ -1242,6 +1397,7 @@
     "155": {
         "altitude": 8.736672401428223, 
         "capacity": 15, 
+        "description": "31628 - 1st & K St SE", 
         "id": 155, 
         "latitude": 38.87861, 
         "location_key": "38.87861,-77.006004", 
@@ -1250,6 +1406,7 @@
     "156": {
         "altitude": 92.86613464355469, 
         "capacity": 19, 
+        "description": "31306 - 39th & Calvert St NW / Stoddert", 
         "id": 156, 
         "latitude": 38.922649, 
         "location_key": "38.922649,-77.077271", 
@@ -1257,7 +1414,8 @@
     }, 
     "157": {
         "altitude": 57.92631530761719, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31507 - 1st & Washington Hospital Center NW", 
         "id": 157, 
         "latitude": 38.928743, 
         "location_key": "38.928743,-77.012457", 
@@ -1266,6 +1424,7 @@
     "158": {
         "altitude": 78.00695037841797, 
         "capacity": 19, 
+        "description": "31024 - Virginia Square Metro / N Monroe St & 9th St N", 
         "id": 158, 
         "latitude": 38.882788, 
         "location_key": "38.882788,-77.103148", 
@@ -1274,6 +1433,7 @@
     "159": {
         "altitude": 80.46337127685547, 
         "capacity": 11, 
+        "description": "31025 - Central Library / N Quincy St & 10th St N", 
         "id": 159, 
         "latitude": 38.88397, 
         "location_key": "38.88397,-77.10783", 
@@ -1282,6 +1442,7 @@
     "160": {
         "altitude": 79.16438293457031, 
         "capacity": 15, 
+        "description": "31026 - Washington Blvd & 10th St N", 
         "id": 160, 
         "latitude": 38.884734, 
         "location_key": "38.884734,-77.093485", 
@@ -1289,7 +1450,8 @@
     }, 
     "161": {
         "altitude": 9.493369102478027, 
-        "capacity": 22, 
+        "capacity": 20, 
+        "description": "31247 - Jefferson Dr & 14th St SW", 
         "id": 161, 
         "latitude": 38.888553, 
         "location_key": "38.888553,-77.032429", 
@@ -1297,7 +1459,8 @@
     }, 
     "162": {
         "altitude": 9.438148498535156, 
-        "capacity": 21, 
+        "capacity": 20, 
+        "description": "31248 - Smithsonian / Jefferson Dr & 12th St SW", 
         "id": 162, 
         "latitude": 38.888767, 
         "location_key": "38.888767,-77.02858", 
@@ -1306,6 +1469,7 @@
     "163": {
         "altitude": 80.97708129882812, 
         "capacity": 15, 
+        "description": "31036 - George Mason Dr & Wilson Blvd", 
         "id": 163, 
         "latitude": 38.87887, 
         "location_key": "38.87887,-77.1207", 
@@ -1313,7 +1477,8 @@
     }, 
     "164": {
         "altitude": 8.543251991271973, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "31264 - 6th St & Indiana Ave NW", 
         "id": 164, 
         "latitude": 38.894573, 
         "location_key": "38.894573,-77.01994", 
@@ -1322,6 +1487,7 @@
     "165": {
         "altitude": 70.35472869873047, 
         "capacity": 11, 
+        "description": "31028 - N Veitch & Key Blvd", 
         "id": 165, 
         "latitude": 38.893241, 
         "location_key": "38.893241,-77.086045", 
@@ -1330,6 +1496,7 @@
     "166": {
         "altitude": 69.8947525024414, 
         "capacity": 15, 
+        "description": "31030 - N Adams St & Lee Hwy", 
         "id": 166, 
         "latitude": 38.89593, 
         "location_key": "38.89593,-77.089006", 
@@ -1338,6 +1505,7 @@
     "167": {
         "altitude": 55.44822692871094, 
         "capacity": 11, 
+        "description": "31031 - 15th & N Scott St", 
         "id": 167, 
         "latitude": 38.89054, 
         "location_key": "38.89054,-77.08095", 
@@ -1346,6 +1514,7 @@
     "168": {
         "altitude": 78.09356689453125, 
         "capacity": 11, 
+        "description": "31032 - Washington Blvd & 7th St N", 
         "id": 168, 
         "latitude": 38.880834, 
         "location_key": "38.880834,-77.091129", 
@@ -1354,6 +1523,7 @@
     "169": {
         "altitude": 81.14744567871094, 
         "capacity": 19, 
+        "description": "31037 - Ballston Metro / N Stuart & 9th St N", 
         "id": 169, 
         "latitude": 38.881044, 
         "location_key": "38.881044,-77.111768", 
@@ -1362,6 +1532,7 @@
     "170": {
         "altitude": 80.15708923339844, 
         "capacity": 11, 
+        "description": "31034 - N Randolph St & Fairfax Dr", 
         "id": 170, 
         "latitude": 38.882629, 
         "location_key": "38.882629,-77.109366", 
@@ -1369,7 +1540,8 @@
     }, 
     "171": {
         "altitude": 3.877087831497192, 
-        "capacity": 22, 
+        "capacity": 19, 
+        "description": "31249 - Jefferson Memorial", 
         "id": 171, 
         "latitude": 38.879819, 
         "location_key": "38.879819,-77.037413", 
@@ -1378,6 +1550,7 @@
     "172": {
         "altitude": 10.41225814819336, 
         "capacity": 15, 
+        "description": "31803 - Good Hope Rd & 14th St SE", 
         "id": 172, 
         "latitude": 38.866611, 
         "location_key": "38.866611,-76.985238", 
@@ -1386,6 +1559,7 @@
     "173": {
         "altitude": 82.56097412109375, 
         "capacity": 11, 
+        "description": "31038 - Glebe Rd & 11th St N", 
         "id": 173, 
         "latitude": 38.883921, 
         "location_key": "38.883921,-77.116817", 
@@ -1394,6 +1568,7 @@
     "174": {
         "altitude": 83.18074798583984, 
         "capacity": 11, 
+        "description": "31039 - N Quincy St & Wilson Blvd", 
         "id": 174, 
         "latitude": 38.880151, 
         "location_key": "38.880151,-77.107673", 
@@ -1402,6 +1577,7 @@
     "175": {
         "altitude": 73.34848022460938, 
         "capacity": 11, 
+        "description": "31040 - Fairfax Dr & Kenmore St", 
         "id": 175, 
         "latitude": 38.884616, 
         "location_key": "38.884616,-77.10108", 
@@ -1409,7 +1585,8 @@
     }, 
     "176": {
         "altitude": 22.53493499755859, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31508 - Gallaudet / 8th St & Florida Ave NE", 
         "id": 176, 
         "latitude": 38.90509, 
         "location_key": "38.90509,-76.9941", 
@@ -1417,7 +1594,8 @@
     }, 
     "177": {
         "altitude": 14.97035694122314, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "31250 - 20th & L St NW", 
         "id": 177, 
         "latitude": 38.903584, 
         "location_key": "38.903584,-77.044789", 
@@ -1425,7 +1603,8 @@
     }, 
     "178": {
         "altitude": 26.22760772705078, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31251 - 12th & L St NW", 
         "id": 178, 
         "latitude": 38.903819, 
         "location_key": "38.903819,-77.0284", 
@@ -1434,6 +1613,7 @@
     "179": {
         "altitude": 22.30884552001953, 
         "capacity": 19, 
+        "description": "31252 - 21st St & Pennsylvania Ave NW", 
         "id": 179, 
         "latitude": 38.901539, 
         "location_key": "38.901539,-77.046564", 
@@ -1442,6 +1622,7 @@
     "180": {
         "altitude": 21.73998641967773, 
         "capacity": 23, 
+        "description": "31253 - 19th & K St NW", 
         "id": 180, 
         "latitude": 38.902204, 
         "location_key": "38.902204,-77.04337", 
@@ -1450,6 +1631,7 @@
     "181": {
         "altitude": 1.501313924789429, 
         "capacity": 19, 
+        "description": "31041 - Prince St & Union St", 
         "id": 181, 
         "latitude": 38.803124, 
         "location_key": "38.803124,-77.040363", 
@@ -1457,7 +1639,8 @@
     }, 
     "182": {
         "altitude": 9.524843215942383, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31042 - Market Square / King St & Royal St", 
         "id": 182, 
         "latitude": 38.804718, 
         "location_key": "38.804718,-77.043363", 
@@ -1466,6 +1649,7 @@
     "183": {
         "altitude": 10.29370594024658, 
         "capacity": 15, 
+        "description": "31043 - Saint Asaph St & Pendleton  St", 
         "id": 183, 
         "latitude": 38.810743, 
         "location_key": "38.810743,-77.044664", 
@@ -1474,6 +1658,7 @@
     "184": {
         "altitude": 13.34250354766846, 
         "capacity": 15, 
+        "description": "31044 - King St & Patrick St", 
         "id": 184, 
         "latitude": 38.805317, 
         "location_key": "38.805317,-77.049883", 
@@ -1482,6 +1667,7 @@
     "185": {
         "altitude": 19.33493995666504, 
         "capacity": 18, 
+        "description": "31254 - 15th & K St NW", 
         "id": 185, 
         "latitude": 38.902, 
         "location_key": "38.902,-77.03353", 
@@ -1490,6 +1676,7 @@
     "186": {
         "altitude": 9.821540832519531, 
         "capacity": 14, 
+        "description": "31045 - Commerce St & Fayette St", 
         "id": 186, 
         "latitude": 38.805648, 
         "location_key": "38.805648,-77.05293", 
@@ -1497,7 +1684,8 @@
     }, 
     "187": {
         "altitude": 13.67070293426514, 
-        "capacity": 17, 
+        "capacity": 16, 
+        "description": "31046 - Henry St & Pendleton St", 
         "id": 187, 
         "latitude": 38.811456, 
         "location_key": "38.811456,-77.050276", 
@@ -1506,6 +1694,7 @@
     "188": {
         "altitude": 11.28606414794922, 
         "capacity": 19, 
+        "description": "31047 - Braddock Rd Metro", 
         "id": 188, 
         "latitude": 38.814577, 
         "location_key": "38.814577,-77.052808", 
@@ -1513,7 +1702,8 @@
     }, 
     "189": {
         "altitude": 6.271341800689697, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31048 - King St Metro", 
         "id": 189, 
         "latitude": 38.805767, 
         "location_key": "38.805767,-77.06072", 
@@ -1522,6 +1712,7 @@
     "190": {
         "altitude": 18.79598999023438, 
         "capacity": 15, 
+        "description": "31255 - 24th & N St NW", 
         "id": 190, 
         "latitude": 38.9066, 
         "location_key": "38.9066,-77.05152", 
@@ -1530,6 +1721,7 @@
     "191": {
         "altitude": 5.715006828308105, 
         "capacity": 14, 
+        "description": "31256 - 10th & E St NW", 
         "id": 191, 
         "latitude": 38.895914, 
         "location_key": "38.895914,-77.026064", 
@@ -1538,6 +1730,7 @@
     "192": {
         "altitude": 12.83017063140869, 
         "capacity": 15, 
+        "description": "31257 - 22nd & I St NW / Foggy Bottom", 
         "id": 192, 
         "latitude": 38.90088, 
         "location_key": "38.90088,-77.048911", 
@@ -1546,6 +1739,7 @@
     "193": {
         "altitude": 82.24677276611328, 
         "capacity": 11, 
+        "description": "31049 - Utah St & 11th St N", 
         "id": 193, 
         "latitude": 38.883669, 
         "location_key": "38.883669,-77.113905", 
@@ -1554,6 +1748,7 @@
     "194": {
         "altitude": 65.7063217163086, 
         "capacity": 11, 
+        "description": "31050 - Barton St & 10th St N", 
         "id": 194, 
         "latitude": 38.884961, 
         "location_key": "38.884961,-77.08777", 
@@ -1561,7 +1756,8 @@
     }, 
     "195": {
         "altitude": 44.8881950378418, 
-        "capacity": 11, 
+        "capacity": 10, 
+        "description": "31051 - Arlington Blvd & N Queen St", 
         "id": 195, 
         "latitude": 38.889365, 
         "location_key": "38.889365,-77.077294", 
@@ -1570,6 +1766,7 @@
     "196": {
         "altitude": 6.700043678283691, 
         "capacity": 24, 
+        "description": "31258 - Lincoln Memorial", 
         "id": 196, 
         "latitude": 38.888251, 
         "location_key": "38.888251,-77.049426", 
@@ -1578,6 +1775,7 @@
     "197": {
         "altitude": 10.08331871032715, 
         "capacity": 15, 
+        "description": "31259 - 20th St & Virginia Ave NW", 
         "id": 197, 
         "latitude": 38.894722, 
         "location_key": "38.894722,-77.045128", 
@@ -1585,7 +1783,8 @@
     }, 
     "198": {
         "altitude": 14.3451681137085, 
-        "capacity": 16, 
+        "capacity": 17, 
+        "description": "31265 - 5th St & Massachusetts Ave NW", 
         "id": 198, 
         "latitude": 38.90093, 
         "location_key": "38.90093,-77.018677", 
@@ -1594,6 +1793,7 @@
     "199": {
         "altitude": 113.7411193847656, 
         "capacity": 15, 
+        "description": "31308 - 39th & Veazey St NW", 
         "id": 199, 
         "latitude": 38.943837, 
         "location_key": "38.943837,-77.077078", 
@@ -1601,7 +1801,8 @@
     }, 
     "200": {
         "altitude": 98.52775573730469, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31309 - Fessenden St & Wisconsin Ave NW", 
         "id": 200, 
         "latitude": 38.954812, 
         "location_key": "38.954812,-77.082426", 
@@ -1609,7 +1810,8 @@
     }, 
     "201": {
         "altitude": 14.71835803985596, 
-        "capacity": 20, 
+        "capacity": 19, 
+        "description": "31627 - M St & Delaware Ave NE", 
         "id": 201, 
         "latitude": 38.905707, 
         "location_key": "38.905707,-77.003041", 
@@ -1618,6 +1820,7 @@
     "202": {
         "altitude": 61.52791595458984, 
         "capacity": 15, 
+        "description": "31053 - Columbia Pike & S Courthouse Rd", 
         "id": 202, 
         "latitude": 38.863833, 
         "location_key": "38.863833,-77.080319", 
@@ -1626,6 +1829,7 @@
     "203": {
         "altitude": 58.86970138549805, 
         "capacity": 11, 
+        "description": "31054 - Walter Reed Community Center / Walter Reed Dr & 16th St S", 
         "id": 203, 
         "latitude": 38.857803, 
         "location_key": "38.857803,-77.086733", 
@@ -1634,6 +1838,7 @@
     "204": {
         "altitude": 5.656689643859863, 
         "capacity": 15, 
+        "description": "31055 - 28th St S & S Meade St", 
         "id": 204, 
         "latitude": 38.846222, 
         "location_key": "38.846222,-77.069275", 
@@ -1641,7 +1846,8 @@
     }, 
     "205": {
         "altitude": 43.57538223266602, 
-        "capacity": 22, 
+        "capacity": 21, 
+        "description": "31114 - 18th St & Wyoming Ave NW", 
         "id": 205, 
         "latitude": 38.918809, 
         "location_key": "38.918809,-77.041571", 
@@ -1650,6 +1856,7 @@
     "206": {
         "altitude": 62.69523620605469, 
         "capacity": 15, 
+        "description": "31403 - 5th & Kennedy St NW", 
         "id": 206, 
         "latitude": 38.956595, 
         "location_key": "38.956595,-77.019815", 
@@ -1658,6 +1865,7 @@
     "207": {
         "altitude": 55.85353088378906, 
         "capacity": 19, 
+        "description": "31405 - Georgia Ave & Emerson St NW", 
         "id": 207, 
         "latitude": 38.949662, 
         "location_key": "38.949662,-77.027333", 
@@ -1665,7 +1873,8 @@
     }, 
     "208": {
         "altitude": 47.90610504150391, 
-        "capacity": 18, 
+        "capacity": 17, 
+        "description": "31406 - 14th & Upshur St NW", 
         "id": 208, 
         "latitude": 38.942016, 
         "location_key": "38.942016,-77.032652", 
@@ -1674,6 +1883,7 @@
     "209": {
         "altitude": 77.70726013183594, 
         "capacity": 19, 
+        "description": "31407 - 14th St & Colorado Ave NW", 
         "id": 209, 
         "latitude": 38.956432, 
         "location_key": "38.956432,-77.032947", 
@@ -1682,6 +1892,7 @@
     "210": {
         "altitude": 10.45624351501465, 
         "capacity": 11, 
+        "description": "31056 - S Troy St & 26th St S", 
         "id": 210, 
         "latitude": 38.847977, 
         "location_key": "38.847977,-77.075104", 
@@ -1690,6 +1901,7 @@
     "211": {
         "altitude": 17.12137031555176, 
         "capacity": 11, 
+        "description": "31057 - S Four Mile Run Dr & S Shirlington Rd", 
         "id": 211, 
         "latitude": 38.8444, 
         "location_key": "38.8444,-77.085931", 
@@ -1698,6 +1910,7 @@
     "212": {
         "altitude": 55.97264099121094, 
         "capacity": 11, 
+        "description": "31058 - S Oakland St & Columbia Pike", 
         "id": 212, 
         "latitude": 38.860789, 
         "location_key": "38.860789,-77.09586", 
@@ -1705,7 +1918,8 @@
     }, 
     "213": {
         "altitude": 48.9858283996582, 
-        "capacity": 10, 
+        "capacity": 11, 
+        "description": "31059 - S Abingdon St & 36th St S", 
         "id": 213, 
         "latitude": 38.835213, 
         "location_key": "38.835213,-77.094295", 
@@ -1714,6 +1928,7 @@
     "214": {
         "altitude": 15.34996223449707, 
         "capacity": 15, 
+        "description": "31060 - S Arlington Mill Dr & Campbell Ave", 
         "id": 214, 
         "latitude": 38.84232, 
         "location_key": "38.84232,-77.089555", 
@@ -1722,6 +1937,7 @@
     "215": {
         "altitude": 27.64106178283691, 
         "capacity": 11, 
+        "description": "31061 - S Kenmore & 24th St S", 
         "id": 215, 
         "latitude": 38.848454, 
         "location_key": "38.848454,-77.084918", 
@@ -1730,6 +1946,7 @@
     "216": {
         "altitude": 99.73341369628906, 
         "capacity": 15, 
+        "description": "32006 - 13th St & Eastern Ave", 
         "id": 216, 
         "latitude": 38.987, 
         "location_key": "38.987,-77.029417", 
@@ -1737,7 +1954,8 @@
     }, 
     "217": {
         "altitude": 27.83679008483887, 
-        "capacity": 19, 
+        "capacity": 17, 
+        "description": "31312 - Wisconsin Ave & O St NW", 
         "id": 217, 
         "latitude": 38.90849, 
         "location_key": "38.90849,-77.063586", 
@@ -1745,7 +1963,8 @@
     }, 
     "218": {
         "altitude": 34.71015930175781, 
-        "capacity": 11, 
+        "capacity": 10, 
+        "description": "31062 - S George Mason Dr & 13th St S", 
         "id": 218, 
         "latitude": 38.854691, 
         "location_key": "38.854691,-77.100555", 
@@ -1754,6 +1973,7 @@
     "219": {
         "altitude": 95.67556762695312, 
         "capacity": 23, 
+        "description": "31310 - Connecticut & Nebraska Ave NW", 
         "id": 219, 
         "latitude": 38.955016, 
         "location_key": "38.955016,-77.069956", 
@@ -1762,6 +1982,7 @@
     "220": {
         "altitude": 22.59076881408691, 
         "capacity": 19, 
+        "description": "31267 - 17th St & Massachusetts Ave NW", 
         "id": 220, 
         "latitude": 38.908142, 
         "location_key": "38.908142,-77.038359", 
@@ -1770,6 +1991,7 @@
     "221": {
         "altitude": 58.72446441650391, 
         "capacity": 15, 
+        "description": "31117 - 15th & Euclid St  NW", 
         "id": 221, 
         "latitude": 38.92333, 
         "location_key": "38.92333,-77.0352", 
@@ -1777,7 +1999,8 @@
     }, 
     "222": {
         "altitude": 24.75925064086914, 
-        "capacity": 10, 
+        "capacity": 11, 
+        "description": "31629 - 8th & East Capitol St NE", 
         "id": 222, 
         "latitude": 38.889988, 
         "location_key": "38.889988,-76.995193", 
@@ -1786,6 +2009,7 @@
     "223": {
         "altitude": 23.41504669189453, 
         "capacity": 15, 
+        "description": "31509 - New Jersey Ave & R St NW", 
         "id": 223, 
         "latitude": 38.912659, 
         "location_key": "38.912659,-77.017669", 
@@ -1794,6 +2018,7 @@
     "224": {
         "altitude": 23.94066429138184, 
         "capacity": 11, 
+        "description": "31630 - 15th & East Capitol St NE", 
         "id": 224, 
         "latitude": 38.889908, 
         "location_key": "38.889908,-76.983326", 
@@ -1801,7 +2026,8 @@
     }, 
     "225": {
         "altitude": 16.13476181030273, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31631 - 8th & F St NE", 
         "id": 225, 
         "latitude": 38.897274, 
         "location_key": "38.897274,-76.994749", 
@@ -1810,6 +2036,7 @@
     "226": {
         "altitude": 44.4664192199707, 
         "capacity": 15, 
+        "description": "31510 - 18th St & Rhode Island Ave NE", 
         "id": 226, 
         "latitude": 38.927095, 
         "location_key": "38.927095,-76.978924", 
@@ -1817,7 +2044,8 @@
     }, 
     "227": {
         "altitude": 13.48185443878174, 
-        "capacity": 17, 
+        "capacity": 18, 
+        "description": "31632 - 15th & F St NE", 
         "id": 227, 
         "latitude": 38.897195, 
         "location_key": "38.897195,-76.983575", 
@@ -1826,6 +2054,7 @@
     "228": {
         "altitude": 47.93204879760742, 
         "capacity": 15, 
+        "description": "31511 - 12th & Irving St NE", 
         "id": 228, 
         "latitude": 38.928644, 
         "location_key": "38.928644,-76.990955", 
@@ -1834,6 +2063,7 @@
     "229": {
         "altitude": 16.37802696228027, 
         "capacity": 11, 
+        "description": "31709 - 34th St & Minnesota Ave SE", 
         "id": 229, 
         "latitude": 38.884085, 
         "location_key": "38.884085,-76.957461", 
@@ -1842,6 +2072,7 @@
     "230": {
         "altitude": 52.95218276977539, 
         "capacity": 11, 
+        "description": "31800 - Alabama & MLK Ave SE", 
         "id": 230, 
         "latitude": 38.843222, 
         "location_key": "38.843222,-76.999388", 
@@ -1850,6 +2081,7 @@
     "231": {
         "altitude": 14.71087646484375, 
         "capacity": 11, 
+        "description": "31807 - Pleasant St & MLK Ave SE", 
         "id": 231, 
         "latitude": 38.863897, 
         "location_key": "38.863897,-76.990037", 
@@ -1858,6 +2090,7 @@
     "232": {
         "altitude": 22.68743133544922, 
         "capacity": 13, 
+        "description": "31512 - Neal St & Trinidad Ave NE", 
         "id": 232, 
         "latitude": 38.903732, 
         "location_key": "38.903732,-76.987211", 
@@ -1865,7 +2098,8 @@
     }, 
     "233": {
         "altitude": 29.44910621643066, 
-        "capacity": 22, 
+        "capacity": 23, 
+        "description": "31268 - 13th & U St NW", 
         "id": 233, 
         "latitude": 38.916794, 
         "location_key": "38.916794,-77.029779", 
@@ -1873,7 +2107,8 @@
     }, 
     "234": {
         "altitude": 27.67543029785156, 
-        "capacity": 11, 
+        "capacity": 10, 
+        "description": "31063 - S George Mason Dr & Four Mile Run", 
         "id": 234, 
         "latitude": 38.852248, 
         "location_key": "38.852248,-77.105022", 
@@ -1882,6 +2117,7 @@
     "235": {
         "altitude": 59.80735015869141, 
         "capacity": 14, 
+        "description": "31064 - S Stafford & 34th St S", 
         "id": 235, 
         "latitude": 38.834108, 
         "location_key": "38.834108,-77.087323", 
@@ -1890,6 +2126,7 @@
     "236": {
         "altitude": 71.09942626953125, 
         "capacity": 11, 
+        "description": "31065 - N Pershing Dr & Wayne St", 
         "id": 236, 
         "latitude": 38.880705, 
         "location_key": "38.880705,-77.08596", 
@@ -1898,6 +2135,7 @@
     "237": {
         "altitude": 46.54781341552734, 
         "capacity": 11, 
+        "description": "31066 - Columbia Pike & S Orme St", 
         "id": 237, 
         "latitude": 38.867262, 
         "location_key": "38.867262,-77.072315", 
@@ -1905,7 +2143,8 @@
     }, 
     "238": {
         "altitude": 25.1458911895752, 
-        "capacity": 15, 
+        "capacity": 13, 
+        "description": "31269 - 3rd St & Pennsylvania Ave SE", 
         "id": 238, 
         "latitude": 38.887378, 
         "location_key": "38.887378,-77.001955", 
@@ -1913,7 +2152,8 @@
     }, 
     "239": {
         "altitude": 5.678827285766602, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31270 - 8th & D St NW", 
         "id": 239, 
         "latitude": 38.894851, 
         "location_key": "38.894851,-77.02324", 
@@ -1922,6 +2162,7 @@
     "240": {
         "altitude": 29.9846019744873, 
         "capacity": 15, 
+        "description": "31118 - 3rd & Elm St NW", 
         "id": 240, 
         "latitude": 38.917622, 
         "location_key": "38.917622,-77.01597", 
@@ -1930,6 +2171,7 @@
     "241": {
         "altitude": 52.61538314819336, 
         "capacity": 19, 
+        "description": "31513 - Rhode Island Ave & V St NE", 
         "id": 241, 
         "latitude": 38.918155, 
         "location_key": "38.918155,-77.004746", 
@@ -1937,7 +2179,8 @@
     }, 
     "242": {
         "altitude": 5.071738719940186, 
-        "capacity": 26, 
+        "capacity": 24, 
+        "description": "31271 - Constitution Ave & 2nd St NW/DOL", 
         "id": 242, 
         "latitude": 38.892275, 
         "location_key": "38.892275,-77.013917", 
@@ -1945,7 +2188,8 @@
     }, 
     "243": {
         "altitude": 3.210293531417847, 
-        "capacity": 25, 
+        "capacity": 23, 
+        "description": "31272 - Washington & Independence Ave SW/HHS", 
         "id": 243, 
         "latitude": 38.88731, 
         "location_key": "38.88731,-77.01397", 
@@ -1954,6 +2198,7 @@
     "244": {
         "altitude": 9.022159576416016, 
         "capacity": 15, 
+        "description": "31633 - Independence Ave & L'Enfant Plaza SW/DOE", 
         "id": 244, 
         "latitude": 38.887397, 
         "location_key": "38.887397,-77.026154", 
@@ -1962,6 +2207,7 @@
     "245": {
         "altitude": 50.25645065307617, 
         "capacity": 15, 
+        "description": "31514 - Hamlin & 7th St NE", 
         "id": 245, 
         "latitude": 38.927497, 
         "location_key": "38.927497,-76.997194", 
@@ -1970,6 +2216,7 @@
     "246": {
         "altitude": 59.70109176635742, 
         "capacity": 12, 
+        "description": "31067 - Columbia Pike & S Walter Reed Dr", 
         "id": 246, 
         "latitude": 38.862478, 
         "location_key": "38.862478,-77.086599", 
@@ -1978,6 +2225,7 @@
     "247": {
         "altitude": 39.23111343383789, 
         "capacity": 15, 
+        "description": "31068 - Columbia Pike & S Dinwiddie St / Arlington Mill Community Center", 
         "id": 247, 
         "latitude": 38.856319, 
         "location_key": "38.856319,-77.11153", 
@@ -1986,6 +2234,7 @@
     "248": {
         "altitude": 80.96195220947266, 
         "capacity": 10, 
+        "description": "31069 - Pershing & N George Mason Dr", 
         "id": 248, 
         "latitude": 38.871822, 
         "location_key": "38.871822,-77.107906", 
@@ -1994,6 +2243,7 @@
     "249": {
         "altitude": 102.4635620117188, 
         "capacity": 15, 
+        "description": "32001 - Fenton St & New York Ave", 
         "id": 249, 
         "latitude": 38.985404, 
         "location_key": "38.985404,-77.023082", 
@@ -2001,7 +2251,8 @@
     }, 
     "250": {
         "altitude": 96.00929260253906, 
-        "capacity": 19, 
+        "capacity": 17, 
+        "description": "32002 - Bethesda Ave & Arlington Blvd", 
         "id": 250, 
         "latitude": 38.981103, 
         "location_key": "38.981103,-77.097426", 
@@ -2010,6 +2261,7 @@
     "251": {
         "altitude": 106.2876434326172, 
         "capacity": 11, 
+        "description": "32003 - Montgomery Ave & Waverly St", 
         "id": 251, 
         "latitude": 38.983838, 
         "location_key": "38.983838,-77.09221", 
@@ -2018,6 +2270,7 @@
     "252": {
         "altitude": 141.1773681640625, 
         "capacity": 19, 
+        "description": "32004 - Fallsgrove Blvd & Fallsgrove Dr", 
         "id": 252, 
         "latitude": 39.096312, 
         "location_key": "39.096312,-77.192672", 
@@ -2026,6 +2279,7 @@
     "253": {
         "altitude": 137.5463104248047, 
         "capacity": 19, 
+        "description": "32005 - Traville Gateway Dr & Gudelsky Dr", 
         "id": 253, 
         "latitude": 39.093783, 
         "location_key": "39.093783,-77.202501", 
@@ -2033,7 +2287,8 @@
     }, 
     "254": {
         "altitude": 106.6329956054688, 
-        "capacity": 10, 
+        "capacity": 11, 
+        "description": "32000 - Norfolk Ave & Fairmont St", 
         "id": 254, 
         "latitude": 38.988562, 
         "location_key": "38.988562,-77.096539", 
@@ -2041,7 +2296,8 @@
     }, 
     "255": {
         "altitude": 134.1127166748047, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "32007 - E Montgomery Ave & Maryland Ave", 
         "id": 255, 
         "latitude": 39.084125, 
         "location_key": "39.084125,-77.151291", 
@@ -2050,6 +2306,7 @@
     "256": {
         "altitude": 103.1439590454102, 
         "capacity": 11, 
+        "description": "32008 - Cordell & Norfolk Ave", 
         "id": 256, 
         "latitude": 38.98954, 
         "location_key": "38.98954,-77.098029", 
@@ -2058,6 +2315,7 @@
     "257": {
         "altitude": 128.4787139892578, 
         "capacity": 11, 
+        "description": "32009 - Frederick Ave & Horners Ln", 
         "id": 257, 
         "latitude": 39.094772, 
         "location_key": "39.094772,-77.145213", 
@@ -2066,6 +2324,7 @@
     "258": {
         "altitude": 62.93555450439453, 
         "capacity": 15, 
+        "description": "32010 - Philadelphia & Maple Ave", 
         "id": 258, 
         "latitude": 38.98128, 
         "location_key": "38.98128,-77.011336", 
@@ -2074,6 +2333,7 @@
     "259": {
         "altitude": 54.07756042480469, 
         "capacity": 19, 
+        "description": "32011 - Maple & Ritchie Ave", 
         "id": 259, 
         "latitude": 38.983627, 
         "location_key": "38.983627,-77.006311", 
@@ -2082,6 +2342,7 @@
     "260": {
         "altitude": 97.44005584716797, 
         "capacity": 19, 
+        "description": "32012 - Silver Spring Metro/Colesville Rd & Wayne Ave", 
         "id": 260, 
         "latitude": 38.99521, 
         "location_key": "38.99521,-77.02918", 
@@ -2090,6 +2351,7 @@
     "261": {
         "altitude": 100.2187271118164, 
         "capacity": 11, 
+        "description": "32013 - Montgomery & East Ln", 
         "id": 261, 
         "latitude": 38.983525, 
         "location_key": "38.983525,-77.095367", 
@@ -2098,6 +2360,7 @@
     "262": {
         "altitude": 93.6155014038086, 
         "capacity": 19, 
+        "description": "32014 - Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir", 
         "id": 262, 
         "latitude": 38.961763, 
         "location_key": "38.961763,-77.085998", 
@@ -2106,6 +2369,7 @@
     "263": {
         "altitude": 43.91348266601562, 
         "capacity": 15, 
+        "description": "31119 - 14th & Belmont St NW", 
         "id": 263, 
         "latitude": 38.921074, 
         "location_key": "38.921074,-77.031887", 
@@ -2114,6 +2378,7 @@
     "264": {
         "altitude": 4.081913471221924, 
         "capacity": 19, 
+        "description": "31634 - 3rd & Tingey St SE", 
         "id": 264, 
         "latitude": 38.87501, 
         "location_key": "38.87501,-77.0024", 
@@ -2122,6 +2387,7 @@
     "265": {
         "altitude": 35.11532974243164, 
         "capacity": 19, 
+        "description": "31120 - 10th & Florida Ave NW", 
         "id": 265, 
         "latitude": 38.920387, 
         "location_key": "38.920387,-77.025672", 
@@ -2129,7 +2395,8 @@
     }, 
     "266": {
         "altitude": 14.2515697479248, 
-        "capacity": 14, 
+        "capacity": 15, 
+        "description": "31635 - Potomac Ave & 8th St SE", 
         "id": 266, 
         "latitude": 38.876737, 
         "location_key": "38.876737,-76.994468", 
@@ -2138,6 +2405,7 @@
     "267": {
         "altitude": 135.2354736328125, 
         "capacity": 15, 
+        "description": "32015 - Crabbs Branch Way & Redland Rd", 
         "id": 267, 
         "latitude": 39.120045, 
         "location_key": "39.120045,-77.156985", 
@@ -2146,6 +2414,7 @@
     "268": {
         "altitude": 137.9705657958984, 
         "capacity": 15, 
+        "description": "32016 - Fallsgove Dr & W Montgomery Ave", 
         "id": 268, 
         "latitude": 39.099376, 
         "location_key": "39.099376,-77.188014", 
@@ -2154,6 +2423,7 @@
     "269": {
         "altitude": 133.3312225341797, 
         "capacity": 15, 
+        "description": "32017 - Monroe St & Monroe Pl", 
         "id": 269, 
         "latitude": 39.083705, 
         "location_key": "39.083705,-77.149443", 
@@ -2162,6 +2432,7 @@
     "270": {
         "altitude": 136.3657989501953, 
         "capacity": 15, 
+        "description": "32018 - Needwood Rd & Eagles Head Ct", 
         "id": 270, 
         "latitude": 39.123513, 
         "location_key": "39.123513,-77.15741", 
@@ -2170,6 +2441,7 @@
     "271": {
         "altitude": 97.76524353027344, 
         "capacity": 15, 
+        "description": "32019 - East West Hwy & Blair Mill Rd", 
         "id": 271, 
         "latitude": 38.990249, 
         "location_key": "38.990249,-77.02935", 
@@ -2178,6 +2450,7 @@
     "272": {
         "altitude": 134.9221496582031, 
         "capacity": 15, 
+        "description": "32020 - Crabbs Branch Way & Calhoun Pl", 
         "id": 272, 
         "latitude": 39.107709, 
         "location_key": "39.107709,-77.152072", 
@@ -2186,6 +2459,7 @@
     "273": {
         "altitude": 104.1571807861328, 
         "capacity": 15, 
+        "description": "32021 - 47th & Elm St", 
         "id": 273, 
         "latitude": 38.982456, 
         "location_key": "38.982456,-77.091991", 
@@ -2194,6 +2468,7 @@
     "274": {
         "altitude": 82.56086730957031, 
         "capacity": 15, 
+        "description": "32022 - Garland Ave & Walden Rd", 
         "id": 274, 
         "latitude": 39.000578, 
         "location_key": "39.000578,-77.00149", 
@@ -2202,6 +2477,7 @@
     "275": {
         "altitude": 129.4597625732422, 
         "capacity": 21, 
+        "description": "32023 - Montgomery College/W Campus Dr & Mannakee St", 
         "id": 275, 
         "latitude": 39.095661, 
         "location_key": "39.095661,-77.159048", 
@@ -2210,6 +2486,7 @@
     "276": {
         "altitude": 106.1309127807617, 
         "capacity": 11, 
+        "description": "32024 - Fenton St & Gist Ave", 
         "id": 276, 
         "latitude": 38.989724, 
         "location_key": "38.989724,-77.023854", 
@@ -2217,7 +2494,8 @@
     }, 
     "277": {
         "altitude": 85.99330139160156, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "32025 - Carroll & Westmoreland Ave", 
         "id": 277, 
         "latitude": 38.975, 
         "location_key": "38.975,-77.01121", 
@@ -2226,6 +2504,7 @@
     "278": {
         "altitude": 89.41355895996094, 
         "capacity": 15, 
+        "description": "32026 - Carroll & Ethan Allen Ave", 
         "id": 278, 
         "latitude": 38.977933, 
         "location_key": "38.977933,-77.006472", 
@@ -2234,6 +2513,7 @@
     "279": {
         "altitude": 98.09864044189453, 
         "capacity": 15, 
+        "description": "32027 - Battery Ln & Trolley Trail", 
         "id": 279, 
         "latitude": 38.992375, 
         "location_key": "38.992375,-77.100104", 
@@ -2242,6 +2522,7 @@
     "280": {
         "altitude": 100.3145523071289, 
         "capacity": 11, 
+        "description": "32028 - Norfolk & Rugby Ave", 
         "id": 280, 
         "latitude": 38.990639, 
         "location_key": "38.990639,-77.100239", 
@@ -2250,6 +2531,7 @@
     "281": {
         "altitude": 98.86811065673828, 
         "capacity": 11, 
+        "description": "32029 - Offutt Ln & Chevy Chase Dr", 
         "id": 281, 
         "latitude": 38.977093, 
         "location_key": "38.977093,-77.094589", 
@@ -2258,6 +2540,7 @@
     "282": {
         "altitude": 140.975341796875, 
         "capacity": 15, 
+        "description": "32030 - Broschart & Blackwell Rd", 
         "id": 282, 
         "latitude": 39.102099, 
         "location_key": "39.102099,-77.200322", 
@@ -2266,6 +2549,7 @@
     "283": {
         "altitude": 124.403205871582, 
         "capacity": 15, 
+        "description": "32031 - Taft St & E Gude Dr", 
         "id": 283, 
         "latitude": 39.094103, 
         "location_key": "39.094103,-77.132954", 
@@ -2274,6 +2558,7 @@
     "284": {
         "altitude": 120.0293273925781, 
         "capacity": 15, 
+        "description": "32032 - Fleet St & Ritchie Pkwy", 
         "id": 284, 
         "latitude": 39.076331, 
         "location_key": "39.076331,-77.141378", 
@@ -2282,6 +2567,7 @@
     "285": {
         "altitude": 135.8648071289062, 
         "capacity": 19, 
+        "description": "32033 - Piccard & W Gude Dr", 
         "id": 285, 
         "latitude": 39.102212, 
         "location_key": "39.102212,-77.177091", 
@@ -2290,6 +2576,7 @@
     "286": {
         "altitude": 101.4718856811523, 
         "capacity": 15, 
+        "description": "32034 - Ripley & Bonifant St", 
         "id": 286, 
         "latitude": 38.992679, 
         "location_key": "38.992679,-77.029457", 
@@ -2297,7 +2584,8 @@
     }, 
     "287": {
         "altitude": 103.5712661743164, 
-        "capacity": 11, 
+        "capacity": 10, 
+        "description": "32035 - Georgia Ave & Spring St", 
         "id": 287, 
         "latitude": 38.999388, 
         "location_key": "38.999388,-77.031555", 
@@ -2306,6 +2594,7 @@
     "288": {
         "altitude": 102.0805892944336, 
         "capacity": 15, 
+        "description": "32036 - Fenton St & Ellsworth Dr", 
         "id": 288, 
         "latitude": 38.997033, 
         "location_key": "38.997033,-77.025608", 
@@ -2314,6 +2603,7 @@
     "289": {
         "altitude": 145.3848571777344, 
         "capacity": 18, 
+        "description": "32037 - King Farm Blvd & Pleasant Dr", 
         "id": 289, 
         "latitude": 39.114688, 
         "location_key": "39.114688,-77.171487", 
@@ -2322,6 +2612,7 @@
     "290": {
         "altitude": 147.8166198730469, 
         "capacity": 15, 
+        "description": "32038 - King Farm Blvd & Piccard Dr", 
         "id": 290, 
         "latitude": 39.110314, 
         "location_key": "39.110314,-77.182669", 
@@ -2329,7 +2620,8 @@
     }, 
     "291": {
         "altitude": 34.23036956787109, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31121 - Calvert St & Woodley Pl NW", 
         "id": 291, 
         "latitude": 38.923583, 
         "location_key": "38.923583,-77.050046", 
@@ -2338,6 +2630,7 @@
     "292": {
         "altitude": 25.24848937988281, 
         "capacity": 19, 
+        "description": "31636 - New Jersey Ave & N St NW/Dunbar HS", 
         "id": 292, 
         "latitude": 38.90706, 
         "location_key": "38.90706,-77.015231", 
@@ -2346,6 +2639,7 @@
     "293": {
         "altitude": 13.99391460418701, 
         "capacity": 11, 
+        "description": "31710 - Nannie Helen Burroughs Ave & 49th St NE", 
         "id": 293, 
         "latitude": 38.898536, 
         "location_key": "38.898536,-76.931862", 
@@ -2354,6 +2648,7 @@
     "294": {
         "altitude": 11.29380893707275, 
         "capacity": 15, 
+        "description": "31711 - Deanwood Rec Center", 
         "id": 294, 
         "latitude": 38.908473, 
         "location_key": "38.908473,-76.933099", 
@@ -2362,6 +2657,7 @@
     "295": {
         "altitude": 2.696858644485474, 
         "capacity": 17, 
+        "description": "31273 - Hains Point/Buckeye & Ohio Dr SW", 
         "id": 295, 
         "latitude": 38.878433, 
         "location_key": "38.878433,-77.03023", 
@@ -2370,6 +2666,7 @@
     "296": {
         "altitude": 63.27761459350586, 
         "capacity": 11, 
+        "description": "31070 - Arlington Blvd & Fillmore St", 
         "id": 296, 
         "latitude": 38.873755, 
         "location_key": "38.873755,-77.089233", 
@@ -2377,7 +2674,8 @@
     }, 
     "297": {
         "altitude": 2.703453540802002, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "31071 - Long Bridge Park/Long Bridge Dr & 6th St S", 
         "id": 297, 
         "latitude": 38.86646, 
         "location_key": "38.86646,-77.04826", 
@@ -2386,6 +2684,7 @@
     "298": {
         "altitude": 110.2652816772461, 
         "capacity": 19, 
+        "description": "32039 - Old Georgetown Rd & Southwick St", 
         "id": 298, 
         "latitude": 38.999634, 
         "location_key": "38.999634,-77.109647", 
@@ -2394,6 +2693,7 @@
     "299": {
         "altitude": 87.0452651977539, 
         "capacity": 19, 
+        "description": "32040 - Friendship Blvd & Willard Ave", 
         "id": 299, 
         "latitude": 38.96115, 
         "location_key": "38.96115,-77.088659", 
@@ -2402,6 +2702,7 @@
     "300": {
         "altitude": 8.10775089263916, 
         "capacity": 19, 
+        "description": "31637 - North Capitol St & G Pl NE", 
         "id": 300, 
         "latitude": 38.899703, 
         "location_key": "38.899703,-77.008911", 
@@ -2410,6 +2711,7 @@
     "301": {
         "altitude": 60.63650894165039, 
         "capacity": 11, 
+        "description": "31072 - 31st & Woodrow St S", 
         "id": 301, 
         "latitude": 38.837666, 
         "location_key": "38.837666,-77.09482", 
@@ -2418,6 +2720,7 @@
     "302": {
         "altitude": 54.51036071777344, 
         "capacity": 15, 
+        "description": "31073 - Washington Blvd & Walter Reed Dr", 
         "id": 302, 
         "latitude": 38.873219, 
         "location_key": "38.873219,-77.082104", 
@@ -2426,6 +2729,7 @@
     "303": {
         "altitude": 62.44817352294922, 
         "capacity": 11, 
+        "description": "31074 - Thomas Jefferson Cmty Ctr / 2nd St S & Ivy", 
         "id": 303, 
         "latitude": 38.869675, 
         "location_key": "38.869675,-77.093586", 
@@ -2434,6 +2738,7 @@
     "304": {
         "altitude": 76.52836608886719, 
         "capacity": 15, 
+        "description": "31313 - Connecticut Ave & Tilden St NW", 
         "id": 304, 
         "latitude": 38.941154, 
         "location_key": "38.941154,-77.062036", 
@@ -2442,6 +2747,7 @@
     "305": {
         "altitude": 140.7985229492188, 
         "capacity": 15, 
+        "description": "32041 - Medical Center Dr & Key West Ave", 
         "id": 305, 
         "latitude": 39.103091, 
         "location_key": "39.103091,-77.196442", 
@@ -2450,6 +2756,7 @@
     "306": {
         "altitude": 143.3774719238281, 
         "capacity": 19, 
+        "description": "32042 - Shady Grove Hospital", 
         "id": 306, 
         "latitude": 39.097636, 
         "location_key": "39.097636,-77.196636", 
@@ -2458,6 +2765,7 @@
     "307": {
         "altitude": 102.7674865722656, 
         "capacity": 11, 
+        "description": "32043 - Veterans Pl & Pershing Dr", 
         "id": 307, 
         "latitude": 38.997445, 
         "location_key": "38.997445,-77.023894", 
@@ -2466,6 +2774,7 @@
     "308": {
         "altitude": 125.2857513427734, 
         "capacity": 13, 
+        "description": "32044 - Rockville Metro East", 
         "id": 308, 
         "latitude": 39.085394, 
         "location_key": "39.085394,-77.145803", 
@@ -2474,6 +2783,7 @@
     "309": {
         "altitude": 10.91523933410645, 
         "capacity": 15, 
+        "description": "31638 - 1st & H St NW", 
         "id": 309, 
         "latitude": 38.900358, 
         "location_key": "38.900358,-77.012108", 
@@ -2482,6 +2792,7 @@
     "310": {
         "altitude": 54.32667541503906, 
         "capacity": 19, 
+        "description": "31515 - Fort Totten Metro", 
         "id": 310, 
         "latitude": 38.952369, 
         "location_key": "38.952369,-77.002721", 
@@ -2489,7 +2800,8 @@
     }, 
     "311": {
         "altitude": 83.22972106933594, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "31408 - Takoma Metro", 
         "id": 311, 
         "latitude": 38.975219, 
         "location_key": "38.975219,-77.016855", 
@@ -2497,7 +2809,8 @@
     }, 
     "312": {
         "altitude": 37.76005935668945, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "31516 - Rhode Island Ave Metro", 
         "id": 312, 
         "latitude": 38.920682, 
         "location_key": "38.920682,-76.995876", 
@@ -2506,6 +2819,7 @@
     "313": {
         "altitude": 45.73541641235352, 
         "capacity": 11, 
+        "description": "31075 - Rolfe St & 9th St S", 
         "id": 313, 
         "latitude": 38.866471, 
         "location_key": "38.866471,-77.076131", 
@@ -2514,6 +2828,7 @@
     "314": {
         "altitude": 22.57307624816895, 
         "capacity": 14, 
+        "description": "31076 - Shirlington Transit Center / S Quincy & Randolph St", 
         "id": 314, 
         "latitude": 38.839912, 
         "location_key": "38.839912,-77.087083", 
@@ -2522,6 +2837,7 @@
     "315": {
         "altitude": 141.9068450927734, 
         "capacity": 19, 
+        "description": "32045 - Shady Grove Metro West", 
         "id": 315, 
         "latitude": 39.119765, 
         "location_key": "39.119765,-77.166093", 
@@ -2529,7 +2845,8 @@
     }, 
     "316": {
         "altitude": 73.77894592285156, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "32046 - River Rd & Landy Ln", 
         "id": 316, 
         "latitude": 38.964992, 
         "location_key": "38.964992,-77.103381", 
@@ -2538,6 +2855,7 @@
     "317": {
         "altitude": 129.53076171875, 
         "capacity": 19, 
+        "description": "32047 - Rockville Metro West", 
         "id": 317, 
         "latitude": 39.084379, 
         "location_key": "39.084379,-77.146866", 
@@ -2546,6 +2864,7 @@
     "318": {
         "altitude": 106.9362106323242, 
         "capacity": 12, 
+        "description": "32048 - Bethesda Metro", 
         "id": 318, 
         "latitude": 38.984691, 
         "location_key": "38.984691,-77.094537", 

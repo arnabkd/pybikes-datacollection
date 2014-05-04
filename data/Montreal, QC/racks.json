@@ -2,6 +2,7 @@
     "0": {
         "altitude": 15.65201663970947, 
         "capacity": 31, 
+        "description": "6001 - Notre Dame / Place Jacques Cartier", 
         "id": 0, 
         "latitude": 45.508183, 
         "location_key": "45.508183,-73.554094", 
@@ -10,6 +11,7 @@
     "1": {
         "altitude": 15.62072563171387, 
         "capacity": 23, 
+        "description": "6002 - D\u00e9zery/Ste-Catherine", 
         "id": 1, 
         "latitude": 45.5392, 
         "location_key": "45.5392,-73.5414", 
@@ -18,6 +20,7 @@
     "2": {
         "altitude": 21.31892204284668, 
         "capacity": 15, 
+        "description": "6003 - St-Maurice/ St-Henri", 
         "id": 2, 
         "latitude": 45.499941, 
         "location_key": "45.499941,-73.558969", 
@@ -26,6 +29,7 @@
     "3": {
         "altitude": 17.36944389343262, 
         "capacity": 41, 
+        "description": "6004 - Berri / Saint-Antoine", 
         "id": 3, 
         "latitude": 45.51205360327094, 
         "location_key": "45.5120536033,-73.553930819", 
@@ -34,6 +38,7 @@
     "4": {
         "altitude": 18.88851928710938, 
         "capacity": 15, 
+        "description": "6006 - Saint-Antoine / de l'H\u00f4tel-de-Ville", 
         "id": 4, 
         "latitude": 45.50875, 
         "location_key": "45.50875,-73.55613", 
@@ -42,6 +47,7 @@
     "5": {
         "altitude": 28.06765747070312, 
         "capacity": 23, 
+        "description": "6007 - de l'H\u00f4tel-de-Ville / Sainte-Catherine", 
         "id": 5, 
         "latitude": 45.51164009357107, 
         "location_key": "45.5116400936,-73.5621839762", 
@@ -50,6 +56,7 @@
     "6": {
         "altitude": 27.67761421203613, 
         "capacity": 35, 
+        "description": "6008 - Sanguinet /Ste-Catherine", 
         "id": 6, 
         "latitude": 45.512738, 
         "location_key": "45.512738,-73.561438", 
@@ -58,6 +65,7 @@
     "7": {
         "altitude": 25.55525016784668, 
         "capacity": 23, 
+        "description": "6009 - Berri / Sainte-Catherine", 
         "id": 7, 
         "latitude": 45.51462481358633, 
         "location_key": "45.5146248136,-73.5597753525", 
@@ -66,6 +74,7 @@
     "8": {
         "altitude": 26.55159378051758, 
         "capacity": 43, 
+        "description": "6901 - Sainte-Catherine / Saint-Denis", 
         "id": 8, 
         "latitude": 45.51371137074363, 
         "location_key": "45.5137113707,-73.5605478287", 
@@ -74,6 +83,7 @@
     "9": {
         "altitude": 14.80709266662598, 
         "capacity": 15, 
+        "description": "6011 - Saint-Andr\u00e9 / Saint-Antoine", 
         "id": 9, 
         "latitude": 45.514076, 
         "location_key": "45.514076,-73.552439", 
@@ -82,6 +92,7 @@
     "10": {
         "altitude": 29.87371635437012, 
         "capacity": 48, 
+        "description": "6012 - M\u00e9tro Saint-Laurent (Maisonneuve / St-Laurent)", 
         "id": 10, 
         "latitude": 45.51066, 
         "location_key": "45.51066,-73.56497", 
@@ -90,6 +101,7 @@
     "11": {
         "altitude": 28.96921157836914, 
         "capacity": 31, 
+        "description": "6013 - Sanguinet / de Maisonneuve", 
         "id": 11, 
         "latitude": 45.51339, 
         "location_key": "45.51339,-73.56255", 
@@ -98,6 +110,7 @@
     "12": {
         "altitude": 28.38933372497559, 
         "capacity": 30, 
+        "description": "6014 - St-Denis / Maisonneuve", 
         "id": 12, 
         "latitude": 45.514649, 
         "location_key": "45.514649,-73.562152", 
@@ -106,6 +119,7 @@
     "13": {
         "altitude": 27.53335189819336, 
         "capacity": 27, 
+        "description": "6015 - Berri / de Maisonneuve", 
         "id": 13, 
         "latitude": 45.515299, 
         "location_key": "45.515299,-73.561273", 
@@ -114,6 +128,7 @@
     "14": {
         "altitude": 26.55660057067871, 
         "capacity": 19, 
+        "description": "6016 - Saint-Andr\u00e9 / Maisonneuve", 
         "id": 14, 
         "latitude": 45.517062, 
         "location_key": "45.517062,-73.559781", 
@@ -122,6 +137,7 @@
     "15": {
         "altitude": 28.90592956542969, 
         "capacity": 11, 
+        "description": "6017 - St-Andre/Robin", 
         "id": 15, 
         "latitude": 45.51804, 
         "location_key": "45.51804,-73.56166", 
@@ -130,6 +146,7 @@
     "16": {
         "altitude": 30.28257369995117, 
         "capacity": 19, 
+        "description": "6018 - Saint-Andr\u00e9 / Ontario", 
         "id": 16, 
         "latitude": 45.51889, 
         "location_key": "45.51889,-73.56353", 
@@ -137,7 +154,8 @@
     }, 
     "17": {
         "altitude": 37.34111404418945, 
-        "capacity": 29, 
+        "capacity": 28, 
+        "description": "6019 - Berri / Sherbrooke", 
         "id": 17, 
         "latitude": 45.517836, 
         "location_key": "45.517836,-73.567205", 
@@ -146,6 +164,7 @@
     "18": {
         "altitude": 31.25468635559082, 
         "capacity": 23, 
+        "description": "6020 - Sanguinet / Ontario", 
         "id": 18, 
         "latitude": 45.514784, 
         "location_key": "45.514784,-73.565338", 
@@ -154,6 +173,7 @@
     "19": {
         "altitude": 30.20684432983398, 
         "capacity": 15, 
+        "description": "6902 - Montcalm/Ontario", 
         "id": 19, 
         "latitude": 45.521165, 
         "location_key": "45.521165,-73.562441", 
@@ -162,6 +182,7 @@
     "20": {
         "altitude": 10.36931324005127, 
         "capacity": 35, 
+        "description": "6023 - de la Commune / Berri", 
         "id": 20, 
         "latitude": 45.51086, 
         "location_key": "45.51086,-73.54983", 
@@ -170,6 +191,7 @@
     "21": {
         "altitude": 23.90073204040527, 
         "capacity": 31, 
+        "description": "6024 - Saint-Timoth\u00e9e / Sainte-Catherine", 
         "id": 21, 
         "latitude": 45.51699292968662, 
         "location_key": "45.5169929297,-73.5574418306", 
@@ -178,6 +200,7 @@
     "22": {
         "altitude": 16.06577301025391, 
         "capacity": 23, 
+        "description": "6025 - Notre-Dame / Saint-Gabriel", 
         "id": 22, 
         "latitude": 45.50714391928411, 
         "location_key": "45.5071439193,-73.5551190376", 
@@ -186,6 +209,7 @@
     "23": {
         "altitude": 10.39840602874756, 
         "capacity": 73, 
+        "description": "6026 - de la Commune / Place Jacques-Cartier", 
         "id": 23, 
         "latitude": 45.50719279267449, 
         "location_key": "45.5071927927,-73.5520076752", 
@@ -194,6 +218,7 @@
     "24": {
         "altitude": 40.70082092285156, 
         "capacity": 15, 
+        "description": "6027 - Catcarth/Phillips", 
         "id": 24, 
         "latitude": 45.503599, 
         "location_key": "45.503599,-73.568259", 
@@ -202,6 +227,7 @@
     "25": {
         "altitude": 30.36753463745117, 
         "capacity": 19, 
+        "description": "6029 - Belair/St-Antoine", 
         "id": 25, 
         "latitude": 45.482843, 
         "location_key": "45.482843,-73.584352", 
@@ -210,6 +236,7 @@
     "26": {
         "altitude": 22.82052040100098, 
         "capacity": 15, 
+        "description": "6031 - Saint-Antoine / Saint-Fran\u00e7ois-Xavier", 
         "id": 26, 
         "latitude": 45.50449, 
         "location_key": "45.50449,-73.5592", 
@@ -218,6 +245,7 @@
     "27": {
         "altitude": 23.64096450805664, 
         "capacity": 41, 
+        "description": "6032 - M\u00e9tro Place-d'Armes (Viger/St-Urbain)", 
         "id": 27, 
         "latitude": 45.50623, 
         "location_key": "45.50623,-73.55976", 
@@ -226,6 +254,7 @@
     "28": {
         "altitude": 58.87866592407227, 
         "capacity": 23, 
+        "description": "6033 - 20e av/beaubien", 
         "id": 28, 
         "latitude": 45.560814, 
         "location_key": "45.560814,-73.580611", 
@@ -233,7 +262,8 @@
     }, 
     "29": {
         "altitude": 28.60183334350586, 
-        "capacity": 40, 
+        "capacity": 41, 
+        "description": "6034 - Saint-Urbain / Ren\u00e9-L\u00e9vesque", 
         "id": 29, 
         "latitude": 45.5079, 
         "location_key": "45.5079,-73.563112", 
@@ -242,6 +272,7 @@
     "30": {
         "altitude": 28.65830993652344, 
         "capacity": 31, 
+        "description": "6035 - de la Gaucheti\u00e8re / Bleury", 
         "id": 30, 
         "latitude": 45.50439, 
         "location_key": "45.50439,-73.56257", 
@@ -250,6 +281,7 @@
     "31": {
         "altitude": 13.10207939147949, 
         "capacity": 43, 
+        "description": "6036 - de la Commune / Saint-Sulpice", 
         "id": 31, 
         "latitude": 45.50406856984278, 
         "location_key": "45.5040685698,-73.5536062717", 
@@ -258,6 +290,7 @@
     "32": {
         "altitude": 16.02424240112305, 
         "capacity": 15, 
+        "description": "6037 - Saint-Nicolas / Place d'Youville", 
         "id": 32, 
         "latitude": 45.50197437877896, 
         "location_key": "45.5019743788,-73.5551565886", 
@@ -266,6 +299,7 @@
     "33": {
         "altitude": 15.63922691345215, 
         "capacity": 23, 
+        "description": "6038 - McGill / d'Youville", 
         "id": 33, 
         "latitude": 45.49975, 
         "location_key": "45.49975,-73.55566", 
@@ -274,6 +308,7 @@
     "34": {
         "altitude": 21.42779159545898, 
         "capacity": 23, 
+        "description": "6039 - McGill / des R\u00e9collets", 
         "id": 34, 
         "latitude": 45.500779, 
         "location_key": "45.500779,-73.558826", 
@@ -282,6 +317,7 @@
     "35": {
         "altitude": 22.83896064758301, 
         "capacity": 22, 
+        "description": "6040 - Saint-Jacques / Saint-Pierre", 
         "id": 35, 
         "latitude": 45.5028, 
         "location_key": "45.5028,-73.55917", 
@@ -290,6 +326,7 @@
     "36": {
         "altitude": 25.30782890319824, 
         "capacity": 31, 
+        "description": "6041 - Saint-Jacques / Gauvin", 
         "id": 36, 
         "latitude": 45.500674, 
         "location_key": "45.500674,-73.561082", 
@@ -298,6 +335,7 @@
     "37": {
         "altitude": 32.50264358520508, 
         "capacity": 23, 
+        "description": "6042 - de la Gaucheti\u00e8re / University", 
         "id": 37, 
         "latitude": 45.500675, 
         "location_key": "45.500675,-73.565354", 
@@ -306,6 +344,7 @@
     "38": {
         "altitude": 29.51341438293457, 
         "capacity": 19, 
+        "description": "6043 - Square Victoria", 
         "id": 38, 
         "latitude": 45.50206, 
         "location_key": "45.50206,-73.56295", 
@@ -314,6 +353,7 @@
     "39": {
         "altitude": 45.87200164794922, 
         "capacity": 12, 
+        "description": "6044 - Rue St-Andr\u00e9 / Roy", 
         "id": 39, 
         "latitude": 45.52169, 
         "location_key": "45.52169,-73.570209", 
@@ -322,6 +362,7 @@
     "40": {
         "altitude": 31.7885627746582, 
         "capacity": 31, 
+        "description": "6046 - de la Gaucheti\u00e8re / Mansfield", 
         "id": 40, 
         "latitude": 45.49871, 
         "location_key": "45.49871,-73.56671", 
@@ -330,6 +371,7 @@
     "41": {
         "altitude": 53.32025527954102, 
         "capacity": 27, 
+        "description": "6204 - Milton / Durocher", 
         "id": 41, 
         "latitude": 45.508231, 
         "location_key": "45.508231,-73.574707", 
@@ -338,6 +380,7 @@
     "42": {
         "altitude": 16.02235221862793, 
         "capacity": 15, 
+        "description": "6048 - Prince/Ottawa", 
         "id": 42, 
         "latitude": 45.497438, 
         "location_key": "45.497438,-73.556716", 
@@ -346,6 +389,7 @@
     "43": {
         "altitude": 13.54462242126465, 
         "capacity": 31, 
+        "description": "6049 - King / Wellington", 
         "id": 43, 
         "latitude": 45.4982, 
         "location_key": "45.4982,-73.55488", 
@@ -354,6 +398,7 @@
     "44": {
         "altitude": 10.13360691070557, 
         "capacity": 31, 
+        "description": "6050 - de la Commune / McGill", 
         "id": 44, 
         "latitude": 45.49886, 
         "location_key": "45.49886,-73.55232", 
@@ -362,6 +407,7 @@
     "45": {
         "altitude": 10.20681190490723, 
         "capacity": 75, 
+        "description": "6052 - De la Commune / King", 
         "id": 45, 
         "latitude": 45.497438, 
         "location_key": "45.497438,-73.552802", 
@@ -370,6 +416,7 @@
     "46": {
         "altitude": 33.8112907409668, 
         "capacity": 23, 
+        "description": "6053 - Belmont / Beaver Hall", 
         "id": 46, 
         "latitude": 45.502326, 
         "location_key": "45.502326,-73.565138", 
@@ -378,6 +425,7 @@
     "47": {
         "altitude": 34.61329650878906, 
         "capacity": 23, 
+        "description": "6057 - Peel / ave des Canadiens de Montr\u00e9al", 
         "id": 47, 
         "latitude": 45.497697, 
         "location_key": "45.497697,-73.568646", 
@@ -386,6 +434,7 @@
     "48": {
         "altitude": 39.46701049804688, 
         "capacity": 23, 
+        "description": "6058 - Drummond / Rene Levesques", 
         "id": 48, 
         "latitude": 45.497196, 
         "location_key": "45.497196,-73.571384", 
@@ -394,6 +443,7 @@
     "49": {
         "altitude": 46.8840217590332, 
         "capacity": 31, 
+        "description": "6059 - Metcalfe / Sainte-Catherine", 
         "id": 49, 
         "latitude": 45.50068473942228, 
         "location_key": "45.5006847394,-73.5721564293", 
@@ -402,6 +452,7 @@
     "50": {
         "altitude": 40.18930435180664, 
         "capacity": 15, 
+        "description": "6060 - Mansfield / Ren\u00e9-L\u00e9vesque", 
         "id": 50, 
         "latitude": 45.50015, 
         "location_key": "45.50015,-73.56928", 
@@ -410,6 +461,7 @@
     "51": {
         "altitude": 46.49790191650391, 
         "capacity": 43, 
+        "description": "6061 - Sainte-Catherine / McGill College", 
         "id": 51, 
         "latitude": 45.50176, 
         "location_key": "45.50176,-73.57128", 
@@ -418,6 +470,7 @@
     "52": {
         "altitude": 47.37736129760742, 
         "capacity": 31, 
+        "description": "6062 - Drummond / Sainte-Catherine", 
         "id": 52, 
         "latitude": 45.49863930330429, 
         "location_key": "45.4986393033,-73.5742270947", 
@@ -426,6 +479,7 @@
     "53": {
         "altitude": 52.76850509643555, 
         "capacity": 22, 
+        "description": "6063 - Drummond / de Maisonneuve", 
         "id": 53, 
         "latitude": 45.49947, 
         "location_key": "45.49947,-73.57591", 
@@ -433,7 +487,8 @@
     }, 
     "54": {
         "altitude": 52.53556442260742, 
-        "capacity": 40, 
+        "capacity": 41, 
+        "description": "6064 - de Maisonneuve / Stanley", 
         "id": 54, 
         "latitude": 45.50038, 
         "location_key": "45.50038,-73.57507", 
@@ -442,6 +497,7 @@
     "55": {
         "altitude": 58.94307708740234, 
         "capacity": 23, 
+        "description": "6065 - de la montagne / Sherbrooke", 
         "id": 55, 
         "latitude": 45.499532, 
         "location_key": "45.499532,-73.57869", 
@@ -450,6 +506,7 @@
     "56": {
         "altitude": 49.9453125, 
         "capacity": 23, 
+        "description": "6067 - de Maisonneuve / University", 
         "id": 56, 
         "latitude": 45.503475, 
         "location_key": "45.503475,-73.572103", 
@@ -458,6 +515,7 @@
     "57": {
         "altitude": 56.5981559753418, 
         "capacity": 27, 
+        "description": "6068 - Mansfield / Sherbrooke", 
         "id": 57, 
         "latitude": 45.50297, 
         "location_key": "45.50297,-73.57505", 
@@ -466,6 +524,7 @@
     "58": {
         "altitude": 59.36069107055664, 
         "capacity": 31, 
+        "description": "6070 - University / Milton", 
         "id": 58, 
         "latitude": 45.50624, 
         "location_key": "45.50624,-73.57622", 
@@ -474,6 +533,7 @@
     "59": {
         "altitude": 45.81974029541016, 
         "capacity": 15, 
+        "description": "6073 - de Maisonneuve / Aylmer", 
         "id": 59, 
         "latitude": 45.50501, 
         "location_key": "45.50501,-73.57069", 
@@ -482,6 +542,7 @@
     "60": {
         "altitude": 10.99966621398926, 
         "capacity": 19, 
+        "description": "6076 - St-Cl\u00e9ment/Ste-Catherine", 
         "id": 60, 
         "latitude": 45.556491, 
         "location_key": "45.556491,-73.530003", 
@@ -490,6 +551,7 @@
     "61": {
         "altitude": 40.99989318847656, 
         "capacity": 55, 
+        "description": "6078 - de Maisonneuve / de Bleury", 
         "id": 61, 
         "latitude": 45.50708, 
         "location_key": "45.50708,-73.56917", 
@@ -498,6 +560,7 @@
     "62": {
         "altitude": 39.71812438964844, 
         "capacity": 18, 
+        "description": "6080 - Mackay / Ren\u00e9-L\u00e9vesque", 
         "id": 62, 
         "latitude": 45.49449932378212, 
         "location_key": "45.4944993238,-73.5741734505", 
@@ -506,6 +569,7 @@
     "63": {
         "altitude": 36.09540557861328, 
         "capacity": 25, 
+        "description": "6081 - Saint-Alexandre / Sainte-Catherine (Stationnement du Ges\u00f9)", 
         "id": 63, 
         "latitude": 45.505, 
         "location_key": "45.505,-73.566379", 
@@ -514,6 +578,7 @@
     "64": {
         "altitude": 64.72209930419922, 
         "capacity": 23, 
+        "description": "6082 - 6e avenue/Rosemont", 
         "id": 64, 
         "latitude": 45.550613, 
         "location_key": "45.550613,-73.582883", 
@@ -522,6 +587,7 @@
     "65": {
         "altitude": 41.93924713134766, 
         "capacity": 72, 
+        "description": "6083 - Square Phillips", 
         "id": 65, 
         "latitude": 45.504195, 
         "location_key": "45.504195,-73.568793", 
@@ -530,6 +596,7 @@
     "66": {
         "altitude": 46.31024551391602, 
         "capacity": 15, 
+        "description": "6084 - Lambert-Closse / Tupper", 
         "id": 66, 
         "latitude": 45.489609, 
         "location_key": "45.489609,-73.582445", 
@@ -538,6 +605,7 @@
     "67": {
         "altitude": 23.10894584655762, 
         "capacity": 39, 
+        "description": "6085 - Notre-Dame / Peel", 
         "id": 67, 
         "latitude": 45.4952, 
         "location_key": "45.4952,-73.56328", 
@@ -546,6 +614,7 @@
     "68": {
         "altitude": 27.18444442749023, 
         "capacity": 15, 
+        "description": "6089 - Saint-Jacques / Guy", 
         "id": 68, 
         "latitude": 45.49138, 
         "location_key": "45.49138,-73.57015", 
@@ -554,6 +623,7 @@
     "69": {
         "altitude": 35.15775680541992, 
         "capacity": 17, 
+        "description": "6090 - M\u00e9tro Lucien-L'Allier  (Lucien l'Allier/Argyle)", 
         "id": 69, 
         "latitude": 45.49486, 
         "location_key": "45.49486,-73.57108", 
@@ -562,6 +632,7 @@
     "70": {
         "altitude": 39.16497421264648, 
         "capacity": 19, 
+        "description": "6091 - Joseph-Manseau / Ren\u00e9-L\u00e9vesque", 
         "id": 70, 
         "latitude": 45.492147, 
         "location_key": "45.492147,-73.576453", 
@@ -570,6 +641,7 @@
     "71": {
         "altitude": 41.76286315917969, 
         "capacity": 27, 
+        "description": "6092 - Crescent / Ren\u00e9-L\u00e9vesque", 
         "id": 71, 
         "latitude": 45.49606, 
         "location_key": "45.49606,-73.57348", 
@@ -578,6 +650,7 @@
     "72": {
         "altitude": 59.10761260986328, 
         "capacity": 23, 
+        "description": "6912 - Chateaubriand / Beaubien", 
         "id": 72, 
         "latitude": 45.535431, 
         "location_key": "45.535431,-73.603522", 
@@ -586,6 +659,7 @@
     "73": {
         "altitude": 54.80973815917969, 
         "capacity": 15, 
+        "description": "6194 - M\u00e9tro Atwater (Atwater / Maisonneuve)", 
         "id": 73, 
         "latitude": 45.489904, 
         "location_key": "45.489904,-73.585962", 
@@ -594,6 +668,7 @@
     "74": {
         "altitude": 55.77655410766602, 
         "capacity": 19, 
+        "description": "6095 - Chomedey / de Maisonneuve", 
         "id": 74, 
         "latitude": 45.49156, 
         "location_key": "45.49156,-73.5838", 
@@ -602,6 +677,7 @@
     "75": {
         "altitude": 27.28841972351074, 
         "capacity": 19, 
+        "description": "6096 - Lucien L'Allier / St-Jacques", 
         "id": 75, 
         "latitude": 45.493234, 
         "location_key": "45.493234,-73.567988", 
@@ -609,7 +685,8 @@
     }, 
     "76": {
         "altitude": 49.74555587768555, 
-        "capacity": 23, 
+        "capacity": 22, 
+        "description": "6097 - St Marc / Ste-Catherine", 
         "id": 76, 
         "latitude": 45.492529, 
         "location_key": "45.492529,-73.580364", 
@@ -618,6 +695,7 @@
     "77": {
         "altitude": 47.79925537109375, 
         "capacity": 27, 
+        "description": "6098 - Bishop / Sainte-Catherine", 
         "id": 77, 
         "latitude": 45.49642, 
         "location_key": "45.49642,-73.57616", 
@@ -626,6 +704,7 @@
     "78": {
         "altitude": 53.51005935668945, 
         "capacity": 23, 
+        "description": "6099 - Bishop / de Maisonneuve", 
         "id": 78, 
         "latitude": 45.497475, 
         "location_key": "45.497475,-73.578234", 
@@ -634,6 +713,7 @@
     "79": {
         "altitude": 52.33457946777344, 
         "capacity": 23, 
+        "description": "6100 - de Maisonneuve / Mackay", 
         "id": 79, 
         "latitude": 45.49659, 
         "location_key": "45.49659,-73.57851", 
@@ -642,6 +722,7 @@
     "80": {
         "altitude": 89.5073013305664, 
         "capacity": 11, 
+        "description": "6101 - Metro Villa Maria (D\u00e9carrie / Monkland)", 
         "id": 80, 
         "latitude": 45.48, 
         "location_key": "45.48,-73.6189", 
@@ -650,6 +731,7 @@
     "81": {
         "altitude": 61.99777603149414, 
         "capacity": 15, 
+        "description": "6102 - Lincoln / Dufort", 
         "id": 81, 
         "latitude": 45.493034, 
         "location_key": "45.493034,-73.583836", 
@@ -658,6 +740,7 @@
     "82": {
         "altitude": 18.22005271911621, 
         "capacity": 30, 
+        "description": "6104 - Wolfe / Ren\u00e9-L\u00e9vesque", 
         "id": 82, 
         "latitude": 45.516872646826776, 
         "location_key": "45.5168726468,-73.5541749001", 
@@ -666,6 +749,7 @@
     "83": {
         "altitude": 16.38512802124023, 
         "capacity": 19, 
+        "description": "6105 - Plessis / Ren\u00e9-L\u00e9vesque", 
         "id": 83, 
         "latitude": 45.51954, 
         "location_key": "45.51954,-73.552", 
@@ -674,6 +758,7 @@
     "84": {
         "altitude": 13.45395469665527, 
         "capacity": 33, 
+        "description": "6106 - Ren\u00e9-L\u00e9vesque / Papineau", 
         "id": 84, 
         "latitude": 45.52114, 
         "location_key": "45.52114,-73.54926", 
@@ -682,6 +767,7 @@
     "85": {
         "altitude": 49.90005111694336, 
         "capacity": 27, 
+        "description": "6107 - Guy/Ste-Catherine", 
         "id": 85, 
         "latitude": 45.49501, 
         "location_key": "45.49501,-73.578347", 
@@ -690,6 +776,7 @@
     "86": {
         "altitude": 18.6530647277832, 
         "capacity": 19, 
+        "description": "6108 - Logan / Fullum", 
         "id": 86, 
         "latitude": 45.528448693514136, 
         "location_key": "45.5284486935,-73.5510849953", 
@@ -698,6 +785,7 @@
     "87": {
         "altitude": 11.20943832397461, 
         "capacity": 15, 
+        "description": "6109 - Fullum / Jean-Langlois", 
         "id": 87, 
         "latitude": 45.52615, 
         "location_key": "45.52615,-73.54612", 
@@ -706,6 +794,7 @@
     "88": {
         "altitude": 12.5931510925293, 
         "capacity": 15, 
+        "description": "6110 - Poupart / Sainte-Catherine", 
         "id": 88, 
         "latitude": 45.529033, 
         "location_key": "45.529033,-73.54641", 
@@ -714,6 +803,7 @@
     "89": {
         "altitude": 15.39671802520752, 
         "capacity": 19, 
+        "description": "6111 - Parthenais / Sainte-Catherine", 
         "id": 89, 
         "latitude": 45.52622, 
         "location_key": "45.52622,-73.54933", 
@@ -722,6 +812,7 @@
     "90": {
         "altitude": 25.25204658508301, 
         "capacity": 19, 
+        "description": "6112 - Montcalm/Maisonneuve", 
         "id": 90, 
         "latitude": 45.519157, 
         "location_key": "45.519157,-73.55786", 
@@ -729,7 +820,8 @@
     }, 
     "91": {
         "altitude": 21.94827270507812, 
-        "capacity": 17, 
+        "capacity": 19, 
+        "description": "6113 - Alexandre-DeS\u00e8ve / Maisonneuve", 
         "id": 91, 
         "latitude": 45.5219, 
         "location_key": "45.5219,-73.55534", 
@@ -737,7 +829,8 @@
     }, 
     "92": {
         "altitude": 17.8184642791748, 
-        "capacity": 25, 
+        "capacity": 24, 
+        "description": "6114 - M\u00e9tro Papineau (Cartier / Ste-Catherine)", 
         "id": 92, 
         "latitude": 45.52353, 
         "location_key": "45.52353,-73.55199", 
@@ -746,6 +839,7 @@
     "93": {
         "altitude": 60.59273147583008, 
         "capacity": 18, 
+        "description": "6115 - Benny/ Monkland", 
         "id": 93, 
         "latitude": 45.4666, 
         "location_key": "45.4666,-73.6311", 
@@ -754,6 +848,7 @@
     "94": {
         "altitude": 29.87929153442383, 
         "capacity": 19, 
+        "description": "6116 - Plessis / Ontario", 
         "id": 94, 
         "latitude": 45.523584, 
         "location_key": "45.523584,-73.560941", 
@@ -762,6 +857,7 @@
     "95": {
         "altitude": 27.10098457336426, 
         "capacity": 15, 
+        "description": "6117 - Robin / de la Visitation", 
         "id": 95, 
         "latitude": 45.52087, 
         "location_key": "45.52087,-73.55922", 
@@ -770,6 +866,7 @@
     "96": {
         "altitude": 29.8182430267334, 
         "capacity": 18, 
+        "description": "6118 - Champlain / Ontario", 
         "id": 96, 
         "latitude": 45.52504753729988, 
         "location_key": "45.5250475373,-73.5600355268", 
@@ -778,6 +875,7 @@
     "97": {
         "altitude": 26.07063674926758, 
         "capacity": 15, 
+        "description": "6120 - Parthenais / Ontario", 
         "id": 97, 
         "latitude": 45.52954, 
         "location_key": "45.52954,-73.55622", 
@@ -785,7 +883,8 @@
     }, 
     "98": {
         "altitude": 27.44235229492188, 
-        "capacity": 15, 
+        "capacity": 14, 
+        "description": "6121 - Du havre/Rouen", 
         "id": 98, 
         "latitude": 45.534818, 
         "location_key": "45.534818,-73.555495", 
@@ -794,6 +893,7 @@
     "99": {
         "altitude": 16.82194519042969, 
         "capacity": 15, 
+        "description": "6122 - Logan / d'Iberville", 
         "id": 99, 
         "latitude": 45.53057, 
         "location_key": "45.53057,-73.54913", 
@@ -802,6 +902,7 @@
     "100": {
         "altitude": 26.54997825622559, 
         "capacity": 15, 
+        "description": "6123 - Alexandre de S\u00e8ve / La Fontaine", 
         "id": 100, 
         "latitude": 45.523217, 
         "location_key": "45.523217,-73.558187", 
@@ -810,6 +911,7 @@
     "101": {
         "altitude": 22.78138160705566, 
         "capacity": 18, 
+        "description": "6124 - Poupart/Ontario", 
         "id": 101, 
         "latitude": 45.531949, 
         "location_key": "45.531949,-73.553263", 
@@ -818,6 +920,7 @@
     "102": {
         "altitude": 78.89502716064453, 
         "capacity": 15, 
+        "description": "6125 - Ellendale/C\u00f4te-Des-Neiges", 
         "id": 102, 
         "latitude": 45.499757, 
         "location_key": "45.499757,-73.629298", 
@@ -826,6 +929,7 @@
     "103": {
         "altitude": 30.02515029907227, 
         "capacity": 19, 
+        "description": "6126 - Rouen / Fullum", 
         "id": 103, 
         "latitude": 45.53217, 
         "location_key": "45.53217,-73.55859", 
@@ -834,6 +938,7 @@
     "104": {
         "altitude": 30.01288032531738, 
         "capacity": 15, 
+        "description": "6127 - du Havre / Hochelaga", 
         "id": 104, 
         "latitude": 45.535915483036966, 
         "location_key": "45.535915483,-73.5582196712", 
@@ -842,6 +947,7 @@
     "105": {
         "altitude": 21.15128326416016, 
         "capacity": 19, 
+        "description": "6128 - Hogan / Ontario", 
         "id": 105, 
         "latitude": 45.535478, 
         "location_key": "45.535478,-73.551155", 
@@ -850,6 +956,7 @@
     "106": {
         "altitude": 37.84589385986328, 
         "capacity": 15, 
+        "description": "6130 - Sherbrooke / Frontenac", 
         "id": 106, 
         "latitude": 45.5367, 
         "location_key": "45.5367,-73.56081", 
@@ -858,6 +965,7 @@
     "107": {
         "altitude": 37.87200164794922, 
         "capacity": 23, 
+        "description": "6131 - Fullum / Sherbrooke", 
         "id": 107, 
         "latitude": 45.533924, 
         "location_key": "45.533924,-73.562425", 
@@ -866,6 +974,7 @@
     "108": {
         "altitude": 40.96151733398438, 
         "capacity": 23, 
+        "description": "6133 - Terasse Mercure / Fulum", 
         "id": 108, 
         "latitude": 45.535614, 
         "location_key": "45.535614,-73.566014", 
@@ -874,6 +983,7 @@
     "109": {
         "altitude": 37.86841583251953, 
         "capacity": 14, 
+        "description": "6129 - de Bordeaux / Sherbrooke", 
         "id": 109, 
         "latitude": 45.53002706078813, 
         "location_key": "45.5300270608,-73.5631763935", 
@@ -882,6 +992,7 @@
     "110": {
         "altitude": 41.44929122924805, 
         "capacity": 22, 
+        "description": "6202 - Sainte-Famille / Sherbrooke", 
         "id": 110, 
         "latitude": 45.510016, 
         "location_key": "45.510016,-73.570654", 
@@ -890,6 +1001,7 @@
     "111": {
         "altitude": 67.8519515991211, 
         "capacity": 31, 
+        "description": "6047 - University / Prince-Arthur", 
         "id": 111, 
         "latitude": 45.50733, 
         "location_key": "45.50733,-73.57845", 
@@ -898,6 +1010,7 @@
     "112": {
         "altitude": 54.63735198974609, 
         "capacity": 19, 
+        "description": "6079 - Hutchison/ Prince Arthur", 
         "id": 112, 
         "latitude": 45.509864, 
         "location_key": "45.509864,-73.576105", 
@@ -906,6 +1019,7 @@
     "113": {
         "altitude": 42.08860778808594, 
         "capacity": 22, 
+        "description": "6022 - Molson / William - Tremblay", 
         "id": 113, 
         "latitude": 45.541532, 
         "location_key": "45.541532,-73.565258", 
@@ -914,6 +1028,7 @@
     "114": {
         "altitude": 68.35499572753906, 
         "capacity": 23, 
+        "description": "6093 - Atwater / Sherbrooke", 
         "id": 114, 
         "latitude": 45.49132174886071, 
         "location_key": "45.4913217489,-73.5878098011", 
@@ -922,6 +1037,7 @@
     "115": {
         "altitude": 60.689453125, 
         "capacity": 15, 
+        "description": "6913 - Drolet / Beaubien", 
         "id": 115, 
         "latitude": 45.533348, 
         "location_key": "45.533348,-73.605834", 
@@ -930,6 +1046,7 @@
     "116": {
         "altitude": 62.00849533081055, 
         "capacity": 15, 
+        "description": "6915 - Alma / Beaubien", 
         "id": 116, 
         "latitude": 45.531425, 
         "location_key": "45.531425,-73.607591", 
@@ -938,6 +1055,7 @@
     "117": {
         "altitude": 52.87200164794922, 
         "capacity": 23, 
+        "description": "6916 - Parc du P\u00e9lican (Laurier/2e ave)", 
         "id": 117, 
         "latitude": 45.54483, 
         "location_key": "45.54483,-73.572811", 
@@ -946,6 +1064,7 @@
     "118": {
         "altitude": 61.29654312133789, 
         "capacity": 11, 
+        "description": "6918 - 9e Avenue / Dandurand", 
         "id": 118, 
         "latitude": 45.550769, 
         "location_key": "45.550769,-73.57711", 
@@ -954,6 +1073,7 @@
     "119": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6923 - Marquette / Jean-Talon", 
         "id": 119, 
         "latitude": 45.54735612315234, 
         "location_key": "45.5473561232,-73.607609868", 
@@ -962,6 +1082,7 @@
     "120": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6925 - des \u00c9cores / Jean-Talon", 
         "id": 120, 
         "latitude": 45.55244260913485, 
         "location_key": "45.5524426091,-73.603001833", 
@@ -970,6 +1091,7 @@
     "121": {
         "altitude": 103.2806015014648, 
         "capacity": 27, 
+        "description": "6075 - University / des Pins", 
         "id": 121, 
         "latitude": 45.508356, 
         "location_key": "45.508356,-73.580498", 
@@ -978,6 +1100,7 @@
     "122": {
         "altitude": 37.87200164794922, 
         "capacity": 19, 
+        "description": "6134 - Gascon/Rachel", 
         "id": 122, 
         "latitude": 45.537964, 
         "location_key": "45.537964,-73.562643", 
@@ -986,6 +1109,7 @@
     "123": {
         "altitude": 30.04293251037598, 
         "capacity": 22, 
+        "description": "6132 - Larivi\u00e8re / de Lorimier", 
         "id": 123, 
         "latitude": 45.52915520624575, 
         "location_key": "45.5291552062,-73.5594105721", 
@@ -994,6 +1118,7 @@
     "124": {
         "altitude": 38.17032241821289, 
         "capacity": 23, 
+        "description": "6137 - Gauthier / Papineau", 
         "id": 124, 
         "latitude": 45.530202, 
         "location_key": "45.530202,-73.56663", 
@@ -1002,6 +1127,7 @@
     "125": {
         "altitude": 38.28462982177734, 
         "capacity": 15, 
+        "description": "6138 - de Bordeaux / Gauthier", 
         "id": 125, 
         "latitude": 45.5313, 
         "location_key": "45.5313,-73.566", 
@@ -1010,6 +1136,7 @@
     "126": {
         "altitude": 37.87200164794922, 
         "capacity": 15, 
+        "description": "6139 - Gauthier / des \u00c9rables", 
         "id": 126, 
         "latitude": 45.53237, 
         "location_key": "45.53237,-73.56437", 
@@ -1018,6 +1145,7 @@
     "127": {
         "altitude": 45.87200164794922, 
         "capacity": 19, 
+        "description": "6140 - Marquette / Rachel", 
         "id": 127, 
         "latitude": 45.5298015824607, 
         "location_key": "45.5298015825,-73.5702896118", 
@@ -1026,6 +1154,7 @@
     "128": {
         "altitude": 45.83524322509766, 
         "capacity": 27, 
+        "description": "6141 - de Bordeaux / Rachel", 
         "id": 128, 
         "latitude": 45.53227, 
         "location_key": "45.53227,-73.56828", 
@@ -1034,6 +1163,7 @@
     "129": {
         "altitude": 45.87200164794922, 
         "capacity": 31, 
+        "description": "6142 - Calixa Laval\u00e9e / Rachel", 
         "id": 129, 
         "latitude": 45.527791, 
         "location_key": "45.527791,-73.572056", 
@@ -1042,6 +1172,7 @@
     "130": {
         "altitude": 45.87200164794922, 
         "capacity": 15, 
+        "description": "6143 - Rachel / Br\u00e9beuf", 
         "id": 130, 
         "latitude": 45.52689, 
         "location_key": "45.52689,-73.57264", 
@@ -1050,6 +1181,7 @@
     "131": {
         "altitude": 45.87200164794922, 
         "capacity": 11, 
+        "description": "6145 - du Parc-La Fontaine / Duluth", 
         "id": 131, 
         "latitude": 45.52469, 
         "location_key": "45.52469,-73.57221", 
@@ -1058,6 +1190,7 @@
     "132": {
         "altitude": 40.15790939331055, 
         "capacity": 11, 
+        "description": "6146 - du Parc-La Fontaine / Roy", 
         "id": 132, 
         "latitude": 45.523084, 
         "location_key": "45.523084,-73.568731", 
@@ -1066,6 +1199,7 @@
     "133": {
         "altitude": 37.87200164794922, 
         "capacity": 23, 
+        "description": "6147 - Calixa-Lavall\u00e9e / Sherbrooke", 
         "id": 133, 
         "latitude": 45.52479, 
         "location_key": "45.52479,-73.56545", 
@@ -1073,7 +1207,8 @@
     }, 
     "134": {
         "altitude": 37.87200164794922, 
-        "capacity": 30, 
+        "capacity": 31, 
+        "description": "6148 - \u00c9mile-Duploy\u00e9 / Sherbrooke", 
         "id": 134, 
         "latitude": 45.52729, 
         "location_key": "45.52729,-73.56463", 
@@ -1081,7 +1216,8 @@
     }, 
     "135": {
         "altitude": 45.87200164794922, 
-        "capacity": 13, 
+        "capacity": 14, 
+        "description": "6149 - Chapleau / Mont-Royal", 
         "id": 135, 
         "latitude": 45.53867, 
         "location_key": "45.53867,-73.56936", 
@@ -1090,6 +1226,7 @@
     "136": {
         "altitude": 45.98223876953125, 
         "capacity": 19, 
+        "description": "6151 - des \u00c9rables / Mont-Royal", 
         "id": 136, 
         "latitude": 45.53565, 
         "location_key": "45.53565,-73.57172", 
@@ -1098,6 +1235,7 @@
     "137": {
         "altitude": 47.92483520507812, 
         "capacity": 19, 
+        "description": "6152 - Chabot / Mont-Royal", 
         "id": 137, 
         "latitude": 45.53413436610843, 
         "location_key": "45.5341343661,-73.5734921694", 
@@ -1106,6 +1244,7 @@
     "138": {
         "altitude": 45.87200164794922, 
         "capacity": 19, 
+        "description": "6153 - Marie-Anne / Papineau", 
         "id": 138, 
         "latitude": 45.53189473818018, 
         "location_key": "45.5318947382,-73.5723227262", 
@@ -1114,6 +1253,7 @@
     "139": {
         "altitude": 50.70215225219727, 
         "capacity": 31, 
+        "description": "6154 - Marquette / Mont-Royal", 
         "id": 139, 
         "latitude": 45.53229, 
         "location_key": "45.53229,-73.57544", 
@@ -1122,6 +1262,7 @@
     "140": {
         "altitude": 51.98207473754883, 
         "capacity": 23, 
+        "description": "6155 - Garnier / Mont-Royal", 
         "id": 140, 
         "latitude": 45.53092, 
         "location_key": "45.53092,-73.57674", 
@@ -1130,6 +1271,7 @@
     "141": {
         "altitude": 49.87526321411133, 
         "capacity": 11, 
+        "description": "6156 - Marie-Anne / de la Roche", 
         "id": 141, 
         "latitude": 45.52773841379083, 
         "location_key": "45.5277384138,-73.5762494802", 
@@ -1138,6 +1280,7 @@
     "142": {
         "altitude": 52.87200164794922, 
         "capacity": 23, 
+        "description": "6157 - de la Roche / Mont-Royal", 
         "id": 142, 
         "latitude": 45.52856, 
         "location_key": "45.52856,-73.57828", 
@@ -1146,6 +1289,7 @@
     "143": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6158 - Gilford / Br\u00e9beuf", 
         "id": 143, 
         "latitude": 45.53073, 
         "location_key": "45.53073,-73.58153", 
@@ -1154,6 +1298,7 @@
     "144": {
         "altitude": 58.31911468505859, 
         "capacity": 11, 
+        "description": "6159 - Berri/St-Joseph", 
         "id": 144, 
         "latitude": 45.52743, 
         "location_key": "45.52743,-73.58708", 
@@ -1162,6 +1307,7 @@
     "145": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6160 - Garnier / Saint-Joseph", 
         "id": 145, 
         "latitude": 45.53297, 
         "location_key": "45.53297,-73.58118", 
@@ -1170,6 +1316,7 @@
     "146": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6161 - Cartier / Saint-Joseph", 
         "id": 146, 
         "latitude": 45.53576, 
         "location_key": "45.53576,-73.57867", 
@@ -1178,6 +1325,7 @@
     "147": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6162 - Fullum / Saint-Joseph", 
         "id": 147, 
         "latitude": 45.54003, 
         "location_key": "45.54003,-73.575158", 
@@ -1186,6 +1334,7 @@
     "148": {
         "altitude": 54.23782348632812, 
         "capacity": 23, 
+        "description": "6163 - Marquette / Laurier", 
         "id": 148, 
         "latitude": 45.53543, 
         "location_key": "45.53543,-73.5822", 
@@ -1194,6 +1343,7 @@
     "149": {
         "altitude": 55.83110427856445, 
         "capacity": 15, 
+        "description": "6164 - Garnier / Laurier", 
         "id": 149, 
         "latitude": 45.534134, 
         "location_key": "45.534134,-73.583368", 
@@ -1202,6 +1352,7 @@
     "150": {
         "altitude": 56.96982192993164, 
         "capacity": 27, 
+        "description": "6165 - Br\u00e9beuf / Laurier", 
         "id": 150, 
         "latitude": 45.53248, 
         "location_key": "45.53248,-73.58507", 
@@ -1210,6 +1361,7 @@
     "151": {
         "altitude": 64.26593780517578, 
         "capacity": 23, 
+        "description": "6166 - Br\u00e9beuf / Saint-Gr\u00e9goire", 
         "id": 151, 
         "latitude": 45.5341, 
         "location_key": "45.5341,-73.58852", 
@@ -1218,6 +1370,7 @@
     "152": {
         "altitude": 61.30221939086914, 
         "capacity": 11, 
+        "description": "6167 - Marquette / Saint-Gr\u00e9goire", 
         "id": 152, 
         "latitude": 45.53703, 
         "location_key": "45.53703,-73.58584", 
@@ -1226,6 +1379,7 @@
     "153": {
         "altitude": 20.80930709838867, 
         "capacity": 27, 
+        "description": "6168 - Hotel de ville/viger", 
         "id": 153, 
         "latitude": 45.509474, 
         "location_key": "45.509474,-73.557278", 
@@ -1234,6 +1388,7 @@
     "154": {
         "altitude": 58.8455924987793, 
         "capacity": 19, 
+        "description": "6169 - St-Andr\u00e9/Laurier", 
         "id": 154, 
         "latitude": 45.529511, 
         "location_key": "45.529511,-73.587479", 
@@ -1242,6 +1397,7 @@
     "155": {
         "altitude": 58.07901763916016, 
         "capacity": 23, 
+        "description": "6170 - de Mentana / Laurier", 
         "id": 155, 
         "latitude": 45.530046, 
         "location_key": "45.530046,-73.58677", 
@@ -1250,6 +1406,7 @@
     "156": {
         "altitude": 28.19235420227051, 
         "capacity": 19, 
+        "description": "6171 - Wolfe/Robin", 
         "id": 156, 
         "latitude": 45.5195, 
         "location_key": "45.5195,-73.560269", 
@@ -1258,6 +1415,7 @@
     "157": {
         "altitude": 37.96425628662109, 
         "capacity": 26, 
+        "description": "6173 - Cherrier / Berri", 
         "id": 157, 
         "latitude": 45.5191458, 
         "location_key": "45.5191458,-73.5692414", 
@@ -1266,6 +1424,7 @@
     "158": {
         "altitude": 45.87200164794922, 
         "capacity": 22, 
+        "description": "6174 - Roy / Saint-Denis", 
         "id": 158, 
         "latitude": 45.51908, 
         "location_key": "45.51908,-73.5727", 
@@ -1274,6 +1433,7 @@
     "159": {
         "altitude": 37.87200164794922, 
         "capacity": 22, 
+        "description": "6175 - St-Andr\u00e9/Cherrier", 
         "id": 159, 
         "latitude": 45.520578, 
         "location_key": "45.520578,-73.567733", 
@@ -1282,6 +1442,7 @@
     "160": {
         "altitude": 45.87200164794922, 
         "capacity": 19, 
+        "description": "6176 - St-Andr\u00e9 / Duluth", 
         "id": 160, 
         "latitude": 45.523171, 
         "location_key": "45.523171,-73.573431", 
@@ -1290,6 +1451,7 @@
     "161": {
         "altitude": 47.59484100341797, 
         "capacity": 15, 
+        "description": "6177 - Saint-Andr\u00e9 / Rachel", 
         "id": 161, 
         "latitude": 45.524222, 
         "location_key": "45.524222,-73.575771", 
@@ -1298,6 +1460,7 @@
     "162": {
         "altitude": 48.79945373535156, 
         "capacity": 23, 
+        "description": "6179 - Duluth / Saint-Denis", 
         "id": 162, 
         "latitude": 45.52077419099789, 
         "location_key": "45.520774191,-73.5757774115", 
@@ -1306,6 +1469,7 @@
     "163": {
         "altitude": 17.77789878845215, 
         "capacity": 11, 
+        "description": "6180 - St-Jacques/St-Laurent", 
         "id": 163, 
         "latitude": 45.50612, 
         "location_key": "45.50612,-73.556605", 
@@ -1314,6 +1478,7 @@
     "164": {
         "altitude": 68.695068359375, 
         "capacity": 31, 
+        "description": "6181 - Clark/Rachel", 
         "id": 164, 
         "latitude": 45.516853, 
         "location_key": "45.516853,-73.582648", 
@@ -1322,6 +1487,7 @@
     "165": {
         "altitude": 59.91084289550781, 
         "capacity": 15, 
+        "description": "6182 - Buillon / Mont-Royal", 
         "id": 165, 
         "latitude": 45.5215, 
         "location_key": "45.5215,-73.5851", 
@@ -1330,6 +1496,7 @@
     "166": {
         "altitude": 57.9144287109375, 
         "capacity": 19, 
+        "description": "6183 - Laval / Mont-Royal", 
         "id": 166, 
         "latitude": 45.52241290921658, 
         "location_key": "45.5224129092,-73.5841298103", 
@@ -1338,6 +1505,7 @@
     "167": {
         "altitude": 52.85176086425781, 
         "capacity": 38, 
+        "description": "6184 - M\u00e9tro Mont-Royal (Rivard/Mont-Royal)", 
         "id": 167, 
         "latitude": 45.52468, 
         "location_key": "45.52468,-73.58199", 
@@ -1346,6 +1514,7 @@
     "168": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6185 - Des \u00e9rables/B\u00e9langer", 
         "id": 168, 
         "latitude": 45.549286, 
         "location_key": "45.549286,-73.601006", 
@@ -1354,6 +1523,7 @@
     "169": {
         "altitude": 52.87200164794922, 
         "capacity": 27, 
+        "description": "6186 - Boyer / Mont-Royal", 
         "id": 169, 
         "latitude": 45.52743, 
         "location_key": "45.52743,-73.58002", 
@@ -1362,6 +1532,7 @@
     "170": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6187 - Saint-Andr\u00e9 / de Bienville", 
         "id": 170, 
         "latitude": 45.5272, 
         "location_key": "45.5272,-73.58226", 
@@ -1370,6 +1541,7 @@
     "171": {
         "altitude": 51.85113906860352, 
         "capacity": 18, 
+        "description": "6188 - Mentana / Marie-Anne", 
         "id": 171, 
         "latitude": 45.525983, 
         "location_key": "45.525983,-73.577808", 
@@ -1378,6 +1550,7 @@
     "172": {
         "altitude": 52.87200164794922, 
         "capacity": 11, 
+        "description": "6189 - Chabot/Everret", 
         "id": 172, 
         "latitude": 45.5507, 
         "location_key": "45.5507,-73.6096", 
@@ -1386,6 +1559,7 @@
     "173": {
         "altitude": 56.88785171508789, 
         "capacity": 14, 
+        "description": "6190 - Pontiac/Gilford", 
         "id": 173, 
         "latitude": 45.527008, 
         "location_key": "45.527008,-73.585852", 
@@ -1394,6 +1568,7 @@
     "174": {
         "altitude": 56.47171020507812, 
         "capacity": 15, 
+        "description": "6191 - St-Zotique/Clark", 
         "id": 174, 
         "latitude": 45.531401, 
         "location_key": "45.531401,-73.612674", 
@@ -1402,6 +1577,7 @@
     "175": {
         "altitude": 61.69126510620117, 
         "capacity": 15, 
+        "description": "6192 - M\u00e9tro Laurier (Rivard/Bibaud)", 
         "id": 175, 
         "latitude": 45.527733, 
         "location_key": "45.527733,-73.58958", 
@@ -1410,6 +1586,7 @@
     "176": {
         "altitude": 83.38906860351562, 
         "capacity": 19, 
+        "description": "6193 - Esplanade/Fairmount", 
         "id": 176, 
         "latitude": 45.521495, 
         "location_key": "45.521495,-73.596758", 
@@ -1418,6 +1595,7 @@
     "177": {
         "altitude": 65.27967071533203, 
         "capacity": 11, 
+        "description": "6195 - de Bullion / Boul. Saint-Joseph", 
         "id": 177, 
         "latitude": 45.52377, 
         "location_key": "45.52377,-73.58978", 
@@ -1426,6 +1604,7 @@
     "178": {
         "altitude": 66.97138214111328, 
         "capacity": 19, 
+        "description": "6196 - Villeneuve/St-Laurent", 
         "id": 178, 
         "latitude": 45.52157, 
         "location_key": "45.52157,-73.58918", 
@@ -1434,6 +1613,7 @@
     "179": {
         "altitude": 58.01422882080078, 
         "capacity": 19, 
+        "description": "6197 - Cartier/Masson", 
         "id": 179, 
         "latitude": 45.537985, 
         "location_key": "45.537985,-73.583502", 
@@ -1442,6 +1622,7 @@
     "180": {
         "altitude": 78.38764190673828, 
         "capacity": 23, 
+        "description": "6198 - H\u00e9l\u00e8ne-Baillargeon / Saint-Denis", 
         "id": 180, 
         "latitude": 45.52974, 
         "location_key": "45.52974,-73.59527", 
@@ -1450,6 +1631,7 @@
     "181": {
         "altitude": 79.39909362792969, 
         "capacity": 19, 
+        "description": "6199 - Clark / Saint-Viateur", 
         "id": 181, 
         "latitude": 45.52517156097331, 
         "location_key": "45.525171561,-73.5993754864", 
@@ -1458,6 +1640,7 @@
     "182": {
         "altitude": 79.92342376708984, 
         "capacity": 15, 
+        "description": "6200 - Maguire / Saint-Laurent", 
         "id": 182, 
         "latitude": 45.52457, 
         "location_key": "45.52457,-73.59588", 
@@ -1466,6 +1649,7 @@
     "183": {
         "altitude": 60.92765808105469, 
         "capacity": 23, 
+        "description": "6201 - Villeneuve / de l'H\u00f4tel-de-Ville", 
         "id": 183, 
         "latitude": 45.52352540631033, 
         "location_key": "45.5235254063,-73.5875093937", 
@@ -1474,6 +1658,7 @@
     "184": {
         "altitude": 47.51873779296875, 
         "capacity": 23, 
+        "description": "6203 - Hutchison / Sherbrooke", 
         "id": 184, 
         "latitude": 45.50781, 
         "location_key": "45.50781,-73.57208", 
@@ -1482,6 +1667,7 @@
     "185": {
         "altitude": 48.66451644897461, 
         "capacity": 31, 
+        "description": "6205 - Milton / du Parc", 
         "id": 185, 
         "latitude": 45.50971, 
         "location_key": "45.50971,-73.57354", 
@@ -1489,7 +1675,8 @@
     }, 
     "186": {
         "altitude": 52.98480224609375, 
-        "capacity": 30, 
+        "capacity": 31, 
+        "description": "6206 - Prince-Arthur / du Parc", 
         "id": 186, 
         "latitude": 45.51059, 
         "location_key": "45.51059,-73.57547", 
@@ -1498,6 +1685,7 @@
     "187": {
         "altitude": 55.7031364440918, 
         "capacity": 15, 
+        "description": "6207 - Sainte-Famille / des Pins", 
         "id": 187, 
         "latitude": 45.51281294953485, 
         "location_key": "45.5128129495,-73.577016592", 
@@ -1506,6 +1694,7 @@
     "188": {
         "altitude": 59.26026153564453, 
         "capacity": 18, 
+        "description": "6208 - Hutchison / des Pins", 
         "id": 188, 
         "latitude": 45.51069, 
         "location_key": "45.51069,-73.57805", 
@@ -1514,6 +1703,7 @@
     "189": {
         "altitude": 40.2957763671875, 
         "capacity": 22, 
+        "description": "6209 - Milton / Clark", 
         "id": 189, 
         "latitude": 45.51252, 
         "location_key": "45.51252,-73.57062", 
@@ -1522,6 +1712,7 @@
     "190": {
         "altitude": 30.74463653564453, 
         "capacity": 11, 
+        "description": "6210 - Metro  Sauv\u00e9 (Sauv\u00e9/Berri)", 
         "id": 190, 
         "latitude": 45.5509, 
         "location_key": "45.5509,-73.656", 
@@ -1530,6 +1721,7 @@
     "191": {
         "altitude": 51.69781112670898, 
         "capacity": 23, 
+        "description": "6211 - Roy / Saint-Laurent", 
         "id": 191, 
         "latitude": 45.51561, 
         "location_key": "45.51561,-73.57569", 
@@ -1538,6 +1730,7 @@
     "192": {
         "altitude": 69.57698822021484, 
         "capacity": 15, 
+        "description": "6212 - Duluth/Esplanade", 
         "id": 192, 
         "latitude": 45.515201, 
         "location_key": "45.515201,-73.581394", 
@@ -1546,6 +1739,7 @@
     "193": {
         "altitude": 59.42654800415039, 
         "capacity": 15, 
+        "description": "6213 - Duluth / Saint-Laurent", 
         "id": 193, 
         "latitude": 45.5171, 
         "location_key": "45.5171,-73.57921", 
@@ -1554,6 +1748,7 @@
     "194": {
         "altitude": 37.84516906738281, 
         "capacity": 37, 
+        "description": "6214 - Square Saint-Louis", 
         "id": 194, 
         "latitude": 45.51735, 
         "location_key": "45.51735,-73.56906", 
@@ -1562,6 +1757,7 @@
     "195": {
         "altitude": 58.38190078735352, 
         "capacity": 19, 
+        "description": "6215 - Saint-Cuthbert / Saint-Urbain", 
         "id": 195, 
         "latitude": 45.51494, 
         "location_key": "45.51494,-73.57821", 
@@ -1570,6 +1766,7 @@
     "196": {
         "altitude": 85.5084228515625, 
         "capacity": 35, 
+        "description": "6216 - Parc du Mont-Royal", 
         "id": 196, 
         "latitude": 45.51496, 
         "location_key": "45.51496,-73.58503", 
@@ -1578,6 +1775,7 @@
     "197": {
         "altitude": 71.54119873046875, 
         "capacity": 23, 
+        "description": "6217 - Marie-Anne / Saint-Urbain", 
         "id": 197, 
         "latitude": 45.51778, 
         "location_key": "45.51778,-73.58531", 
@@ -1586,6 +1784,7 @@
     "198": {
         "altitude": 48.63628768920898, 
         "capacity": 15, 
+        "description": "6219 - Roy / H\u00f4tel de Ville", 
         "id": 198, 
         "latitude": 45.51728, 
         "location_key": "45.51728,-73.57435", 
@@ -1594,6 +1793,7 @@
     "199": {
         "altitude": 53.26272201538086, 
         "capacity": 14, 
+        "description": "6220 - Laval / Duluth", 
         "id": 199, 
         "latitude": 45.51923690964773, 
         "location_key": "45.5192369096,-73.5772150755", 
@@ -1602,6 +1802,7 @@
     "200": {
         "altitude": 68.43760681152344, 
         "capacity": 23, 
+        "description": "6221 - Mont-Royal / Clark", 
         "id": 200, 
         "latitude": 45.51941, 
         "location_key": "45.51941,-73.58685", 
@@ -1610,6 +1811,7 @@
     "201": {
         "altitude": 75.30640411376953, 
         "capacity": 26, 
+        "description": "6222 - de l'Esplanade / Mont-Royal", 
         "id": 201, 
         "latitude": 45.518228, 
         "location_key": "45.518228,-73.587772", 
@@ -1618,6 +1820,7 @@
     "202": {
         "altitude": 82.3819580078125, 
         "capacity": 33, 
+        "description": "6223 - Mont-Royal / du Parc", 
         "id": 202, 
         "latitude": 45.517, 
         "location_key": "45.517,-73.589", 
@@ -1626,6 +1829,7 @@
     "203": {
         "altitude": 80.91780853271484, 
         "capacity": 14, 
+        "description": "6224 - Villeneuve/ Parc", 
         "id": 203, 
         "latitude": 45.51829, 
         "location_key": "45.51829,-73.59235", 
@@ -1634,6 +1838,7 @@
     "204": {
         "altitude": 73.2734146118164, 
         "capacity": 11, 
+        "description": "6225 - Villeneuve / St-Urbain", 
         "id": 204, 
         "latitude": 45.520188, 
         "location_key": "45.520188,-73.590559", 
@@ -1642,6 +1847,7 @@
     "205": {
         "altitude": 79.22920227050781, 
         "capacity": 31, 
+        "description": "6227 - Esplanade/Laurier", 
         "id": 205, 
         "latitude": 45.520906, 
         "location_key": "45.520906,-73.594499", 
@@ -1650,6 +1856,7 @@
     "206": {
         "altitude": 60.49321746826172, 
         "capacity": 15, 
+        "description": "6229 - Coloniale/ Mont-Royal", 
         "id": 206, 
         "latitude": 45.52102, 
         "location_key": "45.52102,-73.585514", 
@@ -1658,6 +1865,7 @@
     "207": {
         "altitude": 80.06148529052734, 
         "capacity": 15, 
+        "description": "6230 - Waverly / Saint-Viateur", 
         "id": 207, 
         "latitude": 45.52402527115221, 
         "location_key": "45.5240252712,-73.6004215479", 
@@ -1666,6 +1874,7 @@
     "208": {
         "altitude": 84.28478240966797, 
         "capacity": 23, 
+        "description": "6231 - Saint-Viateur / du Parc", 
         "id": 208, 
         "latitude": 45.52246, 
         "location_key": "45.52246,-73.6019", 
@@ -1674,6 +1883,7 @@
     "209": {
         "altitude": 74.37088012695312, 
         "capacity": 23, 
+        "description": "6234 - Bernard / Clark", 
         "id": 209, 
         "latitude": 45.52697, 
         "location_key": "45.52697,-73.60261", 
@@ -1682,6 +1892,7 @@
     "210": {
         "altitude": 79.01052856445312, 
         "capacity": 19, 
+        "description": "6235 - Saint-Dominique / Saint-Viateur", 
         "id": 210, 
         "latitude": 45.52654331973003, 
         "location_key": "45.5265433197,-73.5982328653", 
@@ -1690,6 +1901,7 @@
     "211": {
         "altitude": 52.87200164794922, 
         "capacity": 23, 
+        "description": "6236 - Bordeaux/Laurier", 
         "id": 211, 
         "latitude": 45.537305, 
         "location_key": "45.537305,-73.578921", 
@@ -1698,6 +1910,7 @@
     "212": {
         "altitude": 69.83336639404297, 
         "capacity": 15, 
+        "description": "6237 - Berrie/St-Gr\u00e9goire", 
         "id": 212, 
         "latitude": 45.529826, 
         "location_key": "45.529826,-73.592164", 
@@ -1706,6 +1919,7 @@
     "213": {
         "altitude": 45.87200164794922, 
         "capacity": 15, 
+        "description": "6903 - Chapleau / Marie-Anne", 
         "id": 213, 
         "latitude": 45.53751242809744, 
         "location_key": "45.5375124281,-73.5669583082", 
@@ -1714,6 +1928,7 @@
     "214": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6924 - de Bordeaux / Jean-Talon", 
         "id": 214, 
         "latitude": 45.54970407823863, 
         "location_key": "45.5497040782,-73.6055123806", 
@@ -1722,6 +1937,7 @@
     "215": {
         "altitude": 89.0308837890625, 
         "capacity": 14, 
+        "description": "6241 - Querbes / Laurier", 
         "id": 215, 
         "latitude": 45.517345, 
         "location_key": "45.517345,-73.597724", 
@@ -1730,6 +1946,7 @@
     "216": {
         "altitude": 80.4503402709961, 
         "capacity": 19, 
+        "description": "6243 - Bloomfield / Bernard", 
         "id": 216, 
         "latitude": 45.520532, 
         "location_key": "45.520532,-73.608144", 
@@ -1738,6 +1955,7 @@
     "217": {
         "altitude": 71.74989318847656, 
         "capacity": 15, 
+        "description": "6245 - Bloomfield / Van Horne", 
         "id": 217, 
         "latitude": 45.522608, 
         "location_key": "45.522608,-73.613178", 
@@ -1746,6 +1964,7 @@
     "218": {
         "altitude": 73.63217163085938, 
         "capacity": 20, 
+        "description": "6246 - M\u00e9tro Outremont (Wiseman / Van Horne)", 
         "id": 218, 
         "latitude": 45.520265, 
         "location_key": "45.520265,-73.614887", 
@@ -1754,6 +1973,7 @@
     "219": {
         "altitude": 55.95777893066406, 
         "capacity": 15, 
+        "description": "6247 - Casgrain / Saint-Zotique", 
         "id": 219, 
         "latitude": 45.53304, 
         "location_key": "45.53304,-73.61108", 
@@ -1762,6 +1982,7 @@
     "220": {
         "altitude": 62.12713623046875, 
         "capacity": 22, 
+        "description": "6248 - St-Dominique/Rachel", 
         "id": 220, 
         "latitude": 45.518593, 
         "location_key": "45.518593,-73.581566", 
@@ -1770,6 +1991,7 @@
     "221": {
         "altitude": 52.87200164794922, 
         "capacity": 18, 
+        "description": "6249 - B\u00e9langer / Saint-Denis", 
         "id": 221, 
         "latitude": 45.53696, 
         "location_key": "45.53696,-73.61199", 
@@ -1778,6 +2000,7 @@
     "222": {
         "altitude": 52.87200164794922, 
         "capacity": 23, 
+        "description": "6250 - Henri-Julien / Jean-Talon", 
         "id": 222, 
         "latitude": 45.53707, 
         "location_key": "45.53707,-73.61529", 
@@ -1786,6 +2009,7 @@
     "223": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6251 - Casgrain / Mozart", 
         "id": 223, 
         "latitude": 45.534788, 
         "location_key": "45.534788,-73.614726", 
@@ -1794,6 +2018,7 @@
     "224": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6252 - Mozart / Saint-Laurent", 
         "id": 224, 
         "latitude": 45.53318, 
         "location_key": "45.53318,-73.61544", 
@@ -1802,6 +2027,7 @@
     "225": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6253 - Lajeunesse / Jean-Talon", 
         "id": 225, 
         "latitude": 45.53973680304488, 
         "location_key": "45.539736803,-73.614256382", 
@@ -1810,6 +2036,7 @@
     "226": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6254 - Boyer / B\u00e9langer", 
         "id": 226, 
         "latitude": 45.54006, 
         "location_key": "45.54006,-73.60897", 
@@ -1818,6 +2045,7 @@
     "227": {
         "altitude": 53.98048400878906, 
         "capacity": 18, 
+        "description": "6255 - Boyer / Saint-Zotique", 
         "id": 227, 
         "latitude": 45.53848, 
         "location_key": "45.53848,-73.60556", 
@@ -1826,6 +2054,7 @@
     "228": {
         "altitude": 54.43189239501953, 
         "capacity": 15, 
+        "description": "6257 - Saint-Vallier / Saint-Zotique", 
         "id": 228, 
         "latitude": 45.536299, 
         "location_key": "45.536299,-73.607773", 
@@ -1834,6 +2063,7 @@
     "229": {
         "altitude": 72.69691467285156, 
         "capacity": 26, 
+        "description": "6258 - Parc P\u00e8re-Marquette (Chambord / Rosemont)", 
         "id": 229, 
         "latitude": 45.537035, 
         "location_key": "45.537035,-73.593126", 
@@ -1842,6 +2072,7 @@
     "230": {
         "altitude": 60.71159744262695, 
         "capacity": 15, 
+        "description": "6259 - Dandurand/De Lorimier", 
         "id": 230, 
         "latitude": 45.540881, 
         "location_key": "45.540881,-73.584157", 
@@ -1850,6 +2081,7 @@
     "231": {
         "altitude": 63.60504150390625, 
         "capacity": 19, 
+        "description": "6260 - Dandurand/Papineau", 
         "id": 231, 
         "latitude": 45.538589, 
         "location_key": "45.538589,-73.586302", 
@@ -1858,6 +2090,7 @@
     "232": {
         "altitude": 68.80377197265625, 
         "capacity": 19, 
+        "description": "6261 - Louis H\u00e9mon / Rosemont", 
         "id": 232, 
         "latitude": 45.54458, 
         "location_key": "45.54458,-73.588069", 
@@ -1866,6 +2099,7 @@
     "233": {
         "altitude": 64.66581726074219, 
         "capacity": 15, 
+        "description": "6262 - de la Roche /  Bellechasse", 
         "id": 233, 
         "latitude": 45.537202, 
         "location_key": "45.537202,-73.597884", 
@@ -1874,6 +2108,7 @@
     "234": {
         "altitude": 60.87200164794922, 
         "capacity": 15, 
+        "description": "6263 - Hampton/Monkland", 
         "id": 234, 
         "latitude": 45.4714, 
         "location_key": "45.4714,-73.6266", 
@@ -1882,6 +2117,7 @@
     "235": {
         "altitude": 66.13348388671875, 
         "capacity": 15, 
+        "description": "6264 - Chabot / Bellechasse", 
         "id": 235, 
         "latitude": 45.5427, 
         "location_key": "45.5427,-73.59212", 
@@ -1890,6 +2126,7 @@
     "236": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6265 - Parthenais / Laurier", 
         "id": 236, 
         "latitude": 45.539259, 
         "location_key": "45.539259,-73.577338", 
@@ -1898,6 +2135,7 @@
     "237": {
         "altitude": 57.37264251708984, 
         "capacity": 19, 
+        "description": "6266 - Louis-H\u00e9bert / Beaubien", 
         "id": 237, 
         "latitude": 45.54857, 
         "location_key": "45.54857,-73.59268", 
@@ -1906,6 +2144,7 @@
     "238": {
         "altitude": 60.33059692382812, 
         "capacity": 15, 
+        "description": "6267 - de Bordeaux / Beaubien", 
         "id": 238, 
         "latitude": 45.54475, 
         "location_key": "45.54475,-73.5949", 
@@ -1914,6 +2153,7 @@
     "239": {
         "altitude": 58.91546630859375, 
         "capacity": 15, 
+        "description": "6268 - Chambord / Beaubien", 
         "id": 239, 
         "latitude": 45.539964, 
         "location_key": "45.539964,-73.599716", 
@@ -1922,6 +2162,7 @@
     "240": {
         "altitude": 52.92193222045898, 
         "capacity": 11, 
+        "description": "6269 - de Normanville / Saint-Zotique", 
         "id": 240, 
         "latitude": 45.54083, 
         "location_key": "45.54083,-73.60384", 
@@ -1930,6 +2171,7 @@
     "241": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6270 - Fabre / Saint-Zotique", 
         "id": 241, 
         "latitude": 45.543541, 
         "location_key": "45.543541,-73.600982", 
@@ -1938,6 +2180,7 @@
     "242": {
         "altitude": 67.82980346679688, 
         "capacity": 23, 
+        "description": "6271 - Casgrain / de Bellechasse", 
         "id": 242, 
         "latitude": 45.529993, 
         "location_key": "45.529993,-73.604214", 
@@ -1946,6 +2189,7 @@
     "243": {
         "altitude": 53.83530807495117, 
         "capacity": 15, 
+        "description": "6272 - Bordeaux / Saint-Zotique", 
         "id": 243, 
         "latitude": 45.546526, 
         "location_key": "45.546526,-73.598442", 
@@ -1954,6 +2198,7 @@
     "244": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6273 - Garnier / B\u00e9langer", 
         "id": 244, 
         "latitude": 45.544471, 
         "location_key": "45.544471,-73.605145", 
@@ -1962,6 +2207,7 @@
     "245": {
         "altitude": 52.87200164794922, 
         "capacity": 22, 
+        "description": "6274 - Cartier / B\u00e9langer", 
         "id": 245, 
         "latitude": 45.54691, 
         "location_key": "45.54691,-73.60281", 
@@ -1970,6 +2216,7 @@
     "246": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6275 - Chambord / Jean-Talon", 
         "id": 246, 
         "latitude": 45.544828, 
         "location_key": "45.544828,-73.610458", 
@@ -1978,6 +2225,7 @@
     "247": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6276 - De la Roche / B\u00e9langer", 
         "id": 247, 
         "latitude": 45.5416, 
         "location_key": "45.5416,-73.608", 
@@ -1986,6 +2234,7 @@
     "248": {
         "altitude": 54.08600997924805, 
         "capacity": 11, 
+        "description": "6278 - Louis-H\u00e9bert / Saint-Zotique", 
         "id": 248, 
         "latitude": 45.55001, 
         "location_key": "45.55001,-73.59576", 
@@ -1994,6 +2243,7 @@
     "249": {
         "altitude": 52.87200164794922, 
         "capacity": 11, 
+        "description": "6279 - Louis-H\u00e9bert / B\u00e9langer", 
         "id": 249, 
         "latitude": 45.551457, 
         "location_key": "45.551457,-73.598852", 
@@ -2001,7 +2251,8 @@
     }, 
     "250": {
         "altitude": 59.1147575378418, 
-        "capacity": 15, 
+        "capacity": 13, 
+        "description": "6904 - Fabre / Beaubien", 
         "id": 250, 
         "latitude": 45.542055, 
         "location_key": "45.542055,-73.597793", 
@@ -2009,7 +2260,8 @@
     }, 
     "251": {
         "altitude": 61.3953857421875, 
-        "capacity": 19, 
+        "capacity": 18, 
+        "description": "6905 - Parc Rosemont (Dandurand/d'Iberville)", 
         "id": 251, 
         "latitude": 45.544377, 
         "location_key": "45.544377,-73.581018", 
@@ -2018,6 +2270,7 @@
     "252": {
         "altitude": 76.95221710205078, 
         "capacity": 19, 
+        "description": "6906 - Chateaubriand/Des Ateliers", 
         "id": 252, 
         "latitude": 45.532144, 
         "location_key": "45.532144,-73.596138", 
@@ -2026,6 +2279,7 @@
     "253": {
         "altitude": 75.8725357055664, 
         "capacity": 22, 
+        "description": "6907 - Boyer / Rosemont", 
         "id": 253, 
         "latitude": 45.534136, 
         "location_key": "45.534136,-73.595478", 
@@ -2034,6 +2288,7 @@
     "254": {
         "altitude": 66.18093872070312, 
         "capacity": 19, 
+        "description": "6908 - Bellechasse/St-Valier", 
         "id": 254, 
         "latitude": 45.533473, 
         "location_key": "45.533473,-73.601221", 
@@ -2041,7 +2296,8 @@
     }, 
     "255": {
         "altitude": 8.825922966003418, 
-        "capacity": 23, 
+        "capacity": 22, 
+        "description": "6921 - Augustin-Cantin / Shearer", 
         "id": 255, 
         "latitude": 45.483977, 
         "location_key": "45.483977,-73.563576", 
@@ -2050,6 +2306,7 @@
     "256": {
         "altitude": 71.1279067993164, 
         "capacity": 15, 
+        "description": "6926 - Hudson / Kent", 
         "id": 256, 
         "latitude": 45.50592, 
         "location_key": "45.50592,-73.629443", 
@@ -2058,6 +2315,7 @@
     "257": {
         "altitude": 109.7413711547852, 
         "capacity": 19, 
+        "description": "6927 - \u00c9douard-Montpetit / Stirling", 
         "id": 257, 
         "latitude": 45.50723, 
         "location_key": "45.50723,-73.615085", 
@@ -2066,6 +2324,7 @@
     "258": {
         "altitude": 68.82957458496094, 
         "capacity": 15, 
+        "description": "6228 - Waverly / Van Horne", 
         "id": 258, 
         "latitude": 45.527363, 
         "location_key": "45.527363,-73.607723", 
@@ -2074,6 +2333,7 @@
     "259": {
         "altitude": 69.19673156738281, 
         "capacity": 15, 
+        "description": "6232 - Hutchison / Van Horne", 
         "id": 259, 
         "latitude": 45.525021229212776, 
         "location_key": "45.5250212292,-73.6107373238", 
@@ -2082,6 +2342,7 @@
     "260": {
         "altitude": 77.69468688964844, 
         "capacity": 23, 
+        "description": "6233 - Bernard / Jeanne-Mance", 
         "id": 260, 
         "latitude": 45.52429587282263, 
         "location_key": "45.5242958728,-73.6048471928", 
@@ -2090,6 +2351,7 @@
     "261": {
         "altitude": 37.27371215820312, 
         "capacity": 15, 
+        "description": "6917 - Basile-Routhier / Chabanel", 
         "id": 261, 
         "latitude": 45.549949, 
         "location_key": "45.549949,-73.647982", 
@@ -2098,6 +2360,7 @@
     "262": {
         "altitude": 64.80548095703125, 
         "capacity": 15, 
+        "description": "6919 - 10e Avenue / Rosemont", 
         "id": 262, 
         "latitude": 45.552649, 
         "location_key": "45.552649,-73.581185", 
@@ -2106,6 +2369,7 @@
     "263": {
         "altitude": 59.7531852722168, 
         "capacity": 19, 
+        "description": "6910 - Boyer / Beaubien", 
         "id": 263, 
         "latitude": 45.537041, 
         "location_key": "45.537041,-73.602026", 
@@ -2114,6 +2378,7 @@
     "264": {
         "altitude": 17.78032302856445, 
         "capacity": 15, 
+        "description": "6086 - Peel / Ottawa", 
         "id": 264, 
         "latitude": 45.49427, 
         "location_key": "45.49427,-73.55979", 
@@ -2122,6 +2387,7 @@
     "265": {
         "altitude": 22.292236328125, 
         "capacity": 23, 
+        "description": "6087 - Notre-Dame / de la Montagne", 
         "id": 265, 
         "latitude": 45.49302901258371, 
         "location_key": "45.4930290126,-73.5648179054", 
@@ -2130,6 +2396,7 @@
     "266": {
         "altitude": 21.31861114501953, 
         "capacity": 11, 
+        "description": "6088 - Guy / Notre-Dame", 
         "id": 266, 
         "latitude": 45.489951, 
         "location_key": "45.489951,-73.567091", 
@@ -2138,6 +2405,7 @@
     "267": {
         "altitude": 58.18608474731445, 
         "capacity": 15, 
+        "description": "6277 - Louis-H\u00e9mon / Beaubien", 
         "id": 267, 
         "latitude": 45.54705, 
         "location_key": "45.54705,-73.59353", 
@@ -2146,6 +2414,7 @@
     "268": {
         "altitude": 75.52070617675781, 
         "capacity": 15, 
+        "description": "6280 - Fairmount/St-Dominique", 
         "id": 268, 
         "latitude": 45.524611, 
         "location_key": "45.524611,-73.594059", 
@@ -2154,6 +2423,7 @@
     "269": {
         "altitude": 11.58020114898682, 
         "capacity": 23, 
+        "description": "10002 - M\u00e9tro Charlevoix (Centre / Charlevoix)", 
         "id": 269, 
         "latitude": 45.47822787309145, 
         "location_key": "45.4782278731,-73.5696512461", 
@@ -2162,6 +2432,7 @@
     "270": {
         "altitude": 19.76370811462402, 
         "capacity": 7, 
+        "description": "6401 - des Seigneurs / Notre-Dame", 
         "id": 270, 
         "latitude": 45.48767, 
         "location_key": "45.48767,-73.56895", 
@@ -2170,6 +2441,7 @@
     "271": {
         "altitude": 19.43290328979492, 
         "capacity": 22, 
+        "description": "6402 - Sir Georges Etienne Cartier/Notre-Dame", 
         "id": 271, 
         "latitude": 45.474098, 
         "location_key": "45.474098,-73.587206", 
@@ -2178,6 +2450,7 @@
     "272": {
         "altitude": 18.11487197875977, 
         "capacity": 27, 
+        "description": "6403 - Georges-Vanier / Notre-Dame", 
         "id": 272, 
         "latitude": 45.48501, 
         "location_key": "45.48501,-73.57178", 
@@ -2186,6 +2459,7 @@
     "273": {
         "altitude": 27.08724212646484, 
         "capacity": 18, 
+        "description": "6404 - Quesnel/Vinet", 
         "id": 273, 
         "latitude": 45.485889, 
         "location_key": "45.485889,-73.577514", 
@@ -2194,6 +2468,7 @@
     "274": {
         "altitude": 18.24062538146973, 
         "capacity": 19, 
+        "description": "6405 - Duvernay/charlevoix", 
         "id": 274, 
         "latitude": 45.48205, 
         "location_key": "45.48205,-73.57491", 
@@ -2202,6 +2477,7 @@
     "275": {
         "altitude": 17.79221153259277, 
         "capacity": 25, 
+        "description": "6406 - March\u00e9 Atwater", 
         "id": 275, 
         "latitude": 45.480359, 
         "location_key": "45.480359,-73.577102", 
@@ -2210,6 +2486,7 @@
     "276": {
         "altitude": 24.4726676940918, 
         "capacity": 31, 
+        "description": "6407 - M\u00e9tro Lionel-Groulx ( Lionel-Groulx /Charlevoix)", 
         "id": 276, 
         "latitude": 45.484075, 
         "location_key": "45.484075,-73.577355", 
@@ -2218,6 +2495,7 @@
     "277": {
         "altitude": 31.44698333740234, 
         "capacity": 17, 
+        "description": "6408 - Saint-Antoine / Canning (Metro George-Vanier)", 
         "id": 277, 
         "latitude": 45.4891, 
         "location_key": "45.4891,-73.57656", 
@@ -2226,6 +2504,7 @@
     "278": {
         "altitude": 73.85301971435547, 
         "capacity": 15, 
+        "description": "6307 - Bernard/St-Laurent", 
         "id": 278, 
         "latitude": 45.527547, 
         "location_key": "45.527547,-73.602255", 
@@ -2234,6 +2513,7 @@
     "279": {
         "altitude": 14.91013336181641, 
         "capacity": 14, 
+        "description": "6309 - 5e ave/Verdun", 
         "id": 279, 
         "latitude": 45.456049, 
         "location_key": "45.456049,-73.571877", 
@@ -2242,6 +2522,7 @@
     "280": {
         "altitude": 95.13714599609375, 
         "capacity": 31, 
+        "description": "6310 - Darlington / C\u00f4te-Sainte-Catherine", 
         "id": 280, 
         "latitude": 45.505514, 
         "location_key": "45.505514,-73.621215", 
@@ -2250,6 +2531,7 @@
     "281": {
         "altitude": 17.06784629821777, 
         "capacity": 15, 
+        "description": "6313 - Palm/St-Remi", 
         "id": 281, 
         "latitude": 45.470303, 
         "location_key": "45.470303,-73.589848", 
@@ -2258,6 +2540,7 @@
     "282": {
         "altitude": 66.6090087890625, 
         "capacity": 23, 
+        "description": "6312 - Kent / C\u00f4te-Des-Neiges", 
         "id": 282, 
         "latitude": 45.501302, 
         "location_key": "45.501302,-73.633161", 
@@ -2266,6 +2549,7 @@
     "283": {
         "altitude": 47.65193176269531, 
         "capacity": 15, 
+        "description": "6314 - De Lanaudiere/Marie-Anne", 
         "id": 283, 
         "latitude": 45.529219, 
         "location_key": "45.529219,-73.574777", 
@@ -2274,6 +2558,7 @@
     "284": {
         "altitude": 93.80986785888672, 
         "capacity": 19, 
+        "description": "6315 - Lacombe / C\u00f4te-des-Neiges", 
         "id": 284, 
         "latitude": 45.496988, 
         "location_key": "45.496988,-73.623354", 
@@ -2282,6 +2567,7 @@
     "285": {
         "altitude": 108.1646118164062, 
         "capacity": 22, 
+        "description": "6316 - Parc Jean-Brillant (Swail / Decelles)", 
         "id": 285, 
         "latitude": 45.497011, 
         "location_key": "45.497011,-73.618575", 
@@ -2290,6 +2576,7 @@
     "286": {
         "altitude": 37.53979110717773, 
         "capacity": 19, 
+        "description": "6383 - Jardin Botanique", 
         "id": 286, 
         "latitude": 45.555029, 
         "location_key": "45.555029,-73.554902", 
@@ -2298,6 +2585,7 @@
     "287": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6385 - Bordeaux/Gilford", 
         "id": 287, 
         "latitude": 45.536178, 
         "location_key": "45.536178,-73.57641", 
@@ -2305,7 +2593,8 @@
     }, 
     "288": {
         "altitude": 29.57107734680176, 
-        "capacity": 23, 
+        "capacity": 22, 
+        "description": "6386 - M\u00e9tro Pr\u00e9fontaine (Moreau / Hochelaga)", 
         "id": 288, 
         "latitude": 45.541814, 
         "location_key": "45.541814,-73.554635", 
@@ -2314,6 +2603,7 @@
     "289": {
         "altitude": 27.80752372741699, 
         "capacity": 19, 
+        "description": "6387 - M\u00e9tro Joliette (Joliette/Hochelaga)", 
         "id": 289, 
         "latitude": 45.546914, 
         "location_key": "45.546914,-73.55156", 
@@ -2322,6 +2612,7 @@
     "290": {
         "altitude": 27.93219566345215, 
         "capacity": 11, 
+        "description": "6388 - D'Orl\u00e9ans / Hochelaga", 
         "id": 290, 
         "latitude": 45.550668, 
         "location_key": "45.550668,-73.549502", 
@@ -2330,6 +2621,7 @@
     "291": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6389 - Boyer / Jean-Talon", 
         "id": 291, 
         "latitude": 45.541484, 
         "location_key": "45.541484,-73.612441", 
@@ -2338,6 +2630,7 @@
     "292": {
         "altitude": 20.45993804931641, 
         "capacity": 19, 
+        "description": "6391 - Aylwin / Ontario", 
         "id": 292, 
         "latitude": 45.544136, 
         "location_key": "45.544136,-73.545609", 
@@ -2346,6 +2639,7 @@
     "293": {
         "altitude": 21.61523628234863, 
         "capacity": 35, 
+        "description": "6393 - Ontario / D\u00e9z\u00e9ry", 
         "id": 293, 
         "latitude": 45.541044, 
         "location_key": "45.541044,-73.547407", 
@@ -2354,6 +2648,7 @@
     "294": {
         "altitude": 20.30366134643555, 
         "capacity": 23, 
+        "description": "6394 - Valois / Ontario", 
         "id": 294, 
         "latitude": 45.547258, 
         "location_key": "45.547258,-73.543728", 
@@ -2361,7 +2656,8 @@
     }, 
     "295": {
         "altitude": 27.23318099975586, 
-        "capacity": 31, 
+        "capacity": 32, 
+        "description": "6395 - Pierre-de-Coubertin / Aird", 
         "id": 295, 
         "latitude": 45.55896, 
         "location_key": "45.55896,-73.548687", 
@@ -2370,6 +2666,7 @@
     "296": {
         "altitude": 19.10234642028809, 
         "capacity": 23, 
+        "description": "6397 - March\u00e9 Maisonneuve", 
         "id": 296, 
         "latitude": 45.553491, 
         "location_key": "45.553491,-73.53931", 
@@ -2378,6 +2675,7 @@
     "297": {
         "altitude": 19.85424995422363, 
         "capacity": 27, 
+        "description": "6398 - Desjardins / Ontario", 
         "id": 297, 
         "latitude": 45.551119, 
         "location_key": "45.551119,-73.540764", 
@@ -2386,6 +2684,7 @@
     "298": {
         "altitude": 45.97350311279297, 
         "capacity": 15, 
+        "description": "6323 - Guizot / Saint-Laurent", 
         "id": 298, 
         "latitude": 45.539964, 
         "location_key": "45.539964,-73.634319", 
@@ -2393,7 +2692,8 @@
     }, 
     "299": {
         "altitude": 52.87200164794922, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "6327 - Faillon / Saint-Denis", 
         "id": 299, 
         "latitude": 45.540098, 
         "location_key": "45.540098,-73.619986", 
@@ -2402,6 +2702,7 @@
     "300": {
         "altitude": 49.71549606323242, 
         "capacity": 18, 
+        "description": "6329 - Gounod / Saint-Denis", 
         "id": 300, 
         "latitude": 45.541791, 
         "location_key": "45.541791,-73.625894", 
@@ -2410,6 +2711,7 @@
     "301": {
         "altitude": 47.86410903930664, 
         "capacity": 14, 
+        "description": "6330 - De Gasp\u00e9 / Jarry", 
         "id": 301, 
         "latitude": 45.540627, 
         "location_key": "45.540627,-73.630089", 
@@ -2418,6 +2720,7 @@
     "302": {
         "altitude": 46.12873458862305, 
         "capacity": 19, 
+        "description": "6331 - Guizot / Saint-Denis", 
         "id": 302, 
         "latitude": 45.543376, 
         "location_key": "45.543376,-73.632267", 
@@ -2426,6 +2729,7 @@
     "303": {
         "altitude": 44.72421264648438, 
         "capacity": 15, 
+        "description": "6332 - De Gasp\u00e9 / De Li\u00e8ge", 
         "id": 303, 
         "latitude": 45.542579, 
         "location_key": "45.542579,-73.636557", 
@@ -2434,6 +2738,7 @@
     "304": {
         "altitude": 45.87200164794922, 
         "capacity": 11, 
+        "description": "6333 - Foucher / Leman", 
         "id": 304, 
         "latitude": 45.545987, 
         "location_key": "45.545987,-73.631562", 
@@ -2442,6 +2747,7 @@
     "305": {
         "altitude": 47.91947937011719, 
         "capacity": 19, 
+        "description": "6334 - Lajeunesse / Jarry", 
         "id": 305, 
         "latitude": 45.543583, 
         "location_key": "45.543583,-73.6284", 
@@ -2450,6 +2756,7 @@
     "306": {
         "altitude": 51.3680305480957, 
         "capacity": 19, 
+        "description": "6335 - Du Rosaire / Saint-Hubert", 
         "id": 306, 
         "latitude": 45.54467, 
         "location_key": "45.54467,-73.621581", 
@@ -2458,6 +2765,7 @@
     "307": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6336 - Faillon / Saint-Hubert", 
         "id": 307, 
         "latitude": 45.542892, 
         "location_key": "45.542892,-73.617822", 
@@ -2466,6 +2774,7 @@
     "308": {
         "altitude": 47.97363662719727, 
         "capacity": 15, 
+        "description": "6338 - Boyer / Jarry", 
         "id": 308, 
         "latitude": 45.547283, 
         "location_key": "45.547283,-73.625377", 
@@ -2474,6 +2783,7 @@
     "309": {
         "altitude": 66.89002990722656, 
         "capacity": 15, 
+        "description": "6339 - Harvard/Monkland", 
         "id": 309, 
         "latitude": 45.4743, 
         "location_key": "45.4743,-73.6237", 
@@ -2482,6 +2792,7 @@
     "310": {
         "altitude": 52.87200164794922, 
         "capacity": 18, 
+        "description": "6340 - De La Roche / Everett", 
         "id": 310, 
         "latitude": 45.544867, 
         "location_key": "45.544867,-73.614841", 
@@ -2490,6 +2801,7 @@
     "311": {
         "altitude": 12.15729999542236, 
         "capacity": 19, 
+        "description": "6341 - Regina / Verdun", 
         "id": 311, 
         "latitude": 45.467369, 
         "location_key": "45.467369,-73.570769", 
@@ -2498,6 +2810,7 @@
     "312": {
         "altitude": 52.87200164794922, 
         "capacity": 11, 
+        "description": "6343 - Marquette / Villeray", 
         "id": 312, 
         "latitude": 45.550551, 
         "location_key": "45.550551,-73.615021", 
@@ -2506,6 +2819,7 @@
     "313": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6345 - Louis-H\u00e9mon / Villeray", 
         "id": 313, 
         "latitude": 45.554931, 
         "location_key": "45.554931,-73.610711", 
@@ -2514,6 +2828,7 @@
     "314": {
         "altitude": 14.58147716522217, 
         "capacity": 19, 
+        "description": "6346 - Valois/Ste-Catherine", 
         "id": 314, 
         "latitude": 45.545409, 
         "location_key": "45.545409,-73.537669", 
@@ -2522,6 +2837,7 @@
     "315": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6347 - M\u00e9tro St-Michel ( Shaughnessy/St-Michel)", 
         "id": 315, 
         "latitude": 45.559199, 
         "location_key": "45.559199,-73.599658", 
@@ -2530,6 +2846,7 @@
     "316": {
         "altitude": 15.10705184936523, 
         "capacity": 19, 
+        "description": "6349 - Ryde/Charlevoix", 
         "id": 316, 
         "latitude": 45.4758, 
         "location_key": "45.4758,-73.5644", 
@@ -2538,6 +2855,7 @@
     "317": {
         "altitude": 10.02525520324707, 
         "capacity": 23, 
+        "description": "6350 - Island/Centre", 
         "id": 317, 
         "latitude": 45.4815, 
         "location_key": "45.4815,-73.5644", 
@@ -2546,6 +2864,7 @@
     "318": {
         "altitude": 51.54705810546875, 
         "capacity": 15, 
+        "description": "6322 - St-Dominique / Villeray", 
         "id": 318, 
         "latitude": 45.537813, 
         "location_key": "45.537813,-73.624872", 
@@ -2554,6 +2873,7 @@
     "319": {
         "altitude": 44.84561157226562, 
         "capacity": 15, 
+        "description": "6324 - de Li\u00e8ge / Lajeunesse", 
         "id": 319, 
         "latitude": 45.54554155627702, 
         "location_key": "45.5455415563,-73.6347484589", 
@@ -2562,6 +2882,7 @@
     "320": {
         "altitude": 51.7354621887207, 
         "capacity": 15, 
+        "description": "6328 - Drolet / Villeray", 
         "id": 320, 
         "latitude": 45.5401, 
         "location_key": "45.5401,-73.6234", 
@@ -2570,6 +2891,7 @@
     "321": {
         "altitude": 61.61208724975586, 
         "capacity": 19, 
+        "description": "6354 - Marcil/Sherbrooke", 
         "id": 321, 
         "latitude": 45.471765, 
         "location_key": "45.471765,-73.613843", 
@@ -2578,6 +2900,7 @@
     "322": {
         "altitude": 16.84664916992188, 
         "capacity": 19, 
+        "description": "6355 - Sicard/Ontario", 
         "id": 322, 
         "latitude": 45.5566, 
         "location_key": "45.5566,-73.5373", 
@@ -2586,6 +2909,7 @@
     "323": {
         "altitude": 78.05923461914062, 
         "capacity": 14, 
+        "description": "6356 - Monkland/Girouard", 
         "id": 323, 
         "latitude": 45.4771, 
         "location_key": "45.4771,-73.6212", 
@@ -2594,6 +2918,7 @@
     "324": {
         "altitude": 54.89778518676758, 
         "capacity": 15, 
+        "description": "6357 - 12e Avenue / Saint-Zotique", 
         "id": 324, 
         "latitude": 45.556905, 
         "location_key": "45.556905,-73.58925", 
@@ -2602,6 +2927,7 @@
     "325": {
         "altitude": 54.8511848449707, 
         "capacity": 19, 
+        "description": "6358 - 3e avenue /St-Zotique", 
         "id": 325, 
         "latitude": 45.553243, 
         "location_key": "45.553243,-73.592336", 
@@ -2610,6 +2936,7 @@
     "326": {
         "altitude": 59.5089225769043, 
         "capacity": 23, 
+        "description": "6359 - 16e Avenue / Beaubien", 
         "id": 326, 
         "latitude": 45.558496, 
         "location_key": "45.558496,-73.583489", 
@@ -2618,6 +2945,7 @@
     "327": {
         "altitude": 59.00093460083008, 
         "capacity": 19, 
+        "description": "6360 - 8e Avenue / Beaubien", 
         "id": 327, 
         "latitude": 45.553215, 
         "location_key": "45.553215,-73.58752", 
@@ -2626,6 +2954,7 @@
     "328": {
         "altitude": 58.4260139465332, 
         "capacity": 17, 
+        "description": "6361 - 1ere Avenue / Beaubien", 
         "id": 328, 
         "latitude": 45.550476, 
         "location_key": "45.550476,-73.590446", 
@@ -2634,6 +2963,7 @@
     "329": {
         "altitude": 65.51911163330078, 
         "capacity": 22, 
+        "description": "6362 - 1ere Avenue / Rosemont", 
         "id": 329, 
         "latitude": 45.547997, 
         "location_key": "45.547997,-73.58523", 
@@ -2642,6 +2972,7 @@
     "330": {
         "altitude": 60.87200164794922, 
         "capacity": 11, 
+        "description": "6363 - C\u00f4te St-Antoine/Royal", 
         "id": 330, 
         "latitude": 45.4688, 
         "location_key": "45.4688,-73.6198", 
@@ -2649,7 +2980,8 @@
     }, 
     "331": {
         "altitude": 37.87200164794922, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "6364 - Chambly / Rachel", 
         "id": 331, 
         "latitude": 45.549639, 
         "location_key": "45.549639,-73.558292", 
@@ -2658,6 +2990,7 @@
     "332": {
         "altitude": 61.90389633178711, 
         "capacity": 23, 
+        "description": "6365 - 16e Avenue / Rosemont", 
         "id": 332, 
         "latitude": 45.556723, 
         "location_key": "45.556723,-73.577636", 
@@ -2666,6 +2999,7 @@
     "333": {
         "altitude": 80.55372619628906, 
         "capacity": 14, 
+        "description": "6366 - Wilderton  / Van Horne", 
         "id": 333, 
         "latitude": 45.510042, 
         "location_key": "45.510042,-73.624835", 
@@ -2674,6 +3008,7 @@
     "334": {
         "altitude": 60.87062454223633, 
         "capacity": 15, 
+        "description": "6367 - 3e Avenue / Dandurand", 
         "id": 334, 
         "latitude": 45.547362, 
         "location_key": "45.547362,-73.579221", 
@@ -2682,6 +3017,7 @@
     "335": {
         "altitude": 54.34431838989258, 
         "capacity": 15, 
+        "description": "6368 - 10e Avenue / Masson", 
         "id": 335, 
         "latitude": 45.550321, 
         "location_key": "45.550321,-73.573755", 
@@ -2690,6 +3026,7 @@
     "336": {
         "altitude": 50.52888107299805, 
         "capacity": 23, 
+        "description": "6369 - Belmore/Sherbrooke", 
         "id": 336, 
         "latitude": 45.459422, 
         "location_key": "45.459422,-73.637474", 
@@ -2698,6 +3035,7 @@
     "337": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6370 - D'Orl\u00e9ans / Masson", 
         "id": 337, 
         "latitude": 45.557192, 
         "location_key": "45.557192,-73.569847", 
@@ -2706,6 +3044,7 @@
     "338": {
         "altitude": 54.57597351074219, 
         "capacity": 27, 
+        "description": "6371 - 4e Avenue / Masson", 
         "id": 338, 
         "latitude": 45.546978, 
         "location_key": "45.546978,-73.575515", 
@@ -2714,6 +3053,7 @@
     "339": {
         "altitude": 54.74470138549805, 
         "capacity": 23, 
+        "description": "6372 - Molson / Masson", 
         "id": 339, 
         "latitude": 45.544123, 
         "location_key": "45.544123,-73.577049", 
@@ -2722,6 +3062,7 @@
     "340": {
         "altitude": 50.15542221069336, 
         "capacity": 15, 
+        "description": "6373 - 7e Avenue / Saint-Joseph", 
         "id": 340, 
         "latitude": 45.547155, 
         "location_key": "45.547155,-73.569901", 
@@ -2730,6 +3071,7 @@
     "341": {
         "altitude": 52.8746337890625, 
         "capacity": 22, 
+        "description": "6374 - 15e Avenue / Laurier", 
         "id": 341, 
         "latitude": 45.553408, 
         "location_key": "45.553408,-73.569531", 
@@ -2738,6 +3080,7 @@
     "342": {
         "altitude": 22.1172924041748, 
         "capacity": 11, 
+        "description": "6375 - Metro Place St-Henri", 
         "id": 342, 
         "latitude": 45.477287, 
         "location_key": "45.477287,-73.585419", 
@@ -2746,6 +3089,7 @@
     "343": {
         "altitude": 45.87200164794922, 
         "capacity": 15, 
+        "description": "6376 - 18e Avenue / Saint-Joseph", 
         "id": 343, 
         "latitude": 45.554165, 
         "location_key": "45.554165,-73.564742", 
@@ -2754,6 +3098,7 @@
     "344": {
         "altitude": 12.23947143554688, 
         "capacity": 15, 
+        "description": "6377 - Grand trunk/Hibernia", 
         "id": 344, 
         "latitude": 45.47968, 
         "location_key": "45.47968,-73.56385", 
@@ -2762,6 +3107,7 @@
     "345": {
         "altitude": 10.21696853637695, 
         "capacity": 14, 
+        "description": "6379 - Bannantyne /de l'Eglise", 
         "id": 345, 
         "latitude": 45.463257, 
         "location_key": "45.463257,-73.575621", 
@@ -2770,6 +3116,7 @@
     "346": {
         "altitude": 38.73136138916016, 
         "capacity": 19, 
+        "description": "6380 - Parc J.-Arthur-Champagne (Chambly/Mont-Royal)", 
         "id": 346, 
         "latitude": 45.551584, 
         "location_key": "45.551584,-73.561916", 
@@ -2778,6 +3125,7 @@
     "347": {
         "altitude": 37.87200164794922, 
         "capacity": 23, 
+        "description": "6381 - Omer-Lavall\u00e9e / Midway", 
         "id": 347, 
         "latitude": 45.545474, 
         "location_key": "45.545474,-73.561937", 
@@ -2786,6 +3134,7 @@
     "348": {
         "altitude": 36.22208404541016, 
         "capacity": 15, 
+        "description": "6384 - Darling / Sherbrooke", 
         "id": 348, 
         "latitude": 45.545425, 
         "location_key": "45.545425,-73.556527", 
@@ -2794,6 +3143,7 @@
     "349": {
         "altitude": 31.91680717468262, 
         "capacity": 33, 
+        "description": "6396 - M\u00e9tro Pie-IX (Pierre-de-Coubertin / Pie-IX)", 
         "id": 349, 
         "latitude": 45.553879, 
         "location_key": "45.553879,-73.551761", 
@@ -2802,6 +3152,7 @@
     "350": {
         "altitude": 87.239013671875, 
         "capacity": 11, 
+        "description": "6301 - Parc Outremont (Bloomfield / Elmwood)", 
         "id": 350, 
         "latitude": 45.518215, 
         "location_key": "45.518215,-73.603251", 
@@ -2810,6 +3161,7 @@
     "351": {
         "altitude": 87.62620544433594, 
         "capacity": 15, 
+        "description": "6302 - Stuart / C\u00f4te-Ste-Catherine", 
         "id": 351, 
         "latitude": 45.51529, 
         "location_key": "45.51529,-73.60628", 
@@ -2817,7 +3169,8 @@
     }, 
     "352": {
         "altitude": 80.97479248046875, 
-        "capacity": 11, 
+        "capacity": 10, 
+        "description": "6303 - Dunlop / Van Horne", 
         "id": 352, 
         "latitude": 45.514905, 
         "location_key": "45.514905,-73.619682", 
@@ -2826,6 +3179,7 @@
     "353": {
         "altitude": 83.26155853271484, 
         "capacity": 14, 
+        "description": "6304 - Rockland / Lajoie", 
         "id": 353, 
         "latitude": 45.515617, 
         "location_key": "45.515617,-73.614991", 
@@ -2834,6 +3188,7 @@
     "354": {
         "altitude": 89.18767547607422, 
         "capacity": 15, 
+        "description": "6305 - Davaar / C\u00f4te-Sainte-Catherine", 
         "id": 354, 
         "latitude": 45.514379, 
         "location_key": "45.514379,-73.610871", 
@@ -2842,6 +3197,7 @@
     "355": {
         "altitude": 109.8716125488281, 
         "capacity": 39, 
+        "description": "6306 - Mont-Royal / Vincent-D'Indy", 
         "id": 355, 
         "latitude": 45.510086, 
         "location_key": "45.510086,-73.611429", 
@@ -2850,6 +3206,7 @@
     "356": {
         "altitude": 52.86954116821289, 
         "capacity": 19, 
+        "description": "6321 - Faillon / St-Laurent", 
         "id": 356, 
         "latitude": 45.536152, 
         "location_key": "45.536152,-73.622351", 
@@ -2858,6 +3215,7 @@
     "357": {
         "altitude": 52.87200164794922, 
         "capacity": 18, 
+        "description": "6344 - Saint-Dominique / Jean talon", 
         "id": 357, 
         "latitude": 45.535189, 
         "location_key": "45.535189,-73.617459", 
@@ -2866,6 +3224,7 @@
     "358": {
         "altitude": 22.61067199707031, 
         "capacity": 19, 
+        "description": "6409 - Lionel-Groulx / George-Vanier", 
         "id": 358, 
         "latitude": 45.486457, 
         "location_key": "45.486457,-73.573286", 
@@ -2874,6 +3233,7 @@
     "359": {
         "altitude": 36.99625778198242, 
         "capacity": 15, 
+        "description": "6021 - De l'H\u00f4tel-de-Ville / Sherbrooke", 
         "id": 359, 
         "latitude": 45.51453083866944, 
         "location_key": "45.5145308387,-73.5684710741", 
@@ -2882,6 +3242,7 @@
     "360": {
         "altitude": 47.46270370483398, 
         "capacity": 31, 
+        "description": "6066 - Mansfield / Ste-Catherine", 
         "id": 360, 
         "latitude": 45.5014018, 
         "location_key": "45.5014018,-73.5718136", 
@@ -2890,6 +3251,7 @@
     "361": {
         "altitude": 47.20681762695312, 
         "capacity": 19, 
+        "description": "6218 - Prince-Arthur / Saint-Urbain", 
         "id": 361, 
         "latitude": 45.512762, 
         "location_key": "45.512762,-73.573489", 
@@ -2898,6 +3260,7 @@
     "362": {
         "altitude": 5.990071296691895, 
         "capacity": 27, 
+        "description": "6501 - M\u00e9tro Jean-Drapeau", 
         "id": 362, 
         "latitude": 45.512097, 
         "location_key": "45.512097,-73.53382", 
@@ -2906,6 +3269,7 @@
     "363": {
         "altitude": 5.872000217437744, 
         "capacity": 19, 
+        "description": "6502 - Quai de la navette fluviale", 
         "id": 363, 
         "latitude": 45.511146, 
         "location_key": "45.511146,-73.537658", 
@@ -2913,7 +3277,8 @@
     }, 
     "364": {
         "altitude": 52.87200164794922, 
-        "capacity": 17, 
+        "capacity": 16, 
+        "description": "6503 - M\u00e9tro Parc (jean talon / Hutchison)", 
         "id": 364, 
         "latitude": 45.529781, 
         "location_key": "45.529781,-73.622652", 
@@ -2922,6 +3287,7 @@
     "365": {
         "altitude": 7.487805366516113, 
         "capacity": 23, 
+        "description": "6504 - La Ronde", 
         "id": 365, 
         "latitude": 45.521769, 
         "location_key": "45.521769,-73.534859", 
@@ -2930,6 +3296,7 @@
     "366": {
         "altitude": 61.2503547668457, 
         "capacity": 15, 
+        "description": "6415 - Wilson/Sherbrooke", 
         "id": 366, 
         "latitude": 45.4703, 
         "location_key": "45.4703,-73.6162", 
@@ -2938,6 +3305,7 @@
     "367": {
         "altitude": 27.33842468261719, 
         "capacity": 14, 
+        "description": "6417 - LaSalle/Hochelaga", 
         "id": 367, 
         "latitude": 45.553371, 
         "location_key": "45.553371,-73.547928", 
@@ -2946,6 +3314,7 @@
     "368": {
         "altitude": 50.02126312255859, 
         "capacity": 19, 
+        "description": "6418 - Metro Vendome (Maisonneuve / Marlowe)", 
         "id": 368, 
         "latitude": 45.473775, 
         "location_key": "45.473775,-73.604223", 
@@ -2954,6 +3323,7 @@
     "369": {
         "altitude": 51.32620620727539, 
         "capacity": 11, 
+        "description": "6424 - Maisonneuve / McGill College", 
         "id": 369, 
         "latitude": 45.502712, 
         "location_key": "45.502712,-73.572979", 
@@ -2962,6 +3332,7 @@
     "370": {
         "altitude": 70.27882385253906, 
         "capacity": 23, 
+        "description": "6421 - Cartier/Rosemont", 
         "id": 370, 
         "latitude": 45.541198, 
         "location_key": "45.541198,-73.590943", 
@@ -2970,6 +3341,7 @@
     "371": {
         "altitude": 87.57460021972656, 
         "capacity": 15, 
+        "description": "6416 - Ave Notre Dame de Gr\u00e2ce / D\u00e9carrie", 
         "id": 371, 
         "latitude": 45.477313, 
         "location_key": "45.477313,-73.615327", 
@@ -2978,6 +3350,7 @@
     "372": {
         "altitude": 69.3489761352539, 
         "capacity": 15, 
+        "description": "6419 - Beaucourt /Cote Ste-Catherine", 
         "id": 372, 
         "latitude": 45.491513, 
         "location_key": "45.491513,-73.633649", 
@@ -2986,6 +3359,7 @@
     "373": {
         "altitude": 80.36727142333984, 
         "capacity": 19, 
+        "description": "6423 - H\u00f4pital g\u00e9n\u00e9ral juif", 
         "id": 373, 
         "latitude": 45.496302, 
         "location_key": "45.496302,-73.629822", 
@@ -2994,6 +3368,7 @@
     "374": {
         "altitude": 76.54222869873047, 
         "capacity": 19, 
+        "description": "6420 - Metro snowdon (Circle / Queen Mary)", 
         "id": 374, 
         "latitude": 45.485256, 
         "location_key": "45.485256,-73.627753", 
@@ -3002,6 +3377,7 @@
     "375": {
         "altitude": 27.78995323181152, 
         "capacity": 15, 
+        "description": "6422 - Fleury/Lajeunesse", 
         "id": 375, 
         "latitude": 45.5536, 
         "location_key": "45.5536,-73.6616", 
@@ -3010,6 +3386,7 @@
     "376": {
         "altitude": 42.31088256835938, 
         "capacity": 19, 
+        "description": "6410 - Basile-Routhier / Cr\u00e9mazie", 
         "id": 376, 
         "latitude": 45.547009, 
         "location_key": "45.547009,-73.637951", 
@@ -3018,6 +3395,7 @@
     "377": {
         "altitude": 41.64095306396484, 
         "capacity": 15, 
+        "description": "6412 - Complexe sportif Claude-Robillard (\u00e9mile Journault)", 
         "id": 377, 
         "latitude": 45.553262, 
         "location_key": "45.553262,-73.638615", 
@@ -3026,6 +3404,7 @@
     "378": {
         "altitude": 40.13935470581055, 
         "capacity": 56, 
+        "description": "6413 - Square Phillips 2", 
         "id": 378, 
         "latitude": 45.503797, 
         "location_key": "45.503797,-73.568031", 
@@ -3034,6 +3413,7 @@
     "379": {
         "altitude": 26.6226921081543, 
         "capacity": 15, 
+        "description": "6414 - Agnes/Guay", 
         "id": 379, 
         "latitude": 45.479582, 
         "location_key": "45.479582,-73.585989", 
@@ -3042,6 +3422,7 @@
     "380": {
         "altitude": 11.87857341766357, 
         "capacity": 19, 
+        "description": "6425 - Ross / Ave de L\u00e9glise", 
         "id": 380, 
         "latitude": 45.462742, 
         "location_key": "45.462742,-73.565845", 
@@ -3050,6 +3431,7 @@
     "381": {
         "altitude": 14.89125347137451, 
         "capacity": 23, 
+        "description": "6426 - Willibord / Verdun", 
         "id": 381, 
         "latitude": 45.459707, 
         "location_key": "45.459707,-73.571438", 
@@ -3058,6 +3440,7 @@
     "382": {
         "altitude": 8.679442405700684, 
         "capacity": 19, 
+        "description": "6427 - Rushbrooke / Ave Caisse", 
         "id": 382, 
         "latitude": 45.470605, 
         "location_key": "45.470605,-73.565459", 
@@ -3066,6 +3449,7 @@
     "383": {
         "altitude": 10.82178020477295, 
         "capacity": 33, 
+        "description": "6429 - Place du Commerce", 
         "id": 383, 
         "latitude": 45.46714, 
         "location_key": "45.46714,-73.54259", 
@@ -3074,6 +3458,7 @@
     "384": {
         "altitude": 45.95009231567383, 
         "capacity": 15, 
+        "description": "6411 - Clarck/Prince Arthur", 
         "id": 384, 
         "latitude": 45.513338, 
         "location_key": "45.513338,-73.57295", 
@@ -3082,6 +3467,7 @@
     "385": {
         "altitude": 7.973922729492188, 
         "capacity": 15, 
+        "description": "6428 - Ch. Pointe Nord", 
         "id": 385, 
         "latitude": 45.47256, 
         "location_key": "45.47256,-73.53954", 
@@ -3090,6 +3476,7 @@
     "386": {
         "altitude": 52.87200164794922, 
         "capacity": 7, 
+        "description": "6281 - De l'\u00e9p\u00e9e/Jean Talon", 
         "id": 386, 
         "latitude": 45.528064, 
         "location_key": "45.528064,-73.623837", 
@@ -3098,6 +3485,7 @@
     "387": {
         "altitude": 52.69804382324219, 
         "capacity": 11, 
+        "description": "6432 - Boul Maisonneuve/Greene", 
         "id": 387, 
         "latitude": 45.487331, 
         "location_key": "45.487331,-73.58895", 
@@ -3106,6 +3494,7 @@
     "388": {
         "altitude": 43.680908203125, 
         "capacity": 15, 
+        "description": "6433 - Hillside / Ste-Catherine", 
         "id": 388, 
         "latitude": 45.4829, 
         "location_key": "45.4829,-73.591", 
@@ -3114,6 +3503,7 @@
     "389": {
         "altitude": 48.92014312744141, 
         "capacity": 15, 
+        "description": "6434 - Victoria/Maisonneuve", 
         "id": 389, 
         "latitude": 45.477581, 
         "location_key": "45.477581,-73.600353", 
@@ -3122,6 +3512,7 @@
     "390": {
         "altitude": 58.60494613647461, 
         "capacity": 15, 
+        "description": "6435 - Victorial Hall", 
         "id": 390, 
         "latitude": 45.4816, 
         "location_key": "45.4816,-73.6", 
@@ -3130,6 +3521,7 @@
     "391": {
         "altitude": 66.95380401611328, 
         "capacity": 19, 
+        "description": "6436 - Argyle / Sherbrooke", 
         "id": 391, 
         "latitude": 45.486, 
         "location_key": "45.486,-73.5959", 
@@ -3138,6 +3530,7 @@
     "392": {
         "altitude": 11.16584491729736, 
         "capacity": 19, 
+        "description": "5002 - St-Charles / Ch\u00e2teauguay", 
         "id": 392, 
         "latitude": 45.5332, 
         "location_key": "45.5332,-73.5156", 
@@ -3146,6 +3539,7 @@
     "393": {
         "altitude": 11.54612064361572, 
         "capacity": 15, 
+        "description": "5003 - Place Longueuil", 
         "id": 393, 
         "latitude": 45.5294, 
         "location_key": "45.5294,-73.5178", 
@@ -3154,6 +3548,7 @@
     "394": {
         "altitude": 14.87199974060059, 
         "capacity": 11, 
+        "description": "5004 - Grant / St-Laurent", 
         "id": 394, 
         "latitude": 45.5382, 
         "location_key": "45.5382,-73.5058", 
@@ -3162,6 +3557,7 @@
     "395": {
         "altitude": 12.8113431930542, 
         "capacity": 19, 
+        "description": "5005 - St-Charles / St-Jean", 
         "id": 395, 
         "latitude": 45.5375, 
         "location_key": "45.5375,-73.5109", 
@@ -3170,6 +3566,7 @@
     "396": {
         "altitude": 17.87199974060059, 
         "capacity": 27, 
+        "description": "5006 - Coll\u00e8ge \u00c9douard-Montpetit", 
         "id": 396, 
         "latitude": 45.5368, 
         "location_key": "45.5368,-73.4954", 
@@ -3177,7 +3574,8 @@
     }, 
     "397": {
         "altitude": 10.96267032623291, 
-        "capacity": 46, 
+        "capacity": 47, 
+        "description": "5007 - M\u00e9tro Longueuil - Universit\u00e9 de Sherbrooke", 
         "id": 397, 
         "latitude": 45.523167, 
         "location_key": "45.523167,-73.519888", 
@@ -3186,6 +3584,7 @@
     "398": {
         "altitude": 69.23843383789062, 
         "capacity": 15, 
+        "description": "6929 - St-Andr\u00e9/St-Gr\u00e9goire", 
         "id": 398, 
         "latitude": 45.53133, 
         "location_key": "45.53133,-73.59155", 
@@ -3193,7 +3592,8 @@
     }, 
     "399": {
         "altitude": 12.85172176361084, 
-        "capacity": 14, 
+        "capacity": 15, 
+        "description": "6700 - Lasalle / Ste-Catherine", 
         "id": 399, 
         "latitude": 45.550056, 
         "location_key": "45.550056,-73.534576", 
@@ -3202,6 +3602,7 @@
     "400": {
         "altitude": 25.86824035644531, 
         "capacity": 19, 
+        "description": "6701 - Viau /Pierre de Coubertain", 
         "id": 400, 
         "latitude": 45.563029, 
         "location_key": "45.563029,-73.547909", 
@@ -3210,6 +3611,7 @@
     "401": {
         "altitude": 24.5064525604248, 
         "capacity": 15, 
+        "description": "6702 - Cheauveau/Assomption", 
         "id": 401, 
         "latitude": 45.569789, 
         "location_key": "45.569789,-73.548081", 
@@ -3218,6 +3620,7 @@
     "402": {
         "altitude": 45.86003875732422, 
         "capacity": 19, 
+        "description": "6703 - St-Zotique/Viau", 
         "id": 402, 
         "latitude": 45.572503, 
         "location_key": "45.572503,-73.576035", 
@@ -3226,6 +3629,7 @@
     "403": {
         "altitude": 53.92844009399414, 
         "capacity": 14, 
+        "description": "6704 - 19e/St-Zotique", 
         "id": 403, 
         "latitude": 45.561594, 
         "location_key": "45.561594,-73.585643", 
@@ -3234,6 +3638,7 @@
     "404": {
         "altitude": 13.00961875915527, 
         "capacity": 14, 
+        "description": "6706 - Beatty/Verdun", 
         "id": 404, 
         "latitude": 45.450837, 
         "location_key": "45.450837,-73.572446", 
@@ -3242,6 +3647,7 @@
     "405": {
         "altitude": 12.63968467712402, 
         "capacity": 15, 
+        "description": "6707 - Drake / De S\u00e8ve", 
         "id": 405, 
         "latitude": 45.456026, 
         "location_key": "45.456026,-73.58229", 
@@ -3250,6 +3656,7 @@
     "406": {
         "altitude": 14.89194869995117, 
         "capacity": 15, 
+        "description": "6708 - Place Dublin/Favard", 
         "id": 406, 
         "latitude": 45.476665, 
         "location_key": "45.476665,-73.557088", 
@@ -3258,6 +3665,7 @@
     "407": {
         "altitude": 17.91249084472656, 
         "capacity": 15, 
+        "description": "6709 - Le Caron / Marc-Sauvalle", 
         "id": 407, 
         "latitude": 45.461685, 
         "location_key": "45.461685,-73.584039", 
@@ -3266,6 +3674,7 @@
     "408": {
         "altitude": 28.08273506164551, 
         "capacity": 15, 
+        "description": "6710 - Georges Baril/ Fleury", 
         "id": 408, 
         "latitude": 45.558457, 
         "location_key": "45.558457,-73.65884", 
@@ -3274,6 +3683,7 @@
     "409": {
         "altitude": 52.87200164794922, 
         "capacity": 19, 
+        "description": "6711 - Alexandra/Waverly", 
         "id": 409, 
         "latitude": 45.531938, 
         "location_key": "45.531938,-73.617842", 
@@ -3282,6 +3692,7 @@
     "410": {
         "altitude": 13.0618724822998, 
         "capacity": 15, 
+        "description": "6712 - Boul lasalle/Alepin", 
         "id": 410, 
         "latitude": 45.432816, 
         "location_key": "45.432816,-73.588561", 
@@ -3290,6 +3701,7 @@
     "411": {
         "altitude": 51.41938781738281, 
         "capacity": 15, 
+        "description": "6713 - 30e / St-Zotique", 
         "id": 411, 
         "latitude": 45.568489, 
         "location_key": "45.568489,-73.579484", 
@@ -3298,6 +3710,7 @@
     "412": {
         "altitude": 13.59893894195557, 
         "capacity": 15, 
+        "description": "6714 - Boul Lasalle/6e ave", 
         "id": 412, 
         "latitude": 45.429559, 
         "location_key": "45.429559,-73.593201", 
@@ -3306,6 +3719,7 @@
     "413": {
         "altitude": 29.21913146972656, 
         "capacity": 15, 
+        "description": "6716 - Curotte/Fleury", 
         "id": 413, 
         "latitude": 45.563892, 
         "location_key": "45.563892,-73.655638", 
@@ -3314,6 +3728,7 @@
     "414": {
         "altitude": 60.90596008300781, 
         "capacity": 15, 
+        "description": "6717 - Kent/Victoria", 
         "id": 414, 
         "latitude": 45.494805, 
         "location_key": "45.494805,-73.638772", 
@@ -3322,6 +3737,7 @@
     "415": {
         "altitude": 60.87200164794922, 
         "capacity": 15, 
+        "description": "6718 - Grand boulevard/Sherbrooke", 
         "id": 415, 
         "latitude": 45.466569, 
         "location_key": "45.466569,-73.623295", 
@@ -3330,6 +3746,7 @@
     "416": {
         "altitude": 57.33909225463867, 
         "capacity": 15, 
+        "description": "6719 - Park Row W/Sherbrooke", 
         "id": 416, 
         "latitude": 45.461843, 
         "location_key": "45.461843,-73.632297", 
@@ -3338,6 +3755,7 @@
     "417": {
         "altitude": 16.42022895812988, 
         "capacity": 19, 
+        "description": "6720 - Ontario/Viau", 
         "id": 417, 
         "latitude": 45.55931, 
         "location_key": "45.55931,-73.535281", 
@@ -3346,6 +3764,7 @@
     "418": {
         "altitude": 31.24709892272949, 
         "capacity": 18, 
+        "description": "6721 - Cadillac/Sherbrooke", 
         "id": 418, 
         "latitude": 45.577021, 
         "location_key": "45.577021,-73.546783", 
@@ -3354,6 +3773,7 @@
     "419": {
         "altitude": 26.2533016204834, 
         "capacity": 15, 
+        "description": "6722 - Pierre de coubertain/Lacordaire", 
         "id": 419, 
         "latitude": 45.572245, 
         "location_key": "45.572245,-73.540579", 
@@ -3362,6 +3782,7 @@
     "420": {
         "altitude": 52.87200164794922, 
         "capacity": 14, 
+        "description": "6723 - 26e/beaubien", 
         "id": 420, 
         "latitude": 45.564944, 
         "location_key": "45.564944,-73.577639", 
@@ -3369,7 +3790,8 @@
     }, 
     "421": {
         "altitude": 13.25887775421143, 
-        "capacity": 18, 
+        "capacity": 19, 
+        "description": "6724 - Square Sir-Georges-\u00c9tienne-Cartier / St-Ambroise", 
         "id": 421, 
         "latitude": 45.472535, 
         "location_key": "45.472535,-73.583674", 
@@ -3378,6 +3800,7 @@
     "422": {
         "altitude": 21.5663013458252, 
         "capacity": 15, 
+        "description": "6725 - Eadie/Dubois", 
         "id": 422, 
         "latitude": 45.457606, 
         "location_key": "45.457606,-73.590551", 
@@ -3386,6 +3809,7 @@
     "423": {
         "altitude": 35.31315994262695, 
         "capacity": 15, 
+        "description": "6726 - Hamel/Sauv\u00e9", 
         "id": 423, 
         "latitude": 45.560742, 
         "location_key": "45.560742,-73.65041", 
@@ -3394,6 +3818,7 @@
     "424": {
         "altitude": 28.26558303833008, 
         "capacity": 15, 
+        "description": "6727 - Pepiniere/Pierre coubertain", 
         "id": 424, 
         "latitude": 45.576168, 
         "location_key": "45.576168,-73.538098", 
@@ -3402,6 +3827,7 @@
     "425": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6728 - Wiseman/Jean-Talon", 
         "id": 425, 
         "latitude": 45.52573, 
         "location_key": "45.52573,-73.624956", 
@@ -3410,6 +3836,7 @@
     "426": {
         "altitude": 45.87200164794922, 
         "capacity": 15, 
+        "description": "6730 - 35e/beaubien", 
         "id": 426, 
         "latitude": 45.570081, 
         "location_key": "45.570081,-73.573047", 
@@ -3418,6 +3845,7 @@
     "427": {
         "altitude": 52.725830078125, 
         "capacity": 15, 
+        "description": "6733 - Rousselot/Villeray", 
         "id": 427, 
         "latitude": 45.548931, 
         "location_key": "45.548931,-73.616837", 
@@ -3426,6 +3854,7 @@
     "428": {
         "altitude": 14.36806488037109, 
         "capacity": 15, 
+        "description": "6732 - Fortune/wellington", 
         "id": 428, 
         "latitude": 45.477923, 
         "location_key": "45.477923,-73.559038", 
@@ -3434,6 +3863,7 @@
     "429": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6731 - 28e ave/Rosemont", 
         "id": 429, 
         "latitude": 45.564353, 
         "location_key": "45.564353,-73.571244", 
@@ -3442,6 +3872,7 @@
     "430": {
         "altitude": 48.93290710449219, 
         "capacity": 15, 
+        "description": "6734 - Rousselot/Jarry", 
         "id": 430, 
         "latitude": 45.550896, 
         "location_key": "45.550896,-73.621091", 
@@ -3450,6 +3881,7 @@
     "431": {
         "altitude": 20.86271286010742, 
         "capacity": 19, 
+        "description": "6736 - Durham/Henri Bourassa", 
         "id": 431, 
         "latitude": 45.557436, 
         "location_key": "45.557436,-73.66712", 
@@ -3458,6 +3890,7 @@
     "432": {
         "altitude": 45.87200164794922, 
         "capacity": 19, 
+        "description": "6737 - Jacques Cassault/Christophe-Colomb", 
         "id": 432, 
         "latitude": 45.552123, 
         "location_key": "45.552123,-73.630103", 
@@ -3466,6 +3899,7 @@
     "433": {
         "altitude": 52.87200164794922, 
         "capacity": 15, 
+        "description": "6735 - Fran\u00e7ois Perrault / LO David", 
         "id": 433, 
         "latitude": 45.561396, 
         "location_key": "45.561396,-73.601544", 
@@ -3474,6 +3908,7 @@
     "434": {
         "altitude": 36.21937942504883, 
         "capacity": 23, 
+        "description": "6738 - Union/Ren\u00e9 L\u00e9vesques", 
         "id": 434, 
         "latitude": 45.50233, 
         "location_key": "45.50233,-73.566497", 
@@ -3482,6 +3917,7 @@
     "435": {
         "altitude": 37.90518951416016, 
         "capacity": 15, 
+        "description": "6739 - Repentigny/Sherbrooke", 
         "id": 435, 
         "latitude": 45.58077, 
         "location_key": "45.58077,-73.544766", 
@@ -3490,6 +3926,7 @@
     "436": {
         "altitude": 19.96512031555176, 
         "capacity": 14, 
+        "description": "6741 - Murray/William", 
         "id": 436, 
         "latitude": 45.493658, 
         "location_key": "45.493658,-73.562256", 
@@ -3498,6 +3935,7 @@
     "437": {
         "altitude": 55.63129806518555, 
         "capacity": 11, 
+        "description": "6746 - Birnam / Beaumont", 
         "id": 437, 
         "latitude": 45.523996, 
         "location_key": "45.523996,-73.622869", 
@@ -3506,6 +3944,7 @@
     "438": {
         "altitude": 56.1534423828125, 
         "capacity": 15, 
+        "description": "6747 - St-Zotique/St-Urbain", 
         "id": 438, 
         "latitude": 45.530848, 
         "location_key": "45.530848,-73.613961", 
@@ -3514,6 +3953,7 @@
     "439": {
         "altitude": 37.94110870361328, 
         "capacity": 15, 
+        "description": "6749 - 42e/ St-Zotique", 
         "id": 439, 
         "latitude": 45.575378, 
         "location_key": "45.575378,-73.573691", 
@@ -3522,6 +3962,7 @@
     "440": {
         "altitude": 33.84687042236328, 
         "capacity": 23, 
+        "description": "6750 - Cathedral/Gaucheti\u00e8re", 
         "id": 440, 
         "latitude": 45.498491, 
         "location_key": "45.498491,-73.567849", 
