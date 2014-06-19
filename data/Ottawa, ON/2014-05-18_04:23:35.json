@@ -1,0 +1,30 @@
+{ "city": "Ottawa, ON", "time": 1400379815 
+, "stations": [
+{ "id": 0, "bikes": 0, "free": 24}
+,{ "id": 1, "bikes": 0, "free": 11}
+,{ "id": 2, "bikes": 0, "free": 15}
+,{ "id": 3, "bikes": 0, "free": 15}
+,{ "id": 4, "bikes": 0, "free": 17}
+,{ "id": 5, "bikes": 0, "free": 15}
+,{ "id": 6, "bikes": 0, "free": 15}
+,{ "id": 7, "bikes": 0, "free": 27}
+,{ "id": 8, "bikes": 0, "free": 19}
+,{ "id": 9, "bikes": 0, "free": 19}
+,{ "id": 10, "bikes": 0, "free": 19}
+,{ "id": 11, "bikes": 0, "free": 15}
+,{ "id": 12, "bikes": 0, "free": 15}
+,{ "id": 13, "bikes": 0, "free": 4}
+,{ "id": 14, "bikes": 0, "free": 31}
+,{ "id": 15, "bikes": 0, "free": 19}
+,{ "id": 16, "bikes": 0, "free": 15}
+,{ "id": 17, "bikes": 0, "free": 20}
+,{ "id": 18, "bikes": 0, "free": 19}
+,{ "id": 19, "bikes": 0, "free": 11}
+,{ "id": 20, "bikes": 0, "free": 19}
+,{ "id": 21, "bikes": 0, "free": 15}
+,{ "id": 22, "bikes": 0, "free": 23}
+,{ "id": 23, "bikes": 0, "free": 15}
+,{ "id": 24, "bikes": 0, "free": 35}
+
+]
+}
