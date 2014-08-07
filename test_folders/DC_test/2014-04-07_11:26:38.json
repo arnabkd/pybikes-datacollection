@@ -1,0 +1,1597 @@
+{
+    "city": "Washington, DC", 
+    "stations": [
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 0
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 1
+        }, 
+        {
+            "bikes": 5, 
+            "free": 7, 
+            "id": 2
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 3
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 4
+        }, 
+        {
+            "bikes": 4, 
+            "free": 14, 
+            "id": 5
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 6
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 7
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 8
+        }, 
+        {
+            "bikes": 9, 
+            "free": 9, 
+            "id": 9
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 10
+        }, 
+        {
+            "bikes": 7, 
+            "free": 10, 
+            "id": 11
+        }, 
+        {
+            "bikes": 1, 
+            "free": 10, 
+            "id": 12
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 13
+        }, 
+        {
+            "bikes": 20, 
+            "free": 7, 
+            "id": 14
+        }, 
+        {
+            "bikes": 17, 
+            "free": 10, 
+            "id": 15
+        }, 
+        {
+            "bikes": 15, 
+            "free": 18, 
+            "id": 16
+        }, 
+        {
+            "bikes": 6, 
+            "free": 8, 
+            "id": 17
+        }, 
+        {
+            "bikes": 9, 
+            "free": 9, 
+            "id": 18
+        }, 
+        {
+            "bikes": 8, 
+            "free": 15, 
+            "id": 19
+        }, 
+        {
+            "bikes": 5, 
+            "free": 14, 
+            "id": 20
+        }, 
+        {
+            "bikes": 18, 
+            "free": 3, 
+            "id": 21
+        }, 
+        {
+            "bikes": 11, 
+            "free": 8, 
+            "id": 22
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 23
+        }, 
+        {
+            "bikes": 10, 
+            "free": 12, 
+            "id": 24
+        }, 
+        {
+            "bikes": 14, 
+            "free": 1, 
+            "id": 25
+        }, 
+        {
+            "bikes": 7, 
+            "free": 28, 
+            "id": 26
+        }, 
+        {
+            "bikes": 7, 
+            "free": 7, 
+            "id": 27
+        }, 
+        {
+            "bikes": 2, 
+            "free": 9, 
+            "id": 28
+        }, 
+        {
+            "bikes": 1, 
+            "free": 9, 
+            "id": 29
+        }, 
+        {
+            "bikes": 18, 
+            "free": 1, 
+            "id": 30
+        }, 
+        {
+            "bikes": 1, 
+            "free": 14, 
+            "id": 31
+        }, 
+        {
+            "bikes": 11, 
+            "free": 8, 
+            "id": 32
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 33
+        }, 
+        {
+            "bikes": 8, 
+            "free": 3, 
+            "id": 34
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 35
+        }, 
+        {
+            "bikes": 8, 
+            "free": 3, 
+            "id": 36
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 37
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 38
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 39
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 40
+        }, 
+        {
+            "bikes": 9, 
+            "free": 2, 
+            "id": 41
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 42
+        }, 
+        {
+            "bikes": 2, 
+            "free": 9, 
+            "id": 43
+        }, 
+        {
+            "bikes": 28, 
+            "free": 11, 
+            "id": 44
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 45
+        }, 
+        {
+            "bikes": 2, 
+            "free": 13, 
+            "id": 46
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 47
+        }, 
+        {
+            "bikes": 16, 
+            "free": 1, 
+            "id": 48
+        }, 
+        {
+            "bikes": 19, 
+            "free": 25, 
+            "id": 49
+        }, 
+        {
+            "bikes": 12, 
+            "free": 1, 
+            "id": 50
+        }, 
+        {
+            "bikes": 11, 
+            "free": 6, 
+            "id": 51
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 52
+        }, 
+        {
+            "bikes": 5, 
+            "free": 10, 
+            "id": 53
+        }, 
+        {
+            "bikes": 8, 
+            "free": 2, 
+            "id": 54
+        }, 
+        {
+            "bikes": 12, 
+            "free": 1, 
+            "id": 55
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 56
+        }, 
+        {
+            "bikes": 15, 
+            "free": 4, 
+            "id": 57
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 58
+        }, 
+        {
+            "bikes": 13, 
+            "free": 2, 
+            "id": 59
+        }, 
+        {
+            "bikes": 9, 
+            "free": 2, 
+            "id": 60
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 61
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 62
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 63
+        }, 
+        {
+            "bikes": 6, 
+            "free": 4, 
+            "id": 64
+        }, 
+        {
+            "bikes": 8, 
+            "free": 2, 
+            "id": 65
+        }, 
+        {
+            "bikes": 12, 
+            "free": 2, 
+            "id": 66
+        }, 
+        {
+            "bikes": 5, 
+            "free": 14, 
+            "id": 67
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 68
+        }, 
+        {
+            "bikes": 26, 
+            "free": 13, 
+            "id": 69
+        }, 
+        {
+            "bikes": 8, 
+            "free": 11, 
+            "id": 70
+        }, 
+        {
+            "bikes": 4, 
+            "free": 6, 
+            "id": 71
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 72
+        }, 
+        {
+            "bikes": 2, 
+            "free": 13, 
+            "id": 73
+        }, 
+        {
+            "bikes": 8, 
+            "free": 23, 
+            "id": 74
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 75
+        }, 
+        {
+            "bikes": 7, 
+            "free": 12, 
+            "id": 76
+        }, 
+        {
+            "bikes": 1, 
+            "free": 18, 
+            "id": 77
+        }, 
+        {
+            "bikes": 10, 
+            "free": 4, 
+            "id": 78
+        }, 
+        {
+            "bikes": 12, 
+            "free": 15, 
+            "id": 79
+        }, 
+        {
+            "bikes": 3, 
+            "free": 28, 
+            "id": 80
+        }, 
+        {
+            "bikes": 7, 
+            "free": 6, 
+            "id": 81
+        }, 
+        {
+            "bikes": 6, 
+            "free": 10, 
+            "id": 82
+        }, 
+        {
+            "bikes": 5, 
+            "free": 10, 
+            "id": 83
+        }, 
+        {
+            "bikes": 2, 
+            "free": 13, 
+            "id": 84
+        }, 
+        {
+            "bikes": 5, 
+            "free": 17, 
+            "id": 85
+        }, 
+        {
+            "bikes": 14, 
+            "free": 5, 
+            "id": 86
+        }, 
+        {
+            "bikes": 18, 
+            "free": 5, 
+            "id": 87
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 88
+        }, 
+        {
+            "bikes": 4, 
+            "free": 19, 
+            "id": 89
+        }, 
+        {
+            "bikes": 4, 
+            "free": 26, 
+            "id": 90
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 91
+        }, 
+        {
+            "bikes": 7, 
+            "free": 3, 
+            "id": 92
+        }, 
+        {
+            "bikes": 11, 
+            "free": 10, 
+            "id": 93
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 94
+        }, 
+        {
+            "bikes": 10, 
+            "free": 4, 
+            "id": 95
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 96
+        }, 
+        {
+            "bikes": 23, 
+            "free": 2, 
+            "id": 97
+        }, 
+        {
+            "bikes": 2, 
+            "free": 9, 
+            "id": 98
+        }, 
+        {
+            "bikes": 20, 
+            "free": 11, 
+            "id": 99
+        }, 
+        {
+            "bikes": 13, 
+            "free": 10, 
+            "id": 100
+        }, 
+        {
+            "bikes": 6, 
+            "free": 24, 
+            "id": 101
+        }, 
+        {
+            "bikes": 11, 
+            "free": 13, 
+            "id": 102
+        }, 
+        {
+            "bikes": 2, 
+            "free": 15, 
+            "id": 103
+        }, 
+        {
+            "bikes": 6, 
+            "free": 21, 
+            "id": 104
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 105
+        }, 
+        {
+            "bikes": 2, 
+            "free": 13, 
+            "id": 106
+        }, 
+        {
+            "bikes": 18, 
+            "free": 15, 
+            "id": 107
+        }, 
+        {
+            "bikes": 13, 
+            "free": 10, 
+            "id": 108
+        }, 
+        {
+            "bikes": 10, 
+            "free": 9, 
+            "id": 109
+        }, 
+        {
+            "bikes": 6, 
+            "free": 9, 
+            "id": 110
+        }, 
+        {
+            "bikes": 31, 
+            "free": 0, 
+            "id": 111
+        }, 
+        {
+            "bikes": 20, 
+            "free": 3, 
+            "id": 112
+        }, 
+        {
+            "bikes": 15, 
+            "free": 4, 
+            "id": 113
+        }, 
+        {
+            "bikes": 11, 
+            "free": 4, 
+            "id": 114
+        }, 
+        {
+            "bikes": 6, 
+            "free": 16, 
+            "id": 115
+        }, 
+        {
+            "bikes": 13, 
+            "free": 9, 
+            "id": 116
+        }, 
+        {
+            "bikes": 15, 
+            "free": 8, 
+            "id": 117
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 118
+        }, 
+        {
+            "bikes": 9, 
+            "free": 9, 
+            "id": 119
+        }, 
+        {
+            "bikes": 3, 
+            "free": 16, 
+            "id": 120
+        }, 
+        {
+            "bikes": 3, 
+            "free": 11, 
+            "id": 121
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 122
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 123
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 124
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 125
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 126
+        }, 
+        {
+            "bikes": 6, 
+            "free": 9, 
+            "id": 127
+        }, 
+        {
+            "bikes": 4, 
+            "free": 14, 
+            "id": 128
+        }, 
+        {
+            "bikes": 13, 
+            "free": 9, 
+            "id": 129
+        }, 
+        {
+            "bikes": 18, 
+            "free": 14, 
+            "id": 130
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 131
+        }, 
+        {
+            "bikes": 3, 
+            "free": 11, 
+            "id": 132
+        }, 
+        {
+            "bikes": 4, 
+            "free": 13, 
+            "id": 133
+        }, 
+        {
+            "bikes": 9, 
+            "free": 3, 
+            "id": 134
+        }, 
+        {
+            "bikes": 12, 
+            "free": 23, 
+            "id": 135
+        }, 
+        {
+            "bikes": 17, 
+            "free": 1, 
+            "id": 136
+        }, 
+        {
+            "bikes": 16, 
+            "free": 1, 
+            "id": 137
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 138
+        }, 
+        {
+            "bikes": 6, 
+            "free": 9, 
+            "id": 139
+        }, 
+        {
+            "bikes": 5, 
+            "free": 10, 
+            "id": 140
+        }, 
+        {
+            "bikes": 2, 
+            "free": 16, 
+            "id": 141
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 142
+        }, 
+        {
+            "bikes": 6, 
+            "free": 12, 
+            "id": 143
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 144
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 145
+        }, 
+        {
+            "bikes": 10, 
+            "free": 8, 
+            "id": 146
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 147
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 148
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 149
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 150
+        }, 
+        {
+            "bikes": 9, 
+            "free": 5, 
+            "id": 151
+        }, 
+        {
+            "bikes": 5, 
+            "free": 14, 
+            "id": 152
+        }, 
+        {
+            "bikes": 2, 
+            "free": 8, 
+            "id": 153
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 154
+        }, 
+        {
+            "bikes": 6, 
+            "free": 9, 
+            "id": 155
+        }, 
+        {
+            "bikes": 4, 
+            "free": 15, 
+            "id": 156
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 157
+        }, 
+        {
+            "bikes": 1, 
+            "free": 16, 
+            "id": 158
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 159
+        }, 
+        {
+            "bikes": 3, 
+            "free": 11, 
+            "id": 160
+        }, 
+        {
+            "bikes": 5, 
+            "free": 14, 
+            "id": 161
+        }, 
+        {
+            "bikes": 20, 
+            "free": 1, 
+            "id": 162
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 163
+        }, 
+        {
+            "bikes": 4, 
+            "free": 15, 
+            "id": 164
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 165
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 166
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 167
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 168
+        }, 
+        {
+            "bikes": 4, 
+            "free": 15, 
+            "id": 169
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 170
+        }, 
+        {
+            "bikes": 14, 
+            "free": 6, 
+            "id": 171
+        }, 
+        {
+            "bikes": 5, 
+            "free": 9, 
+            "id": 172
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 173
+        }, 
+        {
+            "bikes": 5, 
+            "free": 5, 
+            "id": 174
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 175
+        }, 
+        {
+            "bikes": 17, 
+            "free": 2, 
+            "id": 176
+        }, 
+        {
+            "bikes": 5, 
+            "free": 14, 
+            "id": 177
+        }, 
+        {
+            "bikes": 5, 
+            "free": 11, 
+            "id": 178
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 179
+        }, 
+        {
+            "bikes": 3, 
+            "free": 20, 
+            "id": 180
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 181
+        }, 
+        {
+            "bikes": 11, 
+            "free": 4, 
+            "id": 182
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 183
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 184
+        }, 
+        {
+            "bikes": 2, 
+            "free": 15, 
+            "id": 185
+        }, 
+        {
+            "bikes": 10, 
+            "free": 4, 
+            "id": 186
+        }, 
+        {
+            "bikes": 6, 
+            "free": 11, 
+            "id": 187
+        }, 
+        {
+            "bikes": 8, 
+            "free": 11, 
+            "id": 188
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 189
+        }, 
+        {
+            "bikes": 8, 
+            "free": 6, 
+            "id": 190
+        }, 
+        {
+            "bikes": 2, 
+            "free": 12, 
+            "id": 191
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 192
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 193
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 194
+        }, 
+        {
+            "bikes": 6, 
+            "free": 4, 
+            "id": 195
+        }, 
+        {
+            "bikes": 20, 
+            "free": 5, 
+            "id": 196
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 197
+        }, 
+        {
+            "bikes": 7, 
+            "free": 11, 
+            "id": 198
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 199
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 200
+        }, 
+        {
+            "bikes": 16, 
+            "free": 5, 
+            "id": 201
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 202
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 203
+        }, 
+        {
+            "bikes": 10, 
+            "free": 4, 
+            "id": 204
+        }, 
+        {
+            "bikes": 3, 
+            "free": 20, 
+            "id": 205
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 206
+        }, 
+        {
+            "bikes": 10, 
+            "free": 9, 
+            "id": 207
+        }, 
+        {
+            "bikes": 6, 
+            "free": 13, 
+            "id": 208
+        }, 
+        {
+            "bikes": 6, 
+            "free": 13, 
+            "id": 209
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 210
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 211
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 212
+        }, 
+        {
+            "bikes": 6, 
+            "free": 4, 
+            "id": 213
+        }, 
+        {
+            "bikes": 9, 
+            "free": 5, 
+            "id": 214
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 215
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 216
+        }, 
+        {
+            "bikes": 14, 
+            "free": 4, 
+            "id": 217
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 218
+        }, 
+        {
+            "bikes": 16, 
+            "free": 7, 
+            "id": 219
+        }, 
+        {
+            "bikes": 9, 
+            "free": 8, 
+            "id": 220
+        }, 
+        {
+            "bikes": 9, 
+            "free": 5, 
+            "id": 221
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 222
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 223
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 224
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 225
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 226
+        }, 
+        {
+            "bikes": 8, 
+            "free": 11, 
+            "id": 227
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 228
+        }, 
+        {
+            "bikes": 5, 
+            "free": 5, 
+            "id": 229
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 230
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 231
+        }, 
+        {
+            "bikes": 14, 
+            "free": 1, 
+            "id": 232
+        }, 
+        {
+            "bikes": 14, 
+            "free": 5, 
+            "id": 233
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 234
+        }, 
+        {
+            "bikes": 4, 
+            "free": 11, 
+            "id": 235
+        }, 
+        {
+            "bikes": 9, 
+            "free": 2, 
+            "id": 236
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 237
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 238
+        }, 
+        {
+            "bikes": 5, 
+            "free": 10, 
+            "id": 239
+        }, 
+        {
+            "bikes": 14, 
+            "free": 1, 
+            "id": 240
+        }, 
+        {
+            "bikes": 10, 
+            "free": 8, 
+            "id": 241
+        }, 
+        {
+            "bikes": 16, 
+            "free": 9, 
+            "id": 242
+        }, 
+        {
+            "bikes": 19, 
+            "free": 6, 
+            "id": 243
+        }, 
+        {
+            "bikes": 12, 
+            "free": 2, 
+            "id": 244
+        }, 
+        {
+            "bikes": 3, 
+            "free": 12, 
+            "id": 245
+        }, 
+        {
+            "bikes": 6, 
+            "free": 6, 
+            "id": 246
+        }, 
+        {
+            "bikes": 8, 
+            "free": 6, 
+            "id": 247
+        }, 
+        {
+            "bikes": 4, 
+            "free": 7, 
+            "id": 248
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 249
+        }, 
+        {
+            "bikes": 6, 
+            "free": 12, 
+            "id": 250
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 251
+        }, 
+        {
+            "bikes": 12, 
+            "free": 7, 
+            "id": 252
+        }, 
+        {
+            "bikes": 10, 
+            "free": 9, 
+            "id": 253
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 254
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 255
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 256
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 257
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 258
+        }, 
+        {
+            "bikes": 11, 
+            "free": 8, 
+            "id": 259
+        }, 
+        {
+            "bikes": 10, 
+            "free": 9, 
+            "id": 260
+        }, 
+        {
+            "bikes": 9, 
+            "free": 2, 
+            "id": 261
+        }, 
+        {
+            "bikes": 8, 
+            "free": 10, 
+            "id": 262
+        }, 
+        {
+            "bikes": 3, 
+            "free": 11, 
+            "id": 263
+        }, 
+        {
+            "bikes": 7, 
+            "free": 12, 
+            "id": 264
+        }, 
+        {
+            "bikes": 4, 
+            "free": 14, 
+            "id": 265
+        }, 
+        {
+            "bikes": 7, 
+            "free": 7, 
+            "id": 266
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 267
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 268
+        }, 
+        {
+            "bikes": 6, 
+            "free": 9, 
+            "id": 269
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 270
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 271
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 272
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 273
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 274
+        }, 
+        {
+            "bikes": 10, 
+            "free": 10, 
+            "id": 275
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 276
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 277
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 278
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 279
+        }, 
+        {
+            "bikes": 5, 
+            "free": 4, 
+            "id": 280
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 281
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 282
+        }, 
+        {
+            "bikes": 8, 
+            "free": 7, 
+            "id": 283
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 284
+        }, 
+        {
+            "bikes": 11, 
+            "free": 8, 
+            "id": 285
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 286
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 287
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 288
+        }, 
+        {
+            "bikes": 10, 
+            "free": 8, 
+            "id": 289
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 290
+        }, 
+        {
+            "bikes": 7, 
+            "free": 12, 
+            "id": 291
+        }, 
+        {
+            "bikes": 5, 
+            "free": 12, 
+            "id": 292
+        }, 
+        {
+            "bikes": 3, 
+            "free": 8, 
+            "id": 293
+        }, 
+        {
+            "bikes": 13, 
+            "free": 2, 
+            "id": 294
+        }, 
+        {
+            "bikes": 12, 
+            "free": 5, 
+            "id": 295
+        }, 
+        {
+            "bikes": 6, 
+            "free": 5, 
+            "id": 296
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 297
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 298
+        }, 
+        {
+            "bikes": 7, 
+            "free": 12, 
+            "id": 299
+        }, 
+        {
+            "bikes": 12, 
+            "free": 7, 
+            "id": 300
+        }, 
+        {
+            "bikes": 3, 
+            "free": 7, 
+            "id": 301
+        }, 
+        {
+            "bikes": 9, 
+            "free": 6, 
+            "id": 302
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 303
+        }, 
+        {
+            "bikes": 10, 
+            "free": 5, 
+            "id": 304
+        }, 
+        {
+            "bikes": 7, 
+            "free": 8, 
+            "id": 305
+        }, 
+        {
+            "bikes": 11, 
+            "free": 8, 
+            "id": 306
+        }, 
+        {
+            "bikes": 5, 
+            "free": 6, 
+            "id": 307
+        }, 
+        {
+            "bikes": 6, 
+            "free": 7, 
+            "id": 308
+        }, 
+        {
+            "bikes": 6, 
+            "free": 8, 
+            "id": 309
+        }, 
+        {
+            "bikes": 9, 
+            "free": 10, 
+            "id": 310
+        }, 
+        {
+            "bikes": 6, 
+            "free": 13, 
+            "id": 311
+        }, 
+        {
+            "bikes": 2, 
+            "free": 17, 
+            "id": 312
+        }, 
+        {
+            "bikes": 7, 
+            "free": 4, 
+            "id": 313
+        }, 
+        {
+            "bikes": 9, 
+            "free": 5, 
+            "id": 314
+        }
+    ], 
+    "time": 1396862798, 
+    "weather": {
+        "Clouds": "", 
+        "Conditions": "", 
+        "DewpointC": "0.7", 
+        "HourlyPrecipMM": "0.0", 
+        "Humidity": "63", 
+        "PressurehPa": "1018.8", 
+        "SoftwareType": "WeatherLink 6.0.3", 
+        "TemperatureC": "7.3", 
+        "Time": "2014-04-07 05:28:00", 
+        "WindDirection": "NE", 
+        "WindDirectionDegrees": "45", 
+        "WindSpeedGustKMH": "9.7", 
+        "WindSpeedKMH": "4.8", 
+        "dailyrainMM": "-2539.7"
+    }
+}
