@@ -1,7 +1,7 @@
 {
     "0": {
         "altitude": 179.7014770507812, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "5 - State St & Harrison St", 
         "id": 0, 
         "latitude": 41.8739580629, 
@@ -10,7 +10,7 @@
     }, 
     "1": {
         "altitude": 182.3150024414062, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "13 - Wilton Ave & Diversey Pkwy", 
         "id": 1, 
         "latitude": 41.93250008, 
@@ -46,7 +46,7 @@
     }, 
     "5": {
         "altitude": 181.3150024414062, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "17 - Wood St & Division St", 
         "id": 5, 
         "latitude": 41.90332, 
@@ -55,7 +55,7 @@
     }, 
     "6": {
         "altitude": 180.6139984130859, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "19 - Loomis St & Taylor St", 
         "id": 6, 
         "latitude": 41.869417, 
@@ -64,7 +64,7 @@
     }, 
     "7": {
         "altitude": 178.6051940917969, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "20 - Sheffield Ave & Kingsbury St", 
         "id": 7, 
         "latitude": 41.90959193, 
@@ -73,7 +73,7 @@
     }, 
     "8": {
         "altitude": 180.2207641601562, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "21 - Aberdeen St & Jackson Blvd", 
         "id": 8, 
         "latitude": 41.87772613, 
@@ -100,7 +100,7 @@
     }, 
     "11": {
         "altitude": 179.779296875, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "24 - Fairbanks Ct & Grand Ave", 
         "id": 11, 
         "latitude": 41.89186, 
@@ -118,7 +118,7 @@
     }, 
     "13": {
         "altitude": 179.8843078613281, 
-        "capacity": 30, 
+        "capacity": 29, 
         "description": "26 - McClurg Ct & Illinois St", 
         "id": 13, 
         "latitude": 41.89102, 
@@ -127,7 +127,7 @@
     }, 
     "14": {
         "altitude": 181.0287017822266, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "27 - Larrabee St & North Ave", 
         "id": 14, 
         "latitude": 41.91021, 
@@ -181,7 +181,7 @@
     }, 
     "20": {
         "altitude": 181.3647155761719, 
-        "capacity": 27, 
+        "capacity": 23, 
         "description": "33 - State St & Van Buren St", 
         "id": 20, 
         "latitude": 41.877181, 
@@ -199,7 +199,7 @@
     }, 
     "22": {
         "altitude": 179.9610900878906, 
-        "capacity": 38, 
+        "capacity": 32, 
         "description": "35 - Streeter Dr & Illinois St", 
         "id": 22, 
         "latitude": 41.891071, 
@@ -217,7 +217,7 @@
     }, 
     "24": {
         "altitude": 181.3854675292969, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "37 - Dearborn St & Adams St", 
         "id": 24, 
         "latitude": 41.8793563587, 
@@ -226,7 +226,7 @@
     }, 
     "25": {
         "altitude": 182.0391082763672, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "42 - Wabash Ave & Cermak Rd", 
         "id": 25, 
         "latitude": 41.8532387578, 
@@ -235,7 +235,7 @@
     }, 
     "26": {
         "altitude": 180.6194915771484, 
-        "capacity": 43, 
+        "capacity": 40, 
         "description": "43 - Michigan Ave & Washington St", 
         "id": 26, 
         "latitude": 41.8838927658, 
@@ -244,7 +244,7 @@
     }, 
     "27": {
         "altitude": 181.3464202880859, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "44 - State St & Randolph St", 
         "id": 27, 
         "latitude": 41.8847302006, 
@@ -262,7 +262,7 @@
     }, 
     "29": {
         "altitude": 179.4380798339844, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "46 - Wells St & Walton St", 
         "id": 29, 
         "latitude": 41.89993001, 
@@ -271,7 +271,7 @@
     }, 
     "30": {
         "altitude": 179.8805541992188, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "47 - State St & Kinzie St", 
         "id": 30, 
         "latitude": 41.88918, 
@@ -289,7 +289,7 @@
     }, 
     "32": {
         "altitude": 181.5261383056641, 
-        "capacity": 23, 
+        "capacity": 26, 
         "description": "49 - Dearborn St & Monroe St", 
         "id": 32, 
         "latitude": 41.881319815, 
@@ -307,7 +307,7 @@
     }, 
     "34": {
         "altitude": 181.7185821533203, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "51 - Clark St & Randolph St", 
         "id": 34, 
         "latitude": 41.884576228, 
@@ -325,7 +325,7 @@
     }, 
     "36": {
         "altitude": 178.8162689208984, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "53 - Wells St & Erie St", 
         "id": 36, 
         "latitude": 41.893832, 
@@ -343,7 +343,7 @@
     }, 
     "38": {
         "altitude": 180.6139984130859, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "55 - Halsted St & James M Rochford St", 
         "id": 38, 
         "latitude": 41.865861, 
@@ -352,7 +352,7 @@
     }, 
     "39": {
         "altitude": 181.4246215820312, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "56 - Desplaines St & Kinzie St", 
         "id": 39, 
         "latitude": 41.888716036, 
@@ -361,7 +361,7 @@
     }, 
     "40": {
         "altitude": 182.438720703125, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "57 - Clinton St & Roosevelt Rd", 
         "id": 40, 
         "latitude": 41.8671177825, 
@@ -379,7 +379,7 @@
     }, 
     "42": {
         "altitude": 180.1156311035156, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "59 - Wabash Ave & Roosevelt Rd", 
         "id": 42, 
         "latitude": 41.8671729952, 
@@ -388,7 +388,7 @@
     }, 
     "43": {
         "altitude": 180.1466522216797, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "60 - Dayton St & North Ave", 
         "id": 43, 
         "latitude": 41.9105780349, 
@@ -397,7 +397,7 @@
     }, 
     "44": {
         "altitude": 181.501708984375, 
-        "capacity": 13, 
+        "capacity": 15, 
         "description": "61 - Wood St & Milwaukee Ave", 
         "id": 44, 
         "latitude": 41.907655, 
@@ -406,7 +406,7 @@
     }, 
     "45": {
         "altitude": 181.3030853271484, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "62 - McCormick Place", 
         "id": 45, 
         "latitude": 41.8513751729, 
@@ -415,7 +415,7 @@
     }, 
     "46": {
         "altitude": 182.3099060058594, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "66 - Clinton St & Lake St", 
         "id": 46, 
         "latitude": 41.8858327415, 
@@ -424,7 +424,7 @@
     }, 
     "47": {
         "altitude": 181.7180480957031, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "67 - Sheffield Ave & Fullerton Ave", 
         "id": 47, 
         "latitude": 41.9256018819, 
@@ -442,7 +442,7 @@
     }, 
     "49": {
         "altitude": 181.4149932861328, 
-        "capacity": 17, 
+        "capacity": 19, 
         "description": "69 - Damen Ave & Pierce Ave", 
         "id": 49, 
         "latitude": 41.9093960065, 
@@ -451,7 +451,7 @@
     }, 
     "50": {
         "altitude": 180.4044799804688, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "71 - Morgan St & Lake St", 
         "id": 50, 
         "latitude": 41.8854833079, 
@@ -478,7 +478,7 @@
     }, 
     "53": {
         "altitude": 176.915771484375, 
-        "capacity": 23, 
+        "capacity": 21, 
         "description": "74 - Kingsbury St & Erie St", 
         "id": 53, 
         "latitude": 41.89384315, 
@@ -496,7 +496,7 @@
     }, 
     "55": {
         "altitude": 176.8317108154297, 
-        "capacity": 34, 
+        "capacity": 39, 
         "description": "76 - Lake Shore Dr & Monroe St", 
         "id": 55, 
         "latitude": 41.880958, 
@@ -505,7 +505,7 @@
     }, 
     "56": {
         "altitude": 181.0854034423828, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "77 - Clinton St & Madison St", 
         "id": 56, 
         "latitude": 41.8815824, 
@@ -514,7 +514,7 @@
     }, 
     "57": {
         "altitude": 180.6116790771484, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "80 - Aberdeen St & Madison St", 
         "id": 57, 
         "latitude": 41.881487, 
@@ -523,7 +523,7 @@
     }, 
     "58": {
         "altitude": 181.2149963378906, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "81 - Daley Center Plaza", 
         "id": 58, 
         "latitude": 41.884163, 
@@ -559,7 +559,7 @@
     }, 
     "62": {
         "altitude": 181.4149932861328, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "87 - Racine Ave & Fullerton Ave", 
         "id": 62, 
         "latitude": 41.92556258, 
@@ -586,7 +586,7 @@
     }, 
     "65": {
         "altitude": 182.7184448242188, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "91 - Clinton St & Washington Blvd", 
         "id": 65, 
         "latitude": 41.88338, 
@@ -622,7 +622,7 @@
     }, 
     "69": {
         "altitude": 184.7342071533203, 
-        "capacity": 31, 
+        "capacity": 35, 
         "description": "97 - Museum Campus", 
         "id": 69, 
         "latitude": 41.865212, 
@@ -640,7 +640,7 @@
     }, 
     "71": {
         "altitude": 181.2398834228516, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "99 - Lake Shore Dr & Ohio St", 
         "id": 71, 
         "latitude": 41.89257, 
@@ -649,7 +649,7 @@
     }, 
     "72": {
         "altitude": 177.5588836669922, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "100 - Orleans St & Merchandise Mart Plaza", 
         "id": 72, 
         "latitude": 41.888243, 
@@ -658,7 +658,7 @@
     }, 
     "73": {
         "altitude": 179.5697784423828, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "106 - State St & Pearson St", 
         "id": 73, 
         "latitude": 41.897448, 
@@ -675,17 +675,17 @@
         "longitude": -87.64664
     }, 
     "75": {
-        "altitude": 180.3591156005859, 
+        "altitude": 179.9980316162109, 
         "capacity": 19, 
         "description": "109 - 900 W Harrison", 
         "id": 75, 
-        "latitude": 41.8745, 
-        "location_key": "41.8745,-87.6498", 
-        "longitude": -87.6498
+        "latitude": 41.874675, 
+        "location_key": "41.874675,-87.650019", 
+        "longitude": -87.650019
     }, 
     "76": {
         "altitude": 179.2345275878906, 
-        "capacity": 23, 
+        "capacity": 20, 
         "description": "110 - State St & Erie St", 
         "id": 76, 
         "latitude": 41.893975, 
@@ -703,7 +703,7 @@
     }, 
     "78": {
         "altitude": 178.7767333984375, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "112 - Green St & Randolph St", 
         "id": 78, 
         "latitude": 41.884078, 
@@ -730,7 +730,7 @@
     }, 
     "81": {
         "altitude": 182.6148986816406, 
-        "capacity": 21, 
+        "capacity": 23, 
         "description": "115 - Sheffield Ave & Wellington Ave", 
         "id": 81, 
         "latitude": 41.936253, 
@@ -766,7 +766,7 @@
     }, 
     "85": {
         "altitude": 182.2579345703125, 
-        "capacity": 16, 
+        "capacity": 19, 
         "description": "119 - Ashland Ave & Lake St", 
         "id": 85, 
         "latitude": 41.88541, 
@@ -775,7 +775,7 @@
     }, 
     "86": {
         "altitude": 182.0706024169922, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "120 - Wentworth Ave & Archer Ave", 
         "id": 86, 
         "latitude": 41.854564, 
@@ -784,7 +784,7 @@
     }, 
     "87": {
         "altitude": 179.6029968261719, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "121 - Blackstone Ave & Hyde Park Blvd", 
         "id": 87, 
         "latitude": 41.802562, 
@@ -819,13 +819,13 @@
         "longitude": -87.675726
     }, 
     "91": {
-        "altitude": 181.5233612060547, 
+        "altitude": 181.5947113037109, 
         "capacity": 15, 
         "description": "126 - Clark St & North Ave", 
         "id": 91, 
-        "latitude": 41.911791, 
-        "location_key": "41.911791,-87.631841", 
-        "longitude": -87.631841
+        "latitude": 41.911974, 
+        "location_key": "41.911974,-87.631942", 
+        "longitude": -87.631942
     }, 
     "92": {
         "altitude": 182.2149963378906, 
@@ -865,7 +865,7 @@
     }, 
     "96": {
         "altitude": 181.7151031494141, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "131 - Lincoln Ave & Belmont Ave", 
         "id": 96, 
         "latitude": 41.939365, 
@@ -883,7 +883,7 @@
     }, 
     "98": {
         "altitude": 179.2049407958984, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "134 - Peoria St & Jackson Blvd", 
         "id": 98, 
         "latitude": 41.877749, 
@@ -901,7 +901,7 @@
     }, 
     "100": {
         "altitude": 180.6139984130859, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "136 - Racine Ave & 13th St", 
         "id": 100, 
         "latitude": 41.865054, 
@@ -919,7 +919,7 @@
     }, 
     "102": {
         "altitude": 179.6234283447266, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "138 - Clybourn Ave & Division St", 
         "id": 102, 
         "latitude": 41.904509, 
@@ -928,7 +928,7 @@
     }, 
     "103": {
         "altitude": 179.5150451660156, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "140 - Dearborn Pkwy & Delaware Pl", 
         "id": 103, 
         "latitude": 41.899007, 
@@ -946,7 +946,7 @@
     }, 
     "105": {
         "altitude": 183.2150573730469, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "143 - Sedgwick St & Webster Ave", 
         "id": 105, 
         "latitude": 41.92197, 
@@ -1000,7 +1000,7 @@
     }, 
     "111": {
         "altitude": 178.9873046875, 
-        "capacity": 11, 
+        "capacity": 10, 
         "description": "150 - Fort Dearborn Dr & 31st St", 
         "id": 111, 
         "latitude": 41.838556, 
@@ -1009,7 +1009,7 @@
     }, 
     "112": {
         "altitude": 181.9065551757812, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "152 - Lincoln Ave & Diversey Pkwy", 
         "id": 112, 
         "latitude": 41.932225, 
@@ -1036,7 +1036,7 @@
     }, 
     "115": {
         "altitude": 182.8060760498047, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "156 - Clark St & Wellington Ave", 
         "id": 115, 
         "latitude": 41.9364968219, 
@@ -1045,7 +1045,7 @@
     }, 
     "116": {
         "altitude": 179.0252380371094, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "157 - Lake Shore Dr & Wellington Ave", 
         "id": 116, 
         "latitude": 41.936669, 
@@ -1117,7 +1117,7 @@
     }, 
     "124": {
         "altitude": 181.4147033691406, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "166 - Ashland Ave & Wrightwood Ave", 
         "id": 124, 
         "latitude": 41.92883, 
@@ -1126,7 +1126,7 @@
     }, 
     "125": {
         "altitude": 180.3180541992188, 
-        "capacity": 10, 
+        "capacity": 11, 
         "description": "167 - Damen Ave & Coulter St", 
         "id": 125, 
         "latitude": 41.8492, 
@@ -1135,7 +1135,7 @@
     }, 
     "126": {
         "altitude": 181.2342987060547, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "168 - Michigan Ave & 14th St", 
         "id": 126, 
         "latitude": 41.864059, 
@@ -1189,7 +1189,7 @@
     }, 
     "132": {
         "altitude": 179.2039642333984, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "175 - Wells St & Polk St", 
         "id": 132, 
         "latitude": 41.872373, 
@@ -1198,7 +1198,7 @@
     }, 
     "133": {
         "altitude": 180.8230590820312, 
-        "capacity": 17, 
+        "capacity": 19, 
         "description": "176 - Clark St & Elm St", 
         "id": 133, 
         "latitude": 41.903233, 
@@ -1207,7 +1207,7 @@
     }, 
     "134": {
         "altitude": 179.4759826660156, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "177 - Theater on the Lake", 
         "id": 134, 
         "latitude": 41.926277, 
@@ -1216,7 +1216,7 @@
     }, 
     "135": {
         "altitude": 182.8140869140625, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "178 - State St & 19th St", 
         "id": 135, 
         "latitude": 41.856594, 
@@ -1234,7 +1234,7 @@
     }, 
     "137": {
         "altitude": 179.6740875244141, 
-        "capacity": 27, 
+        "capacity": 31, 
         "description": "181 - LaSalle St & Illinois St", 
         "id": 137, 
         "latitude": 41.890749, 
@@ -1243,7 +1243,7 @@
     }, 
     "138": {
         "altitude": 181.8143310546875, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "183 - Damen Ave & Augusta Blvd", 
         "id": 138, 
         "latitude": 41.899714, 
@@ -1333,7 +1333,7 @@
     }, 
     "148": {
         "altitude": 178.0016479492188, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "195 - Columbus Dr & Randolph St", 
         "id": 148, 
         "latitude": 41.884728, 
@@ -1405,7 +1405,7 @@
     }, 
     "156": {
         "altitude": 182.8074798583984, 
-        "capacity": 15, 
+        "capacity": 13, 
         "description": "203 - Western Ave & 21st St", 
         "id": 156, 
         "latitude": 41.85394, 
@@ -1417,9 +1417,9 @@
         "capacity": 15, 
         "description": "204 - Prairie Ave & Garfield Blvd", 
         "id": 157, 
-        "latitude": 41.7951, 
-        "location_key": "41.7951,-87.61936", 
-        "longitude": -87.61936
+        "latitude": 41.794853, 
+        "location_key": "41.794853,-87.618691", 
+        "longitude": -87.618691
     }, 
     "158": {
         "altitude": 182.1970672607422, 
@@ -1467,1225 +1467,1234 @@
         "longitude": -87.640591
     }, 
     "163": {
-        "altitude": 181.5643920898438, 
-        "capacity": 17, 
+        "altitude": 181.4329833984375, 
+        "capacity": 19, 
         "description": "210 - Ashland Ave & Division St", 
         "id": 163, 
-        "latitude": 41.903456, 
-        "location_key": "41.903456,-87.66777", 
-        "longitude": -87.66777
+        "latitude": 41.903448, 
+        "location_key": "41.903448,-87.669313", 
+        "longitude": -87.669313
     }, 
     "164": {
-        "altitude": 179.2137451171875, 
-        "capacity": 17, 
-        "description": "212 - Wells St & Ohio St", 
+        "altitude": 179.6190490722656, 
+        "capacity": 19, 
+        "description": "211 - St Clair St & Erie St", 
         "id": 164, 
+        "latitude": 41.894448, 
+        "location_key": "41.894448,-87.622663", 
+        "longitude": -87.622663
+    }, 
+    "165": {
+        "altitude": 179.2137451171875, 
+        "capacity": 18, 
+        "description": "212 - Wells St & Ohio St", 
+        "id": 165, 
         "latitude": 41.892238, 
         "location_key": "41.892238,-87.633985", 
         "longitude": -87.633985
     }, 
-    "165": {
+    "166": {
         "altitude": 181.6258087158203, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "213 - Leavitt St & North Ave", 
-        "id": 165, 
+        "id": 166, 
         "latitude": 41.910153, 
         "location_key": "41.910153,-87.68229", 
         "longitude": -87.68229
     }, 
-    "166": {
+    "167": {
         "altitude": 182.4264221191406, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "214 - Damen Ave & Grand Ave", 
-        "id": 166, 
+        "id": 167, 
         "latitude": 41.89122, 
         "location_key": "41.89122,-87.67686", 
         "longitude": -87.67686
     }, 
-    "167": {
+    "168": {
         "altitude": 181.2149353027344, 
         "capacity": 15, 
         "description": "215 - Damen Ave & Madison St", 
-        "id": 167, 
+        "id": 168, 
         "latitude": 41.88137, 
         "location_key": "41.88137,-87.67493", 
         "longitude": -87.67493
     }, 
-    "168": {
+    "169": {
         "altitude": 182.3160247802734, 
         "capacity": 15, 
         "description": "216 - California Ave & Division St", 
-        "id": 168, 
+        "id": 169, 
         "latitude": 41.903029, 
         "location_key": "41.903029,-87.697474", 
         "longitude": -87.697474
     }, 
-    "169": {
+    "170": {
         "altitude": 181.3655242919922, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "217 - May St & Fulton St", 
-        "id": 169, 
+        "id": 170, 
         "latitude": 41.886773, 
         "location_key": "41.886773,-87.656001", 
         "longitude": -87.656001
     }, 
-    "170": {
+    "171": {
         "altitude": 179.756591796875, 
-        "capacity": 11, 
+        "capacity": 10, 
         "description": "218 - Wells St & 19th St", 
-        "id": 170, 
+        "id": 171, 
         "latitude": 41.856802, 
         "location_key": "41.856802,-87.633879", 
         "longitude": -87.633879
     }, 
-    "171": {
+    "172": {
         "altitude": 182.6253509521484, 
-        "capacity": 11, 
+        "capacity": 10, 
         "description": "219 - Damen Ave & Cortland St", 
-        "id": 171, 
+        "id": 172, 
         "latitude": 41.916027, 
         "location_key": "41.916027,-87.677411", 
         "longitude": -87.677411
     }, 
-    "172": {
+    "173": {
         "altitude": 181.0150604248047, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "220 - Hampden Ct & Diversey Pkwy", 
-        "id": 172, 
+        "id": 173, 
         "latitude": 41.93262, 
         "location_key": "41.93262,-87.642385", 
         "longitude": -87.642385
     }, 
-    "173": {
+    "174": {
         "altitude": 181.8161926269531, 
         "capacity": 19, 
         "description": "222 - Milwaukee Ave & Rockwell St", 
-        "id": 173, 
+        "id": 174, 
         "latitude": 41.920195, 
         "location_key": "41.920195,-87.693033", 
         "longitude": -87.693033
     }, 
-    "174": {
+    "175": {
         "altitude": 180.3782653808594, 
         "capacity": 15, 
         "description": "223 - Clifton Ave & Armitage Ave", 
-        "id": 174, 
+        "id": 175, 
         "latitude": 41.918216, 
         "location_key": "41.918216,-87.656936", 
         "longitude": -87.656936
     }, 
-    "175": {
+    "176": {
         "altitude": 180.5444183349609, 
         "capacity": 19, 
         "description": "224 - Halsted St & Willow St", 
-        "id": 175, 
+        "id": 176, 
         "latitude": 41.913778, 
         "location_key": "41.913778,-87.64884", 
         "longitude": -87.64884
     }, 
-    "176": {
+    "177": {
         "altitude": 181.5300445556641, 
         "capacity": 15, 
         "description": "225 - Halsted St & Dickens Ave", 
-        "id": 176, 
+        "id": 177, 
         "latitude": 41.919936, 
         "location_key": "41.919936,-87.64883", 
         "longitude": -87.64883
     }, 
-    "177": {
+    "178": {
         "altitude": 182.5150146484375, 
         "capacity": 15, 
         "description": "226 - Racine Ave & Belmont Ave", 
-        "id": 177, 
+        "id": 178, 
         "latitude": 41.939743, 
         "location_key": "41.939743,-87.658865", 
         "longitude": -87.658865
     }, 
-    "178": {
+    "179": {
         "altitude": 183.2151336669922, 
-        "capacity": 14, 
+        "capacity": 13, 
         "description": "227 - Southport Ave & Waveland Ave", 
-        "id": 178, 
+        "id": 179, 
         "latitude": 41.94815, 
         "location_key": "41.94815,-87.66394", 
         "longitude": -87.66394
     }, 
-    "179": {
+    "180": {
         "altitude": 181.3657073974609, 
-        "capacity": 11, 
+        "capacity": 9, 
         "description": "228 - Damen Ave & Melrose Ave", 
-        "id": 179, 
+        "id": 180, 
         "latitude": 41.9406, 
         "location_key": "41.9406,-87.6785", 
         "longitude": -87.6785
     }, 
-    "180": {
+    "181": {
         "altitude": 182.5150146484375, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "229 - Southport Ave & Roscoe St", 
-        "id": 180, 
+        "id": 181, 
         "latitude": 41.943739, 
         "location_key": "41.943739,-87.66402", 
         "longitude": -87.66402
     }, 
-    "181": {
+    "182": {
         "altitude": 182.2189483642578, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "230 - Lincoln Ave & Roscoe St", 
-        "id": 181, 
+        "id": 182, 
         "latitude": 41.94334, 
         "location_key": "41.94334,-87.67097", 
         "longitude": -87.67097
     }, 
-    "182": {
+    "183": {
         "altitude": 180.3569641113281, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "231 - Sheridan Rd & Montrose Ave", 
-        "id": 182, 
+        "id": 183, 
         "latitude": 41.96167, 
         "location_key": "41.96167,-87.65464", 
         "longitude": -87.65464
     }, 
-    "183": {
-        "altitude": 180.0752410888672, 
-        "capacity": 13, 
-        "description": "232 - Pine Grove Ave & Addison St", 
-        "id": 183, 
-        "latitude": 41.947836, 
-        "location_key": "41.947836,-87.645416", 
-        "longitude": -87.645416
-    }, 
     "184": {
-        "altitude": 179.586181640625, 
-        "capacity": 13, 
-        "description": "233 - Sangamon St & Washington Blvd", 
+        "altitude": 180.0150451660156, 
+        "capacity": 23, 
+        "description": "232 - Pine Grove Ave & Waveland Ave", 
         "id": 184, 
+        "latitude": 41.949275, 
+        "location_key": "41.949275,-87.646303", 
+        "longitude": -87.646303
+    }, 
+    "185": {
+        "altitude": 179.586181640625, 
+        "capacity": 15, 
+        "description": "233 - Sangamon St & Washington Blvd", 
+        "id": 185, 
         "latitude": 41.883004, 
         "location_key": "41.883004,-87.651148", 
         "longitude": -87.651148
     }, 
-    "185": {
+    "186": {
         "altitude": 183.6374664306641, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "234 - Clark St & Montrose Ave", 
-        "id": 185, 
+        "id": 186, 
         "latitude": 41.961588, 
         "location_key": "41.961588,-87.666036", 
         "longitude": -87.666036
     }, 
-    "186": {
+    "187": {
         "altitude": 180.7923736572266, 
         "capacity": 15, 
         "description": "236 - Sedgwick St & Schiller St", 
-        "id": 186, 
+        "id": 187, 
         "latitude": 41.907576, 
         "location_key": "41.907576,-87.638517", 
         "longitude": -87.638517
     }, 
-    "187": {
+    "188": {
         "altitude": 182.4314575195312, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "237 - Martin Luther King Dr & 29th St", 
-        "id": 187, 
+        "id": 188, 
         "latitude": 41.842052, 
         "location_key": "41.842052,-87.617", 
         "longitude": -87.617
     }, 
-    "188": {
+    "189": {
         "altitude": 182.3150024414062, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "238 - Ravenswood Ave & Montrose Ave", 
-        "id": 188, 
+        "id": 189, 
         "latitude": 41.961626, 
         "location_key": "41.961626,-87.674101", 
         "longitude": -87.674101
     }, 
-    "189": {
+    "190": {
         "altitude": 181.4129943847656, 
         "capacity": 15, 
         "description": "239 - Western Ave & Leland Ave", 
-        "id": 189, 
+        "id": 190, 
         "latitude": 41.966555, 
         "location_key": "41.966555,-87.688487", 
         "longitude": -87.688487
     }, 
-    "190": {
-        "altitude": 180.9150695800781, 
-        "capacity": 11, 
-        "description": "240 - Sheridan Rd & Irving Park Rd", 
-        "id": 190, 
-        "latitude": 41.95434, 
-        "location_key": "41.95434,-87.654601", 
-        "longitude": -87.654601
-    }, 
     "191": {
+        "altitude": 180.9069976806641, 
+        "capacity": 21, 
+        "description": "240 - Sheridan Rd & Irving Park Rd", 
+        "id": 191, 
+        "latitude": 41.954245, 
+        "location_key": "41.954245,-87.654406", 
+        "longitude": -87.654406
+    }, 
+    "192": {
         "altitude": 180.6139984130859, 
         "capacity": 15, 
         "description": "241 - Morgan St & Polk St", 
-        "id": 191, 
+        "id": 192, 
         "latitude": 41.871737, 
         "location_key": "41.871737,-87.65103", 
         "longitude": -87.65103
     }, 
-    "192": {
+    "193": {
         "altitude": 182.1943054199219, 
         "capacity": 15, 
         "description": "242 - Damen Ave & Leland Ave", 
-        "id": 192, 
+        "id": 193, 
         "latitude": 41.967094, 
         "location_key": "41.967094,-87.679028", 
         "longitude": -87.679028
     }, 
-    "193": {
-        "altitude": 181.4071044921875, 
-        "capacity": 15, 
+    "194": {
+        "altitude": 181.4124145507812, 
+        "capacity": 14, 
         "description": "243 - Lincoln Ave & Leavitt St", 
-        "id": 193, 
+        "id": 194, 
         "latitude": 41.962391, 
         "location_key": "41.962391,-87.684146", 
         "longitude": -87.684146
     }, 
-    "194": {
+    "195": {
         "altitude": 182.8150024414062, 
         "capacity": 19, 
         "description": "244 - Ravenswood Ave & Irving Park Rd", 
-        "id": 194, 
+        "id": 195, 
         "latitude": 41.95469, 
         "location_key": "41.95469,-87.67393", 
         "longitude": -87.67393
     }, 
-    "195": {
+    "196": {
         "altitude": 179.7150573730469, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "245 - Clarendon Ave & Junior Ter", 
-        "id": 195, 
+        "id": 196, 
         "latitude": 41.961004, 
         "location_key": "41.961004,-87.649603", 
         "longitude": -87.649603
     }, 
-    "196": {
-        "altitude": 182.7425231933594, 
+    "197": {
+        "altitude": 182.7368774414062, 
         "capacity": 11, 
         "description": "246 - Ashland Ave & Belle Plaine Ave", 
-        "id": 196, 
+        "id": 197, 
         "latitude": 41.956061, 
         "location_key": "41.956061,-87.668869", 
         "longitude": -87.668869
     }, 
-    "197": {
-        "altitude": 179.1937408447266, 
-        "capacity": 14, 
+    "198": {
+        "altitude": 179.1873321533203, 
+        "capacity": 15, 
         "description": "247 - Shore Drive & 55th St", 
-        "id": 197, 
+        "id": 198, 
         "latitude": 41.795212, 
         "location_key": "41.795212,-87.580715", 
         "longitude": -87.580715
     }, 
-    "198": {
+    "199": {
         "altitude": 179.7030029296875, 
         "capacity": 15, 
         "description": "248 - Woodlawn Ave & 55th St", 
-        "id": 198, 
+        "id": 199, 
         "latitude": 41.795264, 
         "location_key": "41.795264,-87.596471", 
         "longitude": -87.596471
     }, 
-    "199": {
-        "altitude": 179.3751373291016, 
+    "200": {
+        "altitude": 179.3808898925781, 
         "capacity": 15, 
         "description": "249 - Montrose Harbor", 
-        "id": 199, 
+        "id": 200, 
         "latitude": 41.963982, 
         "location_key": "41.963982,-87.638181", 
         "longitude": -87.638181
     }, 
-    "200": {
+    "201": {
         "altitude": 181.3150024414062, 
         "capacity": 19, 
         "description": "250 - Ashland Ave & Wellington Ave", 
-        "id": 200, 
+        "id": 201, 
         "latitude": 41.936083, 
         "location_key": "41.936083,-87.669807", 
         "longitude": -87.669807
     }, 
-    "201": {
-        "altitude": 179.9547882080078, 
-        "capacity": 14, 
+    "202": {
+        "altitude": 179.9694213867188, 
+        "capacity": 15, 
         "description": "251 - Clarendon Ave & Leland Ave", 
-        "id": 201, 
+        "id": 202, 
         "latitude": 41.967968, 
         "location_key": "41.967968,-87.650001", 
         "longitude": -87.650001
     }, 
-    "202": {
+    "203": {
         "altitude": 181.3030090332031, 
         "capacity": 15, 
         "description": "252 - Greenwood Ave & 47th St", 
-        "id": 202, 
+        "id": 203, 
         "latitude": 41.809835, 
         "location_key": "41.809835,-87.599383", 
         "longitude": -87.599383
     }, 
-    "203": {
-        "altitude": 182.1096649169922, 
+    "204": {
+        "altitude": 182.1629791259766, 
         "capacity": 15, 
         "description": "253 - Clifton Ave & Lawrence Ave", 
-        "id": 203, 
+        "id": 204, 
         "latitude": 41.968873, 
         "location_key": "41.968873,-87.658857", 
         "longitude": -87.658857
     }, 
-    "204": {
-        "altitude": 179.9720764160156, 
+    "205": {
+        "altitude": 179.9668884277344, 
         "capacity": 15, 
         "description": "254 - Pine Grove Ave & Irving Park Rd", 
-        "id": 204, 
+        "id": 205, 
         "latitude": 41.954383, 
         "location_key": "41.954383,-87.648043", 
         "longitude": -87.648043
     }, 
-    "205": {
-        "altitude": 181.1577606201172, 
-        "capacity": 31, 
+    "206": {
+        "altitude": 181.1559753417969, 
+        "capacity": 29, 
         "description": "255 - Indiana Ave & Roosevelt Rd", 
-        "id": 205, 
+        "id": 206, 
         "latitude": 41.867888, 
         "location_key": "41.867888,-87.623041", 
         "longitude": -87.623041
     }, 
-    "206": {
-        "altitude": 180.3163146972656, 
-        "capacity": 15, 
+    "207": {
+        "altitude": 180.3147430419922, 
+        "capacity": 14, 
         "description": "256 - Broadway & Sheridan Rd", 
-        "id": 206, 
+        "id": 207, 
         "latitude": 41.952833, 
         "location_key": "41.952833,-87.649993", 
         "longitude": -87.649993
     }, 
-    "207": {
-        "altitude": 182.607177734375, 
+    "208": {
+        "altitude": 182.6136779785156, 
         "capacity": 15, 
         "description": "257 - Lincoln Ave & Waveland Ave", 
-        "id": 207, 
+        "id": 208, 
         "latitude": 41.94911, 
         "location_key": "41.94911,-87.675112", 
         "longitude": -87.675112
     }, 
-    "208": {
-        "altitude": 181.0691070556641, 
-        "capacity": 19, 
+    "209": {
+        "altitude": 181.0983123779297, 
+        "capacity": 18, 
         "description": "258 - Logan Blvd & Elston Ave", 
-        "id": 208, 
+        "id": 209, 
         "latitude": 41.930584, 
         "location_key": "41.930584,-87.685126", 
         "longitude": -87.685126
     }, 
-    "209": {
-        "altitude": 182.1471252441406, 
+    "210": {
+        "altitude": 182.1252899169922, 
         "capacity": 15, 
         "description": "259 - California Ave & Francis Pl", 
-        "id": 209, 
+        "id": 210, 
         "latitude": 41.91855, 
         "location_key": "41.91855,-87.69723", 
         "longitude": -87.69723
     }, 
-    "210": {
-        "altitude": 182.05712890625, 
+    "211": {
+        "altitude": 182.0290985107422, 
         "capacity": 19, 
         "description": "260 - Kedzie Ave & Milwaukee Ave", 
-        "id": 210, 
+        "id": 211, 
         "latitude": 41.929567, 
         "location_key": "41.929567,-87.707857", 
         "longitude": -87.707857
     }, 
-    "211": {
+    "212": {
         "altitude": 180.6139984130859, 
         "capacity": 15, 
         "description": "261 - Hermitage Ave & Polk St", 
-        "id": 211, 
+        "id": 212, 
         "latitude": 41.871514, 
         "location_key": "41.871514,-87.669886", 
         "longitude": -87.669886
     }, 
-    "212": {
-        "altitude": 182.0415496826172, 
+    "213": {
+        "altitude": 182.031005859375, 
         "capacity": 11, 
         "description": "262 - Halsted St & 37th St", 
-        "id": 212, 
+        "id": 213, 
         "latitude": 41.827071, 
         "location_key": "41.827071,-87.645801", 
         "longitude": -87.645801
     }, 
-    "213": {
-        "altitude": 182.7310028076172, 
+    "214": {
+        "altitude": 182.7189788818359, 
         "capacity": 11, 
         "description": "263 - Rhodes Ave & 32nd St", 
-        "id": 213, 
+        "id": 214, 
         "latitude": 41.836208, 
         "location_key": "41.836208,-87.613533", 
         "longitude": -87.613533
     }, 
-    "214": {
-        "altitude": 177.4639282226562, 
+    "215": {
+        "altitude": 177.4815673828125, 
         "capacity": 19, 
         "description": "264 - Stetson Ave & South Water St", 
-        "id": 214, 
+        "id": 215, 
         "latitude": 41.886835, 
         "location_key": "41.886835,-87.62232", 
         "longitude": -87.62232
     }, 
-    "215": {
-        "altitude": 182.6992034912109, 
-        "capacity": 15, 
+    "216": {
+        "altitude": 182.6974334716797, 
+        "capacity": 13, 
         "description": "265 - Cottage Grove Ave & Oakwood Blvd", 
-        "id": 215, 
+        "id": 216, 
         "latitude": 41.822985, 
         "location_key": "41.822985,-87.6071", 
         "longitude": -87.6071
     }, 
-    "216": {
-        "altitude": 179.3734130859375, 
-        "capacity": 14, 
+    "217": {
+        "altitude": 179.3128356933594, 
+        "capacity": 12, 
         "description": "267 - Lake Park Ave & 47th St", 
-        "id": 216, 
+        "id": 217, 
         "latitude": 41.809443, 
         "location_key": "41.809443,-87.591875", 
         "longitude": -87.591875
     }, 
-    "217": {
-        "altitude": 179.8450317382812, 
-        "capacity": 14, 
+    "218": {
+        "altitude": 179.8526916503906, 
+        "capacity": 15, 
         "description": "268 - Lake Shore Dr & North Blvd", 
-        "id": 217, 
+        "id": 218, 
         "latitude": 41.911722, 
         "location_key": "41.911722,-87.626804", 
         "longitude": -87.626804
     }, 
-    "218": {
-        "altitude": 182.4595642089844, 
+    "219": {
+        "altitude": 182.4703063964844, 
         "capacity": 11, 
         "description": "271 - Cottage Grove Ave & 43rd St", 
-        "id": 218, 
+        "id": 219, 
         "latitude": 41.816499, 
         "location_key": "41.816499,-87.606582", 
         "longitude": -87.606582
     }, 
-    "219": {
-        "altitude": 181.5460205078125, 
+    "220": {
+        "altitude": 181.5270690917969, 
         "capacity": 11, 
         "description": "272 - Indiana Ave & 31st St", 
-        "id": 219, 
+        "id": 220, 
         "latitude": 41.838842, 
         "location_key": "41.838842,-87.621857", 
         "longitude": -87.621857
     }, 
-    "220": {
-        "altitude": 181.3694458007812, 
-        "capacity": 15, 
+    "221": {
+        "altitude": 181.3725738525391, 
+        "capacity": 14, 
         "description": "273 - Michigan Ave & 18th St", 
-        "id": 220, 
+        "id": 221, 
         "latitude": 41.857937, 
         "location_key": "41.857937,-87.623633", 
         "longitude": -87.623633
     }, 
-    "221": {
-        "altitude": 181.6887512207031, 
+    "222": {
+        "altitude": 181.6694641113281, 
         "capacity": 15, 
         "description": "274 - Racine Ave & 15th St", 
-        "id": 221, 
+        "id": 222, 
         "latitude": 41.861267, 
         "location_key": "41.861267,-87.656625", 
         "longitude": -87.656625
     }, 
-    "222": {
+    "223": {
         "altitude": 180.6139984130859, 
         "capacity": 15, 
         "description": "275 - Ashland Ave & 13th St", 
-        "id": 222, 
+        "id": 223, 
         "latitude": 41.865234, 
         "location_key": "41.865234,-87.666507", 
         "longitude": -87.666507
     }, 
-    "223": {
-        "altitude": 181.9800872802734, 
-        "capacity": 11, 
+    "224": {
+        "altitude": 181.9849700927734, 
+        "capacity": 10, 
         "description": "276 - California Ave & North Ave", 
-        "id": 223, 
+        "id": 224, 
         "latitude": 41.91044, 
         "location_key": "41.91044,-87.6972", 
         "longitude": -87.6972
     }, 
-    "224": {
+    "225": {
         "altitude": 181.3150024414062, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "277 - Ashland Ave & Grand Ave", 
-        "id": 224, 
+        "id": 225, 
         "latitude": 41.891072, 
         "location_key": "41.891072,-87.666611", 
         "longitude": -87.666611
     }, 
-    "225": {
-        "altitude": 182.2453308105469, 
+    "226": {
+        "altitude": 182.2131042480469, 
         "capacity": 15, 
         "description": "278 - Wallace Ave & 35th St", 
-        "id": 225, 
+        "id": 226, 
         "latitude": 41.830629, 
         "location_key": "41.830629,-87.64129", 
         "longitude": -87.64129
     }, 
-    "226": {
-        "altitude": 181.266845703125, 
+    "227": {
+        "altitude": 181.2990417480469, 
         "capacity": 15, 
         "description": "279 - Halsted St & 35th St", 
-        "id": 226, 
+        "id": 227, 
         "latitude": 41.830661, 
         "location_key": "41.830661,-87.647172", 
         "longitude": -87.647172
     }, 
-    "227": {
-        "altitude": 180.7873840332031, 
+    "228": {
+        "altitude": 180.7802734375, 
         "capacity": 11, 
         "description": "280 - Morgan St & 31st St", 
-        "id": 227, 
+        "id": 228, 
         "latitude": 41.8378, 
         "location_key": "41.8378,-87.65114", 
         "longitude": -87.65114
     }, 
-    "228": {
-        "altitude": 182.5113983154297, 
+    "229": {
+        "altitude": 182.5145416259766, 
         "capacity": 15, 
         "description": "281 - Western Ave & 24th St", 
-        "id": 228, 
+        "id": 229, 
         "latitude": 41.84847, 
         "location_key": "41.84847,-87.685109", 
         "longitude": -87.685109
     }, 
-    "229": {
+    "230": {
         "altitude": 180.6139984130859, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "282 - Halsted St & Maxwell St", 
-        "id": 229, 
+        "id": 230, 
         "latitude": 41.86458, 
         "location_key": "41.86458,-87.64693", 
         "longitude": -87.64693
     }, 
-    "230": {
-        "altitude": 180.2703857421875, 
-        "capacity": 23, 
+    "231": {
+        "altitude": 180.2734375, 
+        "capacity": 22, 
         "description": "283 - LaSalle St & Jackson Blvd", 
-        "id": 230, 
+        "id": 231, 
         "latitude": 41.87817, 
         "location_key": "41.87817,-87.631985", 
         "longitude": -87.631985
     }, 
-    "231": {
-        "altitude": 182.3257446289062, 
-        "capacity": 23, 
+    "232": {
+        "altitude": 182.2999114990234, 
+        "capacity": 22, 
         "description": "284 - Michigan Ave & Jackson Blvd", 
-        "id": 231, 
+        "id": 232, 
         "latitude": 41.87785, 
         "location_key": "41.87785,-87.62408", 
         "longitude": -87.62408
     }, 
-    "232": {
-        "altitude": 182.5143432617188, 
+    "233": {
+        "altitude": 182.5106201171875, 
         "capacity": 15, 
         "description": "285 - Wood St & Grand Ave", 
-        "id": 232, 
+        "id": 233, 
         "latitude": 41.89113, 
         "location_key": "41.89113,-87.67203", 
         "longitude": -87.67203
     }, 
-    "233": {
-        "altitude": 181.2464904785156, 
+    "234": {
+        "altitude": 181.2607116699219, 
         "capacity": 23, 
         "description": "286 - Franklin St & Quincy St", 
-        "id": 233, 
+        "id": 234, 
         "latitude": 41.878724, 
         "location_key": "41.878724,-87.634793", 
         "longitude": -87.634793
     }, 
-    "234": {
-        "altitude": 181.6482543945312, 
-        "capacity": 27, 
+    "235": {
+        "altitude": 181.6295471191406, 
+        "capacity": 25, 
         "description": "287 - Franklin St & Arcade Pl", 
-        "id": 234, 
+        "id": 235, 
         "latitude": 41.881469, 
         "location_key": "41.881469,-87.635177", 
         "longitude": -87.635177
     }, 
-    "235": {
-        "altitude": 182.0763549804688, 
+    "236": {
+        "altitude": 182.0823211669922, 
         "capacity": 11, 
         "description": "288 - Larrabee St & Armitage Ave", 
-        "id": 235, 
+        "id": 236, 
         "latitude": 41.91797, 
         "location_key": "41.91797,-87.64368", 
         "longitude": -87.64368
     }, 
-    "236": {
-        "altitude": 181.9174194335938, 
-        "capacity": 18, 
+    "237": {
+        "altitude": 181.9153289794922, 
+        "capacity": 19, 
         "description": "289 - Wells St & Concord Ln", 
-        "id": 236, 
+        "id": 237, 
         "latitude": 41.912202, 
         "location_key": "41.912202,-87.634664", 
         "longitude": -87.634664
     }, 
-    "237": {
+    "238": {
         "altitude": 182.4149932861328, 
         "capacity": 15, 
         "description": "290 - Kedzie Ave & Palmer Ct", 
-        "id": 237, 
+        "id": 238, 
         "latitude": 41.921525, 
         "location_key": "41.921525,-87.707322", 
         "longitude": -87.707322
     }, 
-    "238": {
-        "altitude": 181.0800628662109, 
+    "239": {
+        "altitude": 181.0844573974609, 
         "capacity": 19, 
         "description": "291 - Wells St & Evergreen Ave", 
-        "id": 238, 
+        "id": 239, 
         "latitude": 41.906724, 
         "location_key": "41.906724,-87.63483", 
         "longitude": -87.63483
     }, 
-    "239": {
-        "altitude": 184.0128631591797, 
-        "capacity": 11, 
+    "240": {
+        "altitude": 184.0091552734375, 
+        "capacity": 10, 
         "description": "292 - Southport Ave & Clark St", 
-        "id": 239, 
+        "id": 240, 
         "latitude": 41.957081, 
         "location_key": "41.957081,-87.664199", 
         "longitude": -87.664199
     }, 
-    "240": {
-        "altitude": 181.5722351074219, 
-        "capacity": 19, 
+    "241": {
+        "altitude": 181.7152709960938, 
+        "capacity": 18, 
         "description": "293 - Broadway & Wilson Ave", 
-        "id": 240, 
+        "id": 241, 
         "latitude": 41.965287, 
         "location_key": "41.965287,-87.658774", 
         "longitude": -87.658774
     }, 
-    "241": {
-        "altitude": 182.4120941162109, 
+    "242": {
+        "altitude": 182.4161987304688, 
         "capacity": 15, 
         "description": "294 - Broadway & Berwyn Ave", 
-        "id": 241, 
+        "id": 242, 
         "latitude": 41.978353, 
         "location_key": "41.978353,-87.659753", 
         "longitude": -87.659753
     }, 
-    "242": {
+    "243": {
         "altitude": 182.1177825927734, 
         "capacity": 15, 
         "description": "295 - Broadway & Argyle St", 
-        "id": 242, 
+        "id": 243, 
         "latitude": 41.972972, 
         "location_key": "41.972972,-87.659637", 
         "longitude": -87.659637
     }, 
-    "243": {
-        "altitude": 180.6962890625, 
-        "capacity": 15, 
+    "244": {
+        "altitude": 180.7060699462891, 
+        "capacity": 14, 
         "description": "296 - Broadway & Belmont Ave", 
-        "id": 243, 
+        "id": 244, 
         "latitude": 41.940106, 
         "location_key": "41.940106,-87.645451", 
         "longitude": -87.645451
     }, 
-    "244": {
-        "altitude": 182.3192596435547, 
+    "245": {
+        "altitude": 182.3158569335938, 
         "capacity": 15, 
         "description": "297 - Paulina St & Montrose Ave", 
-        "id": 244, 
+        "id": 245, 
         "latitude": 41.961507, 
         "location_key": "41.961507,-87.671387", 
         "longitude": -87.671387
     }, 
-    "245": {
-        "altitude": 182.0830383300781, 
-        "capacity": 15, 
+    "246": {
+        "altitude": 182.0745544433594, 
+        "capacity": 13, 
         "description": "298 - Lincoln Ave & Belle Plaine Ave", 
-        "id": 245, 
+        "id": 246, 
         "latitude": 41.955927, 
         "location_key": "41.955927,-87.679259", 
         "longitude": -87.679259
     }, 
-    "246": {
-        "altitude": 180.9995727539062, 
+    "247": {
+        "altitude": 181.0120239257812, 
         "capacity": 15, 
         "description": "299 - Halsted St & Roscoe St", 
-        "id": 246, 
+        "id": 247, 
         "latitude": 41.943662, 
         "location_key": "41.943662,-87.648917", 
         "longitude": -87.648917
     }, 
-    "247": {
-        "altitude": 180.7254180908203, 
+    "248": {
+        "altitude": 180.723388671875, 
         "capacity": 15, 
         "description": "300 - Broadway & Barry Ave", 
-        "id": 247, 
+        "id": 248, 
         "latitude": 41.937739, 
         "location_key": "41.937739,-87.644094", 
         "longitude": -87.644094
     }, 
-    "248": {
-        "altitude": 181.5361175537109, 
-        "capacity": 18, 
+    "249": {
+        "altitude": 181.5247497558594, 
+        "capacity": 19, 
         "description": "301 - Clark St & Schiller St", 
-        "id": 248, 
+        "id": 249, 
         "latitude": 41.907993, 
         "location_key": "41.907993,-87.631501", 
         "longitude": -87.631501
     }, 
-    "249": {
-        "altitude": 182.0068359375, 
-        "capacity": 17, 
+    "250": {
+        "altitude": 182.0134735107422, 
+        "capacity": 19, 
         "description": "302 - Sheffield Ave & Wrightwood Ave", 
-        "id": 249, 
+        "id": 250, 
         "latitude": 41.928712, 
         "location_key": "41.928712,-87.653833", 
         "longitude": -87.653833
     }, 
-    "250": {
-        "altitude": 180.5356903076172, 
+    "251": {
+        "altitude": 180.5443878173828, 
         "capacity": 15, 
         "description": "303 - Broadway & Cornelia Ave", 
-        "id": 250, 
+        "id": 251, 
         "latitude": 41.945512, 
         "location_key": "41.945512,-87.64598", 
         "longitude": -87.64598
     }, 
-    "251": {
-        "altitude": 180.51513671875, 
-        "capacity": 15, 
-        "description": "304 - Halsted St & Waveland Ave", 
-        "id": 251, 
-        "latitude": 41.949333, 
-        "location_key": "41.949333,-87.649634", 
-        "longitude": -87.649634
-    }, 
     "252": {
-        "altitude": 182.1090850830078, 
+        "altitude": 180.5152587890625, 
+        "capacity": 13, 
+        "description": "304 - Halsted St & Waveland Ave", 
+        "id": 252, 
+        "latitude": 41.949375, 
+        "location_key": "41.949375,-87.649626", 
+        "longitude": -87.649626
+    }, 
+    "253": {
+        "altitude": 182.1148071289062, 
         "capacity": 15, 
         "description": "305 - Western Ave & Division St", 
-        "id": 252, 
+        "id": 253, 
         "latitude": 41.902893, 
         "location_key": "41.902893,-87.687275", 
         "longitude": -87.687275
     }, 
-    "253": {
-        "altitude": 180.6962280273438, 
+    "254": {
+        "altitude": 180.7017059326172, 
         "capacity": 15, 
         "description": "306 - Sheridan Rd & Buena Ave", 
-        "id": 253, 
+        "id": 254, 
         "latitude": 41.9584, 
         "location_key": "41.9584,-87.65423", 
         "longitude": -87.65423
     }, 
-    "254": {
-        "altitude": 179.9409790039062, 
+    "255": {
+        "altitude": 179.9234008789062, 
         "capacity": 15, 
         "description": "307 - Southport Ave & Clybourn Ave", 
-        "id": 254, 
+        "id": 255, 
         "latitude": 41.921004, 
         "location_key": "41.921004,-87.663257", 
         "longitude": -87.663257
     }, 
-    "255": {
-        "altitude": 181.2484588623047, 
-        "capacity": 11, 
+    "256": {
+        "altitude": 181.2425689697266, 
+        "capacity": 9, 
         "description": "308 - Seeley Ave & Roscoe St", 
-        "id": 255, 
+        "id": 256, 
         "latitude": 41.943403, 
         "location_key": "41.943403,-87.679618", 
         "longitude": -87.679618
     }, 
-    "256": {
-        "altitude": 181.4160461425781, 
+    "257": {
+        "altitude": 181.4162292480469, 
         "capacity": 11, 
         "description": "309 - Leavitt St & Armitage Ave", 
-        "id": 256, 
+        "id": 257, 
         "latitude": 41.917805, 
         "location_key": "41.917805,-87.682437", 
         "longitude": -87.682437
     }, 
-    "257": {
-        "altitude": 182.4263763427734, 
-        "capacity": 10, 
+    "258": {
+        "altitude": 182.4070281982422, 
+        "capacity": 11, 
         "description": "310 - Damen Ave & Charleston St", 
-        "id": 257, 
+        "id": 258, 
         "latitude": 41.920082, 
         "location_key": "41.920082,-87.677855", 
         "longitude": -87.677855
     }, 
-    "258": {
-        "altitude": 181.6148986816406, 
-        "capacity": 14, 
+    "259": {
+        "altitude": 181.614990234375, 
+        "capacity": 15, 
         "description": "311 - Lincoln Ave & Eastwood Ave", 
-        "id": 258, 
+        "id": 259, 
         "latitude": 41.96583, 
         "location_key": "41.96583,-87.68651", 
         "longitude": -87.68651
     }, 
-    "259": {
-        "altitude": 180.0155792236328, 
-        "capacity": 15, 
+    "260": {
+        "altitude": 180.0151519775391, 
+        "capacity": 14, 
         "description": "312 - Clarendon Ave & Gordon Ter", 
-        "id": 259, 
+        "id": 260, 
         "latitude": 41.957879, 
         "location_key": "41.957879,-87.649519", 
         "longitude": -87.649519
     }, 
-    "260": {
-        "altitude": 181.3957061767578, 
-        "capacity": 19, 
+    "261": {
+        "altitude": 181.3889465332031, 
+        "capacity": 18, 
         "description": "313 - Lakeview Ave & Fullerton Pkwy", 
-        "id": 260, 
+        "id": 261, 
         "latitude": 41.925858, 
         "location_key": "41.925858,-87.638973", 
         "longitude": -87.638973
     }, 
-    "261": {
-        "altitude": 182.7278747558594, 
-        "capacity": 15, 
+    "262": {
+        "altitude": 182.7324676513672, 
+        "capacity": 14, 
         "description": "314 - Ravenswood Ave & Berteau Ave", 
-        "id": 261, 
+        "id": 262, 
         "latitude": 41.957921, 
         "location_key": "41.957921,-87.673567", 
         "longitude": -87.673567
     }, 
-    "262": {
-        "altitude": 181.7791137695312, 
-        "capacity": 10, 
+    "263": {
+        "altitude": 181.7964019775391, 
+        "capacity": 11, 
         "description": "315 - Leavitt St & Hirsch St", 
-        "id": 262, 
+        "id": 263, 
         "latitude": 41.906717, 
         "location_key": "41.906717,-87.682779", 
         "longitude": -87.682779
     }, 
-    "263": {
-        "altitude": 182.1447296142578, 
+    "264": {
+        "altitude": 182.1446533203125, 
         "capacity": 19, 
         "description": "316 - Damen Ave & Sunnyside Ave", 
-        "id": 263, 
+        "id": 264, 
         "latitude": 41.96325, 
         "location_key": "41.96325,-87.679258", 
         "longitude": -87.679258
     }, 
-    "264": {
+    "265": {
         "altitude": 180.6139984130859, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "317 - Wood St & Taylor St", 
-        "id": 264, 
+        "id": 265, 
         "latitude": 41.869154, 
         "location_key": "41.869154,-87.671045", 
         "longitude": -87.671045
     }, 
-    "265": {
-        "altitude": 182.6450958251953, 
+    "266": {
+        "altitude": 182.6475219726562, 
         "capacity": 15, 
         "description": "318 - Southport Ave & Irving Park Rd", 
-        "id": 265, 
+        "id": 266, 
         "latitude": 41.954177, 
         "location_key": "41.954177,-87.664358", 
         "longitude": -87.664358
     }, 
-    "266": {
+    "267": {
         "altitude": 181.3150024414062, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "319 - Greenview Ave & Diversey Pkwy", 
-        "id": 266, 
+        "id": 267, 
         "latitude": 41.932595, 
         "location_key": "41.932595,-87.665939", 
         "longitude": -87.665939
     }, 
-    "267": {
+    "268": {
         "altitude": 180.6139984130859, 
         "capacity": 15, 
         "description": "320 - Loomis St & Lexington St", 
-        "id": 267, 
+        "id": 268, 
         "latitude": 41.872187, 
         "location_key": "41.872187,-87.661501", 
         "longitude": -87.661501
     }, 
-    "268": {
-        "altitude": 179.7803649902344, 
-        "capacity": 19, 
+    "269": {
+        "altitude": 179.7801818847656, 
+        "capacity": 17, 
         "description": "321 - Wabash Ave & 8th St", 
-        "id": 268, 
+        "id": 269, 
         "latitude": 41.871962, 
         "location_key": "41.871962,-87.626106", 
         "longitude": -87.626106
     }, 
-    "269": {
+    "270": {
         "altitude": 179.6029968261719, 
         "capacity": 15, 
         "description": "322 - Kimbark Ave & 53rd St", 
-        "id": 269, 
+        "id": 270, 
         "latitude": 41.799568, 
         "location_key": "41.799568,-87.594747", 
         "longitude": -87.594747
     }, 
-    "270": {
-        "altitude": 181.2831420898438, 
+    "271": {
+        "altitude": 181.3094024658203, 
         "capacity": 15, 
         "description": "323 - Sheridan Rd & Lawrence Ave", 
-        "id": 270, 
+        "id": 271, 
         "latitude": 41.969517, 
         "location_key": "41.969517,-87.654691", 
         "longitude": -87.654691
     }, 
-    "271": {
-        "altitude": 181.3129119873047, 
+    "272": {
+        "altitude": 181.3150787353516, 
         "capacity": 15, 
         "description": "324 - Stockton Dr & Wrightwood Ave", 
-        "id": 271, 
+        "id": 272, 
         "latitude": 41.93132, 
         "location_key": "41.93132,-87.638742", 
         "longitude": -87.638742
     }, 
-    "272": {
-        "altitude": 183.1572265625, 
+    "273": {
+        "altitude": 183.1574249267578, 
         "capacity": 15, 
         "description": "325 - Clark St & Winnemac Ave", 
-        "id": 272, 
+        "id": 273, 
         "latitude": 41.973385, 
         "location_key": "41.973385,-87.668365", 
         "longitude": -87.668365
     }, 
-    "273": {
-        "altitude": 184.0330505371094, 
+    "274": {
+        "altitude": 184.0322723388672, 
         "capacity": 11, 
         "description": "326 - Clark St & Leland Ave", 
-        "id": 273, 
+        "id": 274, 
         "latitude": 41.967096, 
         "location_key": "41.967096,-87.667429", 
         "longitude": -87.667429
     }, 
-    "274": {
+    "275": {
         "altitude": 181.4149932861328, 
         "capacity": 19, 
         "description": "327 - Sheffield Ave & Webster Ave", 
-        "id": 274, 
+        "id": 275, 
         "latitude": 41.921687, 
         "location_key": "41.921687,-87.653714", 
         "longitude": -87.653714
     }, 
-    "275": {
-        "altitude": 180.0914611816406, 
+    "276": {
+        "altitude": 180.0960083007812, 
         "capacity": 15, 
         "description": "328 - Ellis Ave & 58th St", 
-        "id": 275, 
+        "id": 276, 
         "latitude": 41.788746, 
         "location_key": "41.788746,-87.601334", 
         "longitude": -87.601334
     }, 
-    "276": {
-        "altitude": 178.3497467041016, 
-        "capacity": 14, 
+    "277": {
+        "altitude": 178.3596038818359, 
+        "capacity": 15, 
         "description": "329 - Lake Shore Dr & Diversey Pkwy", 
-        "id": 276, 
+        "id": 277, 
         "latitude": 41.932684, 
         "location_key": "41.932684,-87.63625", 
         "longitude": -87.63625
     }, 
-    "277": {
-        "altitude": 182.8152313232422, 
-        "capacity": 18, 
+    "278": {
+        "altitude": 182.8150024414062, 
+        "capacity": 19, 
         "description": "330 - Lincoln Ave & Addison St", 
-        "id": 277, 
+        "id": 278, 
         "latitude": 41.946176, 
         "location_key": "41.946176,-87.673308", 
         "longitude": -87.673308
     }, 
-    "278": {
-        "altitude": 180.1956024169922, 
-        "capacity": 18, 
+    "279": {
+        "altitude": 180.1955718994141, 
+        "capacity": 19, 
         "description": "331 - Halsted St & Blackhawk St", 
-        "id": 278, 
+        "id": 279, 
         "latitude": 41.90854, 
         "location_key": "41.90854,-87.648568", 
         "longitude": -87.648568
     }, 
-    "279": {
+    "280": {
         "altitude": 182.614990234375, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "332 - Halsted St & Diversey Pkwy", 
-        "id": 279, 
+        "id": 280, 
         "latitude": 41.933341, 
         "location_key": "41.933341,-87.648747", 
         "longitude": -87.648747
     }, 
-    "280": {
-        "altitude": 182.1042633056641, 
+    "281": {
+        "altitude": 182.1109619140625, 
         "capacity": 15, 
         "description": "333 - Ashland Ave & Blackhawk St", 
-        "id": 280, 
+        "id": 281, 
         "latitude": 41.907066, 
         "location_key": "41.907066,-87.667252", 
         "longitude": -87.667252
     }, 
-    "281": {
-        "altitude": 180.78271484375, 
-        "capacity": 19, 
+    "282": {
+        "altitude": 180.9032440185547, 
+        "capacity": 16, 
         "description": "334 - Lake Shore Dr & Belmont Ave", 
-        "id": 281, 
+        "id": 282, 
         "latitude": 41.940775, 
         "location_key": "41.940775,-87.639192", 
         "longitude": -87.639192
     }, 
-    "282": {
-        "altitude": 182.1952972412109, 
+    "283": {
+        "altitude": 182.1965179443359, 
         "capacity": 15, 
         "description": "335 - Calumet Ave & 35th St", 
-        "id": 282, 
+        "id": 283, 
         "latitude": 41.831379, 
         "location_key": "41.831379,-87.618034", 
         "longitude": -87.618034
     }, 
-    "283": {
-        "altitude": 181.5158996582031, 
+    "284": {
+        "altitude": 181.5058288574219, 
         "capacity": 15, 
         "description": "336 - Cottage Grove Ave & 47th St", 
-        "id": 283, 
+        "id": 284, 
         "latitude": 41.809855, 
         "location_key": "41.809855,-87.606755", 
         "longitude": -87.606755
     }, 
-    "284": {
-        "altitude": 179.2534027099609, 
+    "285": {
+        "altitude": 179.2490539550781, 
         "capacity": 18, 
         "description": "337 - Clark St & Chicago Ave", 
-        "id": 284, 
+        "id": 285, 
         "latitude": 41.896544, 
         "location_key": "41.896544,-87.630931", 
         "longitude": -87.630931
     }, 
-    "285": {
-        "altitude": 181.8078308105469, 
+    "286": {
+        "altitude": 181.8065032958984, 
         "capacity": 15, 
         "description": "338 - Calumet Ave & 18th St", 
-        "id": 285, 
+        "id": 286, 
         "latitude": 41.857611, 
         "location_key": "41.857611,-87.619407", 
         "longitude": -87.619407
     }, 
-    "286": {
-        "altitude": 181.7640075683594, 
+    "287": {
+        "altitude": 181.7678375244141, 
         "capacity": 11, 
         "description": "339 - Emerald Ave & 31st St", 
-        "id": 286, 
+        "id": 287, 
         "latitude": 41.838198, 
         "location_key": "41.838198,-87.645143", 
         "longitude": -87.645143
     }, 
-    "287": {
-        "altitude": 182.9151000976562, 
-        "capacity": 15, 
+    "288": {
+        "altitude": 182.9150543212891, 
+        "capacity": 14, 
         "description": "340 - Clark St & Wrightwood Ave", 
-        "id": 287, 
+        "id": 288, 
         "latitude": 41.929546, 
         "location_key": "41.929546,-87.643118", 
         "longitude": -87.643118
     }, 
-    "288": {
-        "altitude": 183.412109375, 
-        "capacity": 19, 
+    "289": {
+        "altitude": 183.3825225830078, 
+        "capacity": 18, 
         "description": "341 - Adler Planetarium", 
-        "id": 288, 
+        "id": 289, 
         "latitude": 41.866095, 
         "location_key": "41.866095,-87.607267", 
         "longitude": -87.607267
     }, 
-    "289": {
+    "290": {
         "altitude": 180.6139984130859, 
         "capacity": 15, 
         "description": "342 - Wolcott Ave & Polk St", 
-        "id": 289, 
+        "id": 290, 
         "latitude": 41.871262, 
         "location_key": "41.871262,-87.673688", 
         "longitude": -87.673688
     }, 
-    "290": {
+    "291": {
         "altitude": 181.614990234375, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "343 - Racine Ave & Wrightwood Ave", 
-        "id": 290, 
+        "id": 291, 
         "latitude": 41.928887, 
         "location_key": "41.928887,-87.658971", 
         "longitude": -87.658971
     }, 
-    "291": {
-        "altitude": 182.5923461914062, 
-        "capacity": 15, 
+    "292": {
+        "altitude": 182.5998077392578, 
+        "capacity": 14, 
         "description": "344 - Wolcott Ave & Lawrence Ave", 
-        "id": 291, 
+        "id": 292, 
         "latitude": 41.968641, 
         "location_key": "41.968641,-87.676335", 
         "longitude": -87.676335
     }, 
-    "292": {
+    "293": {
         "altitude": 180.1228179931641, 
         "capacity": 15, 
         "description": "345 - Lake Park Ave & 56th St", 
-        "id": 292, 
+        "id": 293, 
         "latitude": 41.793242, 
         "location_key": "41.793242,-87.587782", 
         "longitude": -87.587782
     }, 
-    "293": {
+    "294": {
         "altitude": 181.4149475097656, 
         "capacity": 15, 
         "description": "346 - Ada St & Washington Blvd", 
-        "id": 293, 
+        "id": 294, 
         "latitude": 41.88283, 
         "location_key": "41.88283,-87.661206", 
         "longitude": -87.661206
     }, 
-    "294": {
+    "295": {
         "altitude": 182.4773559570312, 
         "capacity": 15, 
         "description": "347 - Ashland Ave & Grace St", 
-        "id": 294, 
+        "id": 295, 
         "latitude": 41.950687, 
         "location_key": "41.950687,-87.6687", 
         "longitude": -87.6687
     }, 
-    "295": {
+    "296": {
         "altitude": 183.3138885498047, 
         "capacity": 15, 
         "description": "348 - California Ave & 21st St", 
-        "id": 295, 
+        "id": 296, 
         "latitude": 41.854016, 
         "location_key": "41.854016,-87.695445", 
         "longitude": -87.695445
     }, 
-    "296": {
+    "297": {
         "altitude": 182.3464202880859, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "349 - Halsted St & Wrightwood Ave", 
-        "id": 296, 
+        "id": 297, 
         "latitude": 41.929143, 
         "location_key": "41.929143,-87.649077", 
         "longitude": -87.649077
     }, 
-    "297": {
+    "298": {
         "altitude": 181.3334808349609, 
         "capacity": 15, 
         "description": "350 - Ashland Ave & Chicago Ave", 
-        "id": 297, 
+        "id": 298, 
         "latitude": 41.895966, 
         "location_key": "41.895966,-87.667747", 
         "longitude": -87.667747
     }, 
-    "298": {
+    "299": {
         "altitude": 181.3030090332031, 
         "capacity": 15, 
-        "description": "351 - Cottage Grove Ave & 51st St", 
-        "id": 298, 
+        "description": "351 - Cottage Grove Ave & 51st St, T", 
+        "id": 299, 
         "latitude": 41.803038, 
         "location_key": "41.803038,-87.606615", 
         "longitude": -87.606615

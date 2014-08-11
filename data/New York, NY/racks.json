@@ -1,7 +1,7 @@
 {
     "0": {
         "altitude": 7.127425670623779, 
-        "capacity": 38, 
+        "capacity": 36, 
         "description": "72 - W 52 St & 11 Ave", 
         "id": 0, 
         "latitude": 40.76727216, 
@@ -10,7 +10,7 @@
     }, 
     "1": {
         "altitude": 5.004820823669434, 
-        "capacity": 33, 
+        "capacity": 30, 
         "description": "79 - Franklin St & W Broadway", 
         "id": 1, 
         "latitude": 40.71911552, 
@@ -37,7 +37,7 @@
     }, 
     "4": {
         "altitude": 6.092966079711914, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "116 - W 17 St & 8 Ave", 
         "id": 4, 
         "latitude": 40.74177603, 
@@ -46,7 +46,7 @@
     }, 
     "5": {
         "altitude": 5.586351871490479, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "119 - Park Ave & St Edwards St", 
         "id": 5, 
         "latitude": 40.69608941, 
@@ -55,7 +55,7 @@
     }, 
     "6": {
         "altitude": 21.50874519348145, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "120 - Lexington Ave & Classon Ave", 
         "id": 6, 
         "latitude": 40.68676793, 
@@ -64,7 +64,7 @@
     }, 
     "7": {
         "altitude": 5.061368942260742, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "127 - Barrow St & Hudson St", 
         "id": 7, 
         "latitude": 40.73172428, 
@@ -73,7 +73,7 @@
     }, 
     "8": {
         "altitude": 6.560043334960938, 
-        "capacity": 30, 
+        "capacity": 29, 
         "description": "128 - MacDougal St & Prince St", 
         "id": 8, 
         "latitude": 40.72710258, 
@@ -91,7 +91,7 @@
     }, 
     "10": {
         "altitude": 21.01520347595215, 
-        "capacity": 24, 
+        "capacity": 21, 
         "description": "143 - Clinton St & Joralemon St", 
         "id": 10, 
         "latitude": 40.69239502, 
@@ -100,7 +100,7 @@
     }, 
     "11": {
         "altitude": 4.247848510742188, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "144 - Nassau St & Navy St", 
         "id": 11, 
         "latitude": 40.69839895, 
@@ -118,7 +118,7 @@
     }, 
     "13": {
         "altitude": 3.508570194244385, 
-        "capacity": 33, 
+        "capacity": 25, 
         "description": "147 - Greenwich St & Warren St", 
         "id": 13, 
         "latitude": 40.71542197, 
@@ -136,7 +136,7 @@
     }, 
     "15": {
         "altitude": 10.16301345825195, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "151 - Cleveland Pl & Spring St", 
         "id": 15, 
         "latitude": 40.7218158, 
@@ -145,7 +145,7 @@
     }, 
     "16": {
         "altitude": 7.770331859588623, 
-        "capacity": 29, 
+        "capacity": 28, 
         "description": "152 - Warren St & Church St", 
         "id": 16, 
         "latitude": 40.71473993, 
@@ -154,7 +154,7 @@
     }, 
     "17": {
         "altitude": 22.57240295410156, 
-        "capacity": 55, 
+        "capacity": 52, 
         "description": "153 - E 40 St & 5 Ave", 
         "id": 17, 
         "latitude": 40.752062307, 
@@ -172,7 +172,7 @@
     }, 
     "19": {
         "altitude": 19.25272941589355, 
-        "capacity": 26, 
+        "capacity": 23, 
         "description": "160 - E 37 St & Lexington Ave", 
         "id": 19, 
         "latitude": 40.748238, 
@@ -190,7 +190,7 @@
     }, 
     "21": {
         "altitude": 11.07155990600586, 
-        "capacity": 3, 
+        "capacity": 47, 
         "description": "164 - E 47 St & 2 Ave", 
         "id": 21, 
         "latitude": 40.75323098, 
@@ -199,7 +199,7 @@
     }, 
     "22": {
         "altitude": 12.19533157348633, 
-        "capacity": 45, 
+        "capacity": 44, 
         "description": "167 - E 39 St & 3 Ave", 
         "id": 22, 
         "latitude": 40.7489006, 
@@ -217,7 +217,7 @@
     }, 
     "24": {
         "altitude": 16.68603134155273, 
-        "capacity": 51, 
+        "capacity": 48, 
         "description": "173 - Broadway & W 49 St", 
         "id": 24, 
         "latitude": 40.76064679, 
@@ -226,7 +226,7 @@
     }, 
     "25": {
         "altitude": 4.388182163238525, 
-        "capacity": 30, 
+        "capacity": 19, 
         "description": "174 - E 25 St & 1 Ave", 
         "id": 25, 
         "latitude": 40.7381765, 
@@ -235,7 +235,7 @@
     }, 
     "26": {
         "altitude": 9.447845458984375, 
-        "capacity": 45, 
+        "capacity": 43, 
         "description": "195 - Liberty St & Broadway", 
         "id": 26, 
         "latitude": 40.70905623, 
@@ -244,7 +244,7 @@
     }, 
     "27": {
         "altitude": 3.330749750137329, 
-        "capacity": 28, 
+        "capacity": 27, 
         "description": "212 - W 16 St & The High Line", 
         "id": 27, 
         "latitude": 40.74334935, 
@@ -253,7 +253,7 @@
     }, 
     "28": {
         "altitude": 11.9780969619751, 
-        "capacity": 23, 
+        "capacity": 18, 
         "description": "216 - Columbia Heights & Cranberry St", 
         "id": 28, 
         "latitude": 40.70037867, 
@@ -289,7 +289,7 @@
     }, 
     "32": {
         "altitude": 9.506433486938477, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "224 - Spruce St & Nassau St", 
         "id": 32, 
         "latitude": 40.71146364, 
@@ -298,7 +298,7 @@
     }, 
     "33": {
         "altitude": 2.936075210571289, 
-        "capacity": 37, 
+        "capacity": 35, 
         "description": "225 - W 14 St & The High Line", 
         "id": 33, 
         "latitude": 40.74195138, 
@@ -307,7 +307,7 @@
     }, 
     "34": {
         "altitude": 11.6593713760376, 
-        "capacity": 55, 
+        "capacity": 53, 
         "description": "228 - E 48 St & 3 Ave", 
         "id": 34, 
         "latitude": 40.7546011026, 
@@ -316,7 +316,7 @@
     }, 
     "35": {
         "altitude": 12.64595699310303, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "229 - Great Jones St", 
         "id": 35, 
         "latitude": 40.72743423, 
@@ -325,7 +325,7 @@
     }, 
     "36": {
         "altitude": 24.02631568908691, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "232 - Cadman Plaza E & Tillary St", 
         "id": 36, 
         "latitude": 40.69597683, 
@@ -334,7 +334,7 @@
     }, 
     "37": {
         "altitude": 17.73789596557617, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "233 - Joralemon St & Adams St", 
         "id": 37, 
         "latitude": 40.69246277, 
@@ -343,7 +343,7 @@
     }, 
     "38": {
         "altitude": 9.19587516784668, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "236 - St Marks Pl & 2 Ave", 
         "id": 38, 
         "latitude": 40.7284186, 
@@ -352,7 +352,7 @@
     }, 
     "39": {
         "altitude": 9.545172691345215, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "237 - E 11 St & 2 Ave", 
         "id": 39, 
         "latitude": 40.73047309, 
@@ -370,7 +370,7 @@
     }, 
     "41": {
         "altitude": 13.13013935089111, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "239 - Willoughby St & Fleet St", 
         "id": 41, 
         "latitude": 40.69196566, 
@@ -379,7 +379,7 @@
     }, 
     "42": {
         "altitude": 17.1745662689209, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "241 - DeKalb Ave & S Portland Ave", 
         "id": 42, 
         "latitude": 40.68981035, 
@@ -396,13 +396,13 @@
         "longitude": -73.97350332
     }, 
     "44": {
-        "altitude": 10.85322952270508, 
+        "altitude": 10.33618354797363, 
         "capacity": 31, 
         "description": "243 - Fulton St & Rockwell Pl", 
         "id": 44, 
-        "latitude": 40.687979, 
-        "location_key": "40.687979,-73.978474", 
-        "longitude": -73.978474
+        "latitude": 40.688226, 
+        "location_key": "40.688226,-73.979382", 
+        "longitude": -73.979382
     }, 
     "45": {
         "altitude": 19.30124473571777, 
@@ -415,7 +415,7 @@
     }, 
     "46": {
         "altitude": 12.45012283325195, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "245 - Myrtle Ave & St Edwards St", 
         "id": 46, 
         "latitude": 40.69327018, 
@@ -442,7 +442,7 @@
     }, 
     "49": {
         "altitude": 4.421670436859131, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "249 - Harrison St & Hudson St", 
         "id": 49, 
         "latitude": 40.71870987, 
@@ -451,7 +451,7 @@
     }, 
     "50": {
         "altitude": 12.44959259033203, 
-        "capacity": 40, 
+        "capacity": 39, 
         "description": "250 - Lafayette St & Jersey St", 
         "id": 50, 
         "latitude": 40.72456089, 
@@ -469,7 +469,7 @@
     }, 
     "52": {
         "altitude": 6.299140453338623, 
-        "capacity": 33, 
+        "capacity": 32, 
         "description": "252 - MacDougal St & Washington Sq", 
         "id": 52, 
         "latitude": 40.73226398, 
@@ -487,7 +487,7 @@
     }, 
     "54": {
         "altitude": 7.48261833190918, 
-        "capacity": 31, 
+        "capacity": 3, 
         "description": "254 - W 11 St & 6 Ave", 
         "id": 54, 
         "latitude": 40.73532427, 
@@ -514,7 +514,7 @@
     }, 
     "57": {
         "altitude": 0.4212910234928131, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "259 - South St & Whitehall St", 
         "id": 57, 
         "latitude": 40.70122128, 
@@ -523,7 +523,7 @@
     }, 
     "58": {
         "altitude": 2.076184511184692, 
-        "capacity": 35, 
+        "capacity": 33, 
         "description": "260 - Broad St & Bridge St", 
         "id": 58, 
         "latitude": 40.70365182, 
@@ -532,7 +532,7 @@
     }, 
     "59": {
         "altitude": 9.07131576538086, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "261 - Johnson St & Gold St", 
         "id": 59, 
         "latitude": 40.69474881, 
@@ -550,7 +550,7 @@
     }, 
     "61": {
         "altitude": 11.67695426940918, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "263 - Elizabeth St & Hester St", 
         "id": 61, 
         "latitude": 40.71729, 
@@ -559,7 +559,7 @@
     }, 
     "62": {
         "altitude": 3.20239782333374, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "264 - Maiden Ln & Pearl St", 
         "id": 62, 
         "latitude": 40.70706456, 
@@ -568,7 +568,7 @@
     }, 
     "63": {
         "altitude": 12.47883129119873, 
-        "capacity": 23, 
+        "capacity": 35, 
         "description": "265 - Stanton St & Chrystie St", 
         "id": 63, 
         "latitude": 40.72229346, 
@@ -577,7 +577,7 @@
     }, 
     "64": {
         "altitude": 3.163119316101074, 
-        "capacity": 24, 
+        "capacity": 23, 
         "description": "266 - Avenue D & E 8 St", 
         "id": 64, 
         "latitude": 40.72368361, 
@@ -586,7 +586,7 @@
     }, 
     "65": {
         "altitude": 14.51435852050781, 
-        "capacity": 57, 
+        "capacity": 54, 
         "description": "267 - Broadway & W 36 St", 
         "id": 65, 
         "latitude": 40.75097711, 
@@ -604,7 +604,7 @@
     }, 
     "67": {
         "altitude": 18.0875415802002, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "270 - Adelphi St & Myrtle Ave", 
         "id": 67, 
         "latitude": 40.69308257, 
@@ -613,7 +613,7 @@
     }, 
     "68": {
         "altitude": 13.68869876861572, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "271 - Ashland Pl & Hanson Pl", 
         "id": 68, 
         "latitude": 40.68528172, 
@@ -649,7 +649,7 @@
     }, 
     "72": {
         "altitude": 14.21726512908936, 
-        "capacity": 19, 
+        "capacity": 16, 
         "description": "278 - Concord St & Bridge St", 
         "id": 72, 
         "latitude": 40.69766564, 
@@ -657,17 +657,17 @@
         "longitude": -73.98476437
     }, 
     "73": {
-        "altitude": 8.489191055297852, 
-        "capacity": 19, 
-        "description": "279 - Sands St & Gold St", 
+        "altitude": 1.515219926834106, 
+        "capacity": 34, 
+        "description": "279 - Peck Slip & Front Street", 
         "id": 73, 
-        "latitude": 40.69986937, 
-        "location_key": "40.69986937,-73.98271933", 
-        "longitude": -73.98271933
+        "latitude": 40.707873, 
+        "location_key": "40.707873,-74.00167", 
+        "longitude": -74.00167
     }, 
     "74": {
         "altitude": 9.08838176727295, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "280 - E 10 St & 5 Ave", 
         "id": 74, 
         "latitude": 40.73331967, 
@@ -684,2287 +684,2305 @@
         "longitude": -73.97371465
     }, 
     "76": {
-        "altitude": 7.036725997924805, 
-        "capacity": 35, 
-        "description": "284 - Greenwich Ave & 8 Ave", 
+        "altitude": 4.863327503204346, 
+        "capacity": 25, 
+        "description": "282 - Kent Ave & S 11 St", 
         "id": 76, 
+        "latitude": 40.70827295, 
+        "location_key": "40.70827295,-73.96834101", 
+        "longitude": -73.96834101
+    }, 
+    "77": {
+        "altitude": 7.036725997924805, 
+        "capacity": 43, 
+        "description": "284 - Greenwich Ave & 8 Ave", 
+        "id": 77, 
         "latitude": 40.7390169121, 
         "location_key": "40.7390169121,-74.0026376103", 
         "longitude": -74.0026376103
     }, 
-    "77": {
+    "78": {
         "altitude": 12.26399993896484, 
-        "capacity": 47, 
+        "capacity": 43, 
         "description": "285 - Broadway & E 14 St", 
-        "id": 77, 
+        "id": 78, 
         "latitude": 40.73454567, 
         "location_key": "40.73454567,-73.99074142", 
         "longitude": -73.99074142
     }, 
-    "78": {
+    "79": {
         "altitude": 22.98020362854004, 
         "capacity": 19, 
         "description": "289 - Monroe St & Classon Ave", 
-        "id": 78, 
+        "id": 79, 
         "latitude": 40.6845683, 
         "location_key": "40.6845683,-73.95881081", 
         "longitude": -73.95881081
     }, 
-    "79": {
+    "80": {
         "altitude": 18.52652549743652, 
         "capacity": 29, 
         "description": "290 - 2 Ave & E 58 St", 
-        "id": 79, 
+        "id": 80, 
         "latitude": 40.76020258, 
         "location_key": "40.76020258,-73.96478473", 
         "longitude": -73.96478473
     }, 
-    "80": {
+    "81": {
         "altitude": 9.045721054077148, 
-        "capacity": 20, 
+        "capacity": 18, 
         "description": "291 - Madison St & Montgomery St", 
-        "id": 80, 
+        "id": 81, 
         "latitude": 40.713126, 
         "location_key": "40.713126,-73.984844", 
         "longitude": -73.984844
     }, 
-    "81": {
+    "82": {
         "altitude": 12.26399993896484, 
-        "capacity": 55, 
+        "capacity": 52, 
         "description": "293 - Lafayette St & E 8 St", 
-        "id": 81, 
+        "id": 82, 
         "latitude": 40.73028666, 
         "location_key": "40.73028666,-73.9907647", 
         "longitude": -73.9907647
     }, 
-    "82": {
+    "83": {
         "altitude": 9.56579303741455, 
-        "capacity": 31, 
+        "capacity": 28, 
         "description": "294 - Washington Square E", 
-        "id": 82, 
+        "id": 83, 
         "latitude": 40.73049393, 
         "location_key": "40.73049393,-73.9957214", 
         "longitude": -73.9957214
     }, 
-    "83": {
+    "84": {
         "altitude": 11.88281536102295, 
         "capacity": 24, 
         "description": "295 - Pike St & E Broadway", 
-        "id": 83, 
+        "id": 84, 
         "latitude": 40.71406667, 
         "location_key": "40.71406667,-73.99293911", 
         "longitude": -73.99293911
     }, 
-    "84": {
+    "85": {
         "altitude": 11.19287300109863, 
-        "capacity": 35, 
+        "capacity": 34, 
         "description": "296 - Division St & Bowery", 
-        "id": 84, 
+        "id": 85, 
         "latitude": 40.71413089, 
         "location_key": "40.71413089,-73.9970468", 
         "longitude": -73.9970468
     }, 
-    "85": {
+    "86": {
         "altitude": 10.46711730957031, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "297 - E 15 St & 3 Ave", 
-        "id": 85, 
+        "id": 86, 
         "latitude": 40.734232, 
         "location_key": "40.734232,-73.986923", 
         "longitude": -73.986923
     }, 
-    "86": {
+    "87": {
         "altitude": 11.87800121307373, 
-        "capacity": 35, 
+        "capacity": 31, 
         "description": "298 - 3 Ave & Schermerhorn St", 
-        "id": 86, 
+        "id": 87, 
         "latitude": 40.68683208, 
         "location_key": "40.68683208,-73.9796772", 
         "longitude": -73.9796772
     }, 
-    "87": {
+    "88": {
         "altitude": 12.013258934021, 
-        "capacity": 55, 
-        "description": "300 - Shevchenko Pl & E 6 St", 
-        "id": 87, 
+        "capacity": 54, 
+        "description": "300 - Shevchenko Pl & E 7 St", 
+        "id": 88, 
         "latitude": 40.728145, 
         "location_key": "40.728145,-73.990214", 
         "longitude": -73.990214
     }, 
-    "88": {
+    "89": {
         "altitude": 6.87226390838623, 
-        "capacity": 36, 
+        "capacity": 35, 
         "description": "301 - E 2 St & Avenue B", 
-        "id": 88, 
+        "id": 89, 
         "latitude": 40.72217444, 
         "location_key": "40.72217444,-73.98368779", 
         "longitude": -73.98368779
     }, 
-    "89": {
+    "90": {
         "altitude": 3.558436870574951, 
         "capacity": 23, 
         "description": "302 - Avenue D & E 3 St", 
-        "id": 89, 
+        "id": 90, 
         "latitude": 40.72082834, 
         "location_key": "40.72082834,-73.97793172", 
         "longitude": -73.97793172
     }, 
-    "90": {
+    "91": {
         "altitude": 8.03870677947998, 
         "capacity": 31, 
         "description": "303 - Mercer St & Spring St", 
-        "id": 90, 
+        "id": 91, 
         "latitude": 40.72362738, 
         "location_key": "40.72362738,-73.99949601", 
         "longitude": -73.99949601
     }, 
-    "91": {
+    "92": {
         "altitude": 4.465456485748291, 
-        "capacity": 36, 
+        "capacity": 35, 
         "description": "304 - Broadway & Battery Pl", 
-        "id": 91, 
+        "id": 92, 
         "latitude": 40.70463334, 
         "location_key": "40.70463334,-74.01361706", 
         "longitude": -74.01361706
     }, 
-    "92": {
+    "93": {
         "altitude": 15.08679008483887, 
-        "capacity": 33, 
+        "capacity": 28, 
         "description": "305 - E 58 St & 3 Ave", 
-        "id": 92, 
+        "id": 93, 
         "latitude": 40.76095756, 
         "location_key": "40.76095756,-73.96724467", 
         "longitude": -73.96724467
     }, 
-    "93": {
+    "94": {
         "altitude": 5.072393417358398, 
         "capacity": 37, 
         "description": "306 - Cliff St & Fulton St", 
-        "id": 93, 
+        "id": 94, 
         "latitude": 40.70823502, 
         "location_key": "40.70823502,-74.00530063", 
         "longitude": -74.00530063
     }, 
-    "94": {
+    "95": {
         "altitude": 9.489396095275879, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "307 - Canal St & Rutgers St", 
-        "id": 94, 
+        "id": 95, 
         "latitude": 40.71427487, 
         "location_key": "40.71427487,-73.98990025", 
         "longitude": -73.98990025
     }, 
-    "95": {
+    "96": {
         "altitude": 8.683661460876465, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "308 - St James Pl & Oliver St", 
-        "id": 95, 
+        "id": 96, 
         "latitude": 40.71307916, 
         "location_key": "40.71307916,-73.99851193", 
         "longitude": -73.99851193
     }, 
-    "96": {
+    "97": {
         "altitude": 1.878507256507874, 
-        "capacity": 41, 
+        "capacity": 38, 
         "description": "309 - Murray St & West St", 
-        "id": 96, 
+        "id": 97, 
         "latitude": 40.7149787, 
         "location_key": "40.7149787,-74.013012", 
         "longitude": -74.013012
     }, 
-    "97": {
+    "98": {
         "altitude": 11.21999549865723, 
-        "capacity": 36, 
+        "capacity": 34, 
         "description": "310 - State St & Smith St", 
-        "id": 97, 
+        "id": 98, 
         "latitude": 40.68926942, 
         "location_key": "40.68926942,-73.98912867", 
         "longitude": -73.98912867
     }, 
-    "98": {
+    "99": {
         "altitude": 10.36910820007324, 
         "capacity": 30, 
         "description": "311 - Norfolk St & Broome St", 
-        "id": 98, 
+        "id": 99, 
         "latitude": 40.7172274, 
         "location_key": "40.7172274,-73.98802084", 
         "longitude": -73.98802084
     }, 
-    "99": {
+    "100": {
         "altitude": 11.25157737731934, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "312 - Allen St & E Houston St", 
-        "id": 99, 
+        "id": 100, 
         "latitude": 40.722055, 
         "location_key": "40.722055,-73.989111", 
         "longitude": -73.989111
     }, 
-    "100": {
+    "101": {
         "altitude": 9.11559009552002, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "313 - Washington Ave & Park Ave", 
-        "id": 100, 
+        "id": 101, 
         "latitude": 40.69610226, 
         "location_key": "40.69610226,-73.96751037", 
         "longitude": -73.96751037
     }, 
-    "101": {
+    "102": {
         "altitude": 21.79168510437012, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "314 - Cadman Plaza West & Montague St", 
-        "id": 101, 
+        "id": 102, 
         "latitude": 40.69383, 
         "location_key": "40.69383,-73.990539", 
         "longitude": -73.990539
     }, 
-    "102": {
+    "103": {
         "altitude": 0.2217265069484711, 
         "capacity": 29, 
         "description": "315 - South St & Gouverneur Ln", 
-        "id": 102, 
+        "id": 103, 
         "latitude": 40.70355377, 
         "location_key": "40.70355377,-74.00670227", 
         "longitude": -74.00670227
     }, 
-    "103": {
+    "104": {
         "altitude": 9.367753028869629, 
-        "capacity": 42, 
+        "capacity": 43, 
         "description": "316 - Fulton St & William St", 
-        "id": 103, 
+        "id": 104, 
         "latitude": 40.70955958, 
         "location_key": "40.70955958,-74.00653609", 
         "longitude": -74.00653609
     }, 
-    "104": {
+    "105": {
         "altitude": 5.247651100158691, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "317 - E 6 St & Avenue B", 
-        "id": 104, 
+        "id": 105, 
         "latitude": 40.72453734, 
         "location_key": "40.72453734,-73.98185424", 
         "longitude": -73.98185424
     }, 
-    "105": {
+    "106": {
         "altitude": 17.46317291259766, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "318 - E 43 St & Vanderbilt Ave", 
-        "id": 105, 
+        "id": 106, 
         "latitude": 40.75320159, 
         "location_key": "40.75320159,-73.9779874", 
         "longitude": -73.9779874
     }, 
-    "106": {
+    "107": {
         "altitude": 8.884683609008789, 
         "capacity": 35, 
         "description": "319 - Park Pl & Church St", 
-        "id": 106, 
+        "id": 107, 
         "latitude": 40.71336124, 
         "location_key": "40.71336124,-74.00937622", 
         "longitude": -74.00937622
     }, 
-    "107": {
+    "108": {
         "altitude": 6.944004058837891, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "320 - Leonard St & Church St", 
-        "id": 107, 
+        "id": 108, 
         "latitude": 40.717571, 
         "location_key": "40.717571,-74.005549", 
         "longitude": -74.005549
     }, 
-    "108": {
+    "109": {
         "altitude": 20.79223823547363, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "321 - Cadman Plaza E & Red Cross Pl", 
-        "id": 108, 
+        "id": 109, 
         "latitude": 40.69991755, 
         "location_key": "40.69991755,-73.98971773", 
         "longitude": -73.98971773
     }, 
-    "109": {
+    "110": {
         "altitude": 25.45304870605469, 
-        "capacity": 29, 
+        "capacity": 31, 
         "description": "322 - Clinton St & Tillary St", 
-        "id": 109, 
+        "id": 110, 
         "latitude": 40.696192, 
         "location_key": "40.696192,-73.991218", 
         "longitude": -73.991218
     }, 
-    "110": {
+    "111": {
         "altitude": 14.00613498687744, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "323 - Lawrence St & Willoughby St", 
-        "id": 110, 
+        "id": 111, 
         "latitude": 40.69236178, 
         "location_key": "40.69236178,-73.98631746", 
         "longitude": -73.98631746
     }, 
-    "111": {
+    "112": {
         "altitude": 9.331689834594727, 
-        "capacity": 51, 
+        "capacity": 50, 
         "description": "324 - DeKalb Ave & Hudson Ave", 
-        "id": 111, 
+        "id": 112, 
         "latitude": 40.689888, 
         "location_key": "40.689888,-73.981013", 
         "longitude": -73.981013
     }, 
-    "112": {
+    "113": {
         "altitude": 8.535998344421387, 
         "capacity": 35, 
         "description": "325 - E 19 St & 3 Ave", 
-        "id": 112, 
+        "id": 113, 
         "latitude": 40.73624527, 
         "location_key": "40.73624527,-73.98473765", 
         "longitude": -73.98473765
     }, 
-    "113": {
+    "114": {
         "altitude": 7.117926597595215, 
         "capacity": 27, 
         "description": "326 - E 11 St & 1 Ave", 
-        "id": 113, 
+        "id": 114, 
         "latitude": 40.72953837, 
         "location_key": "40.72953837,-73.98426726", 
         "longitude": -73.98426726
     }, 
-    "114": {
+    "115": {
         "altitude": 0.2590000331401825, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "327 - Vesey Pl & River Terrace", 
-        "id": 114, 
+        "id": 115, 
         "latitude": 40.7153379, 
         "location_key": "40.7153379,-74.01658354", 
         "longitude": -74.01658354
     }, 
-    "115": {
+    "116": {
         "altitude": 2.945252895355225, 
         "capacity": 23, 
         "description": "328 - Watts St & Greenwich St", 
-        "id": 115, 
+        "id": 116, 
         "latitude": 40.72405549, 
         "location_key": "40.72405549,-74.00965965", 
         "longitude": -74.00965965
     }, 
-    "116": {
+    "117": {
         "altitude": 3.555251598358154, 
-        "capacity": 31, 
+        "capacity": 28, 
         "description": "329 - Greenwich St & N Moore St", 
-        "id": 116, 
+        "id": 117, 
         "latitude": 40.72043411, 
         "location_key": "40.72043411,-74.01020609", 
         "longitude": -74.01020609
     }, 
-    "117": {
+    "118": {
         "altitude": 9.518525123596191, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "330 - Reade St & Broadway", 
-        "id": 117, 
+        "id": 118, 
         "latitude": 40.71450451, 
         "location_key": "40.71450451,-74.00562789", 
         "longitude": -74.00562789
     }, 
-    "118": {
+    "119": {
         "altitude": 6.857491016387939, 
         "capacity": 27, 
         "description": "331 - Pike St & Monroe St", 
-        "id": 118, 
+        "id": 119, 
         "latitude": 40.71173107, 
         "location_key": "40.71173107,-73.99193043", 
         "longitude": -73.99193043
     }, 
-    "119": {
+    "120": {
         "altitude": 4.59337329864502, 
-        "capacity": 24, 
+        "capacity": 22, 
         "description": "332 - Cherry St", 
-        "id": 119, 
+        "id": 120, 
         "latitude": 40.71219906, 
         "location_key": "40.71219906,-73.97948148", 
         "longitude": -73.97948148
     }, 
-    "120": {
+    "121": {
         "altitude": 7.928695678710938, 
-        "capacity": 31, 
+        "capacity": 28, 
         "description": "334 - W 20 St & 7 Ave", 
-        "id": 120, 
+        "id": 121, 
         "latitude": 40.74238787, 
         "location_key": "40.74238787,-73.99726235", 
         "longitude": -73.99726235
     }, 
-    "121": {
+    "122": {
         "altitude": 12.12161731719971, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "335 - Washington Pl & Broadway", 
-        "id": 121, 
+        "id": 122, 
         "latitude": 40.72903917, 
         "location_key": "40.72903917,-73.99404649", 
         "longitude": -73.99404649
     }, 
-    "122": {
+    "123": {
         "altitude": 7.191206932067871, 
-        "capacity": 34, 
+        "capacity": 36, 
         "description": "336 - Sullivan St & Washington Sq", 
-        "id": 122, 
+        "id": 123, 
         "latitude": 40.73047747, 
         "location_key": "40.73047747,-73.99906065", 
         "longitude": -73.99906065
     }, 
-    "123": {
+    "124": {
         "altitude": 1.50162935256958, 
-        "capacity": 37, 
+        "capacity": 36, 
         "description": "337 - Old Slip & Front St", 
-        "id": 123, 
+        "id": 124, 
         "latitude": 40.7037992, 
         "location_key": "40.7037992,-74.00838676", 
         "longitude": -74.00838676
     }, 
-    "124": {
+    "125": {
         "altitude": 2.028470754623413, 
-        "capacity": 24, 
+        "capacity": 22, 
         "description": "339 - Avenue D & E 12 St", 
-        "id": 124, 
+        "id": 125, 
         "latitude": 40.72580614, 
         "location_key": "40.72580614,-73.97422494", 
         "longitude": -73.97422494
     }, 
-    "125": {
+    "126": {
         "altitude": 5.836135387420654, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "340 - Madison St & Clinton St", 
-        "id": 125, 
+        "id": 126, 
         "latitude": 40.71269042, 
         "location_key": "40.71269042,-73.98776323", 
         "longitude": -73.98776323
     }, 
-    "126": {
+    "127": {
         "altitude": 1.767870306968689, 
         "capacity": 19, 
         "description": "341 - Stanton St & Mangin St", 
-        "id": 126, 
+        "id": 127, 
         "latitude": 40.71782143, 
         "location_key": "40.71782143,-73.97628939", 
         "longitude": -73.97628939
     }, 
-    "127": {
+    "128": {
         "altitude": 4.531829833984375, 
         "capacity": 29, 
         "description": "342 - Columbia St & Rivington St", 
-        "id": 127, 
+        "id": 128, 
         "latitude": 40.71739973, 
         "location_key": "40.71739973,-73.98016555", 
         "longitude": -73.98016555
     }, 
-    "128": {
+    "129": {
         "altitude": 4.977112293243408, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "343 - Clinton Ave & Flushing Ave", 
-        "id": 128, 
+        "id": 129, 
         "latitude": 40.69794, 
         "location_key": "40.69794,-73.96986848", 
         "longitude": -73.96986848
     }, 
-    "129": {
+    "130": {
         "altitude": 17.07222366333008, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "344 - Monroe St & Bedford Ave", 
-        "id": 129, 
+        "id": 130, 
         "latitude": 40.6851443, 
         "location_key": "40.6851443,-73.95380904", 
         "longitude": -73.95380904
     }, 
-    "130": {
+    "131": {
         "altitude": 8.2996826171875, 
-        "capacity": 35, 
+        "capacity": 34, 
         "description": "345 - W 13 St & 6 Ave", 
-        "id": 130, 
+        "id": 131, 
         "latitude": 40.73649403, 
         "location_key": "40.73649403,-73.99704374", 
         "longitude": -73.99704374
     }, 
-    "131": {
+    "132": {
         "altitude": 6.409056663513184, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "346 - Bank St & Hudson St", 
-        "id": 131, 
+        "id": 132, 
         "latitude": 40.73652889, 
         "location_key": "40.73652889,-74.00618026", 
         "longitude": -74.00618026
     }, 
-    "132": {
+    "133": {
         "altitude": 4.080404758453369, 
-        "capacity": 35, 
+        "capacity": 33, 
         "description": "347 - W Houston St & Hudson St", 
-        "id": 132, 
+        "id": 133, 
         "latitude": 40.72873888, 
         "location_key": "40.72873888,-74.00748842", 
         "longitude": -74.00748842
     }, 
-    "133": {
+    "134": {
         "altitude": 4.92584753036499, 
-        "capacity": 42, 
+        "capacity": 41, 
         "description": "348 - W Broadway & Spring St", 
-        "id": 133, 
+        "id": 134, 
         "latitude": 40.72490985, 
         "location_key": "40.72490985,-74.00154702", 
         "longitude": -74.00154702
     }, 
-    "134": {
+    "135": {
         "altitude": 6.797955513000488, 
         "capacity": 23, 
         "description": "349 - Rivington St & Ridge St", 
-        "id": 134, 
+        "id": 135, 
         "latitude": 40.71850211, 
         "location_key": "40.71850211,-73.98329859", 
         "longitude": -73.98329859
     }, 
-    "135": {
+    "136": {
         "altitude": 9.766167640686035, 
         "capacity": 28, 
         "description": "350 - Clinton St & Grand St", 
-        "id": 135, 
+        "id": 136, 
         "latitude": 40.71559509, 
         "location_key": "40.71559509,-73.9870295", 
         "longitude": -73.9870295
     }, 
-    "136": {
+    "137": {
         "altitude": 1.259944796562195, 
-        "capacity": 38, 
+        "capacity": 39, 
         "description": "351 - Front St & Maiden Ln", 
-        "id": 136, 
+        "id": 137, 
         "latitude": 40.70530954, 
         "location_key": "40.70530954,-74.00612572", 
         "longitude": -74.00612572
     }, 
-    "137": {
+    "138": {
         "altitude": 17.47172355651855, 
-        "capacity": 36, 
+        "capacity": 31, 
         "description": "352 - W 56 St & 6 Ave", 
-        "id": 137, 
+        "id": 138, 
         "latitude": 40.76340613, 
         "location_key": "40.76340613,-73.97722479", 
         "longitude": -73.97722479
     }, 
-    "138": {
+    "139": {
         "altitude": 19.7467098236084, 
         "capacity": 27, 
         "description": "353 - S Portland Ave & Hanson Pl", 
-        "id": 138, 
+        "id": 139, 
         "latitude": 40.68539567, 
         "location_key": "40.68539567,-73.97431458", 
         "longitude": -73.97431458
     }, 
-    "139": {
+    "140": {
         "altitude": 13.55336475372314, 
         "capacity": 31, 
         "description": "354 - Emerson Pl & Myrtle Ave", 
-        "id": 139, 
+        "id": 140, 
         "latitude": 40.69363137, 
         "location_key": "40.69363137,-73.96223558", 
         "longitude": -73.96223558
     }, 
-    "140": {
+    "141": {
         "altitude": 4.672213554382324, 
-        "capacity": 43, 
+        "capacity": 42, 
         "description": "355 - Bayard St & Baxter St", 
-        "id": 140, 
+        "id": 141, 
         "latitude": 40.71602118, 
         "location_key": "40.71602118,-73.99974372", 
         "longitude": -73.99974372
     }, 
-    "141": {
+    "142": {
         "altitude": 6.469281673431396, 
         "capacity": 23, 
         "description": "356 - Bialystoker Pl & Delancey St", 
-        "id": 141, 
+        "id": 142, 
         "latitude": 40.71622644, 
         "location_key": "40.71622644,-73.98261206", 
         "longitude": -73.98261206
     }, 
-    "142": {
+    "143": {
         "altitude": 12.04687213897705, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "357 - E 11 St & Broadway", 
-        "id": 142, 
+        "id": 143, 
         "latitude": 40.73261787, 
         "location_key": "40.73261787,-73.99158043", 
         "longitude": -73.99158043
     }, 
-    "143": {
+    "144": {
         "altitude": 5.817682266235352, 
-        "capacity": 35, 
+        "capacity": 34, 
         "description": "358 - Christopher St & Greenwich St", 
-        "id": 143, 
+        "id": 144, 
         "latitude": 40.73291553, 
         "location_key": "40.73291553,-74.00711384", 
         "longitude": -74.00711384
     }, 
-    "144": {
+    "145": {
         "altitude": 17.7700023651123, 
-        "capacity": 55, 
+        "capacity": 54, 
         "description": "359 - E 47 St & Park Ave", 
-        "id": 144, 
+        "id": 145, 
         "latitude": 40.75510267, 
         "location_key": "40.75510267,-73.97498696", 
         "longitude": -73.97498696
     }, 
-    "145": {
+    "146": {
         "altitude": 8.668489456176758, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "360 - William St & Pine St", 
-        "id": 145, 
+        "id": 146, 
         "latitude": 40.70717936, 
         "location_key": "40.70717936,-74.00887308", 
         "longitude": -74.00887308
     }, 
-    "146": {
+    "147": {
         "altitude": 12.06935787200928, 
-        "capacity": 43, 
+        "capacity": 38, 
         "description": "361 - Allen St & Hester St", 
-        "id": 146, 
+        "id": 147, 
         "latitude": 40.71605866, 
         "location_key": "40.71605866,-73.99190759", 
         "longitude": -73.99190759
     }, 
-    "147": {
+    "148": {
         "altitude": 15.46873664855957, 
-        "capacity": 57, 
+        "capacity": 56, 
         "description": "362 - Broadway & W 37 St", 
-        "id": 147, 
+        "id": 148, 
         "latitude": 40.75172632, 
         "location_key": "40.75172632,-73.98753523", 
         "longitude": -73.98753523
     }, 
-    "148": {
+    "149": {
         "altitude": 0.4461057186126709, 
         "capacity": 49, 
         "description": "363 - West Thames St", 
-        "id": 148, 
+        "id": 149, 
         "latitude": 40.70834698, 
         "location_key": "40.70834698,-74.01713445", 
         "longitude": -74.01713445
     }, 
-    "149": {
+    "150": {
         "altitude": 21.08205604553223, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "364 - Lafayette Ave & Classon Ave", 
-        "id": 149, 
+        "id": 150, 
         "latitude": 40.68900443, 
         "location_key": "40.68900443,-73.96023854", 
         "longitude": -73.96023854
     }, 
-    "150": {
+    "151": {
         "altitude": 21.64834022521973, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "365 - Fulton St & Grand Ave", 
-        "id": 150, 
+        "id": 151, 
         "latitude": 40.68223166, 
         "location_key": "40.68223166,-73.9614583", 
         "longitude": -73.9614583
     }, 
-    "151": {
+    "152": {
         "altitude": 18.29368209838867, 
         "capacity": 33, 
         "description": "366 - Clinton Ave & Myrtle Ave", 
-        "id": 151, 
+        "id": 152, 
         "latitude": 40.693261, 
         "location_key": "40.693261,-73.968896", 
         "longitude": -73.968896
     }, 
-    "152": {
+    "153": {
         "altitude": 12.77127170562744, 
         "capacity": 34, 
         "description": "367 - E 53 St & Lexington Ave", 
-        "id": 152, 
+        "id": 153, 
         "latitude": 40.75828065, 
         "location_key": "40.75828065,-73.97069431", 
         "longitude": -73.97069431
     }, 
-    "153": {
+    "154": {
         "altitude": 5.550972461700439, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "368 - Carmine St & 6 Ave", 
-        "id": 153, 
+        "id": 154, 
         "latitude": 40.73038599, 
         "location_key": "40.73038599,-74.00214988", 
         "longitude": -74.00214988
     }, 
-    "154": {
+    "155": {
         "altitude": 5.760290145874023, 
         "capacity": 35, 
         "description": "369 - Washington Pl & 6 Ave", 
-        "id": 154, 
+        "id": 155, 
         "latitude": 40.73224119, 
         "location_key": "40.73224119,-74.00026394", 
         "longitude": -74.00026394
     }, 
-    "155": {
+    "156": {
         "altitude": 13.3524751663208, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "372 - Franklin Ave & Myrtle Ave", 
-        "id": 155, 
+        "id": 156, 
         "latitude": 40.694528, 
         "location_key": "40.694528,-73.958089", 
         "longitude": -73.958089
     }, 
-    "156": {
+    "157": {
         "altitude": 10.8273344039917, 
         "capacity": 19, 
         "description": "373 - Willoughby Ave & Walworth St", 
-        "id": 156, 
+        "id": 157, 
         "latitude": 40.69331716, 
         "location_key": "40.69331716,-73.95381995", 
         "longitude": -73.95381995
     }, 
-    "157": {
+    "158": {
         "altitude": 10.87796783447266, 
-        "capacity": 30, 
+        "capacity": 27, 
         "description": "375 - Mercer St & Bleecker St", 
-        "id": 157, 
+        "id": 158, 
         "latitude": 40.72679454, 
         "location_key": "40.72679454,-73.99695094", 
         "longitude": -73.99695094
     }, 
-    "158": {
+    "159": {
         "altitude": 7.539270877838135, 
-        "capacity": 43, 
+        "capacity": 41, 
         "description": "376 - John St & William St", 
-        "id": 158, 
+        "id": 159, 
         "latitude": 40.70862144, 
         "location_key": "40.70862144,-74.00722156", 
         "longitude": -74.00722156
     }, 
-    "159": {
+    "160": {
         "altitude": 2.393894910812378, 
-        "capacity": 47, 
+        "capacity": 45, 
         "description": "377 - 6 Ave & Canal St", 
-        "id": 159, 
+        "id": 160, 
         "latitude": 40.72243797, 
         "location_key": "40.72243797,-74.00566443", 
         "longitude": -74.00566443
     }, 
-    "160": {
+    "161": {
         "altitude": 11.32643127441406, 
-        "capacity": 42, 
+        "capacity": 39, 
         "description": "379 - W 31 St & 7 Ave", 
-        "id": 160, 
+        "id": 161, 
         "latitude": 40.749156, 
         "location_key": "40.749156,-73.9916", 
         "longitude": -73.9916
     }, 
-    "161": {
+    "162": {
         "altitude": 6.93763542175293, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "380 - W 4 St & 7 Ave S", 
-        "id": 161, 
+        "id": 162, 
         "latitude": 40.73401143, 
         "location_key": "40.73401143,-74.00293877", 
         "longitude": -74.00293877
     }, 
-    "162": {
+    "163": {
         "altitude": 11.82376766204834, 
-        "capacity": 36, 
+        "capacity": 35, 
         "description": "382 - University Pl & E 14 St", 
-        "id": 162, 
+        "id": 163, 
         "latitude": 40.73492695, 
         "location_key": "40.73492695,-73.99200509", 
         "longitude": -73.99200509
     }, 
-    "163": {
+    "164": {
         "altitude": 6.771249771118164, 
-        "capacity": 3, 
+        "capacity": 39, 
         "description": "383 - Greenwich Ave & Charles St", 
-        "id": 163, 
+        "id": 164, 
         "latitude": 40.735238, 
         "location_key": "40.735238,-74.000271", 
         "longitude": -74.000271
     }, 
-    "164": {
+    "165": {
         "altitude": 23.83447456359863, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "384 - Fulton St & Waverly Ave", 
-        "id": 164, 
+        "id": 165, 
         "latitude": 40.68317813, 
         "location_key": "40.68317813,-73.9659641", 
         "longitude": -73.9659641
     }, 
-    "165": {
+    "166": {
         "altitude": 13.20543956756592, 
-        "capacity": 29, 
+        "capacity": 27, 
         "description": "385 - E 55 St & 2 Ave", 
-        "id": 165, 
+        "id": 166, 
         "latitude": 40.75797322, 
         "location_key": "40.75797322,-73.96603308", 
         "longitude": -73.96603308
     }, 
-    "166": {
+    "167": {
         "altitude": 4.893879890441895, 
-        "capacity": 43, 
+        "capacity": 41, 
         "description": "386 - Centre St & Worth St", 
-        "id": 166, 
+        "id": 167, 
         "latitude": 40.71494807, 
         "location_key": "40.71494807,-74.00234482", 
         "longitude": -74.00234482
     }, 
-    "167": {
+    "168": {
         "altitude": 9.951486587524414, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "387 - Centre St & Chambers St", 
-        "id": 167, 
+        "id": 168, 
         "latitude": 40.71273266, 
         "location_key": "40.71273266,-74.0046073", 
         "longitude": -74.0046073
     }, 
-    "168": {
+    "169": {
         "altitude": 4.107248306274414, 
-        "capacity": 35, 
+        "capacity": 31, 
         "description": "388 - W 26 St & 10 Ave", 
-        "id": 168, 
+        "id": 169, 
         "latitude": 40.749717753, 
         "location_key": "40.749717753,-74.002950346", 
         "longitude": -74.002950346
     }, 
-    "169": {
+    "170": {
         "altitude": 11.6958122253418, 
         "capacity": 27, 
         "description": "389 - Broadway & Berry St", 
-        "id": 169, 
+        "id": 170, 
         "latitude": 40.71044554, 
         "location_key": "40.71044554,-73.96525063", 
         "longitude": -73.96525063
     }, 
-    "170": {
+    "171": {
         "altitude": 13.23000240325928, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "390 - Duffield St & Willoughby St", 
-        "id": 170, 
+        "id": 171, 
         "latitude": 40.69221589, 
         "location_key": "40.69221589,-73.9842844", 
         "longitude": -73.9842844
     }, 
-    "171": {
+    "172": {
         "altitude": 23.91337013244629, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "391 - Clark St & Henry St", 
-        "id": 171, 
+        "id": 172, 
         "latitude": 40.69760127, 
         "location_key": "40.69760127,-73.99344559", 
         "longitude": -73.99344559
     }, 
-    "172": {
+    "173": {
         "altitude": 14.33044242858887, 
-        "capacity": 32, 
+        "capacity": 31, 
         "description": "392 - Jay St & Tech Pl", 
-        "id": 172, 
+        "id": 173, 
         "latitude": 40.695065, 
         "location_key": "40.695065,-73.987167", 
         "longitude": -73.987167
     }, 
-    "173": {
+    "174": {
         "altitude": 4.597256660461426, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "393 - E 5 St & Avenue C", 
-        "id": 173, 
+        "id": 174, 
         "latitude": 40.72299208, 
         "location_key": "40.72299208,-73.97995466", 
         "longitude": -73.97995466
     }, 
-    "174": {
+    "175": {
         "altitude": 2.660100221633911, 
         "capacity": 32, 
         "description": "394 - E 9 St & Avenue C", 
-        "id": 174, 
+        "id": 175, 
         "latitude": 40.72521311, 
         "location_key": "40.72521311,-73.97768752", 
         "longitude": -73.97768752
     }, 
-    "175": {
+    "176": {
         "altitude": 12.51740837097168, 
-        "capacity": 30, 
+        "capacity": 28, 
         "description": "395 - Bond St & Schermerhorn St", 
-        "id": 175, 
+        "id": 176, 
         "latitude": 40.68807003, 
         "location_key": "40.68807003,-73.98410637", 
         "longitude": -73.98410637
     }, 
-    "176": {
+    "177": {
         "altitude": 24.59567642211914, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "396 - Lefferts Pl & Franklin Ave", 
-        "id": 176, 
+        "id": 177, 
         "latitude": 40.680342423, 
         "location_key": "40.680342423,-73.9557689392", 
         "longitude": -73.9557689392
     }, 
-    "177": {
+    "178": {
         "altitude": 22.5378532409668, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "397 - Fulton St & Clermont Ave", 
-        "id": 177, 
+        "id": 178, 
         "latitude": 40.68415748, 
         "location_key": "40.68415748,-73.96922273", 
         "longitude": -73.96922273
     }, 
-    "178": {
+    "179": {
         "altitude": 6.465466499328613, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "398 - Atlantic Ave & Furman St", 
-        "id": 178, 
+        "id": 179, 
         "latitude": 40.69165183, 
         "location_key": "40.69165183,-73.9999786", 
         "longitude": -73.9999786
     }, 
-    "179": {
+    "180": {
         "altitude": 21.93759346008301, 
         "capacity": 27, 
         "description": "399 - Lafayette Ave & St James Pl", 
-        "id": 179, 
+        "id": 180, 
         "latitude": 40.68851534, 
         "location_key": "40.68851534,-73.9647628", 
         "longitude": -73.9647628
     }, 
-    "180": {
+    "181": {
         "altitude": 5.636767864227295, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "400 - Pitt St & Stanton St", 
-        "id": 180, 
+        "id": 181, 
         "latitude": 40.71926081, 
         "location_key": "40.71926081,-73.98178024", 
         "longitude": -73.98178024
     }, 
-    "181": {
+    "182": {
         "altitude": 11.64897346496582, 
-        "capacity": 42, 
+        "capacity": 32, 
         "description": "401 - Allen St & Rivington St", 
-        "id": 181, 
+        "id": 182, 
         "latitude": 40.72019576, 
         "location_key": "40.72019576,-73.98997825", 
         "longitude": -73.98997825
     }, 
-    "182": {
+    "183": {
         "altitude": 12.14274215698242, 
         "capacity": 41, 
         "description": "402 - Broadway & E 22 St", 
-        "id": 182, 
+        "id": 183, 
         "latitude": 40.7403432, 
         "location_key": "40.7403432,-73.98955109", 
         "longitude": -73.98955109
     }, 
-    "183": {
+    "184": {
         "altitude": 12.16056060791016, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "403 - E 2 St & 2 Ave", 
-        "id": 183, 
+        "id": 184, 
         "latitude": 40.72502876, 
         "location_key": "40.72502876,-73.99069656", 
         "longitude": -73.99069656
     }, 
-    "184": {
+    "185": {
         "altitude": 4.723545074462891, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "404 - 9 Ave & W 14 St", 
-        "id": 184, 
+        "id": 185, 
         "latitude": 40.7405826, 
         "location_key": "40.7405826,-74.00550867", 
         "longitude": -74.00550867
     }, 
-    "185": {
+    "186": {
         "altitude": 3.105351448059082, 
-        "capacity": 40, 
+        "capacity": 39, 
         "description": "405 - Washington St & Gansevoort St", 
-        "id": 185, 
+        "id": 186, 
         "latitude": 40.739323, 
         "location_key": "40.739323,-74.008119", 
         "longitude": -74.008119
     }, 
-    "186": {
+    "187": {
         "altitude": 22.56824111938477, 
-        "capacity": 34, 
+        "capacity": 33, 
         "description": "406 - Hicks St & Montague St", 
-        "id": 186, 
+        "id": 187, 
         "latitude": 40.69512845, 
         "location_key": "40.69512845,-73.99595065", 
         "longitude": -73.99595065
     }, 
-    "187": {
+    "188": {
         "altitude": 15.76805973052979, 
         "capacity": 43, 
         "description": "407 - Henry St & Poplar St", 
-        "id": 187, 
+        "id": 188, 
         "latitude": 40.700469, 
         "location_key": "40.700469,-73.991454", 
         "longitude": -73.991454
     }, 
-    "188": {
+    "189": {
         "altitude": 3.950069665908813, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "408 - Market St & Cherry St", 
-        "id": 188, 
+        "id": 189, 
         "latitude": 40.71076228, 
         "location_key": "40.71076228,-73.99400398", 
         "longitude": -73.99400398
     }, 
-    "189": {
+    "190": {
         "altitude": 14.95002174377441, 
-        "capacity": 19, 
+        "capacity": 16, 
         "description": "409 - DeKalb Ave & Skillman St", 
-        "id": 189, 
+        "id": 190, 
         "latitude": 40.6906495, 
         "location_key": "40.6906495,-73.95643107", 
         "longitude": -73.95643107
     }, 
-    "190": {
+    "191": {
         "altitude": 8.113755226135254, 
-        "capacity": 35, 
+        "capacity": 34, 
         "description": "410 - Suffolk St & Stanton St", 
-        "id": 190, 
+        "id": 191, 
         "latitude": 40.72066442, 
         "location_key": "40.72066442,-73.98517977", 
         "longitude": -73.98517977
     }, 
-    "191": {
+    "192": {
         "altitude": 3.178698301315308, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "411 - E 6 St & Avenue D", 
-        "id": 191, 
+        "id": 192, 
         "latitude": 40.72228087, 
         "location_key": "40.72228087,-73.97668709", 
         "longitude": -73.97668709
     }, 
-    "192": {
+    "193": {
         "altitude": 12.96333312988281, 
-        "capacity": 20, 
+        "capacity": 19, 
         "description": "412 - Forsyth St & Canal St", 
-        "id": 192, 
+        "id": 193, 
         "latitude": 40.7158155, 
         "location_key": "40.7158155,-73.99422366", 
         "longitude": -73.99422366
     }, 
-    "193": {
+    "194": {
         "altitude": 5.103337287902832, 
-        "capacity": 24, 
+        "capacity": 22, 
         "description": "414 - Pearl St & Anchorage Pl", 
-        "id": 193, 
+        "id": 194, 
         "latitude": 40.70281858, 
         "location_key": "40.70281858,-73.98765762", 
         "longitude": -73.98765762
     }, 
-    "194": {
+    "195": {
         "altitude": 3.327325582504272, 
-        "capacity": 42, 
+        "capacity": 41, 
         "description": "415 - Pearl St & Hanover Square", 
-        "id": 194, 
+        "id": 195, 
         "latitude": 40.7047177, 
         "location_key": "40.7047177,-74.00926027", 
         "longitude": -74.00926027
     }, 
-    "195": {
+    "196": {
         "altitude": 22.30744361877441, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "416 - Cumberland St & Lafayette Ave", 
-        "id": 195, 
+        "id": 196, 
         "latitude": 40.68753406, 
         "location_key": "40.68753406,-73.97265183", 
         "longitude": -73.97265183
     }, 
-    "196": {
+    "197": {
         "altitude": 6.361563682556152, 
-        "capacity": 45, 
+        "capacity": 43, 
         "description": "417 - Barclay St & Church St", 
-        "id": 196, 
+        "id": 197, 
         "latitude": 40.71291224, 
         "location_key": "40.71291224,-74.01020234", 
         "longitude": -74.01020234
     }, 
-    "197": {
+    "198": {
         "altitude": 12.08991050720215, 
-        "capacity": 23, 
+        "capacity": 21, 
         "description": "418 - Front St & Gold St", 
-        "id": 197, 
+        "id": 198, 
         "latitude": 40.70224, 
         "location_key": "40.70224,-73.982578", 
         "longitude": -73.982578
     }, 
-    "198": {
+    "199": {
         "altitude": 11.86963844299316, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "419 - Carlton Ave & Park Ave", 
-        "id": 198, 
+        "id": 199, 
         "latitude": 40.69580705, 
         "location_key": "40.69580705,-73.97355569", 
         "longitude": -73.97355569
     }, 
-    "199": {
+    "200": {
         "altitude": 27.98988151550293, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "420 - Clermont Ave & Lafayette Ave", 
-        "id": 199, 
+        "id": 200, 
         "latitude": 40.68764484, 
         "location_key": "40.68764484,-73.96968902", 
         "longitude": -73.96968902
     }, 
-    "200": {
+    "201": {
         "altitude": 11.81717491149902, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "421 - Clermont Ave & Park Ave", 
-        "id": 200, 
+        "id": 201, 
         "latitude": 40.69573398, 
         "location_key": "40.69573398,-73.97129668", 
         "longitude": -73.97129668
     }, 
-    "201": {
+    "202": {
         "altitude": 21.01825523376465, 
         "capacity": 55, 
         "description": "422 - W 59 St & 10 Ave", 
-        "id": 201, 
+        "id": 202, 
         "latitude": 40.770513, 
         "location_key": "40.770513,-73.988038", 
         "longitude": -73.988038
     }, 
-    "202": {
+    "203": {
         "altitude": 19.61312675476074, 
         "capacity": 39, 
         "description": "423 - W 54 St & 9 Ave", 
-        "id": 202, 
+        "id": 203, 
         "latitude": 40.76584941, 
         "location_key": "40.76584941,-73.98690506", 
         "longitude": -73.98690506
     }, 
-    "203": {
+    "204": {
         "altitude": 0.8131253719329834, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "426 - West St & Chambers St", 
-        "id": 203, 
+        "id": 204, 
         "latitude": 40.71754834, 
         "location_key": "40.71754834,-74.01322069", 
         "longitude": -74.01322069
     }, 
-    "204": {
-        "altitude": 2.620105743408203, 
-        "capacity": 59, 
-        "description": "427 - State St", 
-        "id": 204, 
-        "latitude": 40.70251526, 
-        "location_key": "40.70251526,-74.01427023", 
-        "longitude": -74.01427023
-    }, 
     "205": {
-        "altitude": 10.00816822052002, 
-        "capacity": 31, 
-        "description": "428 - E 3 St & 1 Ave", 
+        "altitude": 2.25273609161377, 
+        "capacity": 47, 
+        "description": "427 - Bus Slip & State St", 
         "id": 205, 
+        "latitude": 40.701907, 
+        "location_key": "40.701907,-74.013942", 
+        "longitude": -74.013942
+    }, 
+    "206": {
+        "altitude": 10.00816822052002, 
+        "capacity": 29, 
+        "description": "428 - E 3 St & 1 Ave", 
+        "id": 206, 
         "latitude": 40.72467721, 
         "location_key": "40.72467721,-73.98783413", 
         "longitude": -73.98783413
     }, 
-    "206": {
+    "207": {
         "altitude": 12.58204364776611, 
         "capacity": 27, 
         "description": "430 - York St & Jay St", 
-        "id": 206, 
+        "id": 207, 
         "latitude": 40.7014851, 
         "location_key": "40.7014851,-73.98656928", 
         "longitude": -73.98656928
     }, 
-    "207": {
+    "208": {
         "altitude": 12.08163833618164, 
-        "capacity": 30, 
+        "capacity": 29, 
         "description": "431 - Hanover Pl & Livingston St", 
-        "id": 207, 
+        "id": 208, 
         "latitude": 40.68864636, 
         "location_key": "40.68864636,-73.98263429", 
         "longitude": -73.98263429
     }, 
-    "208": {
+    "209": {
         "altitude": 6.305521965026855, 
         "capacity": 31, 
         "description": "432 - E 7 St & Avenue A", 
-        "id": 208, 
+        "id": 209, 
         "latitude": 40.72621788, 
         "location_key": "40.72621788,-73.98379855", 
         "longitude": -73.98379855
     }, 
-    "209": {
+    "210": {
         "altitude": 4.54881477355957, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "433 - E 13 St & Avenue A", 
-        "id": 209, 
+        "id": 210, 
         "latitude": 40.72955361, 
         "location_key": "40.72955361,-73.98057249", 
         "longitude": -73.98057249
     }, 
-    "210": {
+    "211": {
         "altitude": 4.770136833190918, 
         "capacity": 27, 
         "description": "434 - 9 Ave & W 18 St", 
-        "id": 210, 
+        "id": 211, 
         "latitude": 40.74317449, 
         "location_key": "40.74317449,-74.00366443", 
         "longitude": -74.00366443
     }, 
-    "211": {
+    "212": {
         "altitude": 9.829465866088867, 
-        "capacity": 47, 
+        "capacity": 45, 
         "description": "435 - W 21 St & 6 Ave", 
-        "id": 211, 
+        "id": 212, 
         "latitude": 40.74173969, 
         "location_key": "40.74173969,-73.99415556", 
         "longitude": -73.99415556
     }, 
-    "212": {
+    "213": {
         "altitude": 19.85752296447754, 
         "capacity": 27, 
         "description": "436 - Hancock St & Bedford Ave", 
-        "id": 212, 
+        "id": 213, 
         "latitude": 40.68216564, 
         "location_key": "40.68216564,-73.95399026", 
         "longitude": -73.95399026
     }, 
-    "213": {
+    "214": {
         "altitude": 16.82562446594238, 
-        "capacity": 27, 
+        "capacity": 0, 
         "description": "437 - Macon St & Nostrand Ave", 
-        "id": 213, 
+        "id": 214, 
         "latitude": 40.6809833854, 
         "location_key": "40.6809833854,-73.9500479759", 
         "longitude": -73.9500479759
     }, 
-    "214": {
+    "215": {
         "altitude": 7.801937580108643, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "438 - St Marks Pl & 1 Ave", 
-        "id": 214, 
+        "id": 215, 
         "latitude": 40.72779126, 
         "location_key": "40.72779126,-73.98564945", 
         "longitude": -73.98564945
     }, 
-    "215": {
+    "216": {
         "altitude": 11.47091674804688, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "439 - E 4 St & 2 Ave", 
-        "id": 215, 
+        "id": 216, 
         "latitude": 40.7262807, 
         "location_key": "40.7262807,-73.98978041", 
         "longitude": -73.98978041
     }, 
-    "216": {
+    "217": {
         "altitude": 12.77112674713135, 
         "capacity": 32, 
         "description": "440 - E 45 St & 3 Ave", 
-        "id": 216, 
+        "id": 217, 
         "latitude": 40.75255434, 
         "location_key": "40.75255434,-73.97282625", 
         "longitude": -73.97282625
     }, 
-    "217": {
+    "218": {
         "altitude": 9.283332824707031, 
         "capacity": 35, 
         "description": "441 - E 52 St & 2 Ave", 
-        "id": 217, 
+        "id": 218, 
         "latitude": 40.756014, 
         "location_key": "40.756014,-73.967416", 
         "longitude": -73.967416
     }, 
-    "218": {
+    "219": {
         "altitude": 9.730679512023926, 
-        "capacity": 51, 
+        "capacity": 50, 
         "description": "442 - W 27 St & 7 Ave", 
-        "id": 218, 
+        "id": 219, 
         "latitude": 40.746647, 
         "location_key": "40.746647,-73.993915", 
         "longitude": -73.993915
     }, 
-    "219": {
+    "220": {
         "altitude": 12.35206127166748, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "443 - Bedford Ave & S 9th St", 
-        "id": 219, 
+        "id": 220, 
         "latitude": 40.70853074, 
         "location_key": "40.70853074,-73.96408963", 
         "longitude": -73.96408963
     }, 
-    "220": {
+    "221": {
         "altitude": 12.15310573577881, 
-        "capacity": 52, 
+        "capacity": 51, 
         "description": "444 - Broadway & W 24 St", 
-        "id": 220, 
+        "id": 221, 
         "latitude": 40.7423543, 
         "location_key": "40.7423543,-73.98915076", 
         "longitude": -73.98915076
     }, 
-    "221": {
+    "222": {
         "altitude": 4.826293468475342, 
         "capacity": 42, 
         "description": "445 - E 10 St & Avenue A", 
-        "id": 221, 
+        "id": 222, 
         "latitude": 40.72740794, 
         "location_key": "40.72740794,-73.98142006", 
         "longitude": -73.98142006
     }, 
-    "222": {
+    "223": {
         "altitude": 8.760540962219238, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "446 - W 24 St & 7 Ave", 
-        "id": 222, 
+        "id": 223, 
         "latitude": 40.74487634, 
         "location_key": "40.74487634,-73.99529885", 
         "longitude": -73.99529885
     }, 
-    "223": {
+    "224": {
         "altitude": 19.39497566223145, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "447 - 8 Ave & W 52 St", 
-        "id": 223, 
+        "id": 224, 
         "latitude": 40.76370739, 
         "location_key": "40.76370739,-73.9851615", 
         "longitude": -73.9851615
     }, 
-    "224": {
+    "225": {
         "altitude": 11.96016407012939, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "448 - W 37 St & 10 Ave", 
-        "id": 224, 
+        "id": 225, 
         "latitude": 40.75660359, 
         "location_key": "40.75660359,-73.9979009", 
         "longitude": -73.9979009
     }, 
-    "225": {
+    "226": {
         "altitude": 17.23615455627441, 
         "capacity": 31, 
         "description": "449 - W 52 St & 9 Ave", 
-        "id": 225, 
+        "id": 226, 
         "latitude": 40.76461837, 
         "location_key": "40.76461837,-73.98789473", 
         "longitude": -73.98789473
     }, 
-    "226": {
+    "227": {
         "altitude": 16.17909622192383, 
-        "capacity": 59, 
+        "capacity": 58, 
         "description": "450 - W 49 St & 8 Ave", 
-        "id": 226, 
+        "id": 227, 
         "latitude": 40.76227205, 
         "location_key": "40.76227205,-73.98788205", 
         "longitude": -73.98788205
     }, 
-    "227": {
+    "228": {
         "altitude": 6.408062934875488, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "453 - W 22 St & 8 Ave", 
-        "id": 227, 
+        "id": 228, 
         "latitude": 40.74475148, 
         "location_key": "40.74475148,-73.99915362", 
         "longitude": -73.99915362
     }, 
-    "228": {
+    "229": {
         "altitude": 11.5887336730957, 
-        "capacity": 35, 
+        "capacity": 32, 
         "description": "454 - E 51 St & 1 Ave", 
-        "id": 228, 
+        "id": 229, 
         "latitude": 40.75455731, 
         "location_key": "40.75455731,-73.96592976", 
         "longitude": -73.96592976
     }, 
-    "229": {
+    "230": {
         "altitude": 14.43118762969971, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "455 - 1 Ave & E 44 St", 
-        "id": 229, 
+        "id": 230, 
         "latitude": 40.75001986, 
         "location_key": "40.75001986,-73.96905301", 
         "longitude": -73.96905301
     }, 
-    "230": {
+    "231": {
         "altitude": 17.54767227172852, 
-        "capacity": 35, 
+        "capacity": 33, 
         "description": "456 - E 53 St & Madison Ave", 
-        "id": 230, 
+        "id": 231, 
         "latitude": 40.7597108, 
         "location_key": "40.7597108,-73.97402311", 
         "longitude": -73.97402311
     }, 
-    "231": {
+    "232": {
         "altitude": 23.71086311340332, 
-        "capacity": 59, 
+        "capacity": 56, 
         "description": "457 - Broadway & W 58 St", 
-        "id": 231, 
+        "id": 232, 
         "latitude": 40.76695317, 
         "location_key": "40.76695317,-73.98169333", 
         "longitude": -73.98169333
     }, 
-    "232": {
+    "233": {
         "altitude": 2.586644887924194, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "458 - 11 Ave & W 27 St", 
-        "id": 232, 
+        "id": 233, 
         "latitude": 40.751396, 
         "location_key": "40.751396,-74.005226", 
         "longitude": -74.005226
     }, 
-    "233": {
+    "234": {
         "altitude": 1.470265626907349, 
-        "capacity": 49, 
+        "capacity": 43, 
         "description": "459 - W 20 St & 11 Ave", 
-        "id": 233, 
+        "id": 234, 
         "latitude": 40.746745, 
         "location_key": "40.746745,-74.007756", 
         "longitude": -74.007756
     }, 
-    "234": {
+    "235": {
         "altitude": 11.47768211364746, 
         "capacity": 23, 
         "description": "460 - S 4 St & Wythe Ave", 
-        "id": 234, 
+        "id": 235, 
         "latitude": 40.71285887, 
         "location_key": "40.71285887,-73.96590294", 
         "longitude": -73.96590294
     }, 
-    "235": {
+    "236": {
         "altitude": 6.702928066253662, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "461 - E 20 St & 2 Ave", 
-        "id": 235, 
+        "id": 236, 
         "latitude": 40.73587678, 
         "location_key": "40.73587678,-73.98205027", 
         "longitude": -73.98205027
     }, 
-    "236": {
+    "237": {
         "altitude": 3.498780727386475, 
-        "capacity": 47, 
+        "capacity": 45, 
         "description": "462 - W 22 St & 10 Ave", 
-        "id": 236, 
+        "id": 237, 
         "latitude": 40.74691959, 
         "location_key": "40.74691959,-74.00451887", 
         "longitude": -74.00451887
     }, 
-    "237": {
+    "238": {
         "altitude": 4.78708028793335, 
-        "capacity": 25, 
+        "capacity": 23, 
         "description": "463 - 9 Ave & W 16 St", 
-        "id": 237, 
+        "id": 238, 
         "latitude": 40.74206539, 
         "location_key": "40.74206539,-74.00443172", 
         "longitude": -74.00443172
     }, 
-    "238": {
+    "239": {
         "altitude": 11.78823947906494, 
-        "capacity": 59, 
+        "capacity": 55, 
         "description": "464 - E 56 St & 3 Ave", 
-        "id": 238, 
+        "id": 239, 
         "latitude": 40.75934501, 
         "location_key": "40.75934501,-73.96759673", 
         "longitude": -73.96759673
     }, 
-    "239": {
+    "240": {
         "altitude": 17.19499397277832, 
         "capacity": 39, 
         "description": "465 - Broadway & W 41 St", 
-        "id": 239, 
+        "id": 240, 
         "latitude": 40.75513557, 
         "location_key": "40.75513557,-73.98658032", 
         "longitude": -73.98658032
     }, 
-    "240": {
+    "241": {
         "altitude": 11.61767578125, 
-        "capacity": 35, 
+        "capacity": 34, 
         "description": "466 - W 25 St & 6 Ave", 
-        "id": 240, 
+        "id": 241, 
         "latitude": 40.74395411, 
         "location_key": "40.74395411,-73.99144871", 
         "longitude": -73.99144871
     }, 
-    "241": {
+    "242": {
         "altitude": 11.34321689605713, 
         "capacity": 34, 
         "description": "467 - Dean St & 4 Ave", 
-        "id": 241, 
+        "id": 242, 
         "latitude": 40.68312489, 
         "location_key": "40.68312489,-73.97895137", 
         "longitude": -73.97895137
     }, 
-    "242": {
+    "243": {
         "altitude": 23.37019157409668, 
-        "capacity": 59, 
+        "capacity": 54, 
         "description": "468 - Broadway & W 55 St", 
-        "id": 242, 
+        "id": 243, 
         "latitude": 40.7652654, 
         "location_key": "40.7652654,-73.98192338", 
         "longitude": -73.98192338
     }, 
-    "243": {
+    "244": {
         "altitude": 21.32698440551758, 
-        "capacity": 57, 
+        "capacity": 53, 
         "description": "469 - Broadway & W 53 St", 
-        "id": 243, 
+        "id": 244, 
         "latitude": 40.76344058, 
         "location_key": "40.76344058,-73.98268129", 
         "longitude": -73.98268129
     }, 
-    "244": {
+    "245": {
         "altitude": 6.203921318054199, 
-        "capacity": 37, 
+        "capacity": 35, 
         "description": "470 - W 20 St & 8 Ave", 
-        "id": 244, 
+        "id": 245, 
         "latitude": 40.74345335, 
         "location_key": "40.74345335,-74.00004031", 
         "longitude": -74.00004031
     }, 
-    "245": {
+    "246": {
         "altitude": 8.257381439208984, 
-        "capacity": 27, 
+        "capacity": 30, 
         "description": "471 - Grand St & Havemeyer St", 
-        "id": 245, 
+        "id": 246, 
         "latitude": 40.71286844, 
         "location_key": "40.71286844,-73.95698119", 
         "longitude": -73.95698119
     }, 
-    "246": {
+    "247": {
         "altitude": 13.78153896331787, 
-        "capacity": 41, 
+        "capacity": 39, 
         "description": "472 - E 32 St & Park Ave", 
-        "id": 246, 
+        "id": 247, 
         "latitude": 40.7457121, 
         "location_key": "40.7457121,-73.98194829", 
         "longitude": -73.98194829
     }, 
-    "247": {
+    "248": {
         "altitude": 12.48297882080078, 
         "capacity": 42, 
         "description": "473 - Rivington St & Chrystie St", 
-        "id": 247, 
+        "id": 248, 
         "latitude": 40.72110063, 
         "location_key": "40.72110063,-73.9919254", 
         "longitude": -73.9919254
     }, 
-    "248": {
+    "249": {
         "altitude": 12.71470832824707, 
-        "capacity": 47, 
+        "capacity": 46, 
         "description": "474 - 5 Ave & E 29 St", 
-        "id": 248, 
+        "id": 249, 
         "latitude": 40.7451677, 
         "location_key": "40.7451677,-73.98683077", 
         "longitude": -73.98683077
     }, 
-    "249": {
+    "250": {
         "altitude": 11.03224277496338, 
-        "capacity": 31, 
+        "capacity": 35, 
         "description": "475 - E 16 St & Irving Pl", 
-        "id": 249, 
+        "id": 250, 
         "latitude": 40.73524276, 
         "location_key": "40.73524276,-73.98758561", 
         "longitude": -73.98758561
     }, 
-    "250": {
+    "251": {
         "altitude": 9.08454704284668, 
-        "capacity": 47, 
+        "capacity": 45, 
         "description": "476 - E 31 St & 3 Ave", 
-        "id": 250, 
+        "id": 251, 
         "latitude": 40.74394314, 
         "location_key": "40.74394314,-73.97966069", 
         "longitude": -73.97966069
     }, 
-    "251": {
+    "252": {
         "altitude": 12.9726505279541, 
         "capacity": 59, 
         "description": "477 - W 41 St & 8 Ave", 
-        "id": 251, 
+        "id": 252, 
         "latitude": 40.75640548, 
         "location_key": "40.75640548,-73.9900262", 
         "longitude": -73.9900262
     }, 
-    "252": {
+    "253": {
         "altitude": 5.251552581787109, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "478 - 11 Ave & W 41 St", 
-        "id": 252, 
+        "id": 253, 
         "latitude": 40.76030096, 
         "location_key": "40.76030096,-73.99884222", 
         "longitude": -73.99884222
     }, 
-    "253": {
+    "254": {
         "altitude": 11.27345848083496, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "479 - 9 Ave & W 45 St", 
-        "id": 253, 
+        "id": 254, 
         "latitude": 40.76019252, 
         "location_key": "40.76019252,-73.9912551", 
         "longitude": -73.9912551
     }, 
-    "254": {
+    "255": {
         "altitude": 8.216376304626465, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "480 - W 53 St & 10 Ave", 
-        "id": 254, 
+        "id": 255, 
         "latitude": 40.76669671, 
         "location_key": "40.76669671,-73.99061728", 
         "longitude": -73.99061728
     }, 
-    "255": {
+    "256": {
         "altitude": 15.72966766357422, 
         "capacity": 25, 
         "description": "481 - S 3 St & Bedford Ave", 
-        "id": 255, 
+        "id": 256, 
         "latitude": 40.71260486, 
         "location_key": "40.71260486,-73.96264403", 
         "longitude": -73.96264403
     }, 
-    "256": {
+    "257": {
         "altitude": 7.95569372177124, 
         "capacity": 39, 
         "description": "482 - W 15 St & 7 Ave", 
-        "id": 256, 
+        "id": 257, 
         "latitude": 40.73935542, 
         "location_key": "40.73935542,-73.99931783", 
         "longitude": -73.99931783
     }, 
-    "257": {
+    "258": {
         "altitude": 11.802809715271, 
         "capacity": 35, 
         "description": "483 - E 12 St & 3 Ave", 
-        "id": 257, 
+        "id": 258, 
         "latitude": 40.73223272, 
         "location_key": "40.73223272,-73.98889957", 
         "longitude": -73.98889957
     }, 
-    "258": {
+    "259": {
         "altitude": 19.68123817443848, 
-        "capacity": 44, 
+        "capacity": 41, 
         "description": "484 - W 44 St & 5 Ave", 
-        "id": 258, 
+        "id": 259, 
         "latitude": 40.75500254, 
         "location_key": "40.75500254,-73.98014437", 
         "longitude": -73.98014437
     }, 
-    "259": {
+    "260": {
         "altitude": 21.96790885925293, 
         "capacity": 39, 
         "description": "485 - W 37 St & 5 Ave", 
-        "id": 259, 
+        "id": 260, 
         "latitude": 40.75038009, 
         "location_key": "40.75038009,-73.98338988", 
         "longitude": -73.98338988
     }, 
-    "260": {
+    "261": {
         "altitude": 12.95073509216309, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "486 - Broadway & W 29 St", 
-        "id": 260, 
+        "id": 261, 
         "latitude": 40.7462009, 
         "location_key": "40.7462009,-73.98855723", 
         "longitude": -73.98855723
     }, 
-    "261": {
+    "262": {
         "altitude": 1.301196455955505, 
-        "capacity": 36, 
+        "capacity": 34, 
         "description": "487 - E 20 St & FDR Drive", 
-        "id": 261, 
+        "id": 262, 
         "latitude": 40.73314259, 
         "location_key": "40.73314259,-73.97573881", 
         "longitude": -73.97573881
     }, 
-    "262": {
+    "263": {
         "altitude": 9.947636604309082, 
-        "capacity": 41, 
+        "capacity": 38, 
         "description": "488 - W 39 St & 9 Ave", 
-        "id": 262, 
+        "id": 263, 
         "latitude": 40.75645824, 
         "location_key": "40.75645824,-73.99372222", 
         "longitude": -73.99372222
     }, 
-    "263": {
+    "264": {
         "altitude": 5.079331398010254, 
-        "capacity": 37, 
+        "capacity": 32, 
         "description": "489 - 10 Ave & W 28 St", 
-        "id": 263, 
+        "id": 264, 
         "latitude": 40.75066386, 
         "location_key": "40.75066386,-74.00176802", 
         "longitude": -74.00176802
     }, 
-    "264": {
+    "265": {
         "altitude": 10.97889423370361, 
-        "capacity": 59, 
+        "capacity": 58, 
         "description": "490 - 8 Ave & W 33 St", 
-        "id": 264, 
+        "id": 265, 
         "latitude": 40.751551, 
         "location_key": "40.751551,-73.993934", 
         "longitude": -73.993934
     }, 
-    "265": {
+    "266": {
         "altitude": 10.58119678497314, 
-        "capacity": 53, 
+        "capacity": 50, 
         "description": "491 - E 24 St & Park Ave S", 
-        "id": 265, 
+        "id": 266, 
         "latitude": 40.74096374, 
         "location_key": "40.74096374,-73.98602213", 
         "longitude": -73.98602213
     }, 
-    "266": {
+    "267": {
         "altitude": 11.94965076446533, 
         "capacity": 49, 
         "description": "492 - W 33 St & 7 Ave", 
-        "id": 266, 
+        "id": 267, 
         "latitude": 40.75019995, 
         "location_key": "40.75019995,-73.99093085", 
         "longitude": -73.99093085
     }, 
-    "267": {
+    "268": {
         "altitude": 18.2083625793457, 
         "capacity": 34, 
         "description": "493 - W 45 St & 6 Ave", 
-        "id": 267, 
+        "id": 268, 
         "latitude": 40.7568001, 
         "location_key": "40.7568001,-73.98291153", 
         "longitude": -73.98291153
     }, 
-    "268": {
+    "269": {
         "altitude": 7.650093555450439, 
-        "capacity": 35, 
+        "capacity": 33, 
         "description": "494 - W 26 St & 8 Ave", 
-        "id": 268, 
+        "id": 269, 
         "latitude": 40.74734825, 
         "location_key": "40.74734825,-73.99723551", 
         "longitude": -73.99723551
     }, 
-    "269": {
+    "270": {
         "altitude": 9.275535583496094, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "495 - W 47 St & 10 Ave", 
-        "id": 269, 
+        "id": 270, 
         "latitude": 40.76269882, 
         "location_key": "40.76269882,-73.99301222", 
         "longitude": -73.99301222
     }, 
-    "270": {
+    "271": {
         "altitude": 11.61239719390869, 
         "capacity": 47, 
         "description": "496 - E 16 St & 5 Ave", 
-        "id": 270, 
+        "id": 271, 
         "latitude": 40.73726186, 
         "location_key": "40.73726186,-73.99238967", 
         "longitude": -73.99238967
     }, 
-    "271": {
+    "272": {
         "altitude": 12.35044574737549, 
-        "capacity": 59, 
+        "capacity": 57, 
         "description": "497 - E 17 St & Broadway", 
-        "id": 271, 
+        "id": 272, 
         "latitude": 40.73704984, 
         "location_key": "40.73704984,-73.99009296", 
         "longitude": -73.99009296
     }, 
-    "272": {
+    "273": {
         "altitude": 13.41783332824707, 
         "capacity": 30, 
         "description": "498 - Broadway & W 32 St", 
-        "id": 272, 
+        "id": 273, 
         "latitude": 40.74854862, 
         "location_key": "40.74854862,-73.98808416", 
         "longitude": -73.98808416
     }, 
-    "273": {
+    "274": {
         "altitude": 24.50290489196777, 
         "capacity": 36, 
         "description": "499 - Broadway & W 60 St", 
-        "id": 273, 
+        "id": 274, 
         "latitude": 40.76915505, 
         "location_key": "40.76915505,-73.98191841", 
         "longitude": -73.98191841
     }, 
-    "274": {
+    "275": {
         "altitude": 18.97865867614746, 
-        "capacity": 52, 
+        "capacity": 42, 
         "description": "500 - Broadway & W 51 St", 
-        "id": 274, 
+        "id": 275, 
         "latitude": 40.76228826, 
         "location_key": "40.76228826,-73.98336183", 
         "longitude": -73.98336183
     }, 
-    "275": {
+    "276": {
         "altitude": 0.2265535295009613, 
-        "capacity": 43, 
+        "capacity": 41, 
         "description": "501 - FDR Drive & E 35 St", 
-        "id": 275, 
+        "id": 276, 
         "latitude": 40.744219, 
         "location_key": "40.744219,-73.97121214", 
         "longitude": -73.97121214
     }, 
-    "276": {
+    "277": {
         "altitude": 9.389431953430176, 
         "capacity": 30, 
         "description": "502 - Henry St & Grand St", 
-        "id": 276, 
+        "id": 277, 
         "latitude": 40.714215, 
         "location_key": "40.714215,-73.981346", 
         "longitude": -73.981346
     }, 
-    "277": {
+    "278": {
         "altitude": 11.00324153900146, 
-        "capacity": 29, 
+        "capacity": 5, 
         "description": "503 - E 20 St & Park Ave", 
-        "id": 277, 
+        "id": 278, 
         "latitude": 40.73827428, 
         "location_key": "40.73827428,-73.98751968", 
         "longitude": -73.98751968
     }, 
-    "278": {
+    "279": {
         "altitude": 5.952555179595947, 
-        "capacity": 45, 
+        "capacity": 44, 
         "description": "504 - 1 Ave & E 15 St", 
-        "id": 278, 
+        "id": 279, 
         "latitude": 40.73221853, 
         "location_key": "40.73221853,-73.98165557", 
         "longitude": -73.98165557
     }, 
-    "279": {
+    "280": {
         "altitude": 13.17009735107422, 
-        "capacity": 36, 
+        "capacity": 35, 
         "description": "505 - 6 Ave & W 33 St", 
-        "id": 279, 
+        "id": 280, 
         "latitude": 40.74901271, 
         "location_key": "40.74901271,-73.98848395", 
         "longitude": -73.98848395
     }, 
-    "280": {
+    "281": {
         "altitude": 8.87784194946289, 
-        "capacity": 44, 
+        "capacity": 42, 
         "description": "507 - E 25 St & 2 Ave", 
-        "id": 280, 
+        "id": 281, 
         "latitude": 40.73912601, 
         "location_key": "40.73912601,-73.97973776", 
         "longitude": -73.97973776
     }, 
-    "281": {
+    "282": {
         "altitude": 5.061193943023682, 
         "capacity": 24, 
         "description": "508 - W 46 St & 11 Ave", 
-        "id": 281, 
+        "id": 282, 
         "latitude": 40.76341379, 
         "location_key": "40.76341379,-73.99667444", 
         "longitude": -73.99667444
     }, 
-    "282": {
+    "283": {
         "altitude": 4.956368923187256, 
-        "capacity": 34, 
+        "capacity": 33, 
         "description": "509 - 9 Ave & W 22 St", 
-        "id": 282, 
+        "id": 283, 
         "latitude": 40.7454973, 
         "location_key": "40.7454973,-74.00197139", 
         "longitude": -74.00197139
     }, 
-    "283": {
+    "284": {
         "altitude": 18.75548362731934, 
-        "capacity": 51, 
+        "capacity": 49, 
         "description": "510 - W 51 St & 6 Ave", 
-        "id": 283, 
+        "id": 284, 
         "latitude": 40.7606597, 
         "location_key": "40.7606597,-73.98042047", 
         "longitude": -73.98042047
     }, 
-    "284": {
+    "285": {
         "altitude": 3.026188611984253, 
         "capacity": 33, 
         "description": "511 - E 14 St & Avenue B", 
-        "id": 284, 
+        "id": 285, 
         "latitude": 40.72938685, 
         "location_key": "40.72938685,-73.97772429", 
         "longitude": -73.97772429
     }, 
-    "285": {
+    "286": {
         "altitude": 8.65414047241211, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "512 - W 29 St & 9 Ave", 
-        "id": 285, 
+        "id": 286, 
         "latitude": 40.7500727, 
         "location_key": "40.7500727,-73.99839279", 
         "longitude": -73.99839279
     }, 
-    "286": {
+    "287": {
         "altitude": 15.92415809631348, 
         "capacity": 27, 
         "description": "513 - W 56 St & 10 Ave", 
-        "id": 286, 
+        "id": 287, 
         "latitude": 40.768254, 
         "location_key": "40.768254,-73.988639", 
         "longitude": -73.988639
     }, 
-    "287": {
+    "288": {
         "altitude": 0.8610917925834656, 
-        "capacity": 53, 
+        "capacity": 52, 
         "description": "514 - 12 Ave & W 40 St", 
-        "id": 287, 
+        "id": 288, 
         "latitude": 40.76087502, 
         "location_key": "40.76087502,-74.00277668", 
         "longitude": -74.00277668
     }, 
-    "288": {
+    "289": {
         "altitude": 7.754626750946045, 
         "capacity": 35, 
         "description": "515 - W 43 St & 10 Ave", 
-        "id": 288, 
+        "id": 289, 
         "latitude": 40.76009437, 
         "location_key": "40.76009437,-73.99461843", 
         "longitude": -73.99461843
     }, 
-    "289": {
+    "290": {
         "altitude": 9.596867561340332, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "516 - E 47 St & 1 Ave", 
-        "id": 289, 
+        "id": 290, 
         "latitude": 40.75206862, 
         "location_key": "40.75206862,-73.96784384", 
         "longitude": -73.96784384
     }, 
-    "290": {
+    "291": {
         "altitude": 21.33320617675781, 
-        "capacity": 55, 
+        "capacity": 53, 
         "description": "517 - E 41 St & Madison Ave", 
-        "id": 290, 
+        "id": 291, 
         "latitude": 40.752141, 
         "location_key": "40.752141,-73.979782", 
         "longitude": -73.979782
     }, 
-    "291": {
+    "292": {
         "altitude": 9.380739212036133, 
         "capacity": 39, 
         "description": "518 - E 39 St & 2 Ave", 
-        "id": 291, 
+        "id": 292, 
         "latitude": 40.74780373, 
         "location_key": "40.74780373,-73.9734419", 
         "longitude": -73.9734419
     }, 
-    "292": {
+    "293": {
         "altitude": 17.65460395812988, 
         "capacity": 61, 
         "description": "519 - E 42 St & Vanderbilt Ave", 
-        "id": 292, 
+        "id": 293, 
         "latitude": 40.752416, 
         "location_key": "40.752416,-73.97837", 
         "longitude": -73.97837
     }, 
-    "293": {
+    "294": {
         "altitude": 21.27482032775879, 
         "capacity": 39, 
         "description": "520 - W 52 St & 5 Ave", 
-        "id": 293, 
+        "id": 294, 
         "latitude": 40.75992262, 
         "location_key": "40.75992262,-73.97648516", 
         "longitude": -73.97648516
     }, 
-    "294": {
+    "295": {
         "altitude": 10.45131683349609, 
-        "capacity": 67, 
+        "capacity": 65, 
         "description": "521 - 8 Ave & W 31 St", 
-        "id": 294, 
+        "id": 295, 
         "latitude": 40.75044999, 
         "location_key": "40.75044999,-73.99481051", 
         "longitude": -73.99481051
     }, 
-    "295": {
+    "296": {
         "altitude": 14.49825096130371, 
-        "capacity": 51, 
+        "capacity": 50, 
         "description": "522 - E 51 St & Lexington Ave", 
-        "id": 295, 
+        "id": 296, 
         "latitude": 40.75714758, 
         "location_key": "40.75714758,-73.97207836", 
         "longitude": -73.97207836
     }, 
-    "296": {
+    "297": {
         "altitude": 11.35082626342773, 
-        "capacity": 51, 
+        "capacity": 50, 
         "description": "523 - W 38 St & 8 Ave", 
-        "id": 296, 
+        "id": 297, 
         "latitude": 40.75466591, 
         "location_key": "40.75466591,-73.99138152", 
         "longitude": -73.99138152
     }, 
-    "297": {
+    "298": {
         "altitude": 19.43756675720215, 
         "capacity": 3, 
         "description": "524 - W 43 St & 6 Ave", 
-        "id": 297, 
+        "id": 298, 
         "latitude": 40.75527307, 
         "location_key": "40.75527307,-73.98316936", 
         "longitude": -73.98316936
     }, 
-    "298": {
+    "299": {
         "altitude": 7.165572643280029, 
         "capacity": 39, 
         "description": "525 - W 34 St & 11 Ave", 
-        "id": 298, 
+        "id": 299, 
         "latitude": 40.75594159, 
         "location_key": "40.75594159,-74.0021163", 
         "longitude": -74.0021163
     }, 
-    "299": {
+    "300": {
         "altitude": 14.47594833374023, 
-        "capacity": 40, 
+        "capacity": 35, 
         "description": "526 - E 33 St & 5 Ave", 
-        "id": 299, 
+        "id": 300, 
         "latitude": 40.74765947, 
         "location_key": "40.74765947,-73.98490707", 
         "longitude": -73.98490707
     }, 
-    "300": {
+    "301": {
         "altitude": 3.460205793380737, 
-        "capacity": 59, 
+        "capacity": 55, 
         "description": "527 - E 33 St & 1 Ave", 
-        "id": 300, 
+        "id": 301, 
         "latitude": 40.74315566, 
         "location_key": "40.74315566,-73.97434726", 
         "longitude": -73.97434726
     }, 
-    "301": {
+    "302": {
         "altitude": 8.886882781982422, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "528 - 2 Ave & E 31 St", 
-        "id": 301, 
+        "id": 302, 
         "latitude": 40.74290902, 
         "location_key": "40.74290902,-73.97706058", 
         "longitude": -73.97706058
     }, 
-    "302": {
+    "303": {
         "altitude": 11.82651233673096, 
-        "capacity": 41, 
+        "capacity": 40, 
         "description": "529 - W 42 St & 8 Ave", 
-        "id": 302, 
+        "id": 303, 
         "latitude": 40.7575699, 
         "location_key": "40.7575699,-73.99098507", 
         "longitude": -73.99098507
     }, 
-    "303": {
+    "304": {
+        "altitude": 5.767120838165283, 
+        "capacity": 36, 
+        "description": "530 - 11 Ave & W 59 St", 
+        "id": 304, 
+        "latitude": 40.771522, 
+        "location_key": "40.771522,-73.990541", 
+        "longitude": -73.990541
+    }, 
+    "305": {
         "altitude": 12.12973022460938, 
         "capacity": 39, 
         "description": "531 - Forsyth St & Broome St", 
-        "id": 303, 
+        "id": 305, 
         "latitude": 40.71893904, 
         "location_key": "40.71893904,-73.99266288", 
         "longitude": -73.99266288
     }, 
-    "304": {
+    "306": {
         "altitude": 14.93556022644043, 
-        "capacity": 43, 
+        "capacity": 41, 
         "description": "532 - S 5 Pl & S 4 St", 
-        "id": 304, 
+        "id": 306, 
         "latitude": 40.710451, 
         "location_key": "40.710451,-73.960876", 
         "longitude": -73.960876
     }, 
-    "305": {
+    "307": {
         "altitude": 16.49018859863281, 
-        "capacity": 50, 
+        "capacity": 49, 
         "description": "533 - Broadway & W 39 St", 
-        "id": 305, 
+        "id": 307, 
         "latitude": 40.75299641, 
         "location_key": "40.75299641,-73.98721619", 
         "longitude": -73.98721619
     }, 
-    "306": {
+    "308": {
         "altitude": 1.805472612380981, 
         "capacity": 31, 
         "description": "534 - Water - Whitehall Plaza", 
-        "id": 306, 
+        "id": 308, 
         "latitude": 40.70255065, 
         "location_key": "40.70255065,-74.0127234", 
         "longitude": -74.0127234
     }, 
-    "307": {
+    "309": {
         "altitude": 6.452242851257324, 
         "capacity": 29, 
         "description": "536 - 1 Ave & E 30 St", 
-        "id": 307, 
+        "id": 309, 
         "latitude": 40.74144387, 
         "location_key": "40.74144387,-73.97536082", 
         "longitude": -73.97536082
     }, 
-    "308": {
+    "310": {
         "altitude": 9.06131362915039, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "537 - Lexington Ave & E 24 St", 
-        "id": 308, 
+        "id": 310, 
         "latitude": 40.74025878, 
         "location_key": "40.74025878,-73.98409214", 
         "longitude": -73.98409214
     }, 
-    "309": {
+    "311": {
         "altitude": 21.21010398864746, 
-        "capacity": 39, 
+        "capacity": 35, 
         "description": "538 - W 49 St & 5 Ave", 
-        "id": 309, 
+        "id": 311, 
         "latitude": 40.75795248, 
         "location_key": "40.75795248,-73.97787642", 
         "longitude": -73.97787642
     }, 
-    "310": {
+    "312": {
         "altitude": 10.69550514221191, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "539 - Metropolitan Ave & Bedford Ave", 
-        "id": 310, 
+        "id": 312, 
         "latitude": 40.71534825, 
         "location_key": "40.71534825,-73.96024116", 
         "longitude": -73.96024116
     }, 
-    "311": {
+    "313": {
         "altitude": 10.07123851776123, 
         "capacity": 39, 
         "description": "540 - Lexington Ave & E 26 St", 
-        "id": 311, 
+        "id": 313, 
         "latitude": 40.74147286, 
         "location_key": "40.74147286,-73.98320928", 
         "longitude": -73.98320928
     }, 
-    "312": {
+    "314": {
         "altitude": 3.174756050109863, 
         "capacity": 27, 
         "description": "545 - E 23 St & 1 Ave", 
-        "id": 312, 
+        "id": 314, 
         "latitude": 40.736502, 
         "location_key": "40.736502,-73.97809472", 
         "longitude": -73.97809472
     }, 
-    "313": {
+    "315": {
         "altitude": 12.3617696762085, 
-        "capacity": 38, 
+        "capacity": 30, 
         "description": "546 - E 30 St & Park Ave S", 
-        "id": 313, 
+        "id": 315, 
         "latitude": 40.74444921, 
         "location_key": "40.74444921,-73.98303529", 
         "longitude": -73.98303529
     }, 
-    "314": {
+    "316": {
         "altitude": 5.403786659240723, 
-        "capacity": 30, 
+        "capacity": 28, 
         "description": "2000 - Front St & Washington St", 
-        "id": 314, 
+        "id": 316, 
         "latitude": 40.70255088, 
         "location_key": "40.70255088,-73.98940236", 
         "longitude": -73.98940236
     }, 
-    "315": {
-        "altitude": 3.571699857711792, 
-        "capacity": 15, 
-        "description": "2001 - 7 Ave & Farragut St", 
-        "id": 315, 
-        "latitude": 40.69892054, 
-        "location_key": "40.69892054,-73.97332996", 
-        "longitude": -73.97332996
+    "317": {
+        "altitude": 2.974867582321167, 
+        "capacity": 14, 
+        "description": "2001 - Sands St & Navy St", 
+        "id": 317, 
+        "latitude": 40.699773, 
+        "location_key": "40.699773,-73.979927", 
+        "longitude": -73.979927
     }, 
-    "316": {
+    "318": {
         "altitude": 7.962204933166504, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "2002 - Wythe Ave & Metropolitan Ave", 
-        "id": 316, 
+        "id": 318, 
         "latitude": 40.716887, 
         "location_key": "40.716887,-73.963198", 
         "longitude": -73.963198
     }, 
-    "317": {
+    "319": {
         "altitude": 5.11790943145752, 
         "capacity": 30, 
         "description": "2003 - 1 Ave & E 18 St", 
-        "id": 317, 
+        "id": 319, 
         "latitude": 40.73416059, 
         "location_key": "40.73416059,-73.98024289", 
         "longitude": -73.98024289
     }, 
-    "318": {
+    "320": {
         "altitude": 3.932919263839722, 
         "capacity": 36, 
         "description": "2004 - 6 Ave & Broome St", 
-        "id": 318, 
+        "id": 320, 
         "latitude": 40.724399, 
         "location_key": "40.724399,-74.004704", 
         "longitude": -74.004704
     }, 
-    "319": {
+    "321": {
         "altitude": 0.2632088661193848, 
         "capacity": 12, 
         "description": "2005 - Railroad Ave & Kay Ave", 
-        "id": 319, 
+        "id": 321, 
         "latitude": 40.70531194, 
         "location_key": "40.70531194,-73.97100056", 
         "longitude": -73.97100056
     }, 
-    "320": {
+    "322": {
         "altitude": 16.18151092529297, 
-        "capacity": 49, 
+        "capacity": 47, 
         "description": "2006 - Central Park S & 6 Ave", 
-        "id": 320, 
+        "id": 322, 
         "latitude": 40.76590936, 
         "location_key": "40.76590936,-73.97634151", 
         "longitude": -73.97634151
     }, 
-    "321": {
+    "323": {
         "altitude": 1.010404825210571, 
-        "capacity": 24, 
+        "capacity": 22, 
         "description": "2008 - Little West St & 1 Pl", 
-        "id": 321, 
+        "id": 323, 
         "latitude": 40.70569254, 
         "location_key": "40.70569254,-74.01677685", 
         "longitude": -74.01677685
     }, 
-    "322": {
+    "324": {
         "altitude": 3.958699941635132, 
         "capacity": 35, 
         "description": "2009 - Catherine St & Monroe St", 
-        "id": 322, 
+        "id": 324, 
         "latitude": 40.71117444, 
         "location_key": "40.71117444,-73.99682619", 
         "longitude": -73.99682619
     }, 
-    "323": {
+    "325": {
         "altitude": 4.351978778839111, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "2010 - Grand St & Greene St", 
-        "id": 323, 
+        "id": 325, 
         "latitude": 40.72165481, 
         "location_key": "40.72165481,-74.00234737", 
         "longitude": -74.00234737
     }, 
-    "324": {
+    "326": {
         "altitude": 6.161017417907715, 
-        "capacity": 36, 
+        "capacity": 34, 
         "description": "2012 - E 27 St & 1 Ave", 
-        "id": 324, 
+        "id": 326, 
         "latitude": 40.739445, 
         "location_key": "40.739445,-73.976806", 
         "longitude": -73.976806
     }, 
-    "325": {
+    "327": {
         "altitude": 17.1760139465332, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "2017 - E 43 St & 2 Ave", 
-        "id": 325, 
+        "id": 327, 
         "latitude": 40.75022392, 
         "location_key": "40.75022392,-73.97121414", 
         "longitude": -73.97121414
     }, 
-    "326": {
+    "328": {
         "altitude": 12.94471549987793, 
         "capacity": 43, 
         "description": "2021 - W 45 St & 8 Ave", 
-        "id": 326, 
+        "id": 328, 
         "latitude": 40.75929124, 
         "location_key": "40.75929124,-73.98859651", 
         "longitude": -73.98859651
     }, 
-    "327": {
+    "329": {
         "altitude": 12.56021785736084, 
         "capacity": 33, 
         "description": "2022 - E 59 St & Sutton Pl", 
-        "id": 327, 
+        "id": 329, 
         "latitude": 40.75849116, 
         "location_key": "40.75849116,-73.95920622", 
         "longitude": -73.95920622
     }, 
-    "328": {
+    "330": {
         "altitude": 13.32230949401855, 
-        "capacity": 36, 
+        "capacity": 33, 
         "description": "2023 - E 55 St & Lexington Ave", 
-        "id": 328, 
+        "id": 330, 
         "latitude": 40.75968085, 
         "location_key": "40.75968085,-73.97031366", 
         "longitude": -73.97031366
     }, 
-    "329": {
+    "331": {
         "altitude": 0.6021114587783813, 
-        "capacity": 25, 
+        "capacity": 23, 
         "description": "3002 - South End Ave & Liberty St", 
-        "id": 329, 
+        "id": 331, 
         "latitude": 40.711512, 
         "location_key": "40.711512,-74.015756", 
         "longitude": -74.015756

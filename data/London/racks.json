@@ -1,7 +1,7 @@
 {
     "0": {
         "altitude": 34.72317504882812, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "001023 - River Street , Clerkenwell", 
         "id": 0, 
         "latitude": 51.52916347, 
@@ -10,7 +10,7 @@
     }, 
     "1": {
         "altitude": 18.67031860351562, 
-        "capacity": 36, 
+        "capacity": 35, 
         "description": "001018 - Phillimore Gardens, Kensington", 
         "id": 1, 
         "latitude": 51.49960695, 
@@ -37,7 +37,7 @@
     }, 
     "4": {
         "altitude": 14.85705089569092, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "003420 - Sedding Street, Sloane Square", 
         "id": 4, 
         "latitude": 51.49313, 
@@ -46,7 +46,7 @@
     }, 
     "5": {
         "altitude": 39.14825820922852, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "003424 - Broadcasting House, Marylebone", 
         "id": 5, 
         "latitude": 51.51811784, 
@@ -55,7 +55,7 @@
     }, 
     "6": {
         "altitude": 44, 
-        "capacity": 16, 
+        "capacity": 15, 
         "description": "003422 - Charlbert Street, St. John's Wood", 
         "id": 6, 
         "latitude": 51.53430039, 
@@ -73,7 +73,7 @@
     }, 
     "8": {
         "altitude": 13.42626571655273, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "001015 - New Globe Walk, Bankside", 
         "id": 8, 
         "latitude": 51.5073853, 
@@ -91,7 +91,7 @@
     }, 
     "10": {
         "altitude": 31.0068531036377, 
-        "capacity": 21, 
+        "capacity": 24, 
         "description": "001022 - Brunswick Square, Bloomsbury", 
         "id": 10, 
         "latitude": 51.52395143, 
@@ -100,7 +100,7 @@
     }, 
     "11": {
         "altitude": 34.91507339477539, 
-        "capacity": 47, 
+        "capacity": 45, 
         "description": "000980 - Malet Street, Bloomsbury", 
         "id": 11, 
         "latitude": 51.52168078, 
@@ -118,7 +118,7 @@
     }, 
     "13": {
         "altitude": 24.14029693603516, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "001011 - Belgrove Street , King's Cross", 
         "id": 13, 
         "latitude": 51.52994371, 
@@ -127,7 +127,7 @@
     }, 
     "14": {
         "altitude": 37.24866485595703, 
-        "capacity": 26, 
+        "capacity": 25, 
         "description": "000988 - Great Russell Street, Bloomsbury", 
         "id": 14, 
         "latitude": 51.51772703, 
@@ -136,7 +136,7 @@
     }, 
     "15": {
         "altitude": 30.69765853881836, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "001010 - Cartwright Gardens , Bloomsbury", 
         "id": 15, 
         "latitude": 51.52635795, 
@@ -145,7 +145,7 @@
     }, 
     "16": {
         "altitude": 26.14248085021973, 
-        "capacity": 26, 
+        "capacity": 25, 
         "description": "001008 - Hatton Wall, Holborn", 
         "id": 16, 
         "latitude": 51.5216612, 
@@ -154,7 +154,7 @@
     }, 
     "17": {
         "altitude": 35.00307464599609, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "001007 - Drury Lane, Covent Garden", 
         "id": 17, 
         "latitude": 51.51477076, 
@@ -172,7 +172,7 @@
     }, 
     "19": {
         "altitude": 28.58798408508301, 
-        "capacity": 28, 
+        "capacity": 27, 
         "description": "000993 - Drummond Street , Euston", 
         "id": 19, 
         "latitude": 51.52773634, 
@@ -190,7 +190,7 @@
     }, 
     "21": {
         "altitude": 27.89681243896484, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "003425 - Northington Street , Holborn", 
         "id": 21, 
         "latitude": 51.5222641, 
@@ -208,7 +208,7 @@
     }, 
     "23": {
         "altitude": 33.22684478759766, 
-        "capacity": 33, 
+        "capacity": 32, 
         "description": "000981 - British Museum, Bloomsbury", 
         "id": 23, 
         "latitude": 51.51908011, 
@@ -217,7 +217,7 @@
     }, 
     "24": {
         "altitude": 27.27297782897949, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "001004 - Doric Way , Somers Town", 
         "id": 24, 
         "latitude": 51.5288338, 
@@ -235,7 +235,7 @@
     }, 
     "26": {
         "altitude": 27.91451072692871, 
-        "capacity": 30, 
+        "capacity": 31, 
         "description": "001021 - Bouverie Street, Temple", 
         "id": 26, 
         "latitude": 51.51382102, 
@@ -244,7 +244,7 @@
     }, 
     "27": {
         "altitude": 36.28567886352539, 
-        "capacity": 17, 
+        "capacity": 19, 
         "description": "001025 - Bolsover Street, Fitzrovia", 
         "id": 27, 
         "latitude": 51.52351808, 
@@ -271,7 +271,7 @@
     }, 
     "30": {
         "altitude": 22.19916534423828, 
-        "capacity": 33, 
+        "capacity": 32, 
         "description": "003427 - Fanshaw Street, Hoxton", 
         "id": 30, 
         "latitude": 51.52953709, 
@@ -280,7 +280,7 @@
     }, 
     "31": {
         "altitude": 23.72238349914551, 
-        "capacity": 41, 
+        "capacity": 42, 
         "description": "001020 - Leonard Circus , Shoreditch", 
         "id": 31, 
         "latitude": 51.52469624, 
@@ -289,7 +289,7 @@
     }, 
     "32": {
         "altitude": 19.15524291992188, 
-        "capacity": 16, 
+        "capacity": 15, 
         "description": "003430 - Altab Ali Park, Whitechapel", 
         "id": 32, 
         "latitude": 51.51681603, 
@@ -325,7 +325,7 @@
     }, 
     "36": {
         "altitude": 11.37818717956543, 
-        "capacity": 16, 
+        "capacity": 17, 
         "description": "003442 - Abingdon Villas, Kensington", 
         "id": 36, 
         "latitude": 51.4973875, 
@@ -334,7 +334,7 @@
     }, 
     "37": {
         "altitude": 23.02450561523438, 
-        "capacity": 39, 
+        "capacity": 40, 
         "description": "003445 - Shoreditch High Street, Shoreditch", 
         "id": 37, 
         "latitude": 51.5263778, 
@@ -352,7 +352,7 @@
     }, 
     "39": {
         "altitude": 30.70512580871582, 
-        "capacity": 25, 
+        "capacity": 23, 
         "description": "001084 - Sun Street, Liverpool Street", 
         "id": 39, 
         "latitude": 51.52001715, 
@@ -361,7 +361,7 @@
     }, 
     "40": {
         "altitude": 20.89173126220703, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "000979 - Wenlock Road , Hoxton", 
         "id": 40, 
         "latitude": 51.53099181, 
@@ -388,7 +388,7 @@
     }, 
     "43": {
         "altitude": 44.2015380859375, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001035 - Harewood Avenue, Marylebone", 
         "id": 43, 
         "latitude": 51.52231968, 
@@ -397,7 +397,7 @@
     }, 
     "44": {
         "altitude": 15.42382907867432, 
-        "capacity": 16, 
+        "capacity": 14, 
         "description": "001031 - Nesham Street, Wapping", 
         "id": 44, 
         "latitude": 51.507131, 
@@ -406,7 +406,7 @@
     }, 
     "45": {
         "altitude": 31.69061851501465, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "001027 - Warwick Avenue Station, Maida Vale", 
         "id": 45, 
         "latitude": 51.52334476, 
@@ -415,7 +415,7 @@
     }, 
     "46": {
         "altitude": 24.34259605407715, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "000971 - Godliman Street, St. Paul's", 
         "id": 46, 
         "latitude": 51.51248445, 
@@ -424,7 +424,7 @@
     }, 
     "47": {
         "altitude": 27.12860488891602, 
-        "capacity": 15, 
+        "capacity": 16, 
         "description": "003437 - Curzon Street, Mayfair", 
         "id": 47, 
         "latitude": 51.50706909, 
@@ -451,7 +451,7 @@
     }, 
     "50": {
         "altitude": 24.48150253295898, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001026 - Roscoe Street, St. Luke's", 
         "id": 50, 
         "latitude": 51.52295439, 
@@ -460,7 +460,7 @@
     }, 
     "51": {
         "altitude": 31.4439582824707, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "003431 - Grafton Street, Mayfair", 
         "id": 51, 
         "latitude": 51.5099923, 
@@ -469,7 +469,7 @@
     }, 
     "52": {
         "altitude": 25.67741775512695, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "000967 - Golden Lane, Barbican", 
         "id": 52, 
         "latitude": 51.52174785, 
@@ -478,7 +478,7 @@
     }, 
     "53": {
         "altitude": 31.93371772766113, 
-        "capacity": 32, 
+        "capacity": 31, 
         "description": "000984 - Finsbury Circus, Liverpool Street", 
         "id": 53, 
         "latitude": 51.51707521, 
@@ -487,7 +487,7 @@
     }, 
     "54": {
         "altitude": 37.63673400878906, 
-        "capacity": 16, 
+        "capacity": 15, 
         "description": "001033 - Paddington Street, Marylebone", 
         "id": 54, 
         "latitude": 51.52058381, 
@@ -496,7 +496,7 @@
     }, 
     "55": {
         "altitude": 28.9422550201416, 
-        "capacity": 38, 
+        "capacity": 37, 
         "description": "000974 - Guilford Street , Bloomsbury", 
         "id": 55, 
         "latitude": 51.52334672, 
@@ -505,7 +505,7 @@
     }, 
     "56": {
         "altitude": 20.41338348388672, 
-        "capacity": 20, 
+        "capacity": 19, 
         "description": "001032 - New Inn Yard, Shoreditch", 
         "id": 56, 
         "latitude": 51.52452699, 
@@ -523,7 +523,7 @@
     }, 
     "58": {
         "altitude": 38.64890670776367, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001030 - Lisson Grove, St. John's Wood", 
         "id": 58, 
         "latitude": 51.52644828, 
@@ -550,7 +550,7 @@
     }, 
     "61": {
         "altitude": 21.70146942138672, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "000989 - Murray Grove , Hoxton", 
         "id": 61, 
         "latitude": 51.53089041, 
@@ -568,7 +568,7 @@
     }, 
     "63": {
         "altitude": 33.96329498291016, 
-        "capacity": 15, 
+        "capacity": 17, 
         "description": "000969 - Gower Place , Euston", 
         "id": 63, 
         "latitude": 51.52522753, 
@@ -577,7 +577,7 @@
     }, 
     "64": {
         "altitude": 30.86164093017578, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "000982 - Holborn Circus, Holborn", 
         "id": 64, 
         "latitude": 51.51795029, 
@@ -586,7 +586,7 @@
     }, 
     "65": {
         "altitude": 27.16654777526855, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "000985 - Hatton Garden, Holborn", 
         "id": 65, 
         "latitude": 51.51882555, 
@@ -595,7 +595,7 @@
     }, 
     "66": {
         "altitude": 30.38521957397461, 
-        "capacity": 25, 
+        "capacity": 23, 
         "description": "000975 - Theobalds Road , Holborn", 
         "id": 66, 
         "latitude": 51.52059681, 
@@ -604,7 +604,7 @@
     }, 
     "67": {
         "altitude": 32.37678527832031, 
-        "capacity": 24, 
+        "capacity": 23, 
         "description": "000983 - Euston Road, Euston", 
         "id": 67, 
         "latitude": 51.5262363, 
@@ -631,7 +631,7 @@
     }, 
     "70": {
         "altitude": 23.12921714782715, 
-        "capacity": 16, 
+        "capacity": 14, 
         "description": "003432 - Farringdon Lane, Clerkenwell", 
         "id": 70, 
         "latitude": 51.52352001, 
@@ -640,7 +640,7 @@
     }, 
     "71": {
         "altitude": 25.19291877746582, 
-        "capacity": 35, 
+        "capacity": 37, 
         "description": "001064 - Old Street Station, St. Luke's", 
         "id": 71, 
         "latitude": 51.52572618, 
@@ -676,7 +676,7 @@
     }, 
     "75": {
         "altitude": 35.07515335083008, 
-        "capacity": 26, 
+        "capacity": 25, 
         "description": "000978 - Russell Square Station, Bloomsbury", 
         "id": 75, 
         "latitude": 51.52341837, 
@@ -685,7 +685,7 @@
     }, 
     "76": {
         "altitude": 27.05083465576172, 
-        "capacity": 17, 
+        "capacity": 16, 
         "description": "003433 - Sadlers Sports Centre, Finsbury", 
         "id": 76, 
         "latitude": 51.52486887, 
@@ -694,7 +694,7 @@
     }, 
     "77": {
         "altitude": 7.321253776550293, 
-        "capacity": 22, 
+        "capacity": 24, 
         "description": "003448 - Webber Street , Southwark", 
         "id": 77, 
         "latitude": 51.50069361, 
@@ -703,7 +703,7 @@
     }, 
     "78": {
         "altitude": 35.01604843139648, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "003450 - Great Titchfield Street, Fitzrovia", 
         "id": 78, 
         "latitude": 51.52025302, 
@@ -721,7 +721,7 @@
     }, 
     "80": {
         "altitude": 30.75919723510742, 
-        "capacity": 20, 
+        "capacity": 21, 
         "description": "003452 - Panton Street, West End", 
         "id": 80, 
         "latitude": 51.50963938, 
@@ -730,7 +730,7 @@
     }, 
     "81": {
         "altitude": 31.21098136901855, 
-        "capacity": 25, 
+        "capacity": 23, 
         "description": "003449 - Breams Buildings, Holborn", 
         "id": 81, 
         "latitude": 51.51593725, 
@@ -739,7 +739,7 @@
     }, 
     "82": {
         "altitude": 8.529869079589844, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "000994 - Tanner Street, Bermondsey", 
         "id": 82, 
         "latitude": 51.50064702, 
@@ -766,7 +766,7 @@
     }, 
     "85": {
         "altitude": 36.68330764770508, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "001006 - Bayley Street , Bloomsbury", 
         "id": 85, 
         "latitude": 51.51858757, 
@@ -775,7 +775,7 @@
     }, 
     "86": {
         "altitude": 29.8603458404541, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "003439 - Tavistock Place, Bloomsbury", 
         "id": 86, 
         "latitude": 51.5262503, 
@@ -820,7 +820,7 @@
     }, 
     "91": {
         "altitude": 5.097500801086426, 
-        "capacity": 26, 
+        "capacity": 28, 
         "description": "001070 - Bricklayers Arms, Borough", 
         "id": 91, 
         "latitude": 51.49506109, 
@@ -829,7 +829,7 @@
     }, 
     "92": {
         "altitude": 26.98214912414551, 
-        "capacity": 14, 
+        "capacity": 15, 
         "description": "001065 - Aldersgate Street, Barbican", 
         "id": 92, 
         "latitude": 51.5208417, 
@@ -838,7 +838,7 @@
     }, 
     "93": {
         "altitude": 21.15189361572266, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "001047 - Falkirk Street, Hoxton", 
         "id": 93, 
         "latitude": 51.53095071, 
@@ -847,7 +847,7 @@
     }, 
     "94": {
         "altitude": 16.34967231750488, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "003447 - Gloucester Road (North), Kensington", 
         "id": 94, 
         "latitude": 51.49792478, 
@@ -883,7 +883,7 @@
     }, 
     "98": {
         "altitude": 27.26040649414062, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "000999 - Queen Street, Bank", 
         "id": 98, 
         "latitude": 51.51155322, 
@@ -892,7 +892,7 @@
     }, 
     "99": {
         "altitude": 29.65048408508301, 
-        "capacity": 16, 
+        "capacity": 15, 
         "description": "001045 - Jewry Street, Aldgate", 
         "id": 99, 
         "latitude": 51.51340693, 
@@ -901,7 +901,7 @@
     }, 
     "100": {
         "altitude": 31.19058609008789, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "003441 - Vicarage Gate, Kensington", 
         "id": 100, 
         "latitude": 51.50472376, 
@@ -910,7 +910,7 @@
     }, 
     "101": {
         "altitude": 33.75452041625977, 
-        "capacity": 33, 
+        "capacity": 34, 
         "description": "000991 - Crosswall, Tower", 
         "id": 101, 
         "latitude": 51.51159481, 
@@ -919,7 +919,7 @@
     }, 
     "102": {
         "altitude": 29.88375282287598, 
-        "capacity": 25, 
+        "capacity": 26, 
         "description": "001041 - Westbourne Grove, Bayswater", 
         "id": 102, 
         "latitude": 51.51552971, 
@@ -928,7 +928,7 @@
     }, 
     "103": {
         "altitude": 31.58928680419922, 
-        "capacity": 20, 
+        "capacity": 21, 
         "description": "001042 - Woodstock Street, Mayfair", 
         "id": 103, 
         "latitude": 51.51410514, 
@@ -946,7 +946,7 @@
     }, 
     "105": {
         "altitude": 16.96902656555176, 
-        "capacity": 26, 
+        "capacity": 29, 
         "description": "003429 - Abbey Orchard Street, Westminster", 
         "id": 105, 
         "latitude": 51.49812559, 
@@ -955,7 +955,7 @@
     }, 
     "106": {
         "altitude": 37.31529235839844, 
-        "capacity": 31, 
+        "capacity": 32, 
         "description": "001052 - Soho Square , Soho", 
         "id": 106, 
         "latitude": 51.51563144, 
@@ -973,7 +973,7 @@
     }, 
     "108": {
         "altitude": 31.90150833129883, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "001037 - Park Lane , Hyde Park", 
         "id": 108, 
         "latitude": 51.5100172, 
@@ -982,7 +982,7 @@
     }, 
     "109": {
         "altitude": 27.0291576385498, 
-        "capacity": 45, 
+        "capacity": 43, 
         "description": "001061 - Stonecutter Street, Holborn", 
         "id": 109, 
         "latitude": 51.51580998, 
@@ -991,7 +991,7 @@
     }, 
     "110": {
         "altitude": 16, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "003435 - Gloucester Road (Central), South Kensington", 
         "id": 110, 
         "latitude": 51.49646288, 
@@ -1000,7 +1000,7 @@
     }, 
     "111": {
         "altitude": 32.49915313720703, 
-        "capacity": 20, 
+        "capacity": 22, 
         "description": "001050 - Park Road (Baker Street), Regent's Park", 
         "id": 111, 
         "latitude": 51.52451738, 
@@ -1009,7 +1009,7 @@
     }, 
     "112": {
         "altitude": 32.67624282836914, 
-        "capacity": 34, 
+        "capacity": 32, 
         "description": "001062 - Braham Street, Aldgate", 
         "id": 112, 
         "latitude": 51.51423368, 
@@ -1018,7 +1018,7 @@
     }, 
     "113": {
         "altitude": 39.85542678833008, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "000995 - Little Argyll Street, West End", 
         "id": 113, 
         "latitude": 51.51449962, 
@@ -1054,7 +1054,7 @@
     }, 
     "117": {
         "altitude": 31.24079322814941, 
-        "capacity": 17, 
+        "capacity": 15, 
         "description": "001044 - The Guildhall, Guildhall", 
         "id": 117, 
         "latitude": 51.51573534, 
@@ -1063,7 +1063,7 @@
     }, 
     "118": {
         "altitude": 35.35258102416992, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "001086 - Baker Street, Marylebone", 
         "id": 118, 
         "latitude": 51.51891348, 
@@ -1072,7 +1072,7 @@
     }, 
     "119": {
         "altitude": 20.68194770812988, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "001068 - Norton Folgate, Liverpool Street", 
         "id": 119, 
         "latitude": 51.52111369, 
@@ -1081,7 +1081,7 @@
     }, 
     "120": {
         "altitude": 28.93033218383789, 
-        "capacity": 16, 
+        "capacity": 18, 
         "description": "000992 - St. John Street, Finsbury", 
         "id": 120, 
         "latitude": 51.52836014, 
@@ -1099,7 +1099,7 @@
     }, 
     "122": {
         "altitude": 8.646294593811035, 
-        "capacity": 21, 
+        "capacity": 19, 
         "description": "000996 - Borough High Street, The Borough", 
         "id": 122, 
         "latitude": 51.50069491, 
@@ -1108,7 +1108,7 @@
     }, 
     "123": {
         "altitude": 34.47470474243164, 
-        "capacity": 47, 
+        "capacity": 48, 
         "description": "001043 - Museum of London, Barbican", 
         "id": 123, 
         "latitude": 51.51782144, 
@@ -1117,7 +1117,7 @@
     }, 
     "124": {
         "altitude": 38.3917121887207, 
-        "capacity": 16, 
+        "capacity": 17, 
         "description": "001063 - Wood Street, Guildhall", 
         "id": 124, 
         "latitude": 51.51700801, 
@@ -1126,7 +1126,7 @@
     }, 
     "125": {
         "altitude": 17.26617050170898, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "001116 - Emperor's Gate, South Kensington", 
         "id": 125, 
         "latitude": 51.49536226, 
@@ -1135,7 +1135,7 @@
     }, 
     "126": {
         "altitude": 37.13980484008789, 
-        "capacity": 17, 
+        "capacity": 15, 
         "description": "003451 - Golden Square, Soho", 
         "id": 126, 
         "latitude": 51.5118973, 
@@ -1144,7 +1144,7 @@
     }, 
     "127": {
         "altitude": 14.49839019775391, 
-        "capacity": 20, 
+        "capacity": 24, 
         "description": "001071 - Tower Gardens , Tower", 
         "id": 127, 
         "latitude": 51.50950627, 
@@ -1162,7 +1162,7 @@
     }, 
     "129": {
         "altitude": 18.75106620788574, 
-        "capacity": 36, 
+        "capacity": 38, 
         "description": "000973 - Bethnal Green Road, Shoreditch", 
         "id": 129, 
         "latitude": 51.52364804, 
@@ -1171,7 +1171,7 @@
     }, 
     "130": {
         "altitude": 27.29894828796387, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "003436 - Derry Street, Kensington", 
         "id": 130, 
         "latitude": 51.50136494, 
@@ -1189,7 +1189,7 @@
     }, 
     "132": {
         "altitude": 25.90822410583496, 
-        "capacity": 21, 
+        "capacity": 19, 
         "description": "001053 - Clerkenwell Green, Clerkenwell", 
         "id": 132, 
         "latitude": 51.52326004, 
@@ -1198,7 +1198,7 @@
     }, 
     "133": {
         "altitude": 19.38510322570801, 
-        "capacity": 32, 
+        "capacity": 31, 
         "description": "001048 - Queen Victoria Street, St. Paul's", 
         "id": 133, 
         "latitude": 51.51196176, 
@@ -1216,7 +1216,7 @@
     }, 
     "135": {
         "altitude": 34.75698471069336, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "003464 - Green Street, Mayfair", 
         "id": 135, 
         "latitude": 51.51227622, 
@@ -1225,7 +1225,7 @@
     }, 
     "136": {
         "altitude": 13.44020748138428, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001078 - Lambeth Road, Vauxhall", 
         "id": 136, 
         "latitude": 51.49488108, 
@@ -1243,7 +1243,7 @@
     }, 
     "138": {
         "altitude": 38.21014785766602, 
-        "capacity": 29, 
+        "capacity": 24, 
         "description": "001003 - Chapel Place, Marylebone", 
         "id": 138, 
         "latitude": 51.51530805, 
@@ -1270,7 +1270,7 @@
     }, 
     "141": {
         "altitude": 8.059228897094727, 
-        "capacity": 47, 
+        "capacity": 45, 
         "description": "001093 - Kennington Cross, Kennington", 
         "id": 141, 
         "latitude": 51.48894022, 
@@ -1279,7 +1279,7 @@
     }, 
     "142": {
         "altitude": 18.3575553894043, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "001115 - Ilchester Place, Kensington", 
         "id": 142, 
         "latitude": 51.50074359, 
@@ -1288,7 +1288,7 @@
     }, 
     "143": {
         "altitude": 10.53255271911621, 
-        "capacity": 34, 
+        "capacity": 35, 
         "description": "001046 - Vauxhall Bridge , Pimlico", 
         "id": 143, 
         "latitude": 51.48836528, 
@@ -1306,7 +1306,7 @@
     }, 
     "145": {
         "altitude": 10.17758274078369, 
-        "capacity": 16, 
+        "capacity": 15, 
         "description": "000965 - Tachbrook Street, Victoria", 
         "id": 145, 
         "latitude": 51.49211134, 
@@ -1315,7 +1315,7 @@
     }, 
     "146": {
         "altitude": 7.836649417877197, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001073 - Kennington Road Post Office, Oval", 
         "id": 146, 
         "latitude": 51.48478899, 
@@ -1351,7 +1351,7 @@
     }, 
     "150": {
         "altitude": 27.46975708007812, 
-        "capacity": 23, 
+        "capacity": 25, 
         "description": "001096 - Bayswater Road, Hyde Park", 
         "id": 150, 
         "latitude": 51.51183419, 
@@ -1360,7 +1360,7 @@
     }, 
     "151": {
         "altitude": 14.90693378448486, 
-        "capacity": 35, 
+        "capacity": 32, 
         "description": "001072 - Waterloo Station 3, Waterloo", 
         "id": 151, 
         "latitude": 51.50379168, 
@@ -1369,7 +1369,7 @@
     }, 
     "152": {
         "altitude": 14.23222827911377, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "001121 - Lexham Gardens, Kensington", 
         "id": 152, 
         "latitude": 51.49586666, 
@@ -1387,7 +1387,7 @@
     }, 
     "154": {
         "altitude": 21.53420448303223, 
-        "capacity": 34, 
+        "capacity": 37, 
         "description": "001094 - Wright's Lane, Kensington", 
         "id": 154, 
         "latitude": 51.50039792, 
@@ -1396,7 +1396,7 @@
     }, 
     "155": {
         "altitude": 12.7340087890625, 
-        "capacity": 16, 
+        "capacity": 18, 
         "description": "001113 - Trebovir Road, Earl's Court", 
         "id": 155, 
         "latitude": 51.49085368, 
@@ -1405,7 +1405,7 @@
     }, 
     "156": {
         "altitude": 36.79874801635742, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "001125 - Great Marlborough Street, Soho", 
         "id": 156, 
         "latitude": 51.51461995, 
@@ -1432,7 +1432,7 @@
     }, 
     "159": {
         "altitude": 36.20858764648438, 
-        "capacity": 19, 
+        "capacity": 20, 
         "description": "001123 - Southampton Place, Holborn", 
         "id": 159, 
         "latitude": 51.51760685, 
@@ -1441,7 +1441,7 @@
     }, 
     "160": {
         "altitude": 13.61424350738525, 
-        "capacity": 27, 
+        "capacity": 30, 
         "description": "003461 - Sloane Avenue, Knightsbridge", 
         "id": 160, 
         "latitude": 51.4931848, 
@@ -1450,7 +1450,7 @@
     }, 
     "161": {
         "altitude": 27, 
-        "capacity": 15, 
+        "capacity": 16, 
         "description": "001178 - Cleveland Gardens, Bayswater", 
         "id": 161, 
         "latitude": 51.515607, 
@@ -1468,7 +1468,7 @@
     }, 
     "163": {
         "altitude": 22.94549179077148, 
-        "capacity": 25, 
+        "capacity": 27, 
         "description": "001177 - Seville Street, Knightsbridge", 
         "id": 163, 
         "latitude": 51.50185512, 
@@ -1513,7 +1513,7 @@
     }, 
     "168": {
         "altitude": 17.2188606262207, 
-        "capacity": 12, 
+        "capacity": 14, 
         "description": "003459 - Collingham Gardens, Earl's Court", 
         "id": 168, 
         "latitude": 51.4916156, 
@@ -1522,7 +1522,7 @@
     }, 
     "169": {
         "altitude": 13.48726081848145, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "001124 - Sumner Place, South Kensington", 
         "id": 169, 
         "latitude": 51.49121192, 
@@ -1531,7 +1531,7 @@
     }, 
     "170": {
         "altitude": 16.38899993896484, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "001176 - Waterloo Roundabout, Waterloo", 
         "id": 170, 
         "latitude": 51.50486, 
@@ -1567,7 +1567,7 @@
     }, 
     "174": {
         "altitude": 18.26987266540527, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "001122 - Ashley Place, Victoria", 
         "id": 174, 
         "latitude": 51.49616092, 
@@ -1576,7 +1576,7 @@
     }, 
     "175": {
         "altitude": 12.30874633789062, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "003460 - Warwick Square, Pimlico", 
         "id": 175, 
         "latitude": 51.48985626, 
@@ -1585,7 +1585,7 @@
     }, 
     "176": {
         "altitude": 35.90513610839844, 
-        "capacity": 16, 
+        "capacity": 17, 
         "description": "001126 - North Audley Street, Mayfair", 
         "id": 176, 
         "latitude": 51.5129118, 
@@ -1639,7 +1639,7 @@
     }, 
     "182": {
         "altitude": 13.44750881195068, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "001172 - Queen's Gate (South), South Kensington", 
         "id": 182, 
         "latitude": 51.49247977, 
@@ -1666,7 +1666,7 @@
     }, 
     "185": {
         "altitude": 8.482353210449219, 
-        "capacity": 20, 
+        "capacity": 21, 
         "description": "001106 - Rampayne Street, Pimlico", 
         "id": 185, 
         "latitude": 51.48997562, 
@@ -1675,7 +1675,7 @@
     }, 
     "186": {
         "altitude": 20.14798736572266, 
-        "capacity": 20, 
+        "capacity": 15, 
         "description": "001075 - Hyde Park Corner, Hyde Park", 
         "id": 186, 
         "latitude": 51.50311799, 
@@ -1693,7 +1693,7 @@
     }, 
     "188": {
         "altitude": 10.09307193756104, 
-        "capacity": 59, 
+        "capacity": 57, 
         "description": "000963 - Bankside Mix, Bankside", 
         "id": 188, 
         "latitude": 51.50581776, 
@@ -1702,7 +1702,7 @@
     }, 
     "189": {
         "altitude": 10.34475135803223, 
-        "capacity": 51, 
+        "capacity": 55, 
         "description": "000960 - Hop Exchange, The Borough", 
         "id": 189, 
         "latitude": 51.50462759, 
@@ -1711,7 +1711,7 @@
     }, 
     "190": {
         "altitude": 19.96115875244141, 
-        "capacity": 30, 
+        "capacity": 29, 
         "description": "000959 - Milroy Walk, South Bank", 
         "id": 190, 
         "latitude": 51.50724437, 
@@ -1720,7 +1720,7 @@
     }, 
     "191": {
         "altitude": 10.23503971099854, 
-        "capacity": 16, 
+        "capacity": 17, 
         "description": "000961 - Union Street, The Borough", 
         "id": 191, 
         "latitude": 51.50368837, 
@@ -1729,7 +1729,7 @@
     }, 
     "192": {
         "altitude": 15.38982391357422, 
-        "capacity": 27, 
+        "capacity": 24, 
         "description": "000962 - Stamford Street, South Bank", 
         "id": 192, 
         "latitude": 51.50556905, 
@@ -1738,7 +1738,7 @@
     }, 
     "193": {
         "altitude": 28.47487449645996, 
-        "capacity": 22, 
+        "capacity": 23, 
         "description": "001080 - Great Tower Street, Monument", 
         "id": 193, 
         "latitude": 51.51048489, 
@@ -1756,7 +1756,7 @@
     }, 
     "195": {
         "altitude": 35.78034973144531, 
-        "capacity": 16, 
+        "capacity": 14, 
         "description": "001162 - Dorset Square, Marylebone", 
         "id": 195, 
         "latitude": 51.5225965, 
@@ -1765,7 +1765,7 @@
     }, 
     "196": {
         "altitude": 23.96056175231934, 
-        "capacity": 36, 
+        "capacity": 37, 
         "description": "001102 - Leman Street, Aldgate", 
         "id": 196, 
         "latitude": 51.51236389, 
@@ -1774,7 +1774,7 @@
     }, 
     "197": {
         "altitude": 24.36853218078613, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "001040 - West Smithfield Rotunda, Farringdon", 
         "id": 197, 
         "latitude": 51.51821864, 
@@ -1783,7 +1783,7 @@
     }, 
     "198": {
         "altitude": 23.35733795166016, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "003468 - Margery Street, Clerkenwell", 
         "id": 198, 
         "latitude": 51.52659961, 
@@ -1801,7 +1801,7 @@
     }, 
     "200": {
         "altitude": 18.17286491394043, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "001171 - New Road 1 , Whitechapel", 
         "id": 200, 
         "latitude": 51.518154, 
@@ -1810,7 +1810,7 @@
     }, 
     "201": {
         "altitude": 20.23464775085449, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001169 - Grosvenor Crescent, Belgravia", 
         "id": 201, 
         "latitude": 51.50135267, 
@@ -1828,7 +1828,7 @@
     }, 
     "203": {
         "altitude": 11.46105670928955, 
-        "capacity": 29, 
+        "capacity": 30, 
         "description": "003454 - Denyer Street, Knightsbridge", 
         "id": 203, 
         "latitude": 51.49358391, 
@@ -1837,7 +1837,7 @@
     }, 
     "204": {
         "altitude": 31.99439239501953, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "003476 - Hinde Street, Marylebone", 
         "id": 204, 
         "latitude": 51.51681444, 
@@ -1846,7 +1846,7 @@
     }, 
     "205": {
         "altitude": 12.97467613220215, 
-        "capacity": 32, 
+        "capacity": 33, 
         "description": "003469 - Cadogan Place, Knightsbridge", 
         "id": 205, 
         "latitude": 51.49464523, 
@@ -1864,7 +1864,7 @@
     }, 
     "207": {
         "altitude": 21.7587890625, 
-        "capacity": 22, 
+        "capacity": 35, 
         "description": "001109 - Wellington Arch, Hyde Park", 
         "id": 207, 
         "latitude": 51.50274025, 
@@ -1873,7 +1873,7 @@
     }, 
     "208": {
         "altitude": 32.56651306152344, 
-        "capacity": 30, 
+        "capacity": 29, 
         "description": "001079 - Endsleigh Gardens, Euston", 
         "id": 208, 
         "latitude": 51.52683806, 
@@ -1882,7 +1882,7 @@
     }, 
     "209": {
         "altitude": 36.88197326660156, 
-        "capacity": 53, 
+        "capacity": 52, 
         "description": "001092 - Moorfields, Moorgate", 
         "id": 209, 
         "latitude": 51.51906932, 
@@ -1891,7 +1891,7 @@
     }, 
     "210": {
         "altitude": 14.73530960083008, 
-        "capacity": 29, 
+        "capacity": 30, 
         "description": "003479 - Old Brompton Road, South Kensington", 
         "id": 210, 
         "latitude": 51.49094565, 
@@ -1909,7 +1909,7 @@
     }, 
     "212": {
         "altitude": 11.66530704498291, 
-        "capacity": 18, 
+        "capacity": 20, 
         "description": "003486 - St. Luke's Church, Chelsea", 
         "id": 212, 
         "latitude": 51.48971651, 
@@ -1927,7 +1927,7 @@
     }, 
     "214": {
         "altitude": 11.13134002685547, 
-        "capacity": 25, 
+        "capacity": 27, 
         "description": "001179 - Chelsea Green, Chelsea", 
         "id": 214, 
         "latitude": 51.49066456, 
@@ -1954,7 +1954,7 @@
     }, 
     "217": {
         "altitude": 5.448371410369873, 
-        "capacity": 24, 
+        "capacity": 23, 
         "description": "003481 - Rodney Road , Walworth", 
         "id": 217, 
         "latitude": 51.49148474, 
@@ -1972,7 +1972,7 @@
     }, 
     "219": {
         "altitude": 32, 
-        "capacity": 29, 
+        "capacity": 30, 
         "description": "001182 - Notting Hill Gate Station, Notting Hill", 
         "id": 219, 
         "latitude": 51.50935342, 
@@ -2008,7 +2008,7 @@
     }, 
     "223": {
         "altitude": 21.6284294128418, 
-        "capacity": 21, 
+        "capacity": 24, 
         "description": "001151 - Whitehall Place, Strand", 
         "id": 223, 
         "latitude": 51.50654321, 
@@ -2017,7 +2017,7 @@
     }, 
     "224": {
         "altitude": 14.68282032012939, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "001144 - Poured Lines, Bankside", 
         "id": 224, 
         "latitude": 51.50669284, 
@@ -2044,7 +2044,7 @@
     }, 
     "227": {
         "altitude": 23.93431091308594, 
-        "capacity": 20, 
+        "capacity": 22, 
         "description": "001153 - Pall Mall East, West End", 
         "id": 227, 
         "latitude": 51.50777049, 
@@ -2053,7 +2053,7 @@
     }, 
     "228": {
         "altitude": 41.56191635131836, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "001081 - Liverpool Road (N1 Centre), Angel", 
         "id": 228, 
         "latitude": 51.53450449, 
@@ -2062,7 +2062,7 @@
     }, 
     "229": {
         "altitude": 11.4188060760498, 
-        "capacity": 35, 
+        "capacity": 34, 
         "description": "001154 - Kennington Road  , Vauxhall", 
         "id": 229, 
         "latitude": 51.49571828, 
@@ -2071,7 +2071,7 @@
     }, 
     "230": {
         "altitude": 18.15910530090332, 
-        "capacity": 28, 
+        "capacity": 30, 
         "description": "003483 - Fashion Street, Whitechapel", 
         "id": 230, 
         "latitude": 51.51838043, 
@@ -2080,7 +2080,7 @@
     }, 
     "231": {
         "altitude": 14.18634223937988, 
-        "capacity": 49, 
+        "capacity": 47, 
         "description": "003467 - Vaughan Way, Wapping", 
         "id": 231, 
         "latitude": 51.5084448, 
@@ -2098,7 +2098,7 @@
     }, 
     "233": {
         "altitude": 35.00485229492188, 
-        "capacity": 26, 
+        "capacity": 24, 
         "description": "001090 - Warren Street Station, Euston", 
         "id": 233, 
         "latitude": 51.52443845, 
@@ -2116,7 +2116,7 @@
     }, 
     "235": {
         "altitude": 34.56821441650391, 
-        "capacity": 22, 
+        "capacity": 21, 
         "description": "003482 - Beaumont Street, Marylebone", 
         "id": 235, 
         "latitude": 51.52200801, 
@@ -2134,7 +2134,7 @@
     }, 
     "237": {
         "altitude": 38.14908218383789, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "001145 - Earnshaw Street , Covent Garden", 
         "id": 237, 
         "latitude": 51.51611887, 
@@ -2170,7 +2170,7 @@
     }, 
     "241": {
         "altitude": 20.94684219360352, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "001088 - Triangle Car Park, Hyde Park", 
         "id": 241, 
         "latitude": 51.50645179, 
@@ -2179,7 +2179,7 @@
     }, 
     "242": {
         "altitude": 7.730932235717773, 
-        "capacity": 42, 
+        "capacity": 41, 
         "description": "001137 - Harper Road, Borough", 
         "id": 242, 
         "latitude": 51.49859784, 
@@ -2188,7 +2188,7 @@
     }, 
     "243": {
         "altitude": 12.64098167419434, 
-        "capacity": 7, 
+        "capacity": 9, 
         "description": "003440 - Royal Avenue 1, Chelsea", 
         "id": 243, 
         "latitude": 51.489932, 
@@ -2197,7 +2197,7 @@
     }, 
     "244": {
         "altitude": 37.39179229736328, 
-        "capacity": 31, 
+        "capacity": 30, 
         "description": "001161 - Brushfield Street, Liverpool Street", 
         "id": 244, 
         "latitude": 51.518908, 
@@ -2206,7 +2206,7 @@
     }, 
     "245": {
         "altitude": 11.49184417724609, 
-        "capacity": 29, 
+        "capacity": 30, 
         "description": "001111 - Jubilee Gardens, South Bank", 
         "id": 245, 
         "latitude": 51.5046364, 
@@ -2215,7 +2215,7 @@
     }, 
     "246": {
         "altitude": 17.22052764892578, 
-        "capacity": 30, 
+        "capacity": 28, 
         "description": "001051 - Shoreditch Park, Hoxton", 
         "id": 246, 
         "latitude": 51.53404294, 
@@ -2233,7 +2233,7 @@
     }, 
     "248": {
         "altitude": 34.89772033691406, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "001147 - Clifton Road, Maida Vale", 
         "id": 248, 
         "latitude": 51.52557531, 
@@ -2251,7 +2251,7 @@
     }, 
     "250": {
         "altitude": 37.51570129394531, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "001194 - Westminster University, Marylebone", 
         "id": 250, 
         "latitude": 51.52248185, 
@@ -2278,7 +2278,7 @@
     }, 
     "253": {
         "altitude": 34.75924682617188, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "003489 - Broadwick Street, Soho", 
         "id": 253, 
         "latitude": 51.5136846, 
@@ -2287,7 +2287,7 @@
     }, 
     "254": {
         "altitude": 30.71932601928711, 
-        "capacity": 15, 
+        "capacity": 16, 
         "description": "003491 - Princes Square, Bayswater", 
         "id": 254, 
         "latitude": 51.5134891, 
@@ -2296,7 +2296,7 @@
     }, 
     "255": {
         "altitude": 7, 
-        "capacity": 34, 
+        "capacity": 35, 
         "description": "001095 - LSBU (Borough Road), Elephant & Castle", 
         "id": 255, 
         "latitude": 51.49874469, 
@@ -2305,7 +2305,7 @@
     }, 
     "256": {
         "altitude": 37.36024856567383, 
-        "capacity": 20, 
+        "capacity": 19, 
         "description": "001184 - St. Mary Axe, Aldgate", 
         "id": 256, 
         "latitude": 51.51422502, 
@@ -2314,7 +2314,7 @@
     }, 
     "257": {
         "altitude": 28.02077293395996, 
-        "capacity": 18, 
+        "capacity": 20, 
         "description": "001146 - Tysoe Street, Clerkenwell", 
         "id": 257, 
         "latitude": 51.52644342, 
@@ -2323,7 +2323,7 @@
     }, 
     "258": {
         "altitude": 33.57045745849609, 
-        "capacity": 17, 
+        "capacity": 16, 
         "description": "003490 - Southwick Street, Paddington", 
         "id": 258, 
         "latitude": 51.51595344, 
@@ -2341,7 +2341,7 @@
     }, 
     "260": {
         "altitude": 9.566062927246094, 
-        "capacity": 21, 
+        "capacity": 19, 
         "description": "001155 - Regency Street, Westminster", 
         "id": 260, 
         "latitude": 51.49206037, 
@@ -2359,7 +2359,7 @@
     }, 
     "262": {
         "altitude": 9.204821586608887, 
-        "capacity": 46, 
+        "capacity": 45, 
         "description": "001209 - Empire Square, The Borough", 
         "id": 262, 
         "latitude": 51.50082346, 
@@ -2431,7 +2431,7 @@
     }, 
     "270": {
         "altitude": 24.83931541442871, 
-        "capacity": 16, 
+        "capacity": 15, 
         "description": "001143 - Kensington Church Street, Kensington", 
         "id": 270, 
         "latitude": 51.50315739, 
@@ -2440,7 +2440,7 @@
     }, 
     "271": {
         "altitude": 7.341784477233887, 
-        "capacity": 13, 
+        "capacity": 15, 
         "description": "001142 - Tooley Street, Bermondsey", 
         "id": 271, 
         "latitude": 51.5034938, 
@@ -2449,7 +2449,7 @@
     }, 
     "272": {
         "altitude": 30.33782577514648, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "001108 - North Wharf Road, Paddington", 
         "id": 272, 
         "latitude": 51.51862243, 
@@ -2467,7 +2467,7 @@
     }, 
     "274": {
         "altitude": 17.4144115447998, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "003480 - Smith Square, Westminster", 
         "id": 274, 
         "latitude": 51.49580589, 
@@ -2476,7 +2476,7 @@
     }, 
     "275": {
         "altitude": 15.97783851623535, 
-        "capacity": 40, 
+        "capacity": 39, 
         "description": "001077 - Royal London Hospital, Whitechapel", 
         "id": 275, 
         "latitude": 51.51906446, 
@@ -2512,7 +2512,7 @@
     }, 
     "279": {
         "altitude": 36.82408142089844, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "001156 - Bedford Way, Bloomsbury", 
         "id": 279, 
         "latitude": 51.52367314, 
@@ -2521,7 +2521,7 @@
     }, 
     "280": {
         "altitude": 13.6824779510498, 
-        "capacity": 32, 
+        "capacity": 34, 
         "description": "001138 - Elizabeth Bridge, Victoria", 
         "id": 280, 
         "latitude": 51.49236962, 
@@ -2539,7 +2539,7 @@
     }, 
     "282": {
         "altitude": 34.59258270263672, 
-        "capacity": 12, 
+        "capacity": 14, 
         "description": "003496 - Winsland Street, Paddington", 
         "id": 282, 
         "latitude": 51.51678023, 
@@ -2566,7 +2566,7 @@
     }, 
     "285": {
         "altitude": 7.468737125396729, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "001214 - Kensington Olympia Station, Olympia", 
         "id": 285, 
         "latitude": 51.49815779, 
@@ -2611,7 +2611,7 @@
     }, 
     "290": {
         "altitude": 12.60250663757324, 
-        "capacity": 19, 
+        "capacity": 21, 
         "description": "001213 - Curlew Street, Shad Thames", 
         "id": 290, 
         "latitude": 51.50227992, 
@@ -2620,7 +2620,7 @@
     }, 
     "291": {
         "altitude": 10.87316036224365, 
-        "capacity": 16, 
+        "capacity": 18, 
         "description": "001196 - Vincent Square, Westminster", 
         "id": 291, 
         "latitude": 51.49398524, 
@@ -2629,7 +2629,7 @@
     }, 
     "292": {
         "altitude": 22.28346252441406, 
-        "capacity": 11, 
+        "capacity": 15, 
         "description": "001217 - Serpentine Car Park, Hyde Park", 
         "id": 292, 
         "latitude": 51.50501351, 
@@ -2647,7 +2647,7 @@
     }, 
     "294": {
         "altitude": 22.845947265625, 
-        "capacity": 23, 
+        "capacity": 27, 
         "description": "001132 - Albert Gate, Hyde Park", 
         "id": 294, 
         "latitude": 51.50295379, 
@@ -2665,7 +2665,7 @@
     }, 
     "296": {
         "altitude": 7.435048580169678, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "001168 - Kennington Lane Tesco, Vauxhall", 
         "id": 296, 
         "latitude": 51.48677988, 
@@ -2683,7 +2683,7 @@
     }, 
     "298": {
         "altitude": 33.16059112548828, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001157 - Black Lion Gate, Kensington Gardens", 
         "id": 298, 
         "latitude": 51.50990837, 
@@ -2719,7 +2719,7 @@
     }, 
     "302": {
         "altitude": 35.25168228149414, 
-        "capacity": 24, 
+        "capacity": 23, 
         "description": "003494 - Foley Street, Fitzrovia", 
         "id": 302, 
         "latitude": 51.51918144, 
@@ -2728,7 +2728,7 @@
     }, 
     "303": {
         "altitude": 50.95249176025391, 
-        "capacity": 19, 
+        "capacity": 20, 
         "description": "001130 - Grove End Road, St. John's Wood", 
         "id": 303, 
         "latitude": 51.53088935, 
@@ -2737,7 +2737,7 @@
     }, 
     "304": {
         "altitude": 36.42981338500977, 
-        "capacity": 35, 
+        "capacity": 37, 
         "description": "003495 - Wells Street, Fitzrovia", 
         "id": 304, 
         "latitude": 51.51734403, 
@@ -2746,7 +2746,7 @@
     }, 
     "305": {
         "altitude": 10.67274761199951, 
-        "capacity": 34, 
+        "capacity": 35, 
         "description": "003485 - Tyers Gate, Bermondsey", 
         "id": 305, 
         "latitude": 51.50088934, 
@@ -2755,7 +2755,7 @@
     }, 
     "306": {
         "altitude": 36.38117599487305, 
-        "capacity": 13, 
+        "capacity": 16, 
         "description": "001199 - The Tennis Courts, Regent's Park", 
         "id": 306, 
         "latitude": 51.52536703, 
@@ -2800,7 +2800,7 @@
     }, 
     "311": {
         "altitude": 11, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "001148 - Queen Mother Sports Centre, Victoria", 
         "id": 311, 
         "latitude": 51.49357351, 
@@ -2809,7 +2809,7 @@
     }, 
     "312": {
         "altitude": 8.724199295043945, 
-        "capacity": 21, 
+        "capacity": 24, 
         "description": "002637 - Bermondsey Street, Bermondsey", 
         "id": 312, 
         "latitude": 51.49785559, 
@@ -2836,7 +2836,7 @@
     }, 
     "315": {
         "altitude": 8.105566024780273, 
-        "capacity": 14, 
+        "capacity": 11, 
         "description": "001200 - Ontario Street, Elephant & Castle", 
         "id": 315, 
         "latitude": 51.49652013, 
@@ -2854,7 +2854,7 @@
     }, 
     "317": {
         "altitude": 26.2432689666748, 
-        "capacity": 26, 
+        "capacity": 24, 
         "description": "001131 - Graham Street, Angel", 
         "id": 317, 
         "latitude": 51.53266186, 
@@ -2863,7 +2863,7 @@
     }, 
     "318": {
         "altitude": 22.42918968200684, 
-        "capacity": 20, 
+        "capacity": 22, 
         "description": "001128 - New North Road 1, Hoxton", 
         "id": 318, 
         "latitude": 51.53114, 
@@ -2899,7 +2899,7 @@
     }, 
     "322": {
         "altitude": 32.74602508544922, 
-        "capacity": 30, 
+        "capacity": 28, 
         "description": "001211 - Bunhill Row, Moorgate", 
         "id": 322, 
         "latitude": 51.52085887, 
@@ -2908,7 +2908,7 @@
     }, 
     "323": {
         "altitude": 13.63682079315186, 
-        "capacity": 18, 
+        "capacity": 20, 
         "description": "001210 - Nevern Place, Earl's Court", 
         "id": 323, 
         "latitude": 51.49334336, 
@@ -2917,7 +2917,7 @@
     }, 
     "324": {
         "altitude": 32.12670135498047, 
-        "capacity": 34, 
+        "capacity": 37, 
         "description": "002633 - Palace Gardens Terrace, Notting Hill", 
         "id": 324, 
         "latitude": 51.50860544, 
@@ -2935,7 +2935,7 @@
     }, 
     "326": {
         "altitude": 30.34046173095703, 
-        "capacity": 31, 
+        "capacity": 32, 
         "description": "001207 - Tavistock Street, Covent Garden", 
         "id": 326, 
         "latitude": 51.51196803, 
@@ -2953,7 +2953,7 @@
     }, 
     "328": {
         "altitude": 30.72791290283203, 
-        "capacity": 15, 
+        "capacity": 16, 
         "description": "002589 - Pembridge Villas, Notting Hill", 
         "id": 328, 
         "latitude": 51.51108452, 
@@ -2962,7 +2962,7 @@
     }, 
     "329": {
         "altitude": 29.43269729614258, 
-        "capacity": 13, 
+        "capacity": 14, 
         "description": "001202 - Wellington Street , Strand", 
         "id": 329, 
         "latitude": 51.51175646, 
@@ -2971,7 +2971,7 @@
     }, 
     "330": {
         "altitude": 39.20684051513672, 
-        "capacity": 25, 
+        "capacity": 23, 
         "description": "001127 - Risinghill Street, Angel", 
         "id": 330, 
         "latitude": 51.5333196, 
@@ -2989,7 +2989,7 @@
     }, 
     "332": {
         "altitude": 26.60791778564453, 
-        "capacity": 23, 
+        "capacity": 20, 
         "description": "001160 - Craven Street, Strand", 
         "id": 332, 
         "latitude": 51.50810309, 
@@ -3007,7 +3007,7 @@
     }, 
     "334": {
         "altitude": 28.25987243652344, 
-        "capacity": 16, 
+        "capacity": 17, 
         "description": "001222 - Goswell Road (City Uni), Finsbury", 
         "id": 334, 
         "latitude": 51.528246, 
@@ -3016,7 +3016,7 @@
     }, 
     "335": {
         "altitude": 11.16078567504883, 
-        "capacity": 17, 
+        "capacity": 16, 
         "description": "001218 - Flood Street, Chelsea", 
         "id": 335, 
         "latitude": 51.48802358, 
@@ -3025,7 +3025,7 @@
     }, 
     "336": {
         "altitude": 11.45053577423096, 
-        "capacity": 15, 
+        "capacity": 17, 
         "description": "001219 - Lower Marsh, Waterloo", 
         "id": 336, 
         "latitude": 51.50013942, 
@@ -3043,7 +3043,7 @@
     }, 
     "338": {
         "altitude": 31.7862606048584, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "001221 - St. George Street, Mayfair", 
         "id": 338, 
         "latitude": 51.51196, 
@@ -3052,7 +3052,7 @@
     }, 
     "339": {
         "altitude": 24.82242774963379, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "001231 - Queen's Gate, Kensington Gardens", 
         "id": 339, 
         "latitude": 51.5017154373867, 
@@ -3061,7 +3061,7 @@
     }, 
     "340": {
         "altitude": 24.4804859161377, 
-        "capacity": 28, 
+        "capacity": 27, 
         "description": "001226 - Macclesfield Rd, St Lukes", 
         "id": 340, 
         "latitude": 51.529423, 
@@ -3088,7 +3088,7 @@
     }, 
     "343": {
         "altitude": 26.20533752441406, 
-        "capacity": 36, 
+        "capacity": 37, 
         "description": "001097 - Northumberland Avenue, Strand", 
         "id": 343, 
         "latitude": 51.506767, 
@@ -3106,7 +3106,7 @@
     }, 
     "345": {
         "altitude": 13.32509231567383, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "002685 - South Kensington Station, South Kensington", 
         "id": 345, 
         "latitude": 51.494412, 
@@ -3124,7 +3124,7 @@
     }, 
     "347": {
         "altitude": 36.22849273681641, 
-        "capacity": 15, 
+        "capacity": 17, 
         "description": "001229 - High Holborn , Covent Garden", 
         "id": 347, 
         "latitude": 51.51643491, 
@@ -3133,7 +3133,7 @@
     }, 
     "348": {
         "altitude": 21.4959774017334, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "002662 - Butler Place, Westminster", 
         "id": 348, 
         "latitude": 51.49782999, 
@@ -3142,7 +3142,7 @@
     }, 
     "349": {
         "altitude": 17.21497917175293, 
-        "capacity": 28, 
+        "capacity": 26, 
         "description": "002666 - Howick Place, Westminster", 
         "id": 349, 
         "latitude": 51.49675303, 
@@ -3151,7 +3151,7 @@
     }, 
     "350": {
         "altitude": 14.03181934356689, 
-        "capacity": 55, 
+        "capacity": 54, 
         "description": "002692 - Waterloo Station 2, Waterloo", 
         "id": 350, 
         "latitude": 51.50391972, 
@@ -3205,7 +3205,7 @@
     }, 
     "356": {
         "altitude": 33.53343963623047, 
-        "capacity": 15, 
+        "capacity": 16, 
         "description": "002680 - Harrowby Street, Marylebone", 
         "id": 356, 
         "latitude": 51.5173721, 
@@ -3214,7 +3214,7 @@
     }, 
     "357": {
         "altitude": 21.44980621337891, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "002681 - Harriet Street, Knightsbridge", 
         "id": 357, 
         "latitude": 51.50024195, 
@@ -3259,7 +3259,7 @@
     }, 
     "362": {
         "altitude": 14.06132221221924, 
-        "capacity": 34, 
+        "capacity": 29, 
         "description": "002696 - Waterloo Station 1, Waterloo", 
         "id": 362, 
         "latitude": 51.50402793, 
@@ -3268,7 +3268,7 @@
     }, 
     "363": {
         "altitude": 22.25037574768066, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "010632 - Kensington Town Hall, Kensington", 
         "id": 363, 
         "latitude": 51.50194596, 
@@ -3277,7 +3277,7 @@
     }, 
     "364": {
         "altitude": 8.658454895019531, 
-        "capacity": 22, 
+        "capacity": 24, 
         "description": "002683 - Millbank House, Pimlico", 
         "id": 364, 
         "latitude": 51.49188409, 
@@ -3286,7 +3286,7 @@
     }, 
     "365": {
         "altitude": 15.8941068649292, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "002648 - Waterloo Bridge, South Bank", 
         "id": 365, 
         "latitude": 51.50535447, 
@@ -3295,7 +3295,7 @@
     }, 
     "366": {
         "altitude": 16.09212493896484, 
-        "capacity": 41, 
+        "capacity": 42, 
         "description": "002677 - Natural History Museum, South Kensington", 
         "id": 366, 
         "latitude": 51.49559291, 
@@ -3313,7 +3313,7 @@
     }, 
     "368": {
         "altitude": 36.63120651245117, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "003506 - Stanhope Gate, Mayfair", 
         "id": 368, 
         "latitude": 51.50686435, 
@@ -3322,7 +3322,7 @@
     }, 
     "369": {
         "altitude": 36.49440002441406, 
-        "capacity": 13, 
+        "capacity": 11, 
         "description": "002669 - Charlotte Street, Fitzrovia", 
         "id": 369, 
         "latitude": 51.51953043, 
@@ -3340,7 +3340,7 @@
     }, 
     "371": {
         "altitude": 33, 
-        "capacity": 16, 
+        "capacity": 18, 
         "description": "002660 - Frith Street, Soho", 
         "id": 371, 
         "latitude": 51.51310333, 
@@ -3358,7 +3358,7 @@
     }, 
     "373": {
         "altitude": 34.00586700439453, 
-        "capacity": 16, 
+        "capacity": 15, 
         "description": "003504 - Moor Street, Soho", 
         "id": 373, 
         "latitude": 51.51352755, 
@@ -3367,7 +3367,7 @@
     }, 
     "374": {
         "altitude": 4.978864669799805, 
-        "capacity": 29, 
+        "capacity": 30, 
         "description": "002703 - Fire Brigade Pier, Vauxhall", 
         "id": 374, 
         "latitude": 51.49369988, 
@@ -3376,7 +3376,7 @@
     }, 
     "375": {
         "altitude": 28.72715377807617, 
-        "capacity": 13, 
+        "capacity": 12, 
         "description": "001228 - Southampton Street, Strand", 
         "id": 375, 
         "latitude": 51.51070161, 
@@ -3385,7 +3385,7 @@
     }, 
     "376": {
         "altitude": 37.29083633422852, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "010621 - Upper Grosvenor Street, Mayfair", 
         "id": 376, 
         "latitude": 51.51013066, 
@@ -3403,7 +3403,7 @@
     }, 
     "378": {
         "altitude": 32.71051025390625, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "002688 - Clifford Street, Mayfair", 
         "id": 378, 
         "latitude": 51.51066202, 
@@ -3412,7 +3412,7 @@
     }, 
     "379": {
         "altitude": 21.5721607208252, 
-        "capacity": 19, 
+        "capacity": 21, 
         "description": "001220 - Imperial College, Knightsbridge", 
         "id": 379, 
         "latitude": 51.49942855, 
@@ -3430,7 +3430,7 @@
     }, 
     "381": {
         "altitude": 41.93318939208984, 
-        "capacity": 16, 
+        "capacity": 18, 
         "description": "002698 - Aberdeen Place, St. John's Wood", 
         "id": 381, 
         "latitude": 51.524826, 
@@ -3439,7 +3439,7 @@
     }, 
     "382": {
         "altitude": 15.96633148193359, 
-        "capacity": 15, 
+        "capacity": 14, 
         "description": "002695 - Cadogan Gardens, Sloane Square", 
         "id": 382, 
         "latitude": 51.492462, 
@@ -3457,7 +3457,7 @@
     }, 
     "384": {
         "altitude": 26.11443138122559, 
-        "capacity": 14, 
+        "capacity": 16, 
         "description": "001227 - Devonshire Terrace, Bayswater", 
         "id": 384, 
         "latitude": 51.51348, 
@@ -3466,7 +3466,7 @@
     }, 
     "385": {
         "altitude": 27.40187072753906, 
-        "capacity": 28, 
+        "capacity": 30, 
         "description": "010631 - Holland Park, Kensington", 
         "id": 385, 
         "latitude": 51.502319, 
@@ -3493,7 +3493,7 @@
     }, 
     "388": {
         "altitude": 21, 
-        "capacity": 22, 
+        "capacity": 24, 
         "description": "002701 - Columbia Road, Weavers", 
         "id": 388, 
         "latitude": 51.528187, 
@@ -3520,7 +3520,7 @@
     }, 
     "391": {
         "altitude": 22.79364013671875, 
-        "capacity": 14, 
+        "capacity": 12, 
         "description": "001110 - Palace Gate, Kensington Gardens", 
         "id": 391, 
         "latitude": 51.50204238, 
@@ -3538,7 +3538,7 @@
     }, 
     "393": {
         "altitude": 30.00058746337891, 
-        "capacity": 22, 
+        "capacity": 24, 
         "description": "010633 - Speakers' Corner 2, Hyde Park", 
         "id": 393, 
         "latitude": 51.512303, 
@@ -3547,7 +3547,7 @@
     }, 
     "394": {
         "altitude": 28.18045806884766, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "000977 - Speakers' Corner 1, Hyde Park", 
         "id": 394, 
         "latitude": 51.51222, 
@@ -3601,7 +3601,7 @@
     }, 
     "400": {
         "altitude": 6.327548503875732, 
-        "capacity": 13, 
+        "capacity": 14, 
         "description": "022160 - Chelsea Bridge, Pimlico", 
         "id": 400, 
         "latitude": 51.485821, 
@@ -3610,7 +3610,7 @@
     }, 
     "401": {
         "altitude": 10.75341033935547, 
-        "capacity": 36, 
+        "capacity": 37, 
         "description": "022162 - Southwark Station 1, Southwark", 
         "id": 401, 
         "latitude": 51.504043, 
@@ -3637,7 +3637,7 @@
     }, 
     "404": {
         "altitude": 13.38787841796875, 
-        "capacity": 28, 
+        "capacity": 29, 
         "description": "022159 - Ebury Bridge, Pimlico", 
         "id": 404, 
         "latitude": 51.490491, 
@@ -3655,7 +3655,7 @@
     }, 
     "406": {
         "altitude": 11.01127910614014, 
-        "capacity": 17, 
+        "capacity": 16, 
         "description": "022161 - Vincent Street, Pimlico", 
         "id": 406, 
         "latitude": 51.493072, 
@@ -3664,7 +3664,7 @@
     }, 
     "407": {
         "altitude": 31.30320739746094, 
-        "capacity": 43, 
+        "capacity": 42, 
         "description": "022180 - Cheapside, Bank", 
         "id": 407, 
         "latitude": 51.51397065, 
@@ -3673,7 +3673,7 @@
     }, 
     "408": {
         "altitude": 21.74292755126953, 
-        "capacity": 18, 
+        "capacity": 15, 
         "description": "022179 - Exhibition Road, South Kensington", 
         "id": 408, 
         "latitude": 51.499917, 
@@ -3718,7 +3718,7 @@
     }, 
     "413": {
         "altitude": 8.016572952270508, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "022170 - Kennington Station, Kennington", 
         "id": 413, 
         "latitude": 51.488852, 
@@ -3727,7 +3727,7 @@
     }, 
     "414": {
         "altitude": 34.34217834472656, 
-        "capacity": 34, 
+        "capacity": 35, 
         "description": "022171 - Red Lion Street, Holborn", 
         "id": 414, 
         "latitude": 51.51824, 
@@ -3736,7 +3736,7 @@
     }, 
     "415": {
         "altitude": 6.091988086700439, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "200056 - Vauxhall Walk, Vauxhall", 
         "id": 415, 
         "latitude": 51.488124, 
@@ -3754,7 +3754,7 @@
     }, 
     "417": {
         "altitude": 11.11184215545654, 
-        "capacity": 33, 
+        "capacity": 32, 
         "description": "200032 - Kennington Oval, Oval", 
         "id": 417, 
         "latitude": 51.483145, 
@@ -3763,7 +3763,7 @@
     }, 
     "418": {
         "altitude": 8, 
-        "capacity": 24, 
+        "capacity": 22, 
         "description": "200039 - Sail Street, Vauxhall", 
         "id": 418, 
         "latitude": 51.495656, 
@@ -3772,7 +3772,7 @@
     }, 
     "419": {
         "altitude": 12.39696311950684, 
-        "capacity": 24, 
+        "capacity": 23, 
         "description": "200035 - Walmer Road, Notting Hill", 
         "id": 419, 
         "latitude": 51.510101, 
@@ -3790,7 +3790,7 @@
     }, 
     "421": {
         "altitude": 16.81411743164062, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "200047 - Bethnal Green Gardens, Bethnal Green", 
         "id": 421, 
         "latitude": 51.52568, 
@@ -3799,7 +3799,7 @@
     }, 
     "422": {
         "altitude": 14.08888149261475, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "200003 - Cheshire Street, Bethnal Green", 
         "id": 422, 
         "latitude": 51.52388, 
@@ -3808,7 +3808,7 @@
     }, 
     "423": {
         "altitude": 17.27063369750977, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "200042 - York Hall, Bethnal Green", 
         "id": 423, 
         "latitude": 51.528936, 
@@ -3835,7 +3835,7 @@
     }, 
     "426": {
         "altitude": 14.7030086517334, 
-        "capacity": 34, 
+        "capacity": 35, 
         "description": "200020 - Shadwell Station, Shadwell", 
         "id": 426, 
         "latitude": 51.511088, 
@@ -3844,7 +3844,7 @@
     }, 
     "427": {
         "altitude": 13.32011604309082, 
-        "capacity": 28, 
+        "capacity": 27, 
         "description": "200002 - Jubilee Street, Stepney", 
         "id": 427, 
         "latitude": 51.515975, 
@@ -3862,7 +3862,7 @@
     }, 
     "429": {
         "altitude": 6.816346168518066, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "200049 - St Katharines Way, Tower", 
         "id": 429, 
         "latitude": 51.505697, 
@@ -3871,7 +3871,7 @@
     }, 
     "430": {
         "altitude": 7.210097789764404, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "200045 - Garnet Street, Shadwell", 
         "id": 430, 
         "latitude": 51.508447, 
@@ -3880,7 +3880,7 @@
     }, 
     "431": {
         "altitude": 5.727288246154785, 
-        "capacity": 17, 
+        "capacity": 20, 
         "description": "200046 - Napier Avenue, Millwall", 
         "id": 431, 
         "latitude": 51.487679, 
@@ -3889,7 +3889,7 @@
     }, 
     "432": {
         "altitude": 8.731120109558105, 
-        "capacity": 16, 
+        "capacity": 17, 
         "description": "200031 - East Ferry Road, Cubitt Town", 
         "id": 432, 
         "latitude": 51.49447, 
@@ -3907,7 +3907,7 @@
     }, 
     "434": {
         "altitude": 31.23877716064453, 
-        "capacity": 27, 
+        "capacity": 29, 
         "description": "200016 - Castlehaven Road, Camden Town", 
         "id": 434, 
         "latitude": 51.542138, 
@@ -3916,7 +3916,7 @@
     }, 
     "435": {
         "altitude": 6.955559730529785, 
-        "capacity": 28, 
+        "capacity": 26, 
         "description": "200034 - Wapping Lane, Wapping", 
         "id": 435, 
         "latitude": 51.504749, 
@@ -3925,7 +3925,7 @@
     }, 
     "436": {
         "altitude": 16.54424285888672, 
-        "capacity": 17, 
+        "capacity": 15, 
         "description": "200014 - Gun Makers Lane, Old Ford", 
         "id": 436, 
         "latitude": 51.535179, 
@@ -3934,7 +3934,7 @@
     }, 
     "437": {
         "altitude": 10, 
-        "capacity": 33, 
+        "capacity": 30, 
         "description": "200123 - Burdett Road, Mile End", 
         "id": 437, 
         "latitude": 51.516196, 
@@ -3943,7 +3943,7 @@
     }, 
     "438": {
         "altitude": 13, 
-        "capacity": 26, 
+        "capacity": 23, 
         "description": "200013 - Aston Street, Stepney", 
         "id": 438, 
         "latitude": 51.516, 
@@ -3970,7 +3970,7 @@
     }, 
     "441": {
         "altitude": 12.99344158172607, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "200082 - St. Mary and St. Michael Church, Stepney", 
         "id": 441, 
         "latitude": 51.51417, 
@@ -3979,7 +3979,7 @@
     }, 
     "442": {
         "altitude": 20.87175750732422, 
-        "capacity": 25, 
+        "capacity": 28, 
         "description": "200152 - Pitfield Street (North),Hoxton", 
         "id": 442, 
         "latitude": 51.53558, 
@@ -3997,7 +3997,7 @@
     }, 
     "444": {
         "altitude": 12.40919208526611, 
-        "capacity": 16, 
+        "capacity": 17, 
         "description": "200168 - Southern Grove, Bow", 
         "id": 444, 
         "latitude": 51.523538, 
@@ -4015,7 +4015,7 @@
     }, 
     "446": {
         "altitude": 5.940701484680176, 
-        "capacity": 43, 
+        "capacity": 44, 
         "description": "022178 - Lindfield Street, Poplar", 
         "id": 446, 
         "latitude": 51.513757, 
@@ -4033,7 +4033,7 @@
     }, 
     "448": {
         "altitude": 14.00080108642578, 
-        "capacity": 19, 
+        "capacity": 17, 
         "description": "200006 - Hewison Street, Old Ford", 
         "id": 448, 
         "latitude": 51.533283, 
@@ -4060,7 +4060,7 @@
     }, 
     "451": {
         "altitude": 5.287590980529785, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "200155 - Castalia Square, Cubitt Town", 
         "id": 451, 
         "latitude": 51.498125, 
@@ -4078,7 +4078,7 @@
     }, 
     "453": {
         "altitude": 2.794388055801392, 
-        "capacity": 27, 
+        "capacity": 29, 
         "description": "200009 - Stebondale Street, Cubitt Town", 
         "id": 453, 
         "latitude": 51.489096, 
@@ -4087,7 +4087,7 @@
     }, 
     "454": {
         "altitude": 6.163973808288574, 
-        "capacity": 36, 
+        "capacity": 34, 
         "description": "200018 - Spindrift Avenue, Millwall", 
         "id": 454, 
         "latitude": 51.49109, 
@@ -4096,7 +4096,7 @@
     }, 
     "455": {
         "altitude": 12.00603580474854, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "200012 - Stepney Green Station, Stepney", 
         "id": 455, 
         "latitude": 51.521889, 
@@ -4105,7 +4105,7 @@
     }, 
     "456": {
         "altitude": 19.85407638549805, 
-        "capacity": 18, 
+        "capacity": 19, 
         "description": "200156 - Pott Street, Bethnal Green", 
         "id": 456, 
         "latitude": 51.527152, 
@@ -4123,7 +4123,7 @@
     }, 
     "458": {
         "altitude": 5.43364143371582, 
-        "capacity": 33, 
+        "capacity": 35, 
         "description": "200022 - Saunders Ness Road, Cubitt Town", 
         "id": 458, 
         "latitude": 51.487129, 
@@ -4141,7 +4141,7 @@
     }, 
     "460": {
         "altitude": 13.79422092437744, 
-        "capacity": 33, 
+        "capacity": 31, 
         "description": "022166 - Albert Gardens, Stepney", 
         "id": 460, 
         "latitude": 51.51328, 
@@ -4150,7 +4150,7 @@
     }, 
     "461": {
         "altitude": 10.62755870819092, 
-        "capacity": 24, 
+        "capacity": 23, 
         "description": "022172 - Bromley High Street, Bromley", 
         "id": 461, 
         "latitude": 51.528828, 
@@ -4195,7 +4195,7 @@
     }, 
     "466": {
         "altitude": 13.69515705108643, 
-        "capacity": 33, 
+        "capacity": 34, 
         "description": "022177 - Christian Street, Whitechapel", 
         "id": 466, 
         "latitude": 51.513074, 
@@ -4213,7 +4213,7 @@
     }, 
     "468": {
         "altitude": 16.52899742126465, 
-        "capacity": 45, 
+        "capacity": 44, 
         "description": "200249 - Queen Marys, Mile End", 
         "id": 468, 
         "latitude": 51.522507, 
@@ -4222,7 +4222,7 @@
     }, 
     "469": {
         "altitude": 15.99963283538818, 
-        "capacity": 63, 
+        "capacity": 61, 
         "description": "200230 - The Green Bridge, Mile End", 
         "id": 469, 
         "latitude": 51.524677, 
@@ -4240,7 +4240,7 @@
     }, 
     "471": {
         "altitude": 14.23821830749512, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "200252 - Bow Church Station, Bow", 
         "id": 471, 
         "latitude": 51.528169, 
@@ -4249,7 +4249,7 @@
     }, 
     "472": {
         "altitude": 12.89476299285889, 
-        "capacity": 39, 
+        "capacity": 36, 
         "description": "200255 - Devons Road, Bow", 
         "id": 472, 
         "latitude": 51.52512, 
@@ -4258,7 +4258,7 @@
     }, 
     "473": {
         "altitude": 14.6349458694458, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "200242 - Coborn Street, Mile End", 
         "id": 473, 
         "latitude": 51.526535, 
@@ -4276,7 +4276,7 @@
     }, 
     "475": {
         "altitude": 10.36780071258545, 
-        "capacity": 36, 
+        "capacity": 35, 
         "description": "200011 - Furze Green, Bow", 
         "id": 475, 
         "latitude": 51.519265, 
@@ -4312,7 +4312,7 @@
     }, 
     "479": {
         "altitude": 14.73874759674072, 
-        "capacity": 34, 
+        "capacity": 36, 
         "description": "200250 - Cleveland Way, Bethnal Green", 
         "id": 479, 
         "latitude": 51.520893, 
@@ -4366,7 +4366,7 @@
     }, 
     "485": {
         "altitude": 27.53727912902832, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "200253 - Fore Street, Guildhall", 
         "id": 485, 
         "latitude": 51.517842, 
@@ -4375,7 +4375,7 @@
     }, 
     "486": {
         "altitude": 6.120841503143311, 
-        "capacity": 38, 
+        "capacity": 39, 
         "description": "200238 - Westferry DLR, Limehouse", 
         "id": 486, 
         "latitude": 51.509303, 
@@ -4384,7 +4384,7 @@
     }, 
     "487": {
         "altitude": 12.42714214324951, 
-        "capacity": 31, 
+        "capacity": 29, 
         "description": "200256 - Sutton Street, Shadwell", 
         "id": 487, 
         "latitude": 51.511066, 
@@ -4402,7 +4402,7 @@
     }, 
     "489": {
         "altitude": 15.03036022186279, 
-        "capacity": 51, 
+        "capacity": 50, 
         "description": "200162 - Watney Market, Stepney", 
         "id": 489, 
         "latitude": 51.5142228, 
@@ -4411,7 +4411,7 @@
     }, 
     "490": {
         "altitude": 37.63548278808594, 
-        "capacity": 17, 
+        "capacity": 16, 
         "description": "200008 - Portman Square, Marylebone", 
         "id": 490, 
         "latitude": 51.516204, 
@@ -4447,7 +4447,7 @@
     }, 
     "494": {
         "altitude": 13.41528987884521, 
-        "capacity": 29, 
+        "capacity": 30, 
         "description": "200041 - Antill Road, Mile End", 
         "id": 494, 
         "latitude": 51.528224, 
@@ -4456,7 +4456,7 @@
     }, 
     "495": {
         "altitude": 6.59337329864502, 
-        "capacity": 32, 
+        "capacity": 33, 
         "description": "200254 - Teviot Street, Poplar", 
         "id": 495, 
         "latitude": 51.518811, 
@@ -4465,7 +4465,7 @@
     }, 
     "496": {
         "altitude": 16.35152053833008, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "200234 - Bancroft Road, Bethnal Green", 
         "id": 496, 
         "latitude": 51.526041, 
@@ -4474,7 +4474,7 @@
     }, 
     "497": {
         "altitude": 16.06461524963379, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "200030 - Driffield Road, Old Ford", 
         "id": 497, 
         "latitude": 51.534137, 
@@ -4492,7 +4492,7 @@
     }, 
     "499": {
         "altitude": 6, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "200160 - Langdon Park, Poplar", 
         "id": 499, 
         "latitude": 51.51549, 
@@ -4501,7 +4501,7 @@
     }, 
     "500": {
         "altitude": 31.18977546691895, 
-        "capacity": 38, 
+        "capacity": 37, 
         "description": "200017 - Lancaster Gate , Bayswater", 
         "id": 500, 
         "latitude": 51.511654, 
@@ -4510,7 +4510,7 @@
     }, 
     "501": {
         "altitude": 7, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "200153 - Churchill Place, Canary Wharf", 
         "id": 501, 
         "latitude": 51.504714, 
@@ -4528,7 +4528,7 @@
     }, 
     "503": {
         "altitude": 9.44768238067627, 
-        "capacity": 20, 
+        "capacity": 19, 
         "description": "200154 - Hansard Mews, Shepherds Bush", 
         "id": 503, 
         "latitude": 51.503802, 
@@ -4537,7 +4537,7 @@
     }, 
     "504": {
         "altitude": 28.55290603637695, 
-        "capacity": 15, 
+        "capacity": 16, 
         "description": "200088 - Clarges Street, West End", 
         "id": 504, 
         "latitude": 51.507326, 
@@ -4546,7 +4546,7 @@
     }, 
     "505": {
         "altitude": 11.2212028503418, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "200010 - Manresa Road, Chelsea", 
         "id": 505, 
         "latitude": 51.486892, 
@@ -4564,7 +4564,7 @@
     }, 
     "507": {
         "altitude": 15.47655010223389, 
-        "capacity": 20, 
+        "capacity": 19, 
         "description": "200167 - Twig Folly Bridge, Mile End", 
         "id": 507, 
         "latitude": 51.530326, 
@@ -4573,7 +4573,7 @@
     }, 
     "508": {
         "altitude": 6, 
-        "capacity": 62, 
+        "capacity": 61, 
         "description": "200163 - Jubilee Plaza, Canary Wharf", 
         "id": 508, 
         "latitude": 51.50357, 
@@ -4591,7 +4591,7 @@
     }, 
     "510": {
         "altitude": 18, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "200159 - Goldsmiths Row, Haggerston", 
         "id": 510, 
         "latitude": 51.531864, 
@@ -4600,7 +4600,7 @@
     }, 
     "511": {
         "altitude": 37.30854415893555, 
-        "capacity": 22, 
+        "capacity": 24, 
         "description": "200145 - Gloucester Avenue, Camden Town", 
         "id": 511, 
         "latitude": 51.537349, 
@@ -4645,7 +4645,7 @@
     }, 
     "516": {
         "altitude": 35.05052947998047, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "200134 - Albany Street, Regent's Park", 
         "id": 516, 
         "latitude": 51.528302, 
@@ -4654,7 +4654,7 @@
     }, 
     "517": {
         "altitude": 30.50794219970703, 
-        "capacity": 26, 
+        "capacity": 28, 
         "description": "200096 - Green Park Station, West End", 
         "id": 517, 
         "latitude": 51.506613, 
@@ -4663,7 +4663,7 @@
     }, 
     "518": {
         "altitude": 12, 
-        "capacity": 33, 
+        "capacity": 30, 
         "description": "200147 - Salmon Lane, Limehouse", 
         "id": 518, 
         "latitude": 51.514115, 
@@ -4699,7 +4699,7 @@
     }, 
     "522": {
         "altitude": 30.67795372009277, 
-        "capacity": 19, 
+        "capacity": 21, 
         "description": "200044 - New Fetter Lane, Holborn", 
         "id": 522, 
         "latitude": 51.517428, 
@@ -4708,7 +4708,7 @@
     }, 
     "523": {
         "altitude": 10.37514877319336, 
-        "capacity": 50, 
+        "capacity": 51, 
         "description": "200127 - East India DLR, Blackwall", 
         "id": 523, 
         "latitude": 51.509474, 
@@ -4726,7 +4726,7 @@
     }, 
     "525": {
         "altitude": 4.558506488800049, 
-        "capacity": 44, 
+        "capacity": 45, 
         "description": "200132 - Gaywood  Street, Elephant & Castle", 
         "id": 525, 
         "latitude": 51.49605, 
@@ -4735,7 +4735,7 @@
     }, 
     "526": {
         "altitude": 14.84651374816895, 
-        "capacity": 23, 
+        "capacity": 21, 
         "description": "200102 - Harford Street, Mile End", 
         "id": 526, 
         "latitude": 51.521564, 
@@ -4744,7 +4744,7 @@
     }, 
     "527": {
         "altitude": 7.142531871795654, 
-        "capacity": 39, 
+        "capacity": 38, 
         "description": "200066 - Montgomery Square, Canary Wharf", 
         "id": 527, 
         "latitude": 51.503447, 
@@ -4753,7 +4753,7 @@
     }, 
     "528": {
         "altitude": 14.8796329498291, 
-        "capacity": 27, 
+        "capacity": 26, 
         "description": "200149 - Watney Street, Shadwell", 
         "id": 528, 
         "latitude": 51.511542, 
@@ -4762,7 +4762,7 @@
     }, 
     "529": {
         "altitude": 17, 
-        "capacity": 22, 
+        "capacity": 19, 
         "description": "200064 - Regent's Row , Haggerston", 
         "id": 529, 
         "latitude": 51.535678, 
@@ -4780,7 +4780,7 @@
     }, 
     "531": {
         "altitude": 8.964194297790527, 
-        "capacity": 55, 
+        "capacity": 54, 
         "description": "200245 - Westfield Eastern Access Road, Shepherd's Bush", 
         "id": 531, 
         "latitude": 51.509424, 
@@ -4806,17 +4806,17 @@
         "longitude": -0.0985
     }, 
     "534": {
-        "altitude": 19.27374076843262, 
-        "capacity": 21, 
-        "description": "200048 - John Islip Street, Westminster", 
+        "altitude": 19.60348892211914, 
+        "capacity": 24, 
+        "description": "200048 - Page Street, Westminster", 
         "id": 534, 
-        "latitude": 51.4937, 
-        "location_key": "51.4937,-0.12692", 
-        "longitude": -0.12692
+        "latitude": 51.493978, 
+        "location_key": "51.493978,-0.127554", 
+        "longitude": -0.127554
     }, 
     "535": {
         "altitude": 14.68152904510498, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "200111 - Abbotsbury Road, Holland Park", 
         "id": 535, 
         "latitude": 51.501391, 
@@ -4852,7 +4852,7 @@
     }, 
     "539": {
         "altitude": 4.360404491424561, 
-        "capacity": 26, 
+        "capacity": 25, 
         "description": "200232 - Preston's Road, Cubitt Town", 
         "id": 539, 
         "latitude": 51.499286, 
@@ -4861,7 +4861,7 @@
     }, 
     "540": {
         "altitude": 15.39471435546875, 
-        "capacity": 39, 
+        "capacity": 40, 
         "description": "200068 - Somerset House, Strand", 
         "id": 540, 
         "latitude": 51.509943, 
@@ -4879,7 +4879,7 @@
     }, 
     "542": {
         "altitude": 13.28640842437744, 
-        "capacity": 41, 
+        "capacity": 42, 
         "description": "200141 - Westfield Ariel Way, White City", 
         "id": 542, 
         "latitude": 51.509158, 
@@ -4888,7 +4888,7 @@
     }, 
     "543": {
         "altitude": 27.14061546325684, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "200110 - Bishop's Bridge Road West, Bayswater", 
         "id": 543, 
         "latitude": 51.51616, 
@@ -4897,7 +4897,7 @@
     }, 
     "544": {
         "altitude": 21.13705253601074, 
-        "capacity": 22, 
+        "capacity": 20, 
         "description": "200248 - Pitfield Street Central, Hoxton", 
         "id": 544, 
         "latitude": 51.53213, 
@@ -4915,7 +4915,7 @@
     }, 
     "546": {
         "altitude": 9.175860404968262, 
-        "capacity": 29, 
+        "capacity": 27, 
         "description": "200061 - Westfield Southern Terrace ,Shepherd's Bush", 
         "id": 546, 
         "latitude": 51.506256, 
@@ -4924,7 +4924,7 @@
     }, 
     "547": {
         "altitude": 31.1532039642334, 
-        "capacity": 33, 
+        "capacity": 36, 
         "description": "200026 - Greenland Road, Camden Town", 
         "id": 547, 
         "latitude": 51.539099, 
@@ -4933,7 +4933,7 @@
     }, 
     "548": {
         "altitude": 13.55033397674561, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "200001 - Limerston Street, Chelsea", 
         "id": 548, 
         "latitude": 51.485587, 
@@ -4942,7 +4942,7 @@
     }, 
     "549": {
         "altitude": 22.35017967224121, 
-        "capacity": 45, 
+        "capacity": 44, 
         "description": "200246 - Eagle Wharf Road, Hoxton", 
         "id": 549, 
         "latitude": 51.53356, 
@@ -4951,7 +4951,7 @@
     }, 
     "550": {
         "altitude": 3, 
-        "capacity": 23, 
+        "capacity": 22, 
         "description": "200109 - Alpha Grove, Millwall", 
         "id": 550, 
         "latitude": 51.497304, 
@@ -4969,7 +4969,7 @@
     }, 
     "552": {
         "altitude": 19.48328018188477, 
-        "capacity": 32, 
+        "capacity": 28, 
         "description": "200244 - Hollybush Gardens, Bethnal Green", 
         "id": 552, 
         "latitude": 51.527607, 
@@ -4978,7 +4978,7 @@
     }, 
     "553": {
         "altitude": 26.36870193481445, 
-        "capacity": 34, 
+        "capacity": 33, 
         "description": "200128 - Queen Street 2, Bank", 
         "id": 553, 
         "latitude": 51.511246, 
@@ -4987,7 +4987,7 @@
     }, 
     "554": {
         "altitude": 5.724664688110352, 
-        "capacity": 34, 
+        "capacity": 35, 
         "description": "200084 - Doddington Grove, Kennington", 
         "id": 554, 
         "latitude": 51.48692917, 
@@ -4996,7 +4996,7 @@
     }, 
     "555": {
         "altitude": 9.250545501708984, 
-        "capacity": 15, 
+        "capacity": 20, 
         "description": "200231 - Abingdon Green, Great College Street", 
         "id": 555, 
         "latitude": 51.497622, 
@@ -5005,7 +5005,7 @@
     }, 
     "556": {
         "altitude": 31.6170654296875, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "200086 - Ilchester Gardens, Bayswater", 
         "id": 556, 
         "latitude": 51.51244, 
@@ -5023,7 +5023,7 @@
     }, 
     "558": {
         "altitude": 24.91899299621582, 
-        "capacity": 22, 
+        "capacity": 20, 
         "description": "200101 - Monument Street, Monument", 
         "id": 558, 
         "latitude": 51.50964, 
@@ -5032,7 +5032,7 @@
     }, 
     "559": {
         "altitude": 22.59532737731934, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "200071 - Hoxton Street, Hoxton", 
         "id": 559, 
         "latitude": 51.52959, 
@@ -5059,7 +5059,7 @@
     }, 
     "562": {
         "altitude": 9.263273239135742, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "200227 - Westfield Library Corner, Shepherd's Bush", 
         "id": 562, 
         "latitude": 51.506093, 
@@ -5086,7 +5086,7 @@
     }, 
     "565": {
         "altitude": 35.19208145141602, 
-        "capacity": 32, 
+        "capacity": 30, 
         "description": "200226 - Kingsway Southbound, Strand", 
         "id": 565, 
         "latitude": 51.513875, 
@@ -5095,7 +5095,7 @@
     }, 
     "566": {
         "altitude": 13.39272499084473, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "200142 - Hammersmith Road, Hammersmith", 
         "id": 566, 
         "latitude": 51.493267, 
@@ -5113,7 +5113,7 @@
     }, 
     "568": {
         "altitude": 9, 
-        "capacity": 25, 
+        "capacity": 27, 
         "description": "200229 - Fulham Park Road, Fulham", 
         "id": 568, 
         "latitude": 51.473471, 
@@ -5122,7 +5122,7 @@
     }, 
     "569": {
         "altitude": 8.700301170349121, 
-        "capacity": 37, 
+        "capacity": 38, 
         "description": "200166 - Southerton Road, Hammersmith", 
         "id": 569, 
         "latitude": 51.494499, 
@@ -5140,7 +5140,7 @@
     }, 
     "571": {
         "altitude": 13.88357162475586, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "200133 - South Lambeth Road, Vauxhall", 
         "id": 571, 
         "latitude": 51.481747, 
@@ -5158,7 +5158,7 @@
     }, 
     "573": {
         "altitude": 8.891427040100098, 
-        "capacity": 44, 
+        "capacity": 45, 
         "description": "200211 - Union Grove, Wandsworth Road", 
         "id": 573, 
         "latitude": 51.472993, 
@@ -5167,7 +5167,7 @@
     }, 
     "574": {
         "altitude": 10.88955307006836, 
-        "capacity": 43, 
+        "capacity": 42, 
         "description": "200137 - Caldwell Street, Stockwell", 
         "id": 574, 
         "latitude": 51.477839, 
@@ -5185,7 +5185,7 @@
     }, 
     "576": {
         "altitude": 36.19789505004883, 
-        "capacity": 28, 
+        "capacity": 29, 
         "description": "200198 - Seymour Place, Marylebone", 
         "id": 576, 
         "latitude": 51.520331, 
@@ -5230,7 +5230,7 @@
     }, 
     "581": {
         "altitude": 10.66527557373047, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "200222 - Danvers Street, West Chelsea", 
         "id": 581, 
         "latitude": 51.48256792, 
@@ -5239,7 +5239,7 @@
     }, 
     "582": {
         "altitude": 16.37411689758301, 
-        "capacity": 19, 
+        "capacity": 18, 
         "description": "200067 - Princedale Road , Holland Park", 
         "id": 582, 
         "latitude": 51.50646524, 
@@ -5266,7 +5266,7 @@
     }, 
     "585": {
         "altitude": 5.376222610473633, 
-        "capacity": 39, 
+        "capacity": 37, 
         "description": "200025 - Bradmead, Nine Elms", 
         "id": 585, 
         "latitude": 51.47817208, 
@@ -5275,7 +5275,7 @@
     }, 
     "586": {
         "altitude": 8.022713661193848, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "200029 - Finlay Street, Fulham", 
         "id": 586, 
         "latitude": 51.4768851, 
@@ -5329,7 +5329,7 @@
     }, 
     "592": {
         "altitude": 8.330294609069824, 
-        "capacity": 32, 
+        "capacity": 31, 
         "description": "200091 - Wandsworth Town Station, Wandsworth", 
         "id": 592, 
         "latitude": 51.46086446, 
@@ -5338,7 +5338,7 @@
     }, 
     "593": {
         "altitude": 20.59781455993652, 
-        "capacity": 29, 
+        "capacity": 27, 
         "description": "200172 - Lansdowne Road, Ladbroke Grove", 
         "id": 593, 
         "latitude": 51.50748124, 
@@ -5374,7 +5374,7 @@
     }, 
     "597": {
         "altitude": 6.427594184875488, 
-        "capacity": 24, 
+        "capacity": 21, 
         "description": "300008 - Normand Park, Fulham", 
         "id": 597, 
         "latitude": 51.48438657, 
@@ -5383,7 +5383,7 @@
     }, 
     "598": {
         "altitude": 5.378340244293213, 
-        "capacity": 19, 
+        "capacity": 20, 
         "description": "200007 - Holden Street, Battersea", 
         "id": 598, 
         "latitude": 51.4687905, 
@@ -5392,7 +5392,7 @@
     }, 
     "599": {
         "altitude": 11.24470806121826, 
-        "capacity": 26, 
+        "capacity": 24, 
         "description": "200062 - William Morris Way, Sands End", 
         "id": 599, 
         "latitude": 51.46881971, 
@@ -5410,7 +5410,7 @@
     }, 
     "601": {
         "altitude": 11.42634105682373, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "200194 - Clarence Walk, Stockwell", 
         "id": 601, 
         "latitude": 51.47073264, 
@@ -5419,7 +5419,7 @@
     }, 
     "602": {
         "altitude": 4.531440258026123, 
-        "capacity": 26, 
+        "capacity": 25, 
         "description": "200183 - Battersea Park Road, Nine Elms", 
         "id": 602, 
         "latitude": 51.4795017, 
@@ -5428,7 +5428,7 @@
     }, 
     "603": {
         "altitude": 5, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "200176 - Sheepcote Lane, Battersea", 
         "id": 603, 
         "latitude": 51.47053858, 
@@ -5437,7 +5437,7 @@
     }, 
     "604": {
         "altitude": 6.048948764801025, 
-        "capacity": 32, 
+        "capacity": 31, 
         "description": "200116 - Vereker Road, West Kensington", 
         "id": 604, 
         "latitude": 51.48959104, 
@@ -5464,7 +5464,7 @@
     }, 
     "607": {
         "altitude": 6, 
-        "capacity": 28, 
+        "capacity": 27, 
         "description": "200180 - South Park, Sands End", 
         "id": 607, 
         "latitude": 51.46706414, 
@@ -5500,7 +5500,7 @@
     }, 
     "611": {
         "altitude": 4.703789710998535, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "200179 - Silverthorne Road, Battersea", 
         "id": 611, 
         "latitude": 51.47286577, 
@@ -5518,7 +5518,7 @@
     }, 
     "613": {
         "altitude": 6, 
-        "capacity": 35, 
+        "capacity": 36, 
         "description": "200192 - Fawcett Close, Battersea", 
         "id": 613, 
         "latitude": 51.46916161, 
@@ -5527,7 +5527,7 @@
     }, 
     "614": {
         "altitude": 23.79944038391113, 
-        "capacity": 21, 
+        "capacity": 22, 
         "description": "300026 - All Saints' Road, Portobello", 
         "id": 614, 
         "latitude": 51.5190427, 
@@ -5536,7 +5536,7 @@
     }, 
     "615": {
         "altitude": 8.005250930786133, 
-        "capacity": 35, 
+        "capacity": 32, 
         "description": "200182 - Rainville Road, Hammersmith", 
         "id": 615, 
         "latitude": 51.48373225, 
@@ -5545,7 +5545,7 @@
     }, 
     "616": {
         "altitude": 7.332525253295898, 
-        "capacity": 20, 
+        "capacity": 21, 
         "description": "200200 - Great Suffolk Street, The Borough", 
         "id": 616, 
         "latitude": 51.50173215, 
@@ -5554,7 +5554,7 @@
     }, 
     "617": {
         "altitude": 15.95259761810303, 
-        "capacity": 16, 
+        "capacity": 14, 
         "description": "200178 - Buckingham Gate, Westminster", 
         "id": 617, 
         "latitude": 51.49886563, 
@@ -5563,7 +5563,7 @@
     }, 
     "618": {
         "altitude": 8, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "200181 - Richmond Way, Shepherd's Bush", 
         "id": 618, 
         "latitude": 51.50035306, 
@@ -5572,7 +5572,7 @@
     }, 
     "619": {
         "altitude": 7, 
-        "capacity": 30, 
+        "capacity": 29, 
         "description": "200171 - Peterborough Road, Sands End", 
         "id": 619, 
         "latitude": 51.46904022, 
@@ -5599,7 +5599,7 @@
     }, 
     "622": {
         "altitude": 8.756172180175781, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "300030 - Thorndike Close, West Chelsea", 
         "id": 622, 
         "latitude": 51.48089844, 
@@ -5608,7 +5608,7 @@
     }, 
     "623": {
         "altitude": 9.308354377746582, 
-        "capacity": 29, 
+        "capacity": 28, 
         "description": "300022 - Evesham Street, Avondale", 
         "id": 623, 
         "latitude": 51.51148696, 
@@ -5617,7 +5617,7 @@
     }, 
     "624": {
         "altitude": 5.088184356689453, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "200196 - Simpson Street, Battersea", 
         "id": 624, 
         "latitude": 51.47084722, 
@@ -5635,7 +5635,7 @@
     }, 
     "626": {
         "altitude": 7.789391040802002, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "200221 - Crabtree Lane, Fulham", 
         "id": 626, 
         "latitude": 51.48294452, 
@@ -5671,7 +5671,7 @@
     }, 
     "630": {
         "altitude": 9.577861785888672, 
-        "capacity": 54, 
+        "capacity": 56, 
         "description": "200212 - Grant Road West, Clapham Junction", 
         "id": 630, 
         "latitude": 51.46437067, 
@@ -5689,7 +5689,7 @@
     }, 
     "632": {
         "altitude": 24.0802173614502, 
-        "capacity": 37, 
+        "capacity": 36, 
         "description": "300023 - All Saints Church, Portobello", 
         "id": 632, 
         "latitude": 51.51632095, 
@@ -5716,7 +5716,7 @@
     }, 
     "635": {
         "altitude": 7.392138481140137, 
-        "capacity": 23, 
+        "capacity": 24, 
         "description": "300013 - Austin Road, Battersea", 
         "id": 635, 
         "latitude": 51.474376, 
@@ -5725,7 +5725,7 @@
     }, 
     "636": {
         "altitude": 6.132596492767334, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "200113 - Smugglers Way, Wandsworth", 
         "id": 636, 
         "latitude": 51.46108367, 
@@ -5734,7 +5734,7 @@
     }, 
     "637": {
         "altitude": 12.15243721008301, 
-        "capacity": 35, 
+        "capacity": 38, 
         "description": "300004 - Olympia Way, Olympia", 
         "id": 637, 
         "latitude": 51.49610093, 
@@ -5743,7 +5743,7 @@
     }, 
     "638": {
         "altitude": 8.537444114685059, 
-        "capacity": 34, 
+        "capacity": 32, 
         "description": "200209 - Shepherd's Bush Road North, Shepherd's Bush", 
         "id": 638, 
         "latitude": 51.5015946, 
@@ -5752,7 +5752,7 @@
     }, 
     "639": {
         "altitude": 8.16064739227295, 
-        "capacity": 25, 
+        "capacity": 26, 
         "description": "300037 - Ravenscourt Park Station, Hammersmith", 
         "id": 639, 
         "latitude": 51.49422354, 
@@ -5761,7 +5761,7 @@
     }, 
     "640": {
         "altitude": 9.215404510498047, 
-        "capacity": 37, 
+        "capacity": 38, 
         "description": "300036 - Teversham Lane, Stockwell", 
         "id": 640, 
         "latitude": 51.47614939, 
@@ -5779,7 +5779,7 @@
     }, 
     "642": {
         "altitude": 7.80784273147583, 
-        "capacity": 56, 
+        "capacity": 54, 
         "description": "300052 - Parsons Green Station, Parsons Green", 
         "id": 642, 
         "latitude": 51.475089, 
@@ -5797,7 +5797,7 @@
     }, 
     "644": {
         "altitude": 7.706592082977295, 
-        "capacity": 36, 
+        "capacity": 35, 
         "description": "300051 - Hibbert Street, Battersea", 
         "id": 644, 
         "latitude": 51.46517078, 
@@ -5824,7 +5824,7 @@
     }, 
     "647": {
         "altitude": 7.709926605224609, 
-        "capacity": 34, 
+        "capacity": 35, 
         "description": "200207 - Hartington Road, Stockwell", 
         "id": 647, 
         "latitude": 51.47787084, 
@@ -5833,7 +5833,7 @@
     }, 
     "648": {
         "altitude": 3.50136661529541, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "200023 - Heath Road, Battersea", 
         "id": 648, 
         "latitude": 51.46866929, 
@@ -5851,7 +5851,7 @@
     }, 
     "650": {
         "altitude": 8.45134449005127, 
-        "capacity": 26, 
+        "capacity": 24, 
         "description": "200114 - Orbel Street, Battersea", 
         "id": 650, 
         "latitude": 51.47453545, 
@@ -5860,7 +5860,7 @@
     }, 
     "651": {
         "altitude": 5.048763275146484, 
-        "capacity": 25, 
+        "capacity": 27, 
         "description": "200210 - Westbridge Road, Battersea", 
         "id": 651, 
         "latitude": 51.47768469, 
@@ -5869,7 +5869,7 @@
     }, 
     "652": {
         "altitude": 6, 
-        "capacity": 43, 
+        "capacity": 45, 
         "description": "200043 - Bishop's Avenue, Fulham", 
         "id": 652, 
         "latitude": 51.47303687, 
@@ -5878,7 +5878,7 @@
     }, 
     "653": {
         "altitude": 6.992553234100342, 
-        "capacity": 46, 
+        "capacity": 42, 
         "description": "200059 - Crisp Road, Hammersmith", 
         "id": 653, 
         "latitude": 51.48810829, 
@@ -5887,7 +5887,7 @@
     }, 
     "654": {
         "altitude": 15.99880313873291, 
-        "capacity": 26, 
+        "capacity": 28, 
         "description": "200119 - Dorothy Road, Clapham Junction", 
         "id": 654, 
         "latitude": 51.46506424, 
@@ -5905,7 +5905,7 @@
     }, 
     "656": {
         "altitude": 8.429341316223145, 
-        "capacity": 28, 
+        "capacity": 30, 
         "description": "200219 - Osiers Road, Wandsworth", 
         "id": 656, 
         "latitude": 51.46067005, 
@@ -5932,7 +5932,7 @@
     }, 
     "659": {
         "altitude": 10.55737400054932, 
-        "capacity": 28, 
+        "capacity": 27, 
         "description": "200204 - Northfields, Wandsworth", 
         "id": 659, 
         "latitude": 51.46095151, 
@@ -5959,7 +5959,7 @@
     }, 
     "662": {
         "altitude": 7.524450302124023, 
-        "capacity": 22, 
+        "capacity": 24, 
         "description": "200184 - Erin Close, Walham Green", 
         "id": 662, 
         "latitude": 51.47946386, 
@@ -5977,7 +5977,7 @@
     }, 
     "664": {
         "altitude": 12.00048065185547, 
-        "capacity": 17, 
+        "capacity": 13, 
         "description": "300019 - Felsham Road, Putney", 
         "id": 664, 
         "latitude": 51.464786, 
@@ -5995,7 +5995,7 @@
     }, 
     "666": {
         "altitude": 37.44614410400391, 
-        "capacity": 17, 
+        "capacity": 20, 
         "description": "300031 - Islington Green, Angel", 
         "id": 666, 
         "latitude": 51.53638435, 
@@ -6049,7 +6049,7 @@
     }, 
     "672": {
         "altitude": 7.809316158294678, 
-        "capacity": 27, 
+        "capacity": 30, 
         "description": "200077 - Vicarage Crescent, Battersea", 
         "id": 672, 
         "latitude": 51.47287627, 
@@ -6058,7 +6058,7 @@
     }, 
     "673": {
         "altitude": 17, 
-        "capacity": 24, 
+        "capacity": 21, 
         "description": "200213 - Durant Street, Bethnal Green", 
         "id": 673, 
         "latitude": 51.52868155, 
@@ -6067,7 +6067,7 @@
     }, 
     "674": {
         "altitude": 32.03858184814453, 
-        "capacity": 24, 
+        "capacity": 25, 
         "description": "200094 - St. Bride Street, Holborn", 
         "id": 674, 
         "latitude": 51.51505991, 
@@ -6085,7 +6085,7 @@
     }, 
     "676": {
         "altitude": 20.72299766540527, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "300042 - Upper Richmond Road, East Putney", 
         "id": 676, 
         "latitude": 51.45971528, 
@@ -6103,7 +6103,7 @@
     }, 
     "678": {
         "altitude": 9.659120559692383, 
-        "capacity": 32, 
+        "capacity": 31, 
         "description": "200197 - Barons Court Station, West Kensington", 
         "id": 678, 
         "latitude": 51.49021762, 
@@ -6112,7 +6112,7 @@
     }, 
     "679": {
         "altitude": 14.59738826751709, 
-        "capacity": 33, 
+        "capacity": 30, 
         "description": "200217 - Disraeli Road, Putney", 
         "id": 679, 
         "latitude": 51.46161068, 
@@ -6121,7 +6121,7 @@
     }, 
     "680": {
         "altitude": 12.91854858398438, 
-        "capacity": 21, 
+        "capacity": 23, 
         "description": "200205 - Montserrat Road , Putney", 
         "id": 680, 
         "latitude": 51.46321128, 
@@ -6130,7 +6130,7 @@
     }, 
     "681": {
         "altitude": 8.876991271972656, 
-        "capacity": 17, 
+        "capacity": 19, 
         "description": "300045 - Albert Bridge Road, Battersea Park", 
         "id": 681, 
         "latitude": 51.47439218, 
@@ -6139,7 +6139,7 @@
     }, 
     "682": {
         "altitude": 6.927130699157715, 
-        "capacity": 30, 
+        "capacity": 31, 
         "description": "300028 - Everington Street, Fulham", 
         "id": 682, 
         "latitude": 51.48335692, 
@@ -6148,7 +6148,7 @@
     }, 
     "683": {
         "altitude": 9.626914978027344, 
-        "capacity": 22, 
+        "capacity": 21, 
         "description": "300056 - Mile End Stadium, Mile End", 
         "id": 683, 
         "latitude": 51.51854104, 
@@ -6202,7 +6202,7 @@
     }, 
     "689": {
         "altitude": 19.19368362426758, 
-        "capacity": 44, 
+        "capacity": 45, 
         "description": "300040 - Ada Street, Hackney Central", 
         "id": 689, 
         "latitude": 51.53571683, 
@@ -6211,7 +6211,7 @@
     }, 
     "690": {
         "altitude": 19.28102684020996, 
-        "capacity": 33, 
+        "capacity": 34, 
         "description": "300011 - Victoria Park Road, Hackney Central", 
         "id": 690, 
         "latitude": 51.53642464, 
@@ -6247,7 +6247,7 @@
     }, 
     "694": {
         "altitude": 5.771239280700684, 
-        "capacity": 47, 
+        "capacity": 43, 
         "description": "300053 - Stephendale Road, Sands End", 
         "id": 694, 
         "latitude": 51.46822047, 
@@ -6274,7 +6274,7 @@
     }, 
     "697": {
         "altitude": 5.023561954498291, 
-        "capacity": 18, 
+        "capacity": 21, 
         "description": "300047 - Alfreda Street, Battersea Park", 
         "id": 697, 
         "latitude": 51.47505096, 
@@ -6292,7 +6292,7 @@
     }, 
     "699": {
         "altitude": 11.74017143249512, 
-        "capacity": 28, 
+        "capacity": 29, 
         "description": "300044 - Putney Bridge Road, East Putney", 
         "id": 699, 
         "latitude": 51.46199911, 
@@ -6302,7 +6302,7 @@
     "700": {
         "altitude": 8.63925838470459, 
         "capacity": 22, 
-        "description": "300043 - St. Peter\u00e2\u0080\u0099s Terrace, Fulham", 
+        "description": "300043 - St. Peter's Terrace, Fulham", 
         "id": 700, 
         "latitude": 51.47893931, 
         "location_key": "51.47893931,-0.208485293", 
@@ -6310,7 +6310,7 @@
     }, 
     "701": {
         "altitude": 9.75650405883789, 
-        "capacity": 18, 
+        "capacity": 17, 
         "description": "300082 - Bridge Avenue, Hammersmith", 
         "id": 701, 
         "latitude": 51.49208492, 
@@ -6328,7 +6328,7 @@
     }, 
     "703": {
         "altitude": 16.44896125793457, 
-        "capacity": 19, 
+        "capacity": 20, 
         "description": "300083 - Duke Street Hill, London Bridge", 
         "id": 703, 
         "latitude": 51.50630441, 
@@ -6346,7 +6346,7 @@
     }, 
     "705": {
         "altitude": 16.75575065612793, 
-        "capacity": 30, 
+        "capacity": 31, 
         "description": "300094 - Plough Terrace, Clapham Junction", 
         "id": 705, 
         "latitude": 51.46230566, 
@@ -6355,7 +6355,7 @@
     }, 
     "706": {
         "altitude": 8.438735961914062, 
-        "capacity": 35, 
+        "capacity": 34, 
         "description": "200120 - Grant Road East, Clapham Junction", 
         "id": 706, 
         "latitude": 51.46489445, 
@@ -6373,7 +6373,7 @@
     }, 
     "708": {
         "altitude": 7.853066921234131, 
-        "capacity": 26, 
+        "capacity": 25, 
         "description": "300086 - Fulham Broadway, Walham Green", 
         "id": 708, 
         "latitude": 51.47993289, 
@@ -6382,7 +6382,7 @@
     }, 
     "709": {
         "altitude": 6.364639282226562, 
-        "capacity": 35, 
+        "capacity": 37, 
         "description": "300087 - Imperial Road, Sands End", 
         "id": 709, 
         "latitude": 51.47514228, 
@@ -6391,7 +6391,7 @@
     }, 
     "710": {
         "altitude": 8.042927742004395, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "300091 - Hortensia Road, West Brompton", 
         "id": 710, 
         "latitude": 51.48176572, 
@@ -6418,7 +6418,7 @@
     }, 
     "713": {
         "altitude": 17, 
-        "capacity": 20, 
+        "capacity": 22, 
         "description": "300090 - Blenheim Crescent, Ladbroke Grove", 
         "id": 713, 
         "latitude": 51.51510818, 
@@ -6436,7 +6436,7 @@
     }, 
     "715": {
         "altitude": 5.993155479431152, 
-        "capacity": 29, 
+        "capacity": 30, 
         "description": "300077 - Ingrave Street, Battersea", 
         "id": 715, 
         "latitude": 51.46745485, 
@@ -6472,7 +6472,7 @@
     }, 
     "719": {
         "altitude": 20, 
-        "capacity": 25, 
+        "capacity": 24, 
         "description": "300092 - Hertford Road, De Beauvoir Town", 
         "id": 719, 
         "latitude": 51.53727795, 
@@ -6481,7 +6481,7 @@
     }, 
     "720": {
         "altitude": 20.58749198913574, 
-        "capacity": 37, 
+        "capacity": 35, 
         "description": "300081 - Haggerston Road, Haggerston", 
         "id": 720, 
         "latitude": 51.53932857, 
@@ -6490,7 +6490,7 @@
     }, 
     "721": {
         "altitude": 5.950686931610107, 
-        "capacity": 26, 
+        "capacity": 27, 
         "description": "300080 - Culvert Road, Battersea", 
         "id": 721, 
         "latitude": 51.4710956, 
@@ -6499,7 +6499,7 @@
     }, 
     "722": {
         "altitude": 36.29527282714844, 
-        "capacity": 24, 
+        "capacity": 23, 
         "description": "300074 - Newton Street, Covent Garden", 
         "id": 722, 
         "latitude": 51.51612862, 
@@ -6517,7 +6517,7 @@
     }, 
     "724": {
         "altitude": 8.488333702087402, 
-        "capacity": 27, 
+        "capacity": 28, 
         "description": "300006 - Hammersmith Town Hall, Hammersmith", 
         "id": 724, 
         "latitude": 51.49263658, 
@@ -6535,7 +6535,7 @@
     }, 
     "726": {
         "altitude": 11.3566780090332, 
-        "capacity": 21, 
+        "capacity": 23, 
         "description": "300058 - The Vale, Chelsea", 
         "id": 726, 
         "latitude": 51.48512191, 
@@ -6580,7 +6580,7 @@
     }, 
     "731": {
         "altitude": 35.05148696899414, 
-        "capacity": 17, 
+        "capacity": 18, 
         "description": "300071 - Rossmore Road, Marylebone", 
         "id": 731, 
         "latitude": 51.52526975, 
@@ -6589,7 +6589,7 @@
     }, 
     "732": {
         "altitude": 6.130481719970703, 
-        "capacity": 27, 
+        "capacity": 25, 
         "description": "300068 - Humbolt Road, Fulham", 
         "id": 732, 
         "latitude": 51.48321729, 
@@ -6598,7 +6598,7 @@
     }, 
     "733": {
         "altitude": 17.70258331298828, 
-        "capacity": 18, 
+        "capacity": 21, 
         "description": "200202 - Storey's Gate, Westminster", 
         "id": 733, 
         "latitude": 51.50070305, 
@@ -6607,7 +6607,7 @@
     }, 
     "734": {
         "altitude": 10.30786991119385, 
-        "capacity": 47, 
+        "capacity": 46, 
         "description": "300027 - Mile End Park Leisure Centre, Mile End", 
         "id": 734, 
         "latitude": 51.52059714, 
@@ -6616,7 +6616,7 @@
     }, 
     "735": {
         "altitude": 12.13594150543213, 
-        "capacity": 33, 
+        "capacity": 32, 
         "description": "200185 - St. John's Road, Clapham Junction", 
         "id": 735, 
         "latitude": 51.46239255, 
@@ -6652,7 +6652,7 @@
     }, 
     "739": {
         "altitude": 5, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "300001 - Sandilands Road, Walham Green", 
         "id": 739, 
         "latitude": 51.473611, 
@@ -6670,7 +6670,7 @@
     }, 
     "741": {
         "altitude": 10.70461463928223, 
-        "capacity": 21, 
+        "capacity": 20, 
         "description": "300007 - Rifle Place, Avondale", 
         "id": 741, 
         "latitude": 51.509224, 
@@ -6697,7 +6697,7 @@
     }, 
     "744": {
         "altitude": 8.968594551086426, 
-        "capacity": 31, 
+        "capacity": 32, 
         "description": "300101 - Little Brook Green, Brook Green", 
         "id": 744, 
         "latitude": 51.496664, 
